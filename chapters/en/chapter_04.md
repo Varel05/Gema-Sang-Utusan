@@ -159,9 +159,9 @@ The stench of ozone and dead ash—the bitter vapor of the void he remembered al
 
 Astride the foremost horse, a grizzled officer with a crooked gorget and hollow, haggard eyes—Captain Garrett—struggled to hold upright a young guardsman who slumped lifelessly against the pommel. The wounded youth groaned in ragged, breathless fits, his head lolling limply, while his torn surcoat seeped a thin plume of freezing white vapor. From the youth's pale, cyanotic lips poured wild, feverish muttering—the raving of a mortal soul being dragged down into a nightmare of soundless hollows.
 
-"Mira!" Bran barked, spotting his daughter and the two young men by the roadside. "Open the healing ward! We bear a dying man!"
+"Mira!" Bran barked, spotting the young healer standing alert beside his son and Azariel by the roadside. "Open your grandfather's healing ward! We bear a dying man!"
 
-Mira’s instincts flared without hesitation. Grasping the leather strap of her satchel, she cried out, "Father! I have clean bandages and tinctures! Bring him in!"
+Mira’s instincts flared without hesitation. Grasping the leather strap of her satchel, she cried out, "Uncle Bran! I have clean bandages and tinctures! Bring him in!"
 
 She pivoted on her heel, sprinting up the path toward her grandfather’s homestead. Kael bounded forward to assist his father in steadying the staggering horse, while Azariel followed closely behind them.
 

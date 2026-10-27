@@ -156,9 +156,9 @@ Bau ozon dan abu mati — aroma tajam kehampaan yang teramat ia kenali dari mala
 
 Di atas kuda terdepan, sesosok perwira berwajah tirus dengan cambang kelabu dan baju zirah leher yang miring — Kapten Garrett — berusaha menahan tubuh seorang prajurit muda yang melorot terkulai di pelana di sampingnya. Prajurit muda itu mengerang parau tanpa henti, kepalanya terkulai lunglai, dan pakaian zirahnya yang koyak dibalut jubah wol yang mengeluarkan kepulan uap putih tipis yang beku. Dari bibir pemuda yang membiru pucat itu, meluncur racauan mengigau liar — suara seorang manusia yang jiwanya tengah ditarik ke dalam teror mimpi buruk yang gelap gulita.
 
-"Mira!" seru Bran saat melihat putrinya dan kedua pemuda itu berdiri siaga di tepi jalan. "Buka bilik perawatan! Kami membawa orang terluka yang sekarat!"
+"Mira!" seru Bran saat melihat gadis tabib itu berdiri siaga di tepi jalan bersama putranya dan Azariel. "Buka bilik perawatan kakekmu! Kami membawa orang terluka yang sekarat!"
 
-Naluri medis Mira menyentak kesadarannya seketika. Tanpa ragu sedetik pun, gadis itu mencengkeram erat tali tas ramuan di pundaknya. "Ayah! Aku membawa perban dan tingtur! Cepat bawa masuk!"
+Naluri medis Mira menyentak kesadarannya seketika. Tanpa ragu sedetik pun, gadis itu mencengkeram erat tali tas ramuan di pundaknya. "Paman Bran! Aku membawa perban dan tingtur! Cepat bawa masuk!"
 
 Mira memutar tubuhnya dan berlari kencang membelah jalan setapak menuju kediaman sang kakek. Kael menghambur menyusul di samping ayahnya untuk membantu memapah kuda, sementara Azariel melangkah cepat di belakang mereka.
 
