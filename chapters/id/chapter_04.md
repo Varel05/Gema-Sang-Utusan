@@ -138,59 +138,49 @@ Bukan longsor yang menutup jalan perbatasan. Kuda pos yang melarikan diri dan le
 
 Azariel menatap ke luar jendela perpustakaan, menembus ladang gandum emas menuju siluet pegunungan utara yang menjulang biru kelabu di kejauhan.
 
-Sore itu, setelah pamit dari perpustakaan dan berpisah dari Kael dan Mira di persimpangan jalan desa, Azariel tidak langsung kembali ke rumah Tetua.
+Ketika Azariel, Kael, dan Mira berpamitan kepada Elora dan melangkah keluar menuruni tangga kayu perpustakaan, matahari sore telah condong ke barat, menumpahkan semburat tembaga ke atas jalanan desa yang berdebu.
 
-Sendirian, pemuda berambut perak itu melangkah ke batas terluar ladang gandum di utara desa. Di sana, di bawah langit senja yang mulai memerah tembaga, angin bertiup kencang membawa uap dingin yang ganjil.
+Namun keheningan sore yang damai itu seketika koyak.
 
-Azariel berlutut di atas tanah berbatu. Jemarinya menyentuh permukaan tanah cadas. Di bawah telapak tangannya, tanah terasa membeku sedingin es, dan bau ozon samar berhembus dari arah celah bukit batu.
+Dari arah kelokan jalan utama di utara desa, debum ritmis kuku-kuku besi yang dipacu tanpa ampun menggemuruh keras, memecah kesunyian lembah. Suara teriakan panik dan derap tapal kuda melaju liar menuju permukiman.
 
-Namun sebelum Azariel sempat bangkit, getaran lain merayap di tanah cadas itu.
+Kael seketika menghentikan langkahnya di bawah naungan pohon ek, tangannya secara naluriah mencengkeram erat gagang pedang di pinggangnya. "Derap kuda perang? Dari pos jaga perbatasan?"
 
-Bukan getaran mistis, melainkan debum ritmis kuku-kuku besi yang dipacu tanpa ampun. Suara derap kuda tergesa-gesa memecah kesunyian lembah dari arah kelokan jalan setapak perbatasan.
+Bukan satu, melainkan lima ekor kuda perang menerobos jalan tanah desa dengan kecepatan penuh, dikawal oleh Bran yang berlari memimpin di samping mereka dengan kapak buru terhunus. Kuda-kuda itu bermandikan peluh putih, mulutnya berbusa kelelahan, dan napasnya memburu parau. Di atas pelananya duduk para penunggang berzirah besi yang penyok, compang-camping, dan berlumur jelaga hitam pekat dengan lambang singa bersayap Kadipaten yang tercakar dalam.
 
-Azariel segera menarik tudung lenannya lebih dalam, bergerak gesit menyelinap ke balik rimbunnya semak liar di tepi pematang. Matanya yang tajam menembus remang senja.
+Namun yang membuat darah Azariel seketika membeku bukanlah derap kudanya, melainkan hawa asing yang menguar pekat di udara.
 
-Lima ekor kuda perang berlari sempoyongan menerobos celah bukit. Kuda-kuda itu bermandikan peluh putih, mulutnya berbusa kelelahan, dan napasnya memburu parau. Di atas pelananya duduk para penunggang berzirah besi yang penyok dan berlumur jelaga hitam pekat. Jubah mereka tercabik-cabik, dan di lambung pelindung dada mereka terpatri lambang resmi Kadipaten — seekor singa bersayap yang tercakar dalam.
+Bau ozon dan abu mati — aroma tajam kehampaan yang teramat ia kenali dari malam di Tebing Pinus tujuh tahun silam — menyergap indera penciumannya dengan kejam. Udara hangat pedesaan mendadak terasa kering dan dingin laksana musim gugur yang mati.
 
-Rombongan prajurit itu tidak berhenti di jalan raya, melainkan langsung berbelok menuju pos jaga kayu di perbatasan luar desa.
+"Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
-Di sana, Bran dan dua pemuda regu patroli perbatasan telah berdiri siaga dengan tombak dan busur terhunus. Namun begitu melihat sosok penunggang terdepan, ketegangan di wajah Bran seketika runtuh menjadi keterkejutan yang nyata.
+Di atas kuda terdepan, sesosok perwira berwajah tirus dengan cambang kelabu dan baju zirah leher yang miring — Kapten Garrett — berusaha menahan tubuh seorang prajurit muda yang melorot terkulai di pelana di sampingnya. Prajurit muda itu mengerang parau tanpa henti, kepalanya terkulai lunglai, dan pakaian zirahnya yang koyak dibalut jubah wol yang mengeluarkan kepulan uap putih tipis yang beku. Dari bibir pemuda yang membiru pucat itu, meluncur racauan mengigau liar — suara seorang manusia yang jiwanya tengah ditarik ke dalam teror mimpi buruk yang gelap gulita.
 
-"Tahan senjata!" seru Bran keras kepada anak buahnya, lalu melangkah cepat menyongsong rombongan itu. "Garrett?!"
+"Mira!" seru Bran saat melihat putrinya dan kedua pemuda itu berdiri siaga di tepi jalan. "Buka bilik perawatan! Kami membawa orang terluka yang sekarat!"
 
-Pria di atas kuda terdepan melorot turun dari pelana. Baju zirah lehernya miring, dan wajahnya yang dihiasi cambang kelabu tampak pucat pasi di balik lumuran debu dan darah kering. Kapten Garrett — rekan lama Bran dari masa dinas militer di Garda Utama Kadipaten — nyaris tumbang ke tanah andai Bran tidak sigap menahan bahunya.
+Naluri medis Mira menyentak kesadarannya seketika. Tanpa ragu sedetik pun, gadis itu mencengkeram erat tali tas ramuan di pundaknya. "Ayah! Aku membawa perban dan tingtur! Cepat bawa masuk!"
 
-"Demi langit... Bran..." bisik Garrett dengan napas terputus-putus. Suara prajurit veteran itu bergetar oleh teror yang belum padam. "Beri anak buahku air... dan tempat berlindung malam ini. Kuda kami tak sanggup lagi melangkah."
+Mira memutar tubuhnya dan berlari kencang membelah jalan setapak menuju kediaman sang kakek. Kael menghambur menyusul di samping ayahnya untuk membantu memapah kuda, sementara Azariel melangkah cepat di belakang mereka.
 
-"Apa yang terjadi di celah utara, Garrett?" tanya Bran dengan nada rendah yang sarat ketegasan. Matanya melirik sisa prajurit di belakang Garrett yang duduk terpaku di pelana dengan tatapan kosong trauma. "Kuda pos tiba tanpa penunggang tiga hari lalu. Apakah ada pemberontakan perampok gunung?"
+Dada Azariel berdenyut perih. Bara tatanan di rongga dadanya bergolak liar saat jaraknya kian merapat dengan prajurit yang terluka itu. Getaran dingin yang sama dengan urat kayu ara tua kini terasa berdenyut nyata, merayap dari raga prajurit fana tersebut.
 
-"Bukan perampok... bukan pula longsor," bisik Garrett seraya mencengkeram lengan zirah kulit Bran begitu erat hingga jemarinya memutih. "Kami dikirim menyusuri ngarai setelah karavan garam lenyap. Apa yang kami temukan di sana... Bran, itu bukan pembantaian manusia."
+Rombongan itu menerobos undakan teras kediaman Tetua Desa. Pintu kayu jati disibak lebar. Bran dan Garrett mengangkat tubuh prajurit muda itu dari atas pelana, membopongnya menembus lorong, dan membaringkannya ke atas dipan jerami di bilik belakang.
 
-Dari balik bayang-bayang semak belukar beberapa tombak dari pos jaga, Azariel menahan napasnya. Pendengarannya menangkap setiap patah kata dengan kejelasan yang menusuk.
+Tetua Desa telah berdiri di sana dengan lentera minyak terangkat tinggi. Udara di dalam bilik seketika anjlok dingin, menusuk tulang melebihi es musim dingin dan menyebarkan aroma abu yang pekat.
 
-"Kereta-kereta dagang remuk menjadi abu beku," lanjut Garrett, matanya nanar menatap ke arah celah gunung di belakangnya. "Mayat para pengawal dan pedagang... mereka mengering seperti kayu lapuk, tanpa setetes pun darah tersisa di urat nadi mereka. Lalu kabut ungu merayap turun dari tebing cadas."
+"Gunting mantel kulitnya, Mira!" perintah Tetua dengan suara yang bergetar gentar saat melihat uap beku yang merayap di dada sang prajurit.
 
-Garrett menelan ludah dengan susah payah, suaranya tercekat. "Makhluk-makhluk itu... mereka berjalan tegak seperti manusia, tetapi tubuh mereka berongga dan kepala mereka terbakar api ungu gelap yang membekukan udara. Tombak anak buahku menembus dada mereka tanpa suara, tanpa rasa sakit! Kami kehilangan empat prajurit terbaik hanya untuk meloloskan diri dari jurang itu."
+Dengan jemari yang cekatan namun tegang, Mira mencabut gunting medisnya, memotong lapisan kulit tebal dan kain linen yang basah oleh peluh di lambung prajurit itu.
 
-Otot-otot rahang Bran mengeras. Matanya menatap lurus ke arah kegelapan celah utara dengan kegelisahan mendalam yang belum pernah dilihat oleh siapa pun di desa ini.
+Dan ketika kain penutup itu tersingkap, seluruh napas di dalam bilik tercekat kaku.
 
-"Mereka merayap turun ke selatan, Bran," tambah Garrett dengan nada memperingatkan yang getir. "Kadipaten sedang panik. Sang Adipati telah memerintahkan mobilisasi penuh dan akan mengirim garnisun besar untuk menyapu dan menutup seluruh jalur perbatasan ini dalam beberapa pekan. Lembah damai ini berada tepat di jalur sapuan itu. Bersiaplah."
+Di lambung kiri sang prajurit, tidak ada darah merah segar yang mengalir. Yang menganga di sana adalah sebuah luka berongga mengerikan — dagingnya mengering rapuh berwarna kelabu bagai abu mati, persis seperti rongga retakan tubuh *The Husk*. Kulit prajurit itu membara oleh demam tinggi dan bermandikan keringat panas, namun dari celah luka abu itu, merayap sulur-sulur urat dingin berwarna ungu gelap yang menyebar laksana akar beracun menuju rongga dadanya. Prajurit itu terus menggelepar lemah, giginya bergemeletuk meracaukan desau kehampaan dan kabut jurang utara.
 
-Bran terdiam beberapa jenak, menimbang bobot bencana yang kini berada di ambang pintunya. Perlahan, ia mengangguk muram. "Masuklah ke barak dalam, Garrett. Istirahatkan anak buahmu. Kita bicarakan ini bersama Tetua Desa malam ini."
+"Demi langit..." bisik Garrett dengan bibir pucat bergetar, matanya nanar menatap tubuh anak buahnya. "Luka ini... luka ini sama persis seperti abu jurang yang membantai karavan garam..."
 
-Pintu gerbang pos jaga berderit menutup saat rombongan prajurit itu dituntun masuk.
+Di ambang pintu bilik yang temaram, Azariel berdiri mematung. Manik matanya berpendar dalam cahaya biru redup yang sunyi di balik kerudung lenannya.
 
-Di luar pembatas, malam telah jatuh sepenuhnya menyelimuti lembah. Angin dingin dari utara berhembus kian kencang, membawa aroma ozon dan abu mati yang teramat akrab di indera Azariel.
-
-Azariel melangkah keluar dari persembunyiannya. Di bawah kerudung lenannya, matanya berpendar dalam cahaya biru redup yang sunyi.
-
-Laporan Garrett mengonfirmasi apa yang telah ia rasakan di urat kayu ara tua dan di tanah cadas perbatasan: *The Husks* tengah bergerak mendekat, dipandu oleh rasa lapar purba akan esensi Jantung Aethel yang bersemayam di dalam dadanya. Dan jika tentara Kadipaten datang menyisir lembah untuk memburu monster-monster itu, rahasia keberadaannya — serta keselamatan seluruh warga desa yang tak berdosa — hanya tinggal menghitung hari sebelum musnah.
-
-Ia tidak langsung bergerak.
-
-Pandangannya melayang kembali ke arah lembah — ke arah kehangatan temaram yang berdenyut dari jendela-jendela rumah di pemukiman bawah. Di suatu tempat di sana, seorang putra pemburu sedang berdebat dengan ibunya tentang apakah ia sudah cukup dewasa untuk tidak dimanjakan. Di suatu tempat di sana, tas ramuan sedang dikemas ulang untuk pagi esok. Tujuh tahun telah mengajarinya apa artinya menjadi bagian dari sesuatu yang fana dan kecil dan sepenuhnya layak dilindungi. Ia tidak tahu bahwa manusia bisa tersimpan di dalam dadamu sampai mereka sudah ada di sana.
+Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion* — racun pembusukan tatanan yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
 
 Waktu kedamaian tujuh tahun telah usai.
-
-Azariel membalikkan badannya, melangkah cepat menembus kegelapan menuju rumah panggung Tetua Desa. Malam ini juga, sebuah percakapan yang menentukan nasib lembah harus dimulai.
 

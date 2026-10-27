@@ -60,9 +60,10 @@ aliases:
 |   `01`    | **Bara di Tepi Rimba**          | Mira / Kael (~12–13 th)    | Dongeng malam Tetua; ajakan Kael ke Tebing Pinus; serangan The Husk; doa kepasrahan dijawab Jantung Aethel; pasang badan Azariel; kata pertama *"Mira"*; evakuasi obor; penamaan Azariel. | **Draft Selesai** |
 |   `02`    | **Cangkang di Balik Kabut**     | Kael & Bran                | Rapat darurat alun-alun desa; kesaksian Kael dibela Bran; perdebatan dengan Vane; Tetua menyingkap hakikat The Husk dan mengukuhkan regu patroli perbatasan.                              | **Draft Selesai** |
 |   `03`    | **Napas Pertama di Tanah Fana** | Azariel                    | Disorientasi pasca-mimpi buruk kosmis pembersihan langit; asuhan medis Mira; kehangatan celoteh Kael; rutinitas latihan tempur Bran; ikatan persaudaraan beranda.                         | **Draft Selesai** |
-|   `04`    | **Di Bawah Naungan Ara Tua**    | Azariel / Kael (~18–19 th) | Tujuh musim berlalu; piknik di bawah pohon ara raksasa; kunjungan Azariel ke Elora di perpustakaan; kabar jalur dagang perbatasan yang terputus akibat teror The Husk.                    | **Draft Selesai** |
-|   `05+`   | *Fase Pengembaraan*             | Trio Pengelana             | Ekspedisi melintasi benua menyerap pecahan Jantung Aethel (mengacu ke [[shards_tracker\|Shards Tracker]]).                                                                                |     *Rencana*     |
-| `Klimaks` | **Bara di Balik Abu Fana**      | Azariel, Kael, & Mira      | Penyatuan utuh Jantung Aethel; konfrontasi dengan Malaikat Agung; Pemurnian Kedua; transformasi Vivarium.                                                                                 |     *Rencana*     |
+| `04` | **Di Bawah Naungan Ara Tua** | Azariel (~18–19 th) | Tujuh musim berlalu; piknik di bawah pohon ara raksasa; kunjungan ke perpustakaan; derap panik kedatangan Garrett membawa prajurit sekarat berongga abu ke rumah Tetua. | **Draft Selesai** |
+| `05` | **Bara yang Melarutkan Abu** | Azariel | Krisis medis bilik perawatan; kegagalan herba fana; mukjizat Pemurnian Pertama oleh Azariel; sumpah & permohonan tulus Garrett; penyerahan pedang Bran & medali segel; fajar keberangkatan trio. | **Draft Selesai** |
+| `06+` | *Fase Pengembaraan* | Trio Pengelana | Ekspedisi melintasi benua menyerap pecahan Jantung Aethel (mengacu ke [[shards_tracker\|Shards Tracker]]). | *Rencana* |
+| `Klimaks` | **Bara di Balik Abu Fana** | Azariel, Kael, & Mira | Penyatuan utuh Jantung Aethel; konfrontasi dengan Malaikat Agung; Pemurnian Kedua; transformasi Vivarium. | *Rencana* |
 
 ---
 ## Referensi Terkait

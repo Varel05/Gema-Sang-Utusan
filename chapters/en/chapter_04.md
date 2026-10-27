@@ -141,58 +141,48 @@ It was no rockslide that had barred the road. The panicked courier horse and the
 
 Azariel looked through the archive window, past the golden wheat toward the ragged, grey-blue silhouette of the northern peaks looming in the distance.
 
----
+When Azariel, Kael, and Mira bade Elora farewell and stepped down the timber staircase of the village archive, the late afternoon sun leaned low toward the west, casting long ribbons of tarnished copper across the dusty village lane.
 
-That evening, after taking leave of the library and parting ways with Kael and Mira at the village crossroad, Azariel did not return directly to the Elder’s house.
+Yet the tranquil stillness of the valley afternoon was abruptly torn asunder.
 
-Alone, the silver-haired youth walked to the northernmost edge of the wheat fields. There, beneath a dusk sky smoldering like tarnished copper, the wind gusted fiercely, carrying an unnatural, freezing vapor.
+From the northern bend of the highroad, the frantic, thunderous clatter of iron hooves beaten without mercy came roaring down the incline, shattering the valley's silence. Shouts of panic and the desperate drumming of galloping mounts surged straight toward the settlement.
 
-Azariel knelt upon the stony ground. His bare fingers pressed against the bedrock. Beneath his palm, the earth felt cold as glacial ice, and the faint stench of ozone and spent ash drifted down from the mountain pass.
+Kael halted beneath the boughs of an ancient oak, his hand instinctively snapping to the hilt of the forged broadsword at his hip. "Warhorses? From the northern border post?"
 
-Before Azariel could rise, another vibration traveled through the stone.
+Not one, but five battered warhorses burst into the village lane at full gallop, escorted by Bran running hard at their flank with his hunting axe bared. The mounts were lathered in white foam, their breaths wheezing in hoarse, violent gasps. Astride them sat riders clad in dented, ash-blackened plate, their cloaks hanging in shredded ribbons, their breastplates bearing the crest of the Duchy of Leovard—a winged lion clawed deep by brutal talons.
 
-It was no arcane resonance, but the rapid, frantic drumming of iron horseshoes driven without mercy. The thud of galloping mounts shattered the silence from the winding mountain road.
+Yet what froze the blood in Azariel’s veins was not the clamor of hooves, but the alien reek poisoning the air.
 
-Azariel pulled his cowl low, slipping swiftly into the dense brush along the embankment. His sharp gaze pierced the deepening twilight.
+The stench of ozone and dead ash—the bitter vapor of the void he remembered all too well from Pine Cliff seven years ago—struck his senses with merciless clarity. The warm rustic breeze turned abruptly arid and freezing, as if the breath of a dead winter had swept through the lane.
 
-Five warhorses broke through the gorge gap, staggering in exhaustion. The mounts were lathered in white sweat, their mouths frothing, their breath wheezing in hoarse gasps. Astride them sat riders clad in iron armor that was battered, dented, and blackened by soot. Their cloaks hung in tatters, and upon their breastplates was embossed the official seal of the Duchy of Leovard—a winged lion clawed deep by violent talons.
+"Clear the way!" Bran’s voice thundered across the homesteads, guiding the exhausted mounts toward the Village Elder’s compound. "Take him straight to the Elder’s house! Make haste!"
 
-The column did not halt upon the main road, but veered sharply toward the timber palisade of the village's outer watchpost.
+Astride the foremost horse, a grizzled officer with a crooked gorget and hollow, haggard eyes—Captain Garrett—struggled to hold upright a young guardsman who slumped lifelessly against the pommel. The wounded youth groaned in ragged, breathless fits, his head lolling limply, while his torn surcoat seeped a thin plume of freezing white vapor. From the youth's pale, cyanotic lips poured wild, feverish muttering—the raving of a mortal soul being dragged down into a nightmare of soundless hollows.
 
-There, Bran and two young patrolmen stood braced with spears and unstrung bows. Yet the moment Bran recognized the leading rider, the stern tension in the hunter's jaw collapsed into stark shock.
+"Mira!" Bran barked, spotting his daughter and the two young men by the roadside. "Open the healing ward! We bear a dying man!"
 
-"Hold your weapons!" Bran bellowed to his men, stepping swiftly to meet the riders. "Garrett?!"
+Mira’s instincts flared without hesitation. Grasping the leather strap of her satchel, she cried out, "Father! I have clean bandages and tinctures! Bring him in!"
 
-The man astride the foremost mount slumped from the saddle. His neck gorget hung askew, and his grizzled, grey-bearded face was deathly pale beneath a mask of grime and dried blood. Captain Garrett—Bran’s ancient comrade from his service in the Leovard High Guard—nearly hit the dirt had Bran not caught his shoulders.
+She pivoted on her heel, sprinting up the path toward her grandfather’s homestead. Kael bounded forward to assist his father in steadying the staggering horse, while Azariel followed closely behind them.
 
-"By the heavens... Bran..." Garrett gasped, his voice trembling with horror yet unquenched. "Give my men water... and shelter tonight. Our mounts cannot take another stride."
+Inside Azariel’s chest, a sharp ache bloomed. The quiet ember within his breast flared violently as the distance closed between him and the stricken soldier. The same icy tremor that had vibrated through the roots of the ancient fig tree now pulsed with terrifying reality, radiating from the flesh of this mortal soldier.
 
-"What happened in the northern pass, Garrett?" Bran asked in a low, steely voice, his eyes darting to the remaining riders who sat motionless in their saddles with hollow, shell-shocked stares. "The courier horse arrived riderless three days ago. Has there been a rebellion of mountain brigands?"
+The company burst onto the wooden veranda of the Elder's hall. The heavy oak doors were thrown wide. Bran and Garrett hauled the young guardsman down from the saddle, bearing him through the shadowed corridor and laying his limp form upon the straw cot in the rear sickroom.
 
-"Not brigands... nor a rockslide," Garrett whispered, clenching Bran’s leather cuirass so fiercely his knuckles turned white. "We were dispatched into the canyon after the salt caravan vanished. What we uncovered there... Bran, that was no slaughter of mortal men."
+The Village Elder already stood by the hearth, a lantern held high. The temperature within the room plummeted instantly, colder than midwinter frost, saturated with the suffocating smell of spent ash.
 
-From the shadows of the brush a dozen paces away, Azariel held his breath, catching every word with piercing clarity.
+"Shear the leather cuirass, Mira!" the Elder commanded, his voice trembling faintly as he saw the frost mist clinging to the youth's chest.
 
-"The trade wagons were crushed into frozen ash," Garrett continued, his eyes unfocused as he stared back at the mountain ridge. "The corpses of the guards and merchants... they had dried like rotten timber, without a single drop of blood remaining in their veins. Then the purple mist crept down from the crags."
+With nimble, steady fingers, Mira produced her shears, cutting swiftly through the hardened leather and the sweat-soaked linen beneath.
 
-Garrett swallowed with agonizing difficulty, his voice choking. "Those creatures... they walked upright like men, but their chests were hollow cavities and their heads burned with dark purple fire that froze the air! My men’s lances drove clean through them without sound, without pain! We lost four of our finest just breaking free of the gorge."
+And when the cloth fell away, the breath died in every throat.
 
-Bran’s jaw tightened like vice-iron. His gaze locked onto the blackness of the northern pass with a profound dread never before witnessed by anyone in the valley.
+Upon the young guardsman’s left flank, no crimson blood flowed. Instead, there yawned a sickening, hollow crater—the flesh withered, brittle, and grey as dead volcanic ash, bearing the exact texture of a Husk's fractured shell. While the soldier's forehead burned with raging fever and drenched in hot sweat, from the rim of the grey cavity crept tendrils of dark, icy violet veins, spreading like venomous roots toward his ribcage. The youth convulsed faintly, his teeth chattering in madness as he gasped fragments of void mist and northern gorges.
 
-"They are creeping south, Bran," Garrett warned with bitter urgency. "The Duchy is in a frenzy. The Duke has ordered full mobilization and will dispatch a massive garrison to sweep and seal this entire frontier within weeks. This peaceful valley lies squarely in their path. Prepare yourselves."
+"By the heavens..." Garrett breathed, his lips trembling grey as he stared down at his dying subordinate. "The wound... it is the exact same ash that devoured the canyon..."
 
-Bran remained silent for several breaths, weighing the catastrophe hovering upon his threshold. Slowly, he offered a grim nod. "Enter the inner quarters, Garrett. Rest your men. We shall bring this before the Village Elder tonight."
+At the threshold of the dim chamber, Azariel stood frozen. Beneath the shadow of his linen cowl, his eyes burned with a silent, azure luminescence.
 
-The timber gates of the watchpost creaked shut as the battered riders were led inside.
+This was no mortal blade’s work. This was *Corrosion*—the existential decay borne by the empty husks of the ancient world. And now, the catastrophic shadow of antiquity had officially breached the threshold of their peaceful valley.
 
-Beyond the palisade, night had fully swallowed the valley. A freezing gale from the north gathered strength, carrying the scent of ozone and dead ash intimately familiar to Azariel’s senses.
-
-Azariel stepped from the shadows. Beneath his linen cowl, his eyes burned with a quiet, azure luminescence.
-
-Garrett’s report confirmed what the ancient fig tree and the frozen soil had told him: *The Husks* were advancing, guided by their ancient hunger for the essence of the Heart of Aethel resting within his chest. And if the Duchy’s legions marched in to purge the monsters, the secret of his existence—and the lives of the innocent villagers—would be extinguished within days.
-
-For a long moment, he did not move.
-
-His gaze drifted back toward the valley—toward the faint, distant warmth of lamplight flickering in the windows of the settlement below. Somewhere in there, a hunter’s son was probably arguing with his mother about whether he was old enough not to be doted on. Somewhere in there, a healer’s satchel was being repacked for the morning. Seven years had taught him what it meant to belong to something mortal and small and entirely worth protecting. He had not known it was possible to carry people inside your chest until they were already there.
-
-He turned, striding swiftly through the dark toward the Elder’s homestead. Tonight, the conversation that would decide the fate of the valley had to begin.
+The seven years of peace had ended.

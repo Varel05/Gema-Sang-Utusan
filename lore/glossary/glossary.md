@@ -100,6 +100,7 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **Cangkang di Balik Kabut**               | The Shell Behind the Mist                    | Judul Bab 2                                      |
 | **Napas Pertama di Tanah Fana**           | First Breath upon Mortal Soil                | Judul Bab 3                                      |
 | **Di Bawah Naungan Ara Tua**              | Beneath the Shade of the Old Fig Tree        | Judul Bab 4                                      |
+| **Bara yang Melarutkan Abu**              | The Ember that Dissolves Ash                 | Judul Bab 5                                      |
 
 ---
 ## Referensi Terkait
