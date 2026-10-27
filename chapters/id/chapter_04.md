@@ -26,7 +26,7 @@ Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesu
 
 Azariel terdiam sejenak, mengamati urat kayu itu sebelum suara derap langkah memecah keheningan ladang.
 
-"Waaaah! Kak Azariel!"
+"Kupikir kau ke mana, Kak Azariel!"
 
 Dari pematang timur, sesosok pemuda berlari kencang menerobos rimbunnya batang gandum. Kael kini telah tumbuh menjadi pemuda tegap berusia sembilan belas tahun. Bahunya bidang, kulitnya terbakar warna cokelat khas penjelajah alam bebas, dan di pinggangnya terselip pedang tempaan bersarung kulit hitam berpelindung kuningan — senjata asli warisan ayahnya.
 

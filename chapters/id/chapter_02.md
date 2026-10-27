@@ -2,7 +2,7 @@
 title: "Bab 2: Cangkang di Balik Kabut"
 bab: 2
 status: reviewed
-pov: Kael & Bran (Third-Person Limited)
+pov: Kael (Third-Person Limited)
 lokasi: Tebing Pinus, Alun-Alun Desa, Rumah Tetua
 karakter:
   - "[[bran|Bran]]"
@@ -18,13 +18,15 @@ tags:
 
 Lautan obor membelah pekatnya malam di lereng bukit, bergoyang cepat mengikuti derap langkah para pria desa yang menanjak ke arah Tebing Pinus.
 
-Di barisan paling depan, Bran — ayah Kael — menerobos semak belukar dengan kapak buru terhunus di tangan kanan dan obor damar di tangan kiri. Rahang pemburu bertubuh kekar itu mengeras tegang, napasnya memburu di antara desau angin dingin yang mendadak terasa ganjil menusuk kulit.
+Di depan barisan, Kael berlari sekuat tenaga menembus semak belukar berduri. Napasnya terasa panas dan tercekat di tenggorokan, kakinya perih tergores ranting, namun rasa panik di dadanya jauh lebih membakar — bayangan Mira yang tertinggal sendirian menjaga pemuda asing di puncak cadas terus memacu langkahnya. Di sampingnya, Bran — ayahnya — menerobos semak dengan kapak buru terhunus di tangan kanan dan obor damar di tangan kiri. Rahang sang pemburu mengeras tegang, sorot matanya tajam mengamati kelebatan rimba.
+
+"Lewat sini, Ayah! Di balik rumpun pinus itu!" seru Kael parau, menunjuk celah jalan setapak berbatu yang menanjak terjal.
 
 Ketika cahaya obor menyapu puncak tebing, pemandangan di hadapan mereka membuat seluruh warga seketika menghentikan langkah.
 
 Batang pinus purba remuk berkeping-keping seolah dihantam martil raksasa. Permukaan cadas tebing hangus kehitaman, namun ketika uap napas mereka menyentuhnya, batu itu menyebarkan hawa beku yang menusuk tulang dan aroma abu mati yang asing. Di tengah cadas itu, Mira bersimpuh menangis terisak, mendekap kepala seorang pemuda asing yang terbaring kaku di pangkuannya dengan mantel wol kecil menutupi dada pemuda tersebut.
 
-"Mira!" seru Bran bergegas mendekat, sementara para tetangga membentuk barisan melingkar mengacungkan obor dan garpu rumput ke arah kegelapan rimba.
+"Mira!" seru Bran bergegas mendekat, sementara para tetangga membentuk barisan melingkar mengacungkan obor dan garpu rumput ke arah kegelapan rimba. Kael menghambur ke sisi sahabatnya dengan lutut goyah.
 
 "Paman Bran... tolong dia..." isak Mira, suaranya bergetar hebat. "Dia memasang badannya untuk kami... napasnya sangat lemah..."
 
@@ -121,7 +123,7 @@ Sang tetua mengangkat tongkat kayunya, memejamkan mata sejenak seraya melafalkan
 
 "Tetua..." Vane melangkah maju. Tangannya mencengkeram erat tongkat berukirnya. "Jika makhluk itu berasal dari masa lalu... mengapa ia merayap ke lembah kita? Apa yang dicarinya di desa terpencil ini?"
 
-Sang tetua terdiam sejenak. Ibu jarinya menggosok ukiran sulur pada tongkat kayu, tiga kali, perlahan. Sorot matanya melirik sekilas ke arah jendela bilik belakang yang tertutup tirai tebal — tempat pemuda asing itu terbaring. Ada beban kelam yang ia telan di balik janggut peraknya sebelum kembali menatap warganya.
+Sang tetua terdiam sejenak. Ibu jarinya menggosok ukiran sulur pada tongkat kayu, tiga kali, perlahan. Sorot matanya melirik sekilas ke arah jendela bilik belakang yang tertutup tirai tebal — tempat pemuda asing itu terbaring. Jakun pria tua itu bergerak naik-turun menelan ludah yang berat, dan jemarinya yang memegang tongkat kayu mengeras kaku sesaat sebelum ia kembali menatap warganya.
 
 "Mereka lapar, Vane," jawab sang tetua mantap. "Kehampaan yang merenggut raga mereka membuat *The Husk* mencari kehangatan hidup. Rimba perbatasan kita yang sunyi menjadi celah tipis di mana aroma tanah fana menarik mereka keluar dari kegelapan."
 

@@ -145,7 +145,7 @@ Sambil terus menumbuk, Mira mengajarkan nama-nama benda di sekeliling mereka.
 
 Saat menatap pantulan dirinya di air baskom, Azariel terdiam lama. Helaian rambutnya putih perak dengan semburat biru cerah di tiap ujungnya. Kulitnya pucat bersih, dan manik matanya memancarkan pendar redup putih kebiruan. Ia menyentuh helaian rambutnya dengan jemari gemetar. Halus dan nyata.
 
-"Itu rambutmu, Kak," gumam Mira tersenyum lembut. "Warnanya seperti bintang jatuh."
+"Itu rambutmu, Azariel," gumam Mira tersenyum lembut. "Warnanya seperti bintang jatuh."
 
 Mira kemudian mengambil sebilah arang hitam dan menggoreskan tiga lambang aksara di atas kulit kayu birch.
 
@@ -157,7 +157,7 @@ Azariel mematung menatap remah arang di telapak tangannya. Matanya memancarkan r
 
 Mira hanya tertawa kecil, menyapu serpihan hitam itu dan menyodorkan sepotong arang baru.
 
-"Tekanannya jangan terlalu keras, Kak. Pelan saja, seperti meraba daun muda," bimbing Mira seraya memegang lembut pergelangan tangan Azariel.
+"Tekanannya jangan terlalu keras, Azariel. Pelan saja, seperti meraba daun muda," bimbing Mira seraya memegang lembut pergelangan tangan Azariel.
 
 Tiga kali Azariel gagal, garisnya patah atau terlalu tebal. Di usaha keenam, tangannya bergeser di atas arang — tekanan yang terlalu besar lagi. Batang arang mulai menyerah. Ia merasakan retakan mikro yang mulai terbentuk di bawah genggamannya, sama persis seperti yang menghancurkan lima percobaan sebelumnya. Ia menahan napas. Dengan sadar, dengan sengaja, ia mengendurkan cengkeramannya — sedikit saja, nyaris tidak terasa — dan mendorong ujung arang melintas di atas kulit kayu dengan kehati-hatian yang ditakar. Garis itu bertahan. Goresan aksara keempat terbentuk lurus, presisi, dan seimbang di atas kulit kayu.
 
