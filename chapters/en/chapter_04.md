@@ -23,7 +23,7 @@ Heads of ripe wheat swayed in unison to the gentle mountain drafts, releasing th
 
 Reclining against the hollow of those buttress roots, Azariel rested in the cool shade.
 
-His fingers, once stiff and alien to physical form, turned the brittle parchment of a weathered leather-bound tome with practiced care. His silver-white hair, still kissed with vivid azure at every tip, remained hidden beneath a simple cowl of brown linen—a disguise urged upon him by the Village Elder so that the itinerant merchants who occasionally passed through would see him only as a quiet, adopted son of the village patriarch.
+His fingers, once stiff and alien to physical form, turned the brittle parchment of a weathered leather-bound tome with practiced care—an old traveler's journal compiling personal letters and quiet musings of mortal souls contemplating longing and home. His silver-white hair, still kissed with vivid azure at every tip, remained hidden beneath a simple cowl of brown linen—a disguise urged upon him by the Village Elder so that the itinerant merchants who occasionally passed through would see him only as a quiet, adopted son of the village patriarch.
 
 As Azariel’s bare palm brushed the furrowed bark of the fig tree, a faint, unnatural tremor vibrated against his skin. The ancient tree—whose taproots plunged deep into the bedrock of the valley—seemed to be catching an alien disturbance traveling through the deep strata of the earth. A cold, ruinous pulse crept through the ancient fibers, a silent alarm of nature that resonated instantly with the quiet ember slumbering within Azariel’s chest.
 
@@ -53,11 +53,11 @@ The three ate together beneath the sanctuary of the giant fig tree. It was their
 
 "Brother," Kael said around a mouthful of crust, eyeing the heavy volume in Azariel's lap, "will you come check the snares in the woods with me this afternoon?"
 
-"I have to return this geography book to the village archive first, Kael. I just finished reading it."
+"I have to return this traveler's journal to the village archive first, Kael. I just finished reading it."
 
-"Wait, you finished that already?!" Kael stared in disbelief. "You only borrowed that boulder of a book from Mother two days ago!"
+"Wait, you finished that already?!" Kael stared in disbelief. "That thick tome filled with letters and confessions of wanderers? Since when do you have the patience to read pages of strangers' heartaches? You only borrowed that heavy book from Mother two days ago!"
 
-Azariel smiled faintly without disputing the fact.
+Azariel smiled faintly without disputing the fact. "There is much to be learned from the way mortals long for home."
 
 Kael slumped back with a theatrical groan. "Ugh... does it have to be this afternoon?"
 
@@ -105,9 +105,9 @@ Mira muffled her giggles behind her hand, while Azariel smiled warmly at the fam
 
 Elora turned her attention to Azariel, her eyes gleaming with genuine admiration.
 
-"Good day, Aunt Elora," Azariel said, stepping forward to present the book. "I have come to return this geographical treatise. The cartography and notes on the realm were extraordinary."
+"Good day, Aunt Elora," Azariel said, stepping forward to present the book. "I have come to return this collection of traveler's journals. The letters and memories penned within are deeply moving."
 
-Elora accepted the heavy tome, shaking her head in astonishment. "Merciful heavens, Azariel... you finished it already? Your loan period had two full weeks remaining, child. A tome of this density would take an imperial clerk months to digest."
+Elora accepted the heavy tome, shaking her head in astonishment. "Merciful heavens, Azariel... you finished it already? Your loan period had two full weeks remaining, child. An old volume steeped in grief and longing like this usually takes readers months to bear."
 
 She set the volume upon the desk with a pleased smile.
 
@@ -129,7 +129,7 @@ Kael frowned, stepping forward. "A riderless courier horse? The northern pass is
 
 "Perhaps a rockslide, or perhaps military friction between the Duke and foreign realms," Elora sighed with unease. "Your grandfather and Bran have doubled the guard at the outer watchpost since yesterday."
 
-Elora patted Azariel’s hand reassuringly. "Do not be disheartened, Azariel. You are always welcome to reread the historical scrolls of the Remnant on the eastern shelf if you wish."
+Elora patted Azariel’s hand reassuringly. "Do not be disheartened, Azariel. You are always welcome to reread the anthologies of verse and musings of the wanderers on the eastern shelf if you wish."
 
 "Thank you, Aunt Elora," Azariel murmured with a polite nod.
 

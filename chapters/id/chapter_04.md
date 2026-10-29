@@ -20,7 +20,7 @@ Bulir-bulir gandum keemasan meliuk serentak disapu semilir angin hangat, menyeba
 
 Di balik naungan akar banir itulah, Azariel duduk bersandar.
 
-Jemarinya yang dahulu kaku kini membalik lembaran perkamen tipis bersampul kulit kusam dengan kehati-hatian yang terlatih. Rambut putih peraknya yang bersemburat biru muda di tiap ujungnya terselubung oleh tudung kain lenan cokelat sederhana — penyamaran yang selalu ia kenakan atas pesan sang Tetua Desa agar pedagang luar yang sesekali melintas hanya mengenalnya sebagai anak angkat keluarga tetua yang pendiam.
+Jemarinya yang dahulu kaku kini membalik lembaran perkamen tipis bersampul kulit kusam dengan kehati-hatian yang terlatih—sebuah buku catatan harian tua yang merangkum surat-surat pribadi dan renungan seorang pengelana fana tentang arti kerinduan dan kepulangan. Rambut putih peraknya yang bersemburat biru muda di tiap ujungnya terselubung oleh tudung kain lenan cokelat sederhana — penyamaran yang selalu ia kenakan atas pesan sang Tetua Desa agar pedagang luar yang sesekali melintas hanya mengenalnya sebagai anak angkat keluarga tetua yang pendiam.
 
 Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesuatu yang ganjil bergetar samar di bawah telapak tangannya. Pohon ara purba itu — yang akarnya menghujam puluhan depa ke jantung bumi perbatasan — tampaknya tengah menangkap gangguan asing yang merambat di bawah tanah. Denyutan dingin yang ganjil dan merusak merayap melalui serat-serat kayu tua, sebuah tanda bahaya alami yang seketika beresonansi dengan bara hening di rongga dada Azariel.
 
@@ -50,11 +50,11 @@ Mereka bertiga menyantap makan siang bersama di bawah naungan pohon ara raksasa.
 
 "Kak," Kael menyeka remah roti di dagunya, melirik buku tebal di pangkuan Azariel, "kau mau menemaniku memeriksa perangkap buru di hutan nanti sore?"
 
-"Aku harus mengembalikan risalah geografi ini ke perpustakaan desa dulu, Kael. Aku sudah selesai membacanya."
+"Aku harus mengembalikan buku catatan pengelana ini ke perpustakaan desa dulu, Kael. Aku sudah selesai membacanya."
 
-"Tunggu, kau sudah selesai?!" Kael membelalak. "Buku seberat batu itu baru kau pinjam dua hari lalu dari Ibu!"
+"Tunggu, kau sudah selesai?!" Kael membelalak. "Buku tebal berisi surat-surat dan curahan hati para perantau itu? Sejak kapan kau betah membaca keluh-kesah orang asing berlembar-lembar? Buku seberat itu baru kau pinjam dua hari lalu dari Ibu!"
 
-Azariel tersenyum tipis tanpa membantah.
+Azariel tersenyum tipis tanpa membantah. "Ada banyak hal berharga yang bisa dipelajari dari cara manusia merindukan rumah."
 
 Kael seketika menghela napas panjang dengan ekspresi enggan yang kentara. "Ugh... haruskah siang ini?"
 
@@ -102,9 +102,9 @@ Tawa Mira pecah di belakang punggung Kael. Gadis itu menutupi bibirnya, sementar
 
 Pandangan Elora kini beralih sepenuhnya kepada Azariel dengan binar takjub.
 
-"Selamat siang, Bibi Elora," Azariel melangkah maju mengulurkan buku di tangannya. "Aku datang untuk mengembalikan risalah geografi ini. Seluruh catatannya sangat terperinci dan indah."
+"Selamat siang, Bibi Elora," Azariel melangkah maju mengulurkan buku di tangannya. "Aku datang untuk mengembalikan kumpulan catatan pengelana ini. Seluruh surat dan kenangan yang tertulis di dalamnya sangatlah menyentuh."
 
-Elora menerima buku tebal itu, menggelengkan kepala tak percaya. "Astaga, Azariel... kau sudah menyelesaikannya? Batas peminjamanmu bahkan masih dua pekan lagi, Nak. Buku seberat ini biasanya butuh waktu berbulan-bulan untuk diselesaikan oleh seorang juru tulis kota sekalipun."
+Elora menerima buku tebal itu, menggelengkan kepala tak percaya. "Astaga, Azariel... kau sudah menyelesaikannya? Batas peminjamanmu bahkan masih dua pekan lagi, Nak. Buku berisi catatan kerinduan dan surat-surat tua ini biasanya butuh waktu lama untuk dibaca karena bahasanya sarat kepedihan."
 
 Elora menata buku itu ke meja dengan senyum hangat.
 
@@ -126,7 +126,7 @@ Kael mengerutkan keningnya, melangkah maju. "Kuda pos tanpa penunggang? Berarti 
 
 "Bisa jadi longsor tebing, atau mungkin ketegangan militer antara Adipati dan kerajaan luar," Elora menghela napas ragu. "Tetua desa dan Bran sedang memperketat penjagaan pos jaga luar sejak kemarin."
 
-Elora menepuk pelan tangan Azariel, membesarkan hatinya. "Maafkan Bibi ya, Azariel. Tapi kau masih boleh membaca ulang gulungan sejarah kaum Remnant di rak sebelah kanan jika kau mau."
+Elora menepuk pelan tangan Azariel, membesarkan hatinya. "Maafkan Bibi ya, Azariel. Tapi kau masih boleh membaca ulang antologi sajak dan renungan para musafir di rak sebelah kanan jika kau mau."
 
 "Terima kasih banyak, Bibi Elora," sahut Azariel dengan senyum tenang.
 
