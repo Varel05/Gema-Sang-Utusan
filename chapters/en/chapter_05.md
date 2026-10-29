@@ -154,7 +154,7 @@ Beholding the quiet resolve of the three youths, Captain Garrett slowly rose fro
 
 Bran gave his old comrade a curt nod of mutual understanding, then turned his gaze upon Kael, Azariel, and Mira. The veteran hunter’s eyes hardened with the resolute purpose of both a father and a seasoned warrior. "If we ride together at dawn, we have little time. There are provisions to pack, and people you must bid farewell to before the first stride is taken."
 
-Bran gripped Kael’s shoulder firmly. "Come, Kael. We return home. There is an heirloom you must take from our hearth."
+Bran gripped Kael’s shoulder firmly. "Come, Kael. We return home. There is something that has waited for you far too long beneath our roof."
 
 The Village Elder nodded slowly, looking upon the three young souls with eyes glistening in silent benediction. "Go and prepare. This chamber remains safe under my vigil and Garrett’s men. See your kin before the sun crests the ridge."
 

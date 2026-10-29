@@ -154,7 +154,7 @@ Melihat keteguhan ketiga pemuda itu, perlahan Kapten Garrett bangkit berdiri dar
 
 Bran menatap mantan rekannya itu dengan anggukan pendek penuh pengertian, lalu beralih menatap Kael, Azariel, dan Mira. Sorot mata sang pemburu mengeras penuh ketetapan hati seorang ayah sekaligus prajurit veteran. "Jika kita berangkat bersama saat fajar, kita tidak punya banyak waktu. Masih ada barang yang harus dipersiapkan, dan ada orang-orang yang harus kalian temui sebelum langkah pertama diayunkan."
 
-Bran menepuk pundak Kael dengan kuat. "Ayo pulang, Kael. Ada pusaka yang harus kau bawa dari rumah kita."
+Bran menepuk pundak Kael dengan kuat. "Ayo pulang, Kael. Ada bekal yang sudah terlalu lama menunggumu di rumah kita."
 
 Sang Tetua Desa mengangguk pelan seraya menatap ketiga anak asuhnya dengan binar mata yang dipenuhi doa restu. "Pergilah berkemas. Bilik ini aman di bawah penjagaanku dan prajurit Garrett. Temui keluarga kalian sebelum fajar menyingsing."
 
