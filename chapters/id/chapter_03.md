@@ -15,7 +15,7 @@ tags:
 
 Langit dalam ingatan itu tidak memiliki warna biru.
 
-Tidak ada awan, tidak ada desau angin, dan tidak ada matahari yang menghangatkan bumi. Yang membentang di atas kepalanya hanyalah hamparan cahaya putih menyilaukan — dingin, membeku, dan menuntut kepunahan. Cahaya itu bukan penerang, melainkan titah mutlak yang menuntut pembersihan.
+Tidak ada awan, tidak ada desau angin, dan tidak ada matahari yang menghangatkan bumi. Yang membentang di atas kepalanya hanyalah hamparan cahaya putih menyilaukan yang terasa dingin, membeku, dan menuntut kepunahan. Cahaya itu bukan penerang, melainkan titah mutlak yang menuntut pembersihan.
 
 Dari balik robekan kubah langit yang terbelah, berdirilah satu sosok tunggal yang terajut dari bara cahaya. Sayap-sayapnya membentang membelah cakrawala, memancarkan bilah-bilah api tanpa cela untuk menyapu bersih debu yang dianggap ternoda.
 
@@ -27,11 +27,11 @@ Ia tahu hakikat keberadaannya. Ia tidak tercipta dari cahaya langit, melainkan t
 
 Maka, ia melangkah maju.
 
-Kedua tangannya terangkat menyongsong langit yang runtuh. Dari dadanya, ia memancarkan dinding penahan — sebuah benteng tak kasatmata yang dipilin dari denyut hukum alam, membentengi raga-raga fana yang menangis di belakang punggungnya. Ketika bilah-bilah cahaya pemurnian menghujam ke bawah, benturan itu meremukkan ruang.
+Kedua tangannya terangkat menyongsong langit yang runtuh. Dari dadanya, ia memancarkan dinding penahan, sebuah benteng tak kasatmata yang dipilin dari denyut hukum alam demi melindungi raga-raga fana yang menangis di belakang punggungnya. Ketika bilah-bilah cahaya pemurnian menghujam ke bawah, benturan itu meremukkan ruang.
 
 Rasa sakit itu tidak menyerang daging, melainkan merobek hakikat dirinya.
 
-Sesuatu di dalam dadanya retak. Pukulan cahaya itu menghantamnya tanpa henti, hingga sebuah pecahan inti dirinya terpelanting lepas — tercabik dan terhempas jatuh bagai bara yang padam, terkubur jauh ke dalam perut bumi. Sisa kesadarannya terhisap ke dalam jurang dingin yang pekat, terkunci di balik dinding tak berujung bersama jeritan mereka yang terselamatkan.
+Sesuatu di dalam dadanya retak. Pukulan cahaya itu menghantamnya tanpa henti, hingga sebuah pecahan inti dirinya terpelanting lepas, tercabik dan terempas jatuh bagai bara yang padam, terkubur jauh ke dalam perut bumi. Sisa kesadarannya terisap ke dalam jurang dingin yang pekat, terkunci di balik dinding tak berujung bersama jeritan mereka yang terselamatkan.
 
 Pecah. Hampa. Lenyap.
 
@@ -41,7 +41,7 @@ Pecah. Hampa. Lenyap.
 
 Sebuah tarikan napas kasar dan menyentak menyadarkannya dari jurang kegelapan.
 
-Ia terlonjak di atas permukaan keras beralaskan jerami kering. Dadanya naik-turun dengan ritme yang liar. Ada sensasi panas yang membakar tenggorokannya — rasa kering, perih, dan dingin yang belum pernah ia rasakan sebelumnya.
+Ia terlonjak di atas permukaan keras beralaskan jerami kering. Dadanya naik-turun dengan ritme yang liar. Ada sensasi panas yang membakar tenggorokan, rasa kering, perih, dan dingin ganjil yang belum pernah ia rasakan sebelumnya.
 
 Udara. Ia sedang menghirup udara fisik.
 
@@ -49,7 +49,7 @@ Kedua matanya membelalak, menangkap bintik-bintik cahaya keemasan yang menembus 
 
 Ia mengangkat kedua tangannya ke depan wajah. Jemarinya bergetar.
 
-Itu adalah tangan manusia. Kulitnya pucat bersih, namun di bawah permukaan kulit tipis itu, tampak sulur pembuluh darah yang berdenyut samar — gelap dan diam, tidak memancarkan cahaya apa pun. Ada kuku, ada ruas tulang, ada darah yang mengalir. Tubuh ini memiliki batas. Ia terperangkap di dalam cangkang daging yang rapuh.
+Itu adalah tangan manusia. Kulitnya pucat bersih, namun di balik permukaan kulit tipis itu tampak sulur pembuluh darah yang berdenyut samar, gelap dan diam tanpa memancarkan cahaya apa pun. Ada kuku, ada ruas tulang, ada darah yang mengalir. Tubuh ini memiliki batas. Ia terperangkap di dalam cangkang daging yang rapuh.
 
 Ia mencoba bersuara, namun yang keluar dari tenggorokannya hanyalah desah parau yang patah. Lidahnya terasa berat dan kaku, bagaikan tanah liat yang belum pernah dibentuk oleh kata-kata.
 
@@ -85,7 +85,7 @@ Mira tersenyum kecil. Tanpa sedikit pun rasa kesal, gadis itu menyeka noda terse
 
 "Tidak apa-apa," bisik Mira lembut. "Biar kubantu dulu."
 
-Saat sesendok kaldu hangat itu menyentuh lidahnya, ada rasa gurih, manis, dan panas yang menjalar lembut menuruni kerongkongan. Rasa lapar fisik — dorongan purba manusia — mengalirkan rasa hangat ke seluruh persendiannya yang kaku.
+Saat sesendok kaldu hangat itu menyentuh lidahnya, cecapan gurih, manis, dan panas menjalar lembut menuruni kerongkongan. Rasa lapar ragawi, dorongan purba yang baru ia kenal sebagai manusia, mengalirkan kehangatan ke seluruh persendiannya yang kaku.
 
 "M... Mi... ra..." desis pemuda itu parau.
 
@@ -93,7 +93,7 @@ Mata Mira berbinar haru. "Iya, ini aku. Kau aman di sini. Ini rumah kakekku, Tet
 
 Tepat saat itu, langkah kaki tergesa-gesa terdengar menggedor lantai papan di luar bilik. Pintu terdorong lebar.
 
-"Mira! Apa dia sudah — astaga, dia benar-benar melek!"
+"Mira! Apa dia sudah... astaga, dia benar-benar melek!"
 
 Seorang anak laki-laki melompat masuk. Rambut cokelatnya berantakan berhias daun pinus kering, dan pakaian berburunya kotor oleh tanah basah. Di pinggangnya terselip pedang kayu latihan dengan bilah penuh goresan. Itu Kael.
 
@@ -133,11 +133,11 @@ Nama itu meresap ke dalam jiwanya, menjadi jangkar bagi eksistensinya yang baru 
 
 Dari beranda belakang tempat ia mulai diizinkan duduk menghirup udara segar, Azariel mengamati denyut desa agraris itu. 
 
-Setiap pagi, ayah Mira — seorang petani gandum bersahaja bertubuh liat — berangkat ke ladang memikul sabit dan cangkul. Sebelum pergi, pria itu selalu mengusap rambut putrinya dengan penuh kasih dan melambaikan tangan canggung ke arah Azariel. Sementara di batas barat desa, Bran melatih para pemuda desa dengan formasi tombak dan pedang; Kael tampak berulang kali terjatuh di tanah basah, bangkit kembali sambil meringis, lalu mengayunkan pedang kayunya hingga peluh membasahi dahi.
+Setiap pagi, ayah Mira, seorang petani gandum bersahaja yang bertubuh liat, berangkat ke ladang memikul sabit dan cangkul. Sebelum pergi, pria itu selalu mengusap rambut putrinya dengan penuh kasih dan melambaikan tangan canggung ke arah Azariel. Sementara di batas barat desa, Bran melatih para pemuda desa dengan formasi tombak dan pedang; Kael tampak berulang kali terjatuh di tanah basah, bangkit kembali sambil meringis, lalu mengayunkan pedang kayunya hingga peluh membasahi dahi.
 
 Dan di samping Azariel, ada Mira yang membimbingnya mengenal dunia.
 
-Di atas meja kayu teras, Mira meletakkan baskom air bersih dan serpihan kulit kayu birch. Bunyi gesekan batu yang ritmis menarik perhatian Azariel — Mira sedang menumbuk herba kering di dalam lesung batu kecil, suaranya teratur dan anehnya menyita perhatian. Lalu aroma yang keluar dari tumbukan itu menerpa hidungnya. Tajam, getir, perdu — menusuk hampir membuat matanya berair. Tanpa ia sadari, tubuhnya condong sedikit ke belakang, berkedip.
+Di atas meja kayu teras, Mira meletakkan baskom air bersih dan serpihan kulit kayu birch. Bunyi gesekan batu yang ritmis menarik perhatian Azariel. Gadis itu sedang menumbuk herba kering di dalam lesung batu kecil, gerakannya teratur dan menyita perhatian. Tak lama berselang, aroma yang menguar dari tumbukan itu menerpa hidungnya. Tajam, getir, dan pekat berbau perdu, hingga menusuk dan nyaris membuat matanya berair. Tanpa ia sadari, tubuhnya condong sedikit ke belakang seraya berkedip.
 
 Mira menangkap reaksi kecil itu dan tertawa pelan. "Baunya terlalu menyengat? Lama-lama akan terbiasa. Herba ini yang menjaga demammu tidak semakin parah kemarin."
 
@@ -159,11 +159,11 @@ Mira hanya tertawa kecil, menyapu serpihan hitam itu dan menyodorkan sepotong ar
 
 "Tekanannya jangan terlalu keras, Azariel. Pelan saja, seperti meraba daun muda," bimbing Mira seraya memegang lembut pergelangan tangan Azariel.
 
-Tiga kali Azariel gagal, garisnya patah atau terlalu tebal. Di usaha keenam, tangannya bergeser di atas arang — tekanan yang terlalu besar lagi. Batang arang mulai menyerah. Ia merasakan retakan mikro yang mulai terbentuk di bawah genggamannya, sama persis seperti yang menghancurkan lima percobaan sebelumnya. Ia menahan napas. Dengan sadar, dengan sengaja, ia mengendurkan cengkeramannya — sedikit saja, nyaris tidak terasa — dan mendorong ujung arang melintas di atas kulit kayu dengan kehati-hatian yang ditakar. Garis itu bertahan. Goresan aksara keempat terbentuk lurus, presisi, dan seimbang di atas kulit kayu.
+Tiga kali Azariel gagal karena garisnya patah atau terlalu tebal. Pada usaha keenam, jemarinya bergeser di atas arang; tekanannya kembali terlalu kuat. Batang arang mulai merapuh. Ia merasakan retakan halus yang mulai terbentuk di bawah genggamannya, persis seperti yang meremukkan lima percobaan sebelumnya. Ia menahan napas. Dengan penuh kesadaran, ia melonggarkan cengkeramannya sedikit saja, nyaris tak kentara, lalu memandu ujung arang melintas di atas kulit kayu dengan kehati-hatian yang terukur. Garis itu bertahan. Goresan aksara keempat terlukis lurus, presisi, dan seimbang di atas kulit kayu.
 
 Mira menatap lambang itu dengan mata membulat takjub. "Garisnya... sempurna sekali. Aku butuh berminggu-minggu hanya untuk membuat lengkungannya rapi."
 
-Azariel menatap aksara itu dalam hening. Di rak dinding beranda, tersandar gulungan doa leluhur milik sang Tetua. Dalam tulisan kuno yang mulai bisa ia eja, gulungan itu menyebut Sang Utusan sebagai entitas yang menuntut ketundukan mutlak manusia. Jemarinya meremas tepi serpihan kulit kayu itu lebih kuat, ingatan tentang langit putih menerobos masuk di balik kelopak matanya — dingin, luas, tanpa belas kasih. Bilah-bilah cahaya pemurnian. Jeritan di bawah kakinya. Rasa sakit menahan sesuatu yang seharusnya tidak ditahan.
+Azariel menatap aksara itu dalam hening. Di rak dinding beranda, tersandar gulungan doa leluhur milik sang Tetua. Dalam tulisan kuno yang mulai bisa ia eja, gulungan itu menyebut Sang Utusan sebagai entitas yang menuntut ketundukan mutlak manusia. Jemarinya meremas tepi serpihan kulit kayu itu lebih kuat saat ingatan tentang langit putih menerobos masuk ke benaknya: hamparan yang dingin, teramat luas, dan hampa dari belas kasih. Bilah-bilah cahaya pemurnian. Jeritan di bawah kakinya. Rasa sakit menahan sesuatu yang seharusnya tidak ditahan.
 
 Sebuah tanya mengendap tanpa kata di dalam dadanya.
 
@@ -175,5 +175,5 @@ Azariel bangkit perlahan dari ranjang. Kakinya yang fana menjejak lantai papan t
 
 Azariel menatap jemarinya sendiri di bawah temaram lentera. Kulit. Darah. Detak jantung. Ia meletakkan telapak tangannya di dada, dan hanya berdiri di sana, mempelajari ritme itu.
 
-Ia melangkah ke jendela, menatap ke arah siluet Tebing Pinus di kejauhan. Dahinya berkerut tipis. Ada sesuatu yang menunggu di luar sana — di balik pepohonan, di balik kegelapan. Ia belum memiliki kata-kata untuk menyebutnya. Ia hanya tahu bahwa sesuatu itu dingin, dan bahwa sesuatu itu mengingatnya.
+Ia melangkah ke jendela, menatap ke arah siluet Tebing Pinus di kejauhan. Dahinya berkerut tipis. Ada sesuatu yang menunggu di luar sana, tersembunyi di balik barisan pohon dan pekatnya kegelapan. Ia belum memiliki kata-kata untuk menyebutnya. Ia hanya tahu bahwa sesuatu itu dingin, dan bahwa sesuatu itu mengingatnya.
 

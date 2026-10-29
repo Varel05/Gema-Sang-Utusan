@@ -20,15 +20,15 @@ Bulir-bulir gandum keemasan meliuk serentak disapu semilir angin hangat, menyeba
 
 Di balik naungan akar banir itulah, Azariel duduk bersandar.
 
-Jemarinya yang dahulu kaku kini membalik lembaran perkamen tipis bersampul kulit kusam dengan kehati-hatian yang terlatih—sebuah buku catatan harian tua yang merangkum surat-surat pribadi dan renungan seorang pengelana fana tentang arti kerinduan dan kepulangan. Rambut putih peraknya yang bersemburat biru muda di tiap ujungnya terselubung oleh tudung kain lenan cokelat sederhana — penyamaran yang selalu ia kenakan atas pesan sang Tetua Desa agar pedagang luar yang sesekali melintas hanya mengenalnya sebagai anak angkat keluarga tetua yang pendiam.
+Jemarinya yang dahulu kaku kini membalik lembaran perkamen tipis bersampul kulit kusam dengan kehati-hatian yang terlatih. Buku catatan harian tua itu merangkum surat-surat pribadi dan renungan seorang pengelana fana tentang arti kerinduan dan kepulangan. Rambut putih peraknya yang bersemburat biru muda di tiap ujung terselubung oleh tudung kain lenan cokelat sederhana, penyamaran yang selalu ia kenakan atas pesan sang Tetua Desa agar pedagang luar yang sesekali melintas hanya mengenalnya sebagai anak angkat keluarga tetua yang pendiam.
 
-Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesuatu yang ganjil bergetar samar di bawah telapak tangannya. Pohon ara purba itu — yang akarnya menghujam puluhan depa ke jantung bumi perbatasan — tampaknya tengah menangkap gangguan asing yang merambat di bawah tanah. Denyutan dingin yang ganjil dan merusak merayap melalui serat-serat kayu tua, sebuah tanda bahaya alami yang seketika beresonansi dengan bara hening di rongga dada Azariel.
+Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesuatu yang ganjil bergetar samar di bawah telapak tangannya. Pohon ara purba dengan akar yang menghujam puluhan depa ke jantung bumi perbatasan itu tampaknya tengah menangkap gangguan asing yang merambat di bawah tanah. Denyutan dingin yang ganjil dan merusak merayap melalui serat-serat kayu tua, sebuah tanda bahaya alami yang seketika beresonansi dengan bara hening di rongga dada Azariel.
 
 Azariel terdiam sejenak, mengamati urat kayu itu sebelum suara derap langkah memecah keheningan ladang.
 
 "Kupikir kau ke mana, Kak Azariel!"
 
-Dari pematang timur, gemerisik batang gandum tersibak tergesa disusul derap langkah tegap yang memecah kehangatan ladang. Anak laki-laki yang tujuh musim silam gemetar menodongkan pisau buru tulang di tepi tebing cadas itu kini telah menjelma menjadi pemuda yang tegap, liat, dan tangkas. Kulitnya terbakar matahari keemasan khas penjelajah rimba, dengan otot bahu yang mengeras berkat tempaan tanpa jeda di lapangan latihan. Di pinggangnya, tersampir pedang tempur berpelindung kuningan dalam sarung kulit hitam bergores cuaca—senjata tempaan warisan ayahnya yang kini tergantung pas di sisinya. Namun di balik postur seorang ksatria penjaga perbatasan yang kian matang, seringai lebar dan kilat jenaka di mata cokelatnya sama sekali tak pernah pudar sejak masa kanak-kanak.
+Dari pematang timur, gemerisik batang gandum tersibak tergesa disusul derap langkah tegap yang memecah kehangatan ladang. Anak laki-laki yang tujuh musim silam gemetar menodongkan pisau buru tulang di tepi tebing cadas itu kini telah menjelma menjadi pemuda yang tegap, liat, dan tangkas. Kulitnya terbakar matahari keemasan khas penjelajah rimba, dengan otot bahu yang mengeras berkat tempaan tanpa jeda di lapangan latihan. Di pinggangnya, tersampir pedang tempur berpelindung kuningan dalam sarung kulit hitam bergores cuaca, senjata tempaan warisan ayahnya yang kini tergantung pas di sisinya. Namun di balik postur seorang ksatria penjaga perbatasan yang kian matang, seringai lebar dan kilat jenaka di mata cokelatnya sama sekali tak pernah pudar sejak masa kanak-kanak.
 
 "Sudah kuduga kau bersembunyi di sini lagi!" seru Kael seraya meluncur duduk di atas rumput di samping Azariel, menyeka peluh di pelipisnya. "Panasnya bukan main di lapangan tadi. Ayah benar-benar berniat mematahkan tulang rusukku dengan tongkat kayunya!"
 
@@ -38,7 +38,7 @@ Azariel menurunkan bukunya, tersenyum tipis. "Paman Bran hanya melatih kuda-kuda
 
 "Tentu saja dia belum makan siang, Kael. Siapa yang membawakannya kalau bukan aku?"
 
-Langkah kaki yang tenang menyusul dari pematang, diiringi aroma samar herba mint dan kayu manis yang menguar di udara hangat saat Mira melangkah keluar dari naungan rumpun gandum. Gadis kecil yang tujuh musim silam menangis bersimpuh di tebing cadas itu kini telah menjelma menjadi wanita muda yang anggun dan cekatan. Rambut kecokelatannya disanggul rapi dengan tusuk kayu sederhana agar tak mengganggu pekerjaannya, sementara di bahunya tersampir tas selempang kulit kusam berisi botol tingtur dan kain kasa yang tak pernah lepas dari tubuhnya. Tatapan matanya yang jernih langsung memindai Azariel—menilai ritme napas dan ketegangan bahu sang pemuda dalam sekejap mata yang terlatih—sebelum beralih menatap Kael dengan gelengan kepala maklum. Di tangannya, sebuah bakul jerami bertutup kain linen bersih menguapkan kehangatan makan siang.
+Langkah kaki yang tenang menyusul dari pematang, diiringi aroma samar herba mint dan kayu manis yang menguar di udara hangat saat Mira melangkah keluar dari naungan rumpun gandum. Gadis kecil yang tujuh musim silam menangis bersimpuh di tebing cadas itu kini telah menjelma menjadi wanita muda yang anggun dan cekatan. Rambut kecokelatannya disanggul rapi dengan tusuk kayu sederhana agar tak mengganggu pekerjaannya, sementara di bahunya tersampir tas selempang kulit kusam berisi botol tingtur dan kain kasa yang tak pernah lepas dari tubuhnya. Tatapan matanya yang jernih langsung memindai Azariel, menilai ritme napas dan ketegangan bahu sang pemuda dalam sekejap mata yang terlatih, sebelum beralih menatap Kael dengan gelengan kepala maklum. Di tangannya, sebuah bakul jerami bertutup kain linen bersih menguapkan kehangatan makan siang.
 
 "Duduklah yang benar, Kael," tegur Mira seraya menggelar kain linen di atas akar banir.
 
@@ -88,7 +88,7 @@ Wajah wanita itu seketika berbinar cerah. "Kael! Anakku tersayang!"
 
 Elora bangkit dari kursinya dengan langkah ringan, menghambur ke depan meja. Jemarinya yang halus langsung terangkat merapikan rambut cokelat Kael yang berantakan, lalu menepuk-nepuk pundak putranya.
 
-"Lihat dirimu... pasti Bran memaksamu berlatih terlalu keras lagi di lapangan barat. Sini, Ibu punya sisa pai labu manis di laci, biar Ibu suapi — "
+"Lihat dirimu... pasti Bran memaksamu berlatih terlalu keras lagi di lapangan barat. Sini, Ibu punya sisa pai labu manis di laci, biar Ibu suapi..."
 
 "Ibu! Tolonglah hentikan!" Kael melompat mundur dengan wajah merah padam, melirik cemas ke jendela luar. "Aku ini sudah sembilan belas tahun! Aku calon wakil regu patroli perbatasan desa!"
 
@@ -134,7 +134,7 @@ Namun di balik ketenangan wajahnya, sebuah sengatan dingin yang teramat sunyi se
 
 Itu bukan hawa dingin cuaca pegunungan. Getaran dingin itu merayap menyusup dari utara, beresonansi dengan bara di dalam rongga dadanya. 
 
-Bukan longsor yang menutup jalan perbatasan. Kuda pos yang melarikan diri dan lenyapnya para musafir adalah tanda bahwa bayang-bayang kelam yang pernah muncul di Tebing Pinus bertahun-tahun silam kini tidak lagi berdiam diri. Cangkang-cangkang hampa — *The Husks* — tengah merayap mendekati perbatasan, menutup urat nadi lembah damai ini.
+Bukan longsor yang menutup jalan perbatasan. Kuda pos yang melarikan diri dan lenyapnya para musafir adalah tanda bahwa bayang-bayang kelam yang pernah muncul di Tebing Pinus bertahun-tahun silam kini tidak lagi berdiam diri. Cangkang-cangkang hampa, *The Husks*, tengah merayap mendekati perbatasan, perlahan menutup urat nadi lembah damai ini.
 
 Azariel menatap ke luar jendela perpustakaan, menembus ladang gandum emas menuju siluet pegunungan utara yang menjulang biru kelabu di kejauhan.
 
@@ -150,11 +150,11 @@ Bukan satu, melainkan lima ekor kuda perang menerobos jalan tanah desa dengan ke
 
 Namun yang membuat darah Azariel seketika membeku bukanlah derap kudanya, melainkan hawa asing yang menguar pekat di udara.
 
-Bau ozon dan abu mati — aroma tajam kehampaan yang teramat ia kenali dari malam di Tebing Pinus tujuh tahun silam — menyergap indera penciumannya dengan kejam. Udara hangat pedesaan mendadak terasa kering dan dingin laksana musim gugur yang mati.
+Bau ozon dan abu mati, aroma tajam kehampaan yang teramat ia kenali dari malam di Tebing Pinus tujuh tahun silam, menyergap indra penciumannya dengan kejam. Udara hangat pedesaan mendadak terasa kering dan dingin laksana musim gugur yang mati.
 
 "Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
-Di atas kuda terdepan, sesosok perwira berwajah tirus dengan cambang kelabu dan baju zirah leher yang miring — Kapten Garrett — merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya, kepalanya terayun lemas seiring derap kuda, nyaris tergelincir jatuh jika saja lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak — jubah yang anehnya mengeluarkan kepulan uap putih tipis yang beku ke udara siang yang hangat.
+Di atas kuda terdepan, Kapten Garrett, perwira berwajah tirus dengan cambang kelabu dan pelindung leher yang miring, merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya dengan kepala terayun lemas seiring derap kuda, nyaris tergelincir jatuh seandainya lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak. Dari balik kain koyak itu, mengepul uap putih tipis yang beku ke udara siang yang hangat.
 
 "Mira!" seru Bran saat melihat gadis tabib itu berdiri siaga di tepi jalan bersama putranya dan Azariel. "Buka bilik perawatan kakekmu! Kami membawa orang terluka yang sekarat!"
 
@@ -174,13 +174,13 @@ Dengan jemari yang cekatan namun tegang, Mira mencabut gunting medisnya, memoton
 
 Dan ketika kain penutup itu tersingkap, seluruh napas di dalam bilik tercekat kaku.
 
-Di lambung kiri sang prajurit, tidak ada darah merah segar yang mengalir. Yang menganga di sana adalah sebuah luka berongga mengerikan — dagingnya mengering rapuh berwarna kelabu bagai abu mati, persis seperti rongga retakan tubuh *The Husk*. Kulit prajurit itu membara oleh demam tinggi dan bermandikan keringat panas, namun dari celah luka abu itu, merayap sulur-sulur urat dingin berwarna ungu gelap yang menyebar laksana akar beracun menuju rongga dadanya. Prajurit itu terus menggelepar lemah, giginya bergemeletuk meracaukan desau kehampaan dan kabut jurang utara.
+Di lambung kiri sang prajurit, tidak ada darah merah segar yang mengalir. Yang menganga di sana adalah sebuah luka berongga mengerikan dengan daging yang mengering rapuh berwarna kelabu bagai abu mati, persis seperti rongga retakan tubuh *The Husk*. Kulit prajurit itu membara oleh demam tinggi dan bermandikan keringat panas, namun dari celah luka abu itu merayap sulur-sulur urat dingin berwarna ungu gelap yang menyebar laksana akar beracun menuju rongga dadanya. Prajurit itu terus menggelepar lemah, giginya bergemeletuk meracaukan desau kehampaan dan kabut jurang utara.
 
 "Demi langit..." bisik Garrett dengan bibir pucat bergetar, matanya nanar menatap tubuh anak buahnya. "Luka ini... luka ini sama persis seperti abu jurang yang membantai karavan garam..."
 
 Di ambang pintu bilik yang temaram, Azariel berdiri mematung. Manik matanya berpendar dalam cahaya biru redup yang sunyi di balik kerudung lenannya.
 
-Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion* — racun pembusukan tatanan yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
+Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion*, racun pembusukan tatanan yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
 
 Waktu kedamaian tujuh tahun telah usai.
 

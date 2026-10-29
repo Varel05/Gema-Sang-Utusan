@@ -20,11 +20,11 @@ Malam di lembah perbatasan selalu turun dengan keheningan yang khidmat, hanya di
 
 Di sudut bilik rumah panggung yang sederhana, sebutir lentera minyak menyala temaram di atas meja bundar. Asap tipis beraroma damar meliuk ke udara, menari di antara bayang-bayang seorang pria tua berjanggut perak dan seorang gadis kecil yang duduk bersila di atas tikar pandan.
 
-"Kakek... apakah Sang Utusan benar-benar pernah menjejakkan kakinya di tanah yang kita pijak ini?" bisik Mira kecil. Matanya yang jernih menatap lekat kerutan di wajah sang kakek — sang Tetua Desa yang menjadi penjaga ingatan tertua di pemukiman mereka.
+"Kakek... apakah Sang Utusan benar-benar pernah menjejakkan kakinya di tanah yang kita pijak ini?" bisik Mira kecil. Matanya yang jernih menatap lekat kerutan di wajah sang kakek, Tetua Desa yang menjadi penjaga ingatan tertua di pemukiman mereka.
 
 Pria tua itu tersenyum teduh. Jemarinya yang kasar membelai puncak kepala cucunya, lalu menuangkan sejumput herba kering ke dalam mangkuk tanah liat.
 
-"Bukan sekadar menjejakkan kaki, Mira," suara kakeknya bergetar rendah, berirama seperti dongeng pengantar tidur yang telah melintasi ratusan musim. "Sang Utusan dirajut langsung dari hukum alam dunia ini — dari detak bumi Aethelgard itu sendiri. Berbeda dengan Sang Malaikat Agung yang diciptakan dari cahaya di langit tertinggi, Sang Utusan hadir membimbing manusia fana agar hidup dalam ketertiban dan ketundukan kepada Sang Pencipta."
+"Bukan sekadar menjejakkan kaki, Mira," suara kakeknya bergetar rendah, berirama seperti dongeng pengantar tidur yang telah melintasi ratusan musim. "Sang Utusan dirajut langsung dari hukum alam dunia ini, terlahir dari detak bumi Aethelgard itu sendiri. Berbeda dengan Sang Malaikat Agung yang diciptakan dari cahaya di langit tertinggi, Sang Utusan hadir membimbing manusia fana agar hidup dalam ketertiban dan ketundukan kepada Sang Pencipta."
 
 Mira mendekatkan dagunya ke lutut, memeluk kakinya yang dingin. "Lalu... mengapa peradaban lama hancur, Kek?"
 
@@ -34,7 +34,7 @@ Helaan napas sang tetua terasa berat. Bayang-bayang lentera bergoyang pelan saat
 
 "Tapi leluhur kita selamat..." gumam Mira.
 
-"Leluhur kita menolak ikut dalam pertumpahan darah itu," sang kakek menatap cucunya dengan binar lembut. "Mereka memilih tetap merawat tanah, mencintai sesama, dan menjaga kemurnian doa. Karena itulah kita disebut kaum yang tersisa — *The Remnant*. Dan mereka yang tersesat dalam pertikaian... konon dipindahkan ke suaka rahasia di balik batas semesta agar benih manusia tidak musnah seluruhnya."
+"Leluhur kita menolak ikut dalam pertumpahan darah itu," sang kakek menatap cucunya dengan binar lembut. "Mereka memilih tetap merawat tanah, mencintai sesama, dan menjaga kemurnian doa. Karena itulah kita disebut kaum yang tersisa, *The Remnant*. Dan mereka yang tersesat dalam pertikaian... konon dipindahkan ke suaka rahasia di balik batas semesta agar benih manusia tidak musnah seluruhnya."
 
 Sang kakek menepuk pelan bahu cucunya lalu bangkit. "Sudah larut, Mira. Pejamkan matamu. Ingatlah selalu jalan leluhur kita: rawat tanah yang memberimu makan, dan lindungi mereka yang membutuhkan pertolongan."
 
@@ -92,11 +92,11 @@ Pipi Mira merona tipis di balik keremangan malam. Namun belum sempat ia membalas
 
 Hening.
 
-Keheningan yang datang bukan kesunyapan malam biasa, melainkan rasa sunyi yang menindih udara secara ganjil. Suara derit dahan dan serangga malam padam dalam sekejap — seolah seluruh rimba menarik napas dalam-dalam dan lupa untuk mengembuskannya kembali. Angin pun terhenti. Pohon-pohon pinus berhenti bergoyang. Alam di sekeliling mereka menjadi diam yang tertahan, kegelapan yang menunggu sesuatu yang akan segera pecah. Tekanan itu sampai terasa di gendang telinga Mira, seperti udara yang tiba-tiba kehilangan bobotnya.
+Keheningan yang datang bukan kesunyapan malam biasa, melainkan rasa sunyi yang menindih udara secara ganjil. Suara derit dahan dan serangga malam padam seketika, seolah seluruh rimba menarik napas dalam-dalam dan lupa mengembuskannya kembali. Angin pun terhenti. Pohon-pohon pinus berhenti bergoyang. Alam di sekeliling mereka menjadi diam yang tertahan, kegelapan yang menunggu sesuatu yang akan segera pecah. Tekanan itu sampai terasa di gendang telinga Mira, seperti udara yang tiba-tiba kehilangan bobotnya.
 
-Suhu di Tebing Pinus anjlok drastis. Hawa dingin yang menusuk tulang — kering, hampa, dan membawa bau ozon serta abu mati — merayap turun dari balik barisan pohon pinus purba di belakang mereka.
+Suhu di Tebing Pinus anjlok drastis. Hawa dingin yang menusuk tulang, kering, hampa, serta membawa bau ozon dan abu mati, merayap turun dari balik barisan pohon pinus purba di belakang mereka.
 
-Di sisi Mira, Kael tersentak. Senyum lebar yang tadi masih tergelar di wajah sahabatnya runtuh dalam sekejap — tangan yang bersandar santai di lutut kini mencengkeram erat gagang pisau buru di sabuknya. Leher Kael menegang. Napasnya berhenti seolah ada yang menyumpal tenggorokannya dari dalam.
+Di sisi Mira, Kael tersentak. Senyum lebar yang tadi masih tergelar di wajah sahabatnya runtuh seketika. Tangannya yang semula bersandar santai di lutut kini mencengkeram erat gagang pisau buru di sabuk. Leher Kael menegang. Napasnya tercekat seolah ada yang menyumpal tenggorokannya dari dalam.
 
 "Mira... berdiri. Berdiri di belakangku," bisik Kael. Suaranya tercekat kaku, tawa cerianya lenyap tanpa sisa.
 
@@ -104,9 +104,9 @@ Di sisi Mira, Kael tersentak. Senyum lebar yang tadi masih tergelar di wajah sah
 
 Dari balik kabut kelabu di antara dua pohon pinus raksasa, sesuatu melangkah keluar.
 
-Wujud itu berdiri menjulang setinggi dua meter. Siluetnya menyerupai tubuh manusia, namun gerakannya tersendat dan patah-patah ganjil di bawah bayangan pohon. Kulitnya ungu-kelabu kusam bagai abu mati yang membeku. Dan yang membuat darah Kael berdesir ngeri adalah bagian lehernya — makhluk itu tidak memiliki kepala; rongga kosong di atas pundaknya digantikan oleh sebongkah bola api ungu gelap yang berkobar liar tanpa henti.
+Wujud itu berdiri menjulang setinggi dua meter. Siluetnya menyerupai tubuh manusia, namun gerakannya tersendat dan patah-patah ganjil di bawah bayangan pohon. Kulitnya ungu-kelabu kusam bagai abu mati yang membeku. Dan yang membuat darah Kael berdesir ngeri adalah bagian lehernya: makhluk itu tidak memiliki kepala. Rongga kosong di atas pundaknya digantikan oleh sebongkah bola api ungu gelap yang berkobar liar tanpa henti.
 
-Di sekujur dada dan lengannya menganga retakan-retakan besar. Dari celah retakan itu, tidak terlihat setetes pun darah, daging, atau tulang — hanya rongga hampa pekat yang terus membara dijilat api ungu kelam dari dalam raganya.
+Di sekujur dada dan lengannya menganga retakan-retakan besar. Dari celah retakan itu, tidak terlihat setetes pun darah, daging, atau tulang, melainkan rongga hampa pekat yang terus membara dijilat api ungu kelam dari dalam raganya.
 
 Makhluk itu bukan binatang buas rimba. Sosoknya memancarkan aura dingin yang mengeringkan udara di sekitarnya. Kobaran api ungu di pundaknya bergolak buas saat makhluk itu mendongak kaku, meraba udara dingin di puncak tebing seolah mencium bau darah dua anak manusia di hadapannya.
 
@@ -118,7 +118,7 @@ Kael mencabut pisau buru tulangnya, melangkah maju dan membentangkan kedua tanga
 
 Makhluk ungu-kelabu itu menggeram parau dari rongga apinya. Satu ayunan lengannya yang panjang meremukkan batang pinus di dekatnya hingga pecah berkeping-keping. Makhluk itu menerjang ke depan dengan cakar ungu-kelabu teracung lurus ke arah Kael.
 
-Di atas langit yang membentang luas, tidak ada sebutir pun bintang jatuh yang melintas. Langit malam tetap bisu dan sunyi. *Mereka datang jauh-jauh ke sini untuk mencari malaikat di langit*, pikir Mira dengan liar — dan langit tidak memberikan apa-apa selain dingin, monster, dan ketakutan.
+Di atas langit yang membentang luas, tidak ada sebutir pun bintang jatuh yang melintas. Langit malam tetap bisu dan sunyi. *Mereka datang jauh-jauh ke sini untuk mencari malaikat di langit*, pikir Mira dengan kalut, namun hamparan langit kelam itu tak memberi apa-apa selain dingin, monster, dan ketakutan.
 
 Namun Kael tidak berbalik lari. Anak laki-laki itu menancapkan tumitnya ke cadas, menahan gemetar di lututnya, dan mengarahkan bilah pisau tulangnya tepat ke arah monster yang mendekat. Napasnya tercekat di tenggorokan, dan di dalam dadanya hanya ada satu jeritan bisu: *Jangan dia... apa pun yang terjadi, jangan sentuh Mira!*
 
@@ -136,13 +136,13 @@ Bukan gempa yang meremukkan batu, melainkan denyutan hangat yang menjalar dari l
 
 Sebuah bola api berkobar melesat keluar dari rekahan cadas, disusul bola-bola api lainnya yang memancar dari tanah di sekeliling mereka.
 
-Warnanya bukan merah bara biasa, melainkan putih menyilaukan dengan lidah api berselubung semburat biru cerah. Lengan Kael refleks terangkat menutupi matanya. Panas itu — *kehangatan*, murni dan nyata — menerpa kulitnya bagai gelombang, dan untuk sesaat anak laki-laki itu tidak mengerti apa yang sedang terjadi. Rasa dingin mencekam yang mencengkeram dadanya sejak monster itu muncul dari balik pepohonan perlahan mencair. Lututnya goyah, bukan lagi dari rasa takut, melainkan dari lenyapnya rasa takut itu sendiri yang begitu tiba-tiba. Jemarinya menyibak, matanya terbuka lebar, tidak mampu berpaling.
+Warnanya bukan merah bara biasa, melainkan putih menyilaukan dengan lidah api berselubung semburat biru cerah. Lengan Kael refleks terangkat menutupi matanya. Hawa panas itu, sebuah *kehangatan* yang murni dan nyata, menerpa kulitnya bagai gelombang, dan untuk sesaat anak laki-laki itu tidak mengerti apa yang sedang terjadi. Rasa dingin mencekam yang mencengkeram dadanya sejak monster itu muncul dari balik pepohonan perlahan mencair. Lututnya goyah, bukan lagi dari rasa takut, melainkan dari lenyapnya rasa takut itu sendiri yang begitu tiba-tiba. Jemarinya menyibak, matanya terbuka lebar, tidak mampu berpaling.
 
-Di sisinya, Mira telah membeku diam. Bukan diam karena ngeri — melainkan diam karena takjub yang memukul seluruh kesadarannya. Cahaya putih-kebiruan itu jatuh menerpa pipinya yang masih basah air mata. Di matanya yang terperangah, kilatan api itu tampak persis seperti bintang yang selama ini mereka cari — bukan dari langit yang membisu, melainkan dari dalam tulang bumi di bawah kaki mereka.
+Di sisinya, Mira terpaku membisu. Bukan karena ngeri, melainkan oleh takjub yang melumpuhkan seluruh kesadarannya. Cahaya putih-kebiruan itu jatuh menerpa pipinya yang masih basah air mata. Di matanya yang terperangah, kilatan api itu tampak persis seperti bintang yang selama ini mereka cari: bukan jatuh dari langit yang membisu, melainkan memancar dari dalam tulang bumi di bawah kaki mereka.
 
 Hawa dingin kehampaan yang dibawa monster itu tersapu oleh gelombang hangat yang mengembang dari api putih-kebiruan tersebut.
 
-Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, partikel-partikel cahaya memadat dengan cepat — membentuk garis bahu, lengan, dan raga seorang pemuda.
+Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, partikel-partikel cahaya memadat dengan cepat, membentuk garis bahu, lengan, hingga sosok utuh raga seorang pemuda.
 
 Cahaya menyilaukan itu mereda dalam satu hembusan angin hangat.
 
@@ -178,7 +178,7 @@ Kini hanya ada Mira seorang diri di puncak Tebing Pinus yang sunyi. Gadis kecil 
 
 "Kumohon... bertahanlah..." bisik Mira terisak pelan. "Kael sedang memanggil bantuan... jangan pergi..."
 
-Di tengah kesenyapan tebing dan getaran tangis yang meraba telinganya, jemari pria muda itu bergerak lemah di atas batu. Kelopak matanya bergetar tipis, membuka sedikit celah pada manik mata putih kebiruannya yang redup. Dari bibirnya yang pucat pasi, terhembus satu bisikan parau — getaran pertama yang merangkai suara dari raganya:
+Di tengah kesenyapan tebing dan getaran tangis yang meraba telinganya, jemari pemuda itu bergerak lemah di atas batu. Kelopak matanya bergetar tipis, membuka sedikit celah pada manik mata putih kebiruannya yang redup. Dari bibirnya yang pucat pasi, terembus satu bisikan parau, getaran pertama yang merangkai suara dari raganya:
 
 "...Mi... ra..."
 

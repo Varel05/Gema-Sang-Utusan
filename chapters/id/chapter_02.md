@@ -18,7 +18,7 @@ tags:
 
 Lautan obor membelah pekatnya malam di lereng bukit, bergoyang cepat mengikuti derap langkah para pria desa yang menanjak ke arah Tebing Pinus.
 
-Di depan barisan, Kael berlari sekuat tenaga menembus semak belukar berduri. Napasnya terasa panas dan tercekat di tenggorokan, kakinya perih tergores ranting, namun rasa panik di dadanya jauh lebih membakar — bayangan Mira yang tertinggal sendirian menjaga pemuda asing di puncak cadas terus memacu langkahnya. Di sampingnya, Bran — ayahnya — menerobos semak dengan kapak buru terhunus di tangan kanan dan obor damar di tangan kiri. Rahang sang pemburu mengeras tegang, sorot matanya tajam mengamati kelebatan rimba.
+Di depan barisan, Kael berlari sekuat tenaga menembus semak belukar berduri. Napasnya terasa panas dan tercekat di tenggorokan, kakinya perih tergores ranting, namun rasa panik di dadanya jauh lebih membakar. Bayangan Mira yang tertinggal sendirian menjaga pemuda asing di puncak cadas terus memacu langkahnya. Di sampingnya, Bran, sang ayah, menerobos semak dengan kapak buru terhunus di tangan kanan dan obor damar di tangan kiri. Rahang sang pemburu mengeras tegang, sorot matanya tajam mengamati kelebatan rimba.
 
 "Lewat sini, Ayah! Di balik rumpun pinus itu!" seru Kael parau, menunjuk celah jalan setapak berbatu yang menanjak terjal.
 
@@ -54,7 +54,7 @@ Beberapa warga di barisan belakang saling pandang dengan senyum sangsi.
 
 "Dua meter? Bergerak patah-patah?" seorang peternak lembu mendengus. "Bayangan pohon di malam hari bisa menipu mata pemburu paling awas sekalipun, Kael. Mungkin hanya beruang tua yang berdiri dengan dua kaki belakangnya."
 
-"Bukan beruang!" sergah Kael, matanya membelalak mengingat kengerian di tebing. "Makhluk itu tidak punya kepala! Di atas pundaknya berkobar bola api ungu gelap! Kulitnya ungu-kelabu bagai abu mati yang membeku, dan di tubuhnya ada retakan besar tanpa darah atau daging — hanya rongga hampa yang terbakar api ungu!"
+"Bukan beruang!" sergah Kael, matanya membelalak mengingat kengerian di tebing. "Makhluk itu tidak punya kepala! Di atas pundaknya berkobar bola api ungu gelap! Kulitnya ungu-kelabu bagai abu mati yang membeku, dan di tubuhnya ada retakan besar tanpa darah atau daging, cuma rongga hampa yang terbakar api ungu!"
 
 Desau tawa getir dan keraguan yang lebih keras merebak di antara kerumunan.
 
@@ -123,7 +123,7 @@ Sang tetua mengangkat tongkat kayunya, memejamkan mata sejenak seraya melafalkan
 
 "Tetua..." Vane melangkah maju. Tangannya mencengkeram erat tongkat berukirnya. "Jika makhluk itu berasal dari masa lalu... mengapa ia merayap ke lembah kita? Apa yang dicarinya di desa terpencil ini?"
 
-Sang tetua terdiam sejenak. Ibu jarinya menggosok ukiran sulur pada tongkat kayu, tiga kali, perlahan. Sorot matanya melirik sekilas ke arah jendela bilik belakang yang tertutup tirai tebal — tempat pemuda asing itu terbaring. Jakun pria tua itu bergerak naik-turun menelan ludah yang berat, dan jemarinya yang memegang tongkat kayu mengeras kaku sesaat sebelum ia kembali menatap warganya.
+Sang tetua terdiam sejenak. Ibu jarinya menggosok ukiran sulur pada tongkat kayu, tiga kali, perlahan. Sorot matanya melirik sekilas ke arah jendela bilik belakang yang tertutup tirai tebal, tempat pemuda asing itu terbaring. Jakun pria tua itu bergerak naik-turun menelan ludah yang berat, dan jemarinya yang memegang tongkat kayu mengeras kaku sesaat sebelum ia kembali menatap warganya.
 
 "Mereka lapar, Vane," jawab sang tetua mantap. "Kehampaan yang merenggut raga mereka membuat *The Husk* mencari kehangatan hidup. Rimba perbatasan kita yang sunyi menjadi celah tipis di mana aroma tanah fana menarik mereka keluar dari kegelapan."
 
@@ -173,13 +173,13 @@ Matanya yang renta menatap lekat garis simetris wajah, lekuk tulang pipi, dan pe
 
 Sang kakek menoleh memandang Mira yang memegang jemari pemuda itu dengan penuh kehati-hatian, lalu beralih menatap Kael yang berdiri siaga di samping ranjang. Kedua anak itu memandangnya semata-mata sebagai seorang penolong yang rapuh dan terluka.
 
-Sang tetua menarik napas panjang. Dari tempatnya berdiri, Kael melihat — untuk pertama kalinya dalam hidupnya — bahu pria tua yang selama ini tampak kokoh bagai cadas itu bergerak turun seolah menopang beban yang tak terlihat. Sang tetua menatap Mira yang menggenggam jemari pemuda itu, lalu beralih menatap Kael. Tatapan itu berlama-lama — bukan seperti pandangan seorang kakek kepada cucunya, melainkan pandangan seseorang yang tengah mengukur apakah kata-kata yang akan ia ucapkan bisa dipercayakan ke dua pasang telinga yang masih muda ini.
+Sang tetua menarik napas panjang. Dari tempatnya berdiri, Kael melihat untuk pertama kali dalam hidupnya bagaimana bahu pria tua yang selama ini tampak sekokoh cadas itu luruh turun, seolah menopang beban yang tak kasatmata. Sang tetua menatap Mira yang menggenggam jemari pemuda itu, lalu beralih menatap Kael. Tatapannya tertahan lama, bukan seperti pandangan seorang kakek kepada cucunya, melainkan tatapan seseorang yang tengah menimbang apakah kata-kata yang hendak ia ucapkan sanggup dipercayakan ke dua pasang telinga yang masih semuda ini.
 
-Namun tatapan sang tetua terus kembali ke wajah pemuda asing itu. Menyusuri lekuk dagunya, lengkung tulang pipinya, denyut cahaya biru samar di balik kulit pucat itu — selalu kembali, selalu tertahan, seolah mata sang tetua tak sanggup melepas sesuatu yang ia kenali tetapi belum sanggup ia ucapkan.
+Namun tatapan sang tetua terus kembali ke wajah pemuda asing itu. Menyusuri lekuk dagunya, lengkung tulang pipinya, serta denyut cahaya biru samar di balik kulit pucat itu. Pandangan itu berulang kali terpaku di sana, seolah mata sang tetua tak sanggup melepas sesuatu yang ia kenali tetapi belum sanggup ia lisankan.
 
 "Kek..." suara Mira yang cemas memecah lamunannya. "Apakah dia akan sembuh?"
 
-Sang tetua tersenyum lembut, menyembunyikan badai tanda tanya di balik kerutan wajahnya. Ia mengulurkan tangan menyentuh dahi sang pemuda — dan Kael menangkapnya, samar tapi nyata: getaran lembut yang berjalan di sepanjang jari-jari pria tua itu sesaat sebelum menyentuh kening pucat sang pemuda. Tangan itu kemudian mengeras perlahan, menempel dengan tekanan ringan, bibir sang tetua bergerak dalam doa perlindungan yang tak bersuara.
+Sang tetua tersenyum lembut, menyembunyikan badai tanda tanya di balik kerutan wajahnya. Ia mengulurkan tangan menyentuh dahi sang pemuda. Saat itulah Kael menangkap sesuatu yang samar namun nyata: getaran halus yang merambat di sepanjang jemari pria tua itu sesaat sebelum menyentuh kening pucat sang pemuda. Tangan itu kemudian diam perlahan, menempel dengan tekanan lembut, sementara bibir sang tetua bergerak merapal doa perlindungan yang sunyi.
 
 "Dia akan selamat, Mira. Raganya hanya kelelahan menahan benturan besar."
 
