@@ -148,19 +148,15 @@ Mendengar ikrar itu, Kael melangkah maju tanpa ragu sedetik pun. "Aku bersamamu,
 
 Mira mengencangkan tali selempang tas ramuannya, melangkah berdiri tepat di sisi Azariel dengan dagu terangkat mantap. "Dan kau butuh seseorang yang memastikan tubuhmu tetap bernapas dan tidak memaksakan diri menanggung derita orang lain sendirian, El. Ke mana pun kalian melangkah, aku ikut."
 
-Melihat keteguhan ketiga pemuda itu, Kapten Garrett merogoh balik jubah dalamnya dengan jemari gemetar. Dari sebuah kantung beludru yang tersembunyi, ia mengeluarkan sebuah medali logam perak padat berukir lambang singa bersayap dengan ukiran sulur resmi Garda Utama Kadipaten Leovard.
+Melihat keteguhan ketiga pemuda itu, perlahan Kapten Garrett bangkit berdiri dari lantai papan. Matanya yang merah menatap Azariel, Kael, dan Mira dengan rasa hormat yang mendalam, menanggalkan seluruh sisa keputusasaan seorang perwira yang nyaris menyerah.
 
-Garrett menyerahkan segel logam itu ke tangan Azariel.
+"Kuda-kuda kami telah diberi makan dan diistirahatkan di kandang barat," tutur Garrett, suaranya kini terdengar mantap dengan wibawa seorang komandan garda. "Begitu fajar menyingsing, pasukanku akan memandu jalan kalian menembus celah cadas utara. Selama pedang Garda Utama Leovard masih berada di genggaman kami, kalian tidak akan berjalan sendirian menghadapi kabut terkutuk itu."
 
-"Pegang ini, Nak," ucap Garrett dengan tatapan penuh rasa hormat yang tulus. "Ini adalah Medali Segel Khusus Komandan Garda. Jika perjalanan kalian melintasi pos-pos jaga Kadipaten atau dihadang oleh garnisun perbatasan, tunjukkan segel ini. Mereka akan menganggap kalian kurir rahasia yang membawa mandat langsung dariku, dan tidak ada prajurit yang berani menahan langkah kalian."
-
-Azariel menerima segel logam dingin itu, menatap mata sang kapten dengan anggukan takzim. "Terima kasih, Kapten Garrett."
-
-Bran menatap putranya, lalu beralih menatap Azariel dan Mira. Sorot mata sang pemburu mengeras penuh ketetapan hati seorang ayah sekaligus prajurit veteran. "Jika kalian memang berniat berangkat sebelum fajar, kita tidak punya banyak waktu. Masih ada barang yang harus dipersiapkan, dan ada orang-orang yang harus kalian temui sebelum langkah pertama diayunkan."
+Bran menatap mantan rekannya itu dengan anggukan pendek penuh pengertian, lalu beralih menatap Kael, Azariel, dan Mira. Sorot mata sang pemburu mengeras penuh ketetapan hati seorang ayah sekaligus prajurit veteran. "Jika kita berangkat bersama saat fajar, kita tidak punya banyak waktu. Masih ada barang yang harus dipersiapkan, dan ada orang-orang yang harus kalian temui sebelum langkah pertama diayunkan."
 
 Bran menepuk pundak Kael dengan kuat. "Ayo pulang, Kael. Ada pusaka yang harus kau bawa dari rumah kita."
 
-Sang Tetua Desa mengangguk pelan seraya menatap ketiga anak asuhnya dengan binar mata yang dipenuhi doa restu. "Pergilah berkemas. Bilik ini aman di bawah penjagaanku dan Garrett. Temui keluarga kalian sebelum fajar menyingsing."
+Sang Tetua Desa mengangguk pelan seraya menatap ketiga anak asuhnya dengan binar mata yang dipenuhi doa restu. "Pergilah berkemas. Bilik ini aman di bawah penjagaanku dan prajurit Garrett. Temui keluarga kalian sebelum fajar menyingsing."
 
 Di luar jendela bilik, kabut malam perlahan tersapu oleh embusan angin dini hari. Di ufuk timur, bayang-bayang gelap malam mulai menipis, menyisakan waktu yang kian sempit sebelum matahari terbit di atas puncak-pucuk cemara perbatasan.
 

@@ -148,19 +148,15 @@ Hearing that pledge, Kael stepped forward without a heartbeat's hesitation. "I'm
 
 Mira tightened the shoulder strap of her satchel, stepping squarely to Azariel’s side with her chin lifted high. "And you need someone to make sure your mortal flesh continues to breathe, El. You can't bear the weight of everyone's suffering alone. Wherever you go, I walk with you."
 
-Moved by the unyielding resolve of the three youths, Captain Garrett reached deep beneath his tattered tunic with trembling fingers. From an inner velvet pocket, he drew forth a heavy silver medallion—an official seal bearing the relief of a winged lion encircled by the regal laurels of the Leovard High Guard.
+Beholding the quiet resolve of the three youths, Captain Garrett slowly rose from the timber floor. His bloodshot eyes looked upon Azariel, Kael, and Mira with profound reverence, the desperate despair of an overwhelmed commander giving way to solemn duty.
 
-Garrett placed the cold silver disc into Azariel’s hand.
+"Our mounts have been fed and rested in the western stables," Garrett said, his voice regaining the steady cadence of a veteran officer. "When dawn breaks, my guardsmen will guide you through the northern rock pass. As long as our blades remain unbroken, you will not ride alone into that cursed mist."
 
-"Take this, son," Garrett said, his eyes filled with profound reverence. "This is the Commander’s Signet of the High Guard. If your journey crosses the fortified garrisons of the Duchy or meets the patrols along the frontier crossings, show them this seal. They will deem you secret envoys under my direct command, and no soldier will dare bar your path."
-
-Azariel took the cold metal seal, meeting the captain's gaze with a respectful nod. "Thank you, Captain Garrett."
-
-Bran looked at his son, then at Azariel and Mira. The veteran hunter’s gaze hardened with the solemn resolve of both a father and an old soldier. "If you truly intend to set forth before dawn, we have little time. There are provisions to pack, and people you must bid farewell to before the first stride is taken."
+Bran gave his old comrade a curt nod of mutual understanding, then turned his gaze upon Kael, Azariel, and Mira. The veteran hunter’s eyes hardened with the resolute purpose of both a father and a seasoned warrior. "If we ride together at dawn, we have little time. There are provisions to pack, and people you must bid farewell to before the first stride is taken."
 
 Bran gripped Kael’s shoulder firmly. "Come, Kael. We return home. There is an heirloom you must take from our hearth."
 
-The Village Elder nodded slowly, looking upon the three young souls with eyes glistening in silent benediction. "Go and prepare. This chamber remains safe under my vigil and Garrett’s watch. See your kin before the sun crests the ridge."
+The Village Elder nodded slowly, looking upon the three young souls with eyes glistening in silent benediction. "Go and prepare. This chamber remains safe under my vigil and Garrett’s men. See your kin before the sun crests the ridge."
 
 Beyond the timber window, the heavy veil of night slowly gave way to the chill breath of early dawn. Upon the eastern rim, the shadows thinned, leaving only precious little time before sunrise broke across the jagged pine ridges.
 
