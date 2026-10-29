@@ -123,9 +123,9 @@ The archivist let out a long sigh, resting her palms against the timber desk.
 
 Kael frowned, stepping forward. "A riderless courier horse? The northern pass is cut off?"
 
-"No one knows for certain what's happening in the mountain gorges," Elora murmured, gazing out the window toward the northern ridges. "The last dispatch whispered that the stone pass has frozen over and grown perilous. The trade caravans refuse to brave the crossing into our valley."
+"No one knows for certain what's happening in the mountain gorges," Elora murmured, gazing out the window toward the northern ridges. "The last dispatch whispered that the stone pass has fallen into ruin, treacherous and impassable. The trade caravans refuse to brave the crossing into our valley."
 
-"Could it just be a rockslide from the storms, Aunt Elora?" Mira asked anxiously.
+"Could the path have been blocked by a rockslide from the mountain storms, Aunt Elora?" Mira asked anxiously.
 
 "Perhaps a rockslide, or perhaps military friction between the Duke and foreign realms," Elora sighed with unease. "Your grandfather and Bran have doubled the guard at the outer watchpost since yesterday."
 

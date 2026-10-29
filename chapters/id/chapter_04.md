@@ -120,11 +120,11 @@ Wanita itu menghela napas panjang seraya menyandarkan tangannya di meja.
 
 Kael mengerutkan keningnya, melangkah maju. "Kuda pos tanpa penunggang? Berarti jalur perbatasan utara terputus?"
 
-"Tidak ada yang tahu pasti apa yang terjadi di celah pegunungan itu," sahut Elora pelan, tatapannya menerawang ke arah jendela yang menghadap ke bukit utara. "Kabar terakhir yang kita dengar hanyalah bahwa celah jalan batu telah membeku dan tidak aman. Karavan dagang menolak mengambil risiko melintas ke lembah kita."
+"Tidak ada yang tahu pasti apa yang terjadi di celah pegunungan itu," sahut Elora pelan, tatapannya menerawang ke arah jendela yang menghadap ke bukit utara. "Kabar terakhir yang kita dengar hanyalah bahwa celah jalan batu telah rusak, berbahaya, dan tidak bisa dilalui. Karavan dagang menolak mengambil risiko melintas ke lembah kita."
 
-"Apakah ada longsor besar akibat badai, Bibi?" tanya Mira cemas.
+"Apakah jalurnya tertutup longsor cadas akibat badai di pegunungan, Bibi?" tanya Mira cemas.
 
-"Mungkin longsor, atau mungkin ketegangan militer antara Adipati dan kerajaan luar," Elora menghela napas ragu. "Tetua desa dan Bran sedang memperketat penjagaan pos jaga luar sejak kemarin."
+"Bisa jadi longsor tebing, atau mungkin ketegangan militer antara Adipati dan kerajaan luar," Elora menghela napas ragu. "Tetua desa dan Bran sedang memperketat penjagaan pos jaga luar sejak kemarin."
 
 Elora menepuk pelan tangan Azariel, membesarkan hatinya. "Maafkan Bibi ya, Azariel. Tapi kau masih boleh membaca ulang gulungan sejarah kaum Remnant di rak sebelah kanan jika kau mau."
 
