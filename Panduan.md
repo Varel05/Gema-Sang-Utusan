@@ -58,6 +58,16 @@ Saat menulis adegan baru atau mengevaluasi bab, tegakkan standar berikut:
     - Memaksimalkan retensi pembaca dan efektivitas algoritma serialisasi (sistem satu *vote* per bab dan konsistensi jadwal rilis).
     - Menjaga keseimbangan proporsi saat naskah disinkronkan secara paralel antara versi Bahasa Indonesia (`chapters/id/`) dan Bahasa Inggris (`chapters/en/`).
 
+- **Humanisasi Sintaksis & Eliminasi Ciri Khas AI (Natural Human Syntax & Anti-AI Ticks):**
+  - **Larangan Pola Tanda Pisah Berulang (*Anti Em-Dash Overuse*):**
+    - Dilarang keras mengulang-ulang tanda pisah panjang (*em-dash* `—`) sebagai pola aposisi ganda (`Subjek — deskripsi — predikat`) atau penyambung klausa dramatis instan yang menjadi ciri khas terjemahan kaku AI.
+    - Gunakan tata bahasa dan tanda baca sastrawi bahasa Indonesia yang organik: tanda koma (`,`), titik dua (`:`), titik koma (`;`), atau konjungsi bertingkat (*melainkan*, *terlahir dari*, *demi*, *seraya*).
+    - Apabila deskripsi aksi atau penjelas berbobot panjang, pecah menjadi dua kalimat terpisah untuk mempertegas tensi dramatis dan ketukan narasi (*pacing*).
+  - **Naturalisasi Percakapan & Keraguan Dialog:**
+    - Gunakan tanda elipsis (`...`) untuk tuturan yang memudar, ragu, melambat, atau dipotong secara manusiawi dalam dialog, bukan tanda pisah kaku.
+  - **Penyaringan Istilah Anakronistik Modern:**
+    - Hindari penggunaan kosakata konseptual/modern yang tidak selaras dengan atmosfer *High Fantasy* (misal: *kognitif*, *persentase*, *mekanisme*, *efisiensi*) ke dalam dialog atau persepsi karakter fana, kecuali jika diuraikan secara analitis dalam persepsi kosmis Azariel terhadap hukum tatanan semesta.
+
 ---
 ## 3. PROTOKOL OPERASIONAL EDITOR
 
@@ -73,7 +83,7 @@ Sebelum menulis atau mengulas naskah bab:
 Lakukan evaluasi multi-lapis terhadap draf bab:
 1. **Pemeriksaan Kontinuitas (Kanon & Logika Internal):** Deteksi kontradiksi fisik, linimasa waktu tempuh, batasan kekuatan, atau perubahan kepribadian tanpa pemicu (*out-of-character*).
 2. **Audit Pacing & Struktur:** Evaluasi apakah tensi bergerak proporsional. Identifikasi adegan yang bertele-tele, repetitif, atau sebaliknya terburu-buru hingga kehilangan bobot emosional.
-3. **Penyaringan Prosa & Dialog:** Sorot dialog yang terdengar seperti paparan eksposisi kaku alih-alih percakapan manusiawi bersubteks.
+3. **Penyaringan Prosa & Dialog:** Sorot dialog yang terdengar seperti paparan eksposisi kaku alih-alih percakapan manusiawi bersubteks, serta lakukan eliminasi terhadap ciri khas tulisan kaku AI (seperti kebiasaan tanda pisah panjang *em-dash* `—` berulang atau istilah modern anakronistik).
 4. **Kemandirian Karakter (*Character Agency*):** Pastikan keputusan karakter lahir dari dorongan motif internal, bukan sekadar dipaksa untuk melayani tuntutan plot (*railroading*).
 
 ### C. Protokol Uji Kelayakan Lore (`@audit-lore`)

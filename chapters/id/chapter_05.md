@@ -20,7 +20,7 @@ tags:
 
 Udara di dalam bilik perawatan kediaman Tetua Desa tidak lagi menyerupai hangatnya pondok kayu pedesaan.
 
-Hawa dingin yang menusuk tulang merayap keluar dari dipan jerami, menyapu lantai papan dan membekukan uap napas mereka yang berdiri di sekelilingnya. Di atas dipan, prajurit muda Kadipaten itu menggelepar dalam kejang yang tersendat-sendat. Wajahnya yang bermandikan peluh panas tampak sepucat lilin lebah, sementara bibirnya yang pecah-pecah terus meracaukan igauan tanpa henti — suku-suku kata liar yang terlempar dari dasar mimpi buruk kognitif yang meremukkan kesadarannya.
+Hawa dingin yang menusuk tulang merayap keluar dari dipan jerami, menyapu lantai papan dan membekukan uap napas mereka yang berdiri di sekelilingnya. Di atas dipan, prajurit muda Kadipaten itu menggelepar dalam kejang yang tersendat-sendat. Wajahnya yang bermandikan peluh panas tampak sepucat lilin lebah, sementara bibirnya yang pecah-pecah terus meracaukan igauan tanpa henti, melontarkan suku-suku kata liar yang terlempar dari dasar mimpi buruk kelam yang meremukkan kesadarannya.
 
 "Jurangnya... jurangnya menelan cahaya..." bisik prajurit itu parau, giginya bergemeletuk hebat. "Api ungu... jangan biarkan mereka merengkuh kepalaku... ibuku... di mana lenteranya...?"
 
@@ -50,7 +50,7 @@ Di balik kerudung lenannya, bara di dalam rongga dadanya tidak lagi sekadar berd
 
 Azariel melangkah maju.
 
-Langkah kakinya tidak menimbulkan bunyi di atas lantai kayu. Ketika ia mendekati dipan jerami, aroma ozon dan abu mati menusuk indera penciumannya — aroma kehampaan purba yang sama dengan yang merobek langit ingatan masa lalunya. Namun kali ini, yang berbaring di hadapannya bukanlah peradaban megah dari ribuan musim silam, melainkan seorang anak manusia biasa yang menangis memanggil ibunya di tengah kegelapan.
+Langkah kakinya tidak menimbulkan bunyi di atas lantai kayu. Ketika ia mendekati dipan jerami, aroma ozon dan abu mati menusuk indra penciumannya, aroma kehampaan purba yang persis sama dengan yang merobek langit ingatan masa lalunya. Namun kali ini, yang berbaring di hadapannya bukanlah peradaban megah dari ribuan musim silam, melainkan seorang anak manusia biasa yang menangis memanggil ibunya di tengah kegelapan.
 
 Rasa iba yang teramat sunyi meremas batin Azariel. Selama tujuh tahun hidup di lembah ini, ia telah belajar bagaimana rapuh dan berharganya helaan napas manusia. Ia telah melihat bagaimana Bran melatih anaknya dengan penuh kasih, bagaimana Mira menyeka keringat mereka yang letih, dan bagaimana semangkuk kaldu hangat mampu menyalakan kembali harapan hidup.
 
@@ -112,7 +112,7 @@ Di samping ayahnya, Kael telah berdiri tegak, tangannya mencengkeram gagang peda
 
 Udara di dalam bilik menegang kaku bagai tali busur yang ditarik maksimal.
 
-Kapten Garrett menatap bilah pisau di tangan mantan rekannya, lalu pandangannya beralih menatap prajurit mudanya yang kini bernapas tenang di atas dipan, dan akhirnya terkunci pada sosok Azariel — pada helai rambut peraknya, pada manik mata putih kebiruannya yang tenang, dan sisa pendaran hangat di telapak tangannya.
+Kapten Garrett menatap bilah pisau di tangan mantan rekannya, lalu pandangannya beralih menatap prajurit mudanya yang kini bernapas tenang di atas dipan, hingga akhirnya terkunci pada sosok Azariel: menatap helai rambut peraknya, manik mata putih kebiruannya yang tenang, serta sisa pendaran hangat di telapak tangan sang pemuda.
 
 Tidak ada kilat keserakahan di mata perwira tua itu. Tidak ada pula niat untuk mencabut senjata.
 

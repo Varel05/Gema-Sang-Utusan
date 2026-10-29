@@ -20,7 +20,7 @@ tags:
 
 The air within the healing chamber of the Village Elder's homestead no longer bore the fragrant warmth of rustic pine.
 
-A bone-chilling frost crawled outward from the straw cot, skimming across the floorboards and crystallizing the breath of those standing around it. Upon the pallet, the young Leovard guardsman convulsed in ragged, stuttering fits. His face, drenched in boiling fever-sweat, was pale as tallow, while his cracked, blackened lips ceaselessly gasped fragments of raving delirium—wild, fractured syllables hurled from the depths of a cognitive nightmare that was disintegrating his mind.
+A bone-chilling frost crawled outward from the straw cot, skimming across the floorboards and crystallizing the breath of those standing around it. Upon the pallet, the young Leovard guardsman convulsed in ragged, stuttering fits. His face, drenched in boiling fever-sweat, was pale as tallow, while his cracked, blackened lips ceaselessly gasped fragments of raving delirium—wild, fractured syllables hurled from the depths of a dark nightmare that was disintegrating his mind.
 
 "The canyon... it swallows the sun..." the soldier wheezed, his teeth chattering violently. "The purple fire... don't let them take my head... Mother... where did you put the lantern...?"
 
