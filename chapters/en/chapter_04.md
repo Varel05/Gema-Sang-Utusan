@@ -157,7 +157,7 @@ The stench of ozone and dead ash—the bitter vapor of the void he remembered al
 
 "Clear the way!" Bran’s voice thundered across the homesteads, guiding the exhausted mounts toward the Village Elder’s compound. "Take him straight to the Elder’s house! Make haste!"
 
-Astride the foremost horse, a grizzled officer with a crooked gorget and hollow, haggard eyes—Captain Garrett—struggled to hold upright a young guardsman who slumped lifelessly against the pommel. The wounded youth groaned in ragged, breathless fits, his head lolling limply, while his torn surcoat seeped a thin plume of freezing white vapor. From the youth's pale, cyanotic lips poured wild, feverish muttering—the raving of a mortal soul being dragged down into a nightmare of soundless hollows.
+Astride the foremost horse, a grizzled officer with a crooked gorget and hollow, haggard eyes—Captain Garrett—held tight to a young guardsman who slumped lifelessly against his saddle. The youth was completely limp and spent, his head swaying slackly with the violent jolts of the gallop, nearly pitching down into the dirt had Garrett’s arm not clamped firmly around him to keep him upright—his torn wool cloak eerily seeping a thin plume of freezing white vapor into the warm afternoon air.
 
 "Mira!" Bran barked, spotting the young healer standing alert beside his son and Azariel by the roadside. "Open your grandfather's healing ward! We bear a dying man!"
 

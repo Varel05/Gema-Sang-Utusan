@@ -154,7 +154,7 @@ Bau ozon dan abu mati — aroma tajam kehampaan yang teramat ia kenali dari mala
 
 "Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
-Di atas kuda terdepan, sesosok perwira berwajah tirus dengan cambang kelabu dan baju zirah leher yang miring — Kapten Garrett — berusaha menahan tubuh seorang prajurit muda yang melorot terkulai di pelana di sampingnya. Prajurit muda itu mengerang parau tanpa henti, kepalanya terkulai lunglai, dan pakaian zirahnya yang koyak dibalut jubah wol yang mengeluarkan kepulan uap putih tipis yang beku. Dari bibir pemuda yang membiru pucat itu, meluncur racauan mengigau liar — suara seorang manusia yang jiwanya tengah ditarik ke dalam teror mimpi buruk yang gelap gulita.
+Di atas kuda terdepan, sesosok perwira berwajah tirus dengan cambang kelabu dan baju zirah leher yang miring — Kapten Garrett — merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya, kepalanya terayun lemas seiring derap kuda, nyaris tergelincir jatuh jika saja lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak — jubah yang anehnya mengeluarkan kepulan uap putih tipis yang beku ke udara siang yang hangat.
 
 "Mira!" seru Bran saat melihat gadis tabib itu berdiri siaga di tepi jalan bersama putranya dan Azariel. "Buka bilik perawatan kakekmu! Kami membawa orang terluka yang sekarat!"
 
