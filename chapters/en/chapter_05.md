@@ -36,7 +36,7 @@ The warm herbal draught never sank into the flesh. Within a heartbeat, the liqui
 
 The Village Elder stepped forward, resting a weathered, vein-ridged hand upon the youth's fevered brow as he recited the archaic warding prayers of the Remnant. Yet the deep furrows upon the old man's brow only deepened with grim dread.
 
-"This is neither the venom of beasts nor a mortal suppuration," the Elder said, his voice heavy above the flickering lantern light. "It is the blight of *Corrosion*... an ontological decay that unmakes the foundation of living flesh. Barring a miracle of heaven, before the dawn breaks, the seed of his mind will turn to ash, leaving only an empty, frozen husk."
+"This is neither the venom of beasts nor a mortal suppuration," the Elder said, his voice heavy above the flickering lantern light. "It is the blight of *Corrosion*... a creeping decay that devours mortal flesh and soul. Barring a miracle of heaven, before the dawn breaks, the spark of his life will turn to ash, leaving only an empty, frozen husk."
 
 Near the timber doorway, Captain Garrett gripped the edge of the herb bench so fiercely his knuckles turned bone-white. The grizzled veteran bowed his head, his grizzled beard smeared with dried gore, his broad shoulders trembling under a despair that stripped away every shred of martial pride.
 
@@ -46,7 +46,7 @@ Beside him, Kael stared down at the dying guardsman, his jaw clenched tight. The
 
 Azariel did not move.
 
-Beneath his linen cowl, the ember nestled within his breast no longer merely pulsed. The essence of the Heart of Aethel surged with violent warmth, roaring in silent rebellion against the cold, dead hollow that was devouring the young soldier.
+Beneath his linen cowl, the ember nestled within his breast no longer merely pulsed. The warm fire surged with violent intensity, roaring in silent defiance against the cold, dead hollow that was devouring the young soldier.
 
 Azariel stepped forward.
 
@@ -70,15 +70,15 @@ Azariel extended his bare right hand. Without glove and without hesitation, he l
 
 Instantly, the freezing void within the wound struck Azariel's skin like a thousand needles of ice. Yet the chill lasted only a fraction of a heartbeat.
 
-From the deepest core of his chest, the Heart of Aethel answered the violation with absolute warmth.
+From the deepest core of his chest, the quiet ember answered that icy strike with a surge of unyielding warmth.
 
-A luminous surge of azure order flared beneath the skin of Azariel's arm. The deep-set veins that normally lay dark and dormant suddenly ignited in radiant, crystal-blue light, coursing rapidly from his shoulder down his forearm into his fingertips. The freezing air surrounding the cot dissolved in a sudden, fragrant breeze, carrying the rich scent of fertile soil awakened by spring rain.
+A luminous glow of pure, unearthly azure suddenly flared beneath the skin of Azariel's arm. The deep-set veins that normally lay dark and dormant suddenly ignited in radiant, crystal-blue light, coursing rapidly from his shoulder down his forearm into his fingertips. The freezing air surrounding the cot dissolved in a sudden, fragrant breeze, carrying the rich scent of fertile soil awakened by spring rain.
 
 From beneath Azariel's palm, ribbons of white fire veiled in brilliant blue spilled forth, enveloping the soldier’s withered flank.
 
 *Hiiisssss!*
 
-A thick plume of dark purple mist shrieked as the white-blue fire consumed the creeping frost. Flakes of blackened ash detached from the rim of the wound, disintegrating into sparks of incandescent dust that melted away into the air. The venomous violet veins branching across the youth’s chest snapped and retreated, unraveling before the primal law of order restored by Azariel’s touch.
+A thick plume of dark purple mist shrieked as the white-blue fire dissolved the creeping frost. Motes of blackened ash detached from the rim of the wound, disintegrating into faint dust that melted away into the air. The venomous violet veins branching across the youth’s chest snapped and retreated, forced back by the surge of living warmth pouring from Azariel’s hand.
 
 And then, an unseen resonance struck Azariel’s consciousness.
 
@@ -86,7 +86,7 @@ And then, an unseen resonance struck Azariel’s consciousness.
 
 In a fleeting instant, a tapestry of memories not his own blossomed across Azariel’s mind: the comforting aroma of pumpkin soup in a modest kitchen within the frontier city; the bright laughter of a mother fastening a bronze medal to her son’s new surcoat; and then... the shearing terror of the northern canyon as purple fog crept down the crags, followed by the hoarse shrieking of headless terrors shattering their iron lances like dried twigs.
 
-The fear, the longing, and the unblemished love of the mortal youth flowed through Azariel’s soul. A single warm tear slipped down Azariel's cheek as he received the weight of that grief, dissolving the nightmare into the quiet stillness of his eternal flame.
+The fear, the longing, and the unblemished love of the mortal youth flowed through Azariel’s soul. A single warm tear slipped down Azariel's cheek as he received the weight of that grief, dissolving the nightmare into the quiet hearth within his chest.
 
 The white-blue luminescence receded into a long, quiet exhale.
 
@@ -94,7 +94,7 @@ When Azariel slowly lifted his hand, an absolute, breathless hush enveloped the 
 
 Upon the young guardsman’s flank, the horrifying crater had vanished entirely. In its place remained only a clean, pale-pink scar, knit tight and fully restored. The soldier’s skin no longer burned with delirium; his sweat had dried, and a healthy flush of life had returned to his cheeks. His chest rose and fell in deep, peaceful rhythms, surrendered to natural, restorative slumber.
 
-The miracle was absolute. Order had triumphed over rot.
+The miracle stood plain before their eyes. Life had been snatched back from the jaws of death.
 
 Mira stared in open-mouthed wonder, bringing both hands to her lips. "The wound... it's gone. Completely healed..."
 

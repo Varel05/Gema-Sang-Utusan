@@ -23,11 +23,11 @@ Dan di bawah kedua kakinya... ribuan jeritan fana merayap di atas tanah yang ret
 
 Makhluk-makhluk kecil berdaging dan berdarah itu menangis, memeluk anak-anak mereka di dalam lumpur, memohon belas kasih yang telah tertutup oleh titah langit.
 
-Ia tahu hakikat keberadaannya. Ia tidak tercipta dari cahaya langit, melainkan terjalin dari urat bumi dan keteraturan semesta tempat makhluk-makhluk fana itu bernapas. 
+Ia tahu hakikat keberadaannya. Ia tidak tercipta dari cahaya langit, melainkan terjalin dari urat bumi dan napas kehidupan tempat makhluk-makhluk fana itu bernaung. 
 
 Maka, ia melangkah maju.
 
-Kedua tangannya terangkat menyongsong langit yang runtuh. Dari dadanya, ia memancarkan dinding penahan, sebuah benteng tak kasatmata yang dipilin dari denyut hukum alam demi melindungi raga-raga fana yang menangis di belakang punggungnya. Ketika bilah-bilah cahaya pemurnian menghujam ke bawah, benturan itu meremukkan ruang.
+Kedua tangannya terangkat menyongsong langit yang runtuh. Dari dadanya, ia memancarkan dinding penahan, sebuah benteng tak kasatmata yang dipilin dari denyut napas bumi demi melindungi raga-raga fana yang menangis di belakang punggungnya. Ketika bilah-bilah cahaya pemurnian menghujam ke bawah, benturan itu mengguncang langit dan bumi.
 
 Rasa sakit itu tidak menyerang daging, melainkan merobek hakikat dirinya.
 
@@ -79,7 +79,7 @@ Mira mengambil mangkuk tembikar, mengaduk isinya dengan sendok kayu. Aroma kaldu
 
 Pemuda itu menatap sendok kayu dengan ragu. Tangannya terulur mencoba meraih gagang sendok itu sendiri, namun jemarinya yang kaku dan gemetar tak mampu mencengkeram kayu licin itu dengan pas. Sendok itu miring, menumpahkan setetes kaldu hangat ke atas selimut wol.
 
-Pemuda itu membeku. Sorot matanya terpaku pada noda basah di selimut, napasnya tertahan seolah ia baru saja merusak tatanan besar yang tak termaafkan.
+Pemuda itu membeku. Sorot matanya terpaku pada noda basah di selimut, napasnya tertahan seolah ia baru saja melakukan kesalahan besar yang tak termaafkan.
 
 Mira tersenyum kecil. Tanpa sedikit pun rasa kesal, gadis itu menyeka noda tersebut dengan kain lap basah.
 
@@ -103,7 +103,7 @@ Kael menyeringai lebar, menghambur ke tepi dipan dengan tatapan kagum.
 
 "Hei! Kau mendengarku, kan, Kak?" seru Kael antusias. "Semalam kau hebat sekali! Kau menahan cakar monster ungu itu cuma dengan tangan kosong! Tapi setelah itu kau langsung ambruk seperti batang kayu tumbang. Ayahku yang membopongmu ke sini!"
 
-Pemuda itu berkedip perlahan, tersentak oleh luapan energi anak laki-laki itu.
+Pemuda itu berkedip perlahan, tersentak oleh luapan semangat anak laki-laki itu.
 
 "Kael, jangan terlalu dekat!" Mira menarik ujung rompi kulit Kael.
 
@@ -129,7 +129,7 @@ Sang Tetua Desa berkunjung ke bilik tersebut setiap matahari terbit dan tenggela
 
 *"Azariel... Pertolongan Tuhan bagi tanah yang terluka."*
 
-Nama itu meresap ke dalam jiwanya, menjadi jangkar bagi eksistensinya yang baru di dunia fana.
+Nama itu meresap ke dalam jiwanya, menjadi penambat bagi kehidupannya yang baru di dunia fana.
 
 Dari beranda belakang tempat ia mulai diizinkan duduk menghirup udara segar, Azariel mengamati denyut desa agraris itu. 
 
@@ -153,7 +153,7 @@ Mira kemudian mengambil sebilah arang hitam dan menggoreskan tiga lambang aksara
 
 Mira menyodorkan arang itu. Azariel menerimanya. Namun saat jemarinya menekan arang ke permukaan kulit kayu, batang arang yang rapuh itu seketika patah menjadi serpihan kecil.
 
-Azariel mematung menatap remah arang di telapak tangannya. Matanya memancarkan rasa bersalah yang dalam. Tangannya yang dulu terbiasa menopang benteng kosmis kini terlalu kaku untuk mengendalikan kerapuhan benda fana.
+Azariel mematung menatap remah arang di telapak tangannya. Matanya memancarkan rasa bersalah yang dalam. Tangannya yang dulu terbiasa menopang kubah langit kini terlalu kaku untuk mengendalikan kerapuhan benda fana.
 
 Mira hanya tertawa kecil, menyapu serpihan hitam itu dan menyodorkan sepotong arang baru.
 
@@ -163,7 +163,7 @@ Tiga kali Azariel gagal karena garisnya patah atau terlalu tebal. Pada usaha kee
 
 Mira menatap lambang itu dengan mata membulat takjub. "Garisnya... sempurna sekali. Aku butuh berminggu-minggu hanya untuk membuat lengkungannya rapi."
 
-Azariel menatap aksara itu dalam hening. Di rak dinding beranda, tersandar gulungan doa leluhur milik sang Tetua. Dalam tulisan kuno yang mulai bisa ia eja, gulungan itu menyebut Sang Utusan sebagai entitas yang menuntut ketundukan mutlak manusia. Jemarinya meremas tepi serpihan kulit kayu itu lebih kuat saat ingatan tentang langit putih menerobos masuk ke benaknya: hamparan yang dingin, teramat luas, dan hampa dari belas kasih. Bilah-bilah cahaya pemurnian. Jeritan di bawah kakinya. Rasa sakit menahan sesuatu yang seharusnya tidak ditahan.
+Azariel menatap aksara itu dalam hening. Di rak dinding beranda, tersandar gulungan doa leluhur milik sang Tetua. Dalam tulisan kuno yang mulai bisa ia eja, gulungan itu menyebut Sang Utusan sebagai sosok suci pembawa titah yang menuntut ketundukan mutlak manusia. Jemarinya meremas tepi serpihan kulit kayu itu lebih kuat saat ingatan tentang langit putih menerobos masuk ke benaknya: hamparan yang dingin, teramat luas, dan hampa dari belas kasih. Bilah-bilah cahaya pemurnian. Jeritan di bawah kakinya. Rasa sakit menahan sesuatu yang seharusnya tidak ditahan.
 
 Sebuah tanya mengendap tanpa kata di dalam dadanya.
 

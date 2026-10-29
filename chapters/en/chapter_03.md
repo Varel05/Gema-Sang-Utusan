@@ -18,17 +18,17 @@ The sky in that ancient memory held no shade of blue.
 
 There were no clouds, no whispering mountain winds, and no golden sun to warm the soil. What stretched across the firmament was an expanse of blinding, immaculate white—frigid, unyielding, and demanding total extinction. That radiance was no source of life; it was a sovereign decree demanding absolute cleansing.
 
-From the torn vault of the split heavens stood a solitary entity woven from the fierce embers of celestial light. Its wings spanned the horizon, casting immaculate blades of flame downward to scour the dust deemed stained.
+From the torn vault of the split heavens stood a solitary being woven from the fierce embers of celestial light. Its wings spanned the horizon, casting immaculate blades of flame downward to scour the dust deemed stained.
 
 And beneath its feet... thousands of mortal cries crawled upon the shattered earth.
 
 Those small beings of blood and bone wept, clutching their children in the churning mire, begging for a mercy already foreclosed by the decree of heaven.
 
-He knew the essence of his own existence. He was not born of celestial light, but woven from the deep veins of the earth and the harmonious order of the realm where those mortals drew their breath.
+He knew the truth of his being. He was not born of celestial light, but woven from the deep veins of the earth and the living breath of the realm where those mortals dwell.
 
 And so, he stepped forward.
 
-His arms rose against the falling sky. From his breast, he projected a towering bulwark—an invisible bastion braided from the primal laws of nature, shielding the weeping mortals at his back. When the descending blades of cleansing struck, the collision fractured the fabric of space itself.
+His arms rose against the falling sky. From his breast, he projected a towering bulwark—an invisible bastion braided from the deep pulse of the earth, shielding the weeping mortals at his back. When the descending blades of cleansing struck, the collision shattered the firmament.
 
 The agony did not rend mortal flesh; it tore at the very fabric of his being.
 
@@ -80,7 +80,7 @@ Mira lifted the pottery bowl, stirring its contents with a carved wooden spoon. 
 
 He stared at the wooden spoon with hesitant wonder. He reached out to take it himself, yet his stiff, unpracticed fingers failed to grip the smooth wood. The spoon tilted, spilling a warm droplet of broth onto the coarse woolen blanket.
 
-He froze. His gaze locked onto the damp stain, his breath hitching as though he had committed an unpardonable disruption of cosmic order.
+He froze. His gaze locked onto the damp stain, his breath hitching as though he had committed an unpardonable fault.
 
 Mira offered a small, reassuring smile. Without the slightest trace of irritation, she dabbed the spill clean with her cloth.
 
@@ -130,7 +130,7 @@ The Village Elder visited the small room at every sunrise and dusk. The silver-b
 
 *"Azariel... God’s Aid to a wounded earth."*
 
-The name settled into his consciousness, rooting his newborn existence into the mortal world.
+The name settled into his consciousness, tethering his newborn life to the mortal world.
 
 From the rear porch where he was soon permitted to sit and breathe the crisp mountain air, Azariel observed the pulse of the agrarian settlement.
 
@@ -154,7 +154,7 @@ Picking up a charcoal stick, Mira sketched three ancient script symbols onto the
 
 Mira offered the charcoal. Azariel took it between his fingers. Yet when he pressed the tip against the bark, the brittle stick snapped instantly under his unconscious pressure, crumbling into black dust.
 
-Azariel froze, staring down at the crushed charcoal in his palm. Deep guilt shadowed his eyes. Hands once accustomed to anchoring the fabric of creation were now too uncalibrated to govern the fragile things of earth.
+Azariel froze, staring down at the crushed charcoal in his palm. Deep guilt shadowed his eyes. Hands that had once braced the falling sky were now too unpracticed to govern the fragile things of earth.
 
 Mira merely laughed softly, sweeping away the black dust and pressing a fresh piece into his hand.
 
@@ -164,7 +164,7 @@ Five times he failed, the lines fracturing or running too thick. On the sixth at
 
 Mira stared at the glyph, her eyes wide with wonder. "The lines... they're so neat," she whispered in amazement. "It took me weeks just to draw the curves evenly."
 
-Azariel gazed upon the script in silence. On a shelf along the porch wall leaned an ancestral prayer scroll belonging to the Elder. In the archaic tongue he was learning to read, the text described the Envoy as an unbending authority demanding absolute mortal submission. His fingers tightened around the edge of the bark strip, the memory of the white sky pressing in behind his eyes—cold, vast, pitiless. The blades of cleansing. The screaming below him. The agony of shielding something that was not supposed to be shielded.
+Azariel gazed upon the script in silence. On a shelf along the porch wall leaned an ancestral prayer scroll belonging to the Elder. In the archaic tongue he was learning to read, the text described the Envoy as a sacred herald demanding absolute mortal submission. His fingers tightened around the edge of the bark strip, the memory of the white sky pressing in behind his eyes—cold, vast, pitiless. The blades of cleansing. The screaming below him. The agony of shielding something that was not supposed to be shielded.
 
 A silent, wordless question settled within his heart.
 

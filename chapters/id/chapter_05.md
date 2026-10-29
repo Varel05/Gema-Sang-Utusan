@@ -36,7 +36,7 @@ Cairan herba hangat yang menyentuh tepi luka abu itu tidak meresap ke dalam dagi
 
 Sang Tetua Desa melangkah maju, meletakkan telapak tangannya yang berurat di atas kening sang prajurit seraya melafalkan doa-doa perlindungan purba kaum *The Remnant*. Namun gurat kecemasan di wajah pria tua itu kian mendalam.
 
-"Ini bukan racun binatang buas, dan bukan pula infeksi nanah fana," suara sang Tetua meluncur berat di antara derak lentera. "Ini adalah racun *Corrosion*... pembusukan tatanan yang menggerus hakikat raga. Tanpa keajaiban langit, sebelum fajar tiba, benih kesadarannya akan lumat dan tubuhnya akan menjadi cangkang kosong yang membeku."
+"Ini bukan racun binatang buas, dan bukan pula infeksi nanah fana," suara sang Tetua meluncur berat di antara derak lentera. "Ini adalah racun *Corrosion*... pembusukan kelam yang menggerus daging dan jiwa fana. Tanpa keajaiban langit, sebelum fajar tiba, benih kesadarannya akan lumat dan tubuhnya akan menjadi cangkang kosong yang membeku."
 
 Di dekat pintu bilik, Garrett mencengkeram tepi meja obat dengan jemari yang memutih pucat. Prajurit veteran itu menundukkan kepalanya yang berlumur darah kering, bahunya bergetar oleh keputusasaan yang menghancurkan wibawa perwiranya.
 
@@ -46,7 +46,7 @@ Kael menatap prajurit sebaya itu dengan rahang terkatup rapat. Di tangannya, kai
 
 Azariel tidak bergeming.
 
-Di balik kerudung lenannya, bara di dalam rongga dadanya tidak lagi sekadar berdenyut. Esensi Jantung Aethel bergolak liar, mendidih dalam frekuensi hangat yang memprotes kehadiran hawa dingin kelam yang tengah melumat prajurit muda itu. 
+Di balik kerudung lenannya, bara di dalam rongga dadanya tidak lagi sekadar berdenyut. Api hangat itu bergolak liar, mendidih dalam debaran panas yang seakan menolak kehadiran hawa dingin kelam yang tengah melumat prajurit muda itu. 
 
 Azariel melangkah maju.
 
@@ -70,15 +70,15 @@ Azariel mengulurkan tangan kanannya. Tanpa sarung tangan dan tanpa ragu, ia mene
 
 Seketika itu juga, hawa beku dari luka sang prajurit menyengat telapak tangan Azariel bagai tusukan ribuan jarum es. Namun kebekuan itu hanya bertahan sedetik.
 
-Dari titik pusat di rongga dadanya, bara Jantung Aethel menjawab benturan itu dengan kehangatan mutlak.
+Dari titik pusat di rongga dadanya, bara hangat itu menjawab sengatan dingin tersebut dengan luapan kehangatan yang murni.
 
-Pendaran cahaya biru tatanan semesta seketika menyala di bawah permukaan kulit lengan Azariel. Sulur-sulur pembuluh vena yang biasanya gelap kini berkobar terang dalam cahaya biru cerah, menjalar cepat dari pangkal bahunya menuruni lengan bawah hingga ke ujung jemarinya. Udara dingin di sekitar dipan mendadak berdesir hangat, menyebarkan aroma tanah subur yang disiram hujan pertama musim semi.
+Pendaran cahaya biru yang begitu murni dan ganjil seketika menyala di bawah permukaan kulit lengan Azariel. Sulur-sulur pembuluh vena yang biasanya gelap kini berkobar terang dalam cahaya biru cerah, menjalar cepat dari pangkal bahunya menuruni lengan bawah hingga ke ujung jemarinya. Udara dingin di sekitar dipan mendadak berdesir hangat, menyebarkan aroma tanah subur yang disiram hujan pertama musim semi.
 
 Dari balik telapak tangan Azariel, lidah-lidah api putih bersemburat biru memancar lembut, menyelimuti seluruh lambung sang prajurit.
 
 *Ssssshh!*
 
-Kepulan uap ungu gelap mendesis liar saat bara putih-kebiruan itu melarutkan kebekuan abu. Partikel-partikel hitam pekat terlepas dari tepi luka, terbakar lenyap menjadi debu cahaya yang memudar di udara bilik. Urat-urat ungu beracun yang merambat di dada sang prajurit seketika surut dan pecah, ditarik mundur oleh tatanan hukum alam yang dipulihkan oleh sentuhan Azariel.
+Kepulan uap ungu gelap mendesis liar saat bara putih-kebiruan itu melarutkan kebekuan abu. Butiran-butiran abu hitam pekat terlepas dari tepi luka, terbakar lenyap menjadi debu tipis yang memudar di udara bilik. Urat-urat ungu beracun yang merambat di dada sang prajurit seketika surut dan pecah, dipaksa mundur oleh kehangatan hidup yang mengalir deras dari telapak tangan Azariel.
 
 Lalu, sebuah sengatan getaran batin merayap masuk ke kesadaran Azariel.
 
@@ -86,7 +86,7 @@ Lalu, sebuah sengatan getaran batin merayap masuk ke kesadaran Azariel.
 
 Dalam sekejap mata, sebuah kilasan memori yang bukan miliknya meledak di benak Azariel: aroma harum sup labu di dapur sederhana kota perbatasan; tawa riang seorang ibu yang menyematkan medali tembaga ke jubah putranya; dan kemudian... jeritan ngeri di ngarai utara saat kabut ungu merayap turun dari tebing batu, disusul desau parau makhluk tanpa kepala yang menghancurkan zirah baja mereka laksana ranting kering.
 
-Rasa takut, kerinduan, dan cinta fana yang murni dari prajurit itu mengalir menembus batin Azariel. Satu tetes air mata hangat bergulir di pipi Azariel saat ia menyerap beban trauma tersebut dan melarutkannya ke dalam keheningan bara abadi.
+Rasa takut, kerinduan, dan cinta fana yang murni dari prajurit itu mengalir menembus batin Azariel. Satu tetes air mata hangat bergulir di pipi Azariel saat ia menyerap beban trauma tersebut dan melarutkannya ke dalam keheningan bara di dalam dadanya.
 
 Cahaya putih-kebiruan itu mereda dalam satu helaan napas panjang.
 
@@ -94,7 +94,7 @@ Ketika Azariel perlahan mengangkat telapak tangannya, keheningan mutlak mencengk
 
 Di lambung sang prajurit muda, rongga abu yang mengerikan itu telah lenyap tanpa bekas. Yang tersisa di atas kulitnya hanyalah garis parut merah muda yang telah menutup rapat dan sehat. Kulit sang prajurit tidak lagi membara oleh demam; keringat dinginnya telah kering, dan rona merah alami perlahan kembali mewarnai pipinya yang semula pucat pasi. Napas pemuda itu kini mengalun dalam, teratur, dan damai dalam tidur lelap pemulihan.
 
-Mukjizat itu nyata. Tatanan telah dikembalikan.
+Mukjizat itu nyata di depan mata mereka. Kehidupan telah direnggut kembali dari cengkeraman maut.
 
 Mira membekukan pandangannya, matanya membulat takjub seraya membekap mulutnya sendiri dengan kedua tangan. "Lukanya... tertutup seutuhnya..."
 
@@ -136,7 +136,7 @@ Sang Tetua Desa melangkah mendekat, meletakkan tangannya di atas pundak zirah Ga
 
 Sang Tetua memandang Azariel yang telah kembali berdiri tegak.
 
-"Tujuh musim kita menutupi keberadaanmu di bawah naungan ara tua, Azariel," lanjut sang kakek dengan pandangan penuh kearifan luhur. "Namun cangkang-cangkang kehampaan itu bangun bukan karena kebetulan. Mereka merangsek ke perbatasan dipandu oleh rasa lapar purba akan esensi Jantung Aethel yang bersemayam di dalam dadamu. Jika kau tetap berdiam di lembah ini, bau esensi itu cepat atau lambat akan menarik seluruh kawanan *The Husks* ke pemukiman kita, dan prajurit Kadipaten akan membakar desa ini demi memburu mereka."
+"Tujuh musim kita menutupi keberadaanmu di bawah naungan ara tua, Azariel," lanjut sang kakek dengan pandangan penuh kearifan luhur. "Namun cangkang-cangkang kehampaan itu bangun bukan karena kebetulan. Mereka merangsek ke perbatasan dipandu oleh rasa lapar purba akan kehangatan bara Jantung Aethel yang bersemayam di dalam dadamu. Jika kau tetap berdiam di lembah ini, kehangatan bara itu cepat atau lambat akan menarik seluruh kawanan *The Husks* ke pemukiman kita, dan prajurit Kadipaten akan membakar desa ini demi memburu mereka."
 
 Azariel terdiam sejenak. Ia menatap telapak tangannya sendiri, lalu beralih menatap wajah damai prajurit muda yang baru saja ia selamatkan. Kilasan memori tentang cinta fana sang prajurit masih berdenyut hangat di dalam nuraninya.
 

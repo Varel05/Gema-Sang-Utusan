@@ -65,8 +65,12 @@ Saat menulis adegan baru atau mengevaluasi bab, tegakkan standar berikut:
     - Apabila deskripsi aksi atau penjelas berbobot panjang, pecah menjadi dua kalimat terpisah untuk mempertegas tensi dramatis dan ketukan narasi (*pacing*).
   - **Naturalisasi Percakapan & Keraguan Dialog:**
     - Gunakan tanda elipsis (`...`) untuk tuturan yang memudar, ragu, melambat, atau dipotong secara manusiawi dalam dialog, bukan tanda pisah kaku.
+  - **Disiplin Perspektif Manusiawi & Eliminasi Abstraksi Meta-Kosmis (*Mortal Sensory Realism*):**
+    - Narasi dan dialog (terutama pada sudut pandang orang ketiga terbatas / *Third-Person Limited*) wajib mematuhi kapasitas kognisi dan pengenalan manusiawi.
+    - Dilarang keras menggunakan jargon sains modern atau abstraksi meta-kosmis yang melompati kapasitas persepsi indrawi fana (misal: *pendaran cahaya biru tatanan semesta*, *tatanan hukum alam*, *benteng kosmis*, *partikel*, *entitas*, *frekuensi*, *eksistensi*, *ontologis*).
+    - Fenomena supranatural, sihir, dan mukjizat wajib digambarkan secara organik melalui persepsi sensorik nyata yang dialami atau disaksikan manusia: pendaran warna yang murni dan ganjil, kontras suhu (kehangatan hidup vs kebekuan kehampaan), suara getaran, aroma tanah subur atau abu mati, serta reaksi takjub atau gentar dari saksi mata.
   - **Penyaringan Istilah Anakronistik Modern:**
-    - Hindari penggunaan kosakata konseptual/modern yang tidak selaras dengan atmosfer *High Fantasy* (misal: *kognitif*, *persentase*, *mekanisme*, *efisiensi*) ke dalam dialog atau persepsi karakter fana, kecuali jika diuraikan secara analitis dalam persepsi kosmis Azariel terhadap hukum tatanan semesta.
+    - Hindari penggunaan kosakata konseptual/modern yang tidak selaras dengan atmosfer *High Fantasy* (misal: *kognitif*, *persentase*, *mekanisme*, *efisiensi*, *frekuensi*). Jaga agar perbendaharaan kata tetap grounded, arkais, dan berakar pada tradisi lisan sastrawi.
 
 ---
 ## 3. PROTOKOL OPERASIONAL EDITOR
@@ -83,7 +87,7 @@ Sebelum menulis atau mengulas naskah bab:
 Lakukan evaluasi multi-lapis terhadap draf bab:
 1. **Pemeriksaan Kontinuitas (Kanon & Logika Internal):** Deteksi kontradiksi fisik, linimasa waktu tempuh, batasan kekuatan, atau perubahan kepribadian tanpa pemicu (*out-of-character*).
 2. **Audit Pacing & Struktur:** Evaluasi apakah tensi bergerak proporsional. Identifikasi adegan yang bertele-tele, repetitif, atau sebaliknya terburu-buru hingga kehilangan bobot emosional.
-3. **Penyaringan Prosa & Dialog:** Sorot dialog yang terdengar seperti paparan eksposisi kaku alih-alih percakapan manusiawi bersubteks, serta lakukan eliminasi terhadap ciri khas tulisan kaku AI (seperti kebiasaan tanda pisah panjang *em-dash* `—` berulang atau istilah modern anakronistik).
+3. **Penyaringan Prosa & Dialog:** Sorot dialog yang terdengar seperti paparan eksposisi kaku alih-alih percakapan manusiawi bersubteks, serta lakukan eliminasi terhadap ciri khas tulisan kaku AI (seperti kebiasaan tanda pisah panjang *em-dash* `—` berulang, istilah modern anakronistik, atau abstraksi meta-kosmis/jargon semu-sains yang melanggar batas kognisi manusia).
 4. **Kemandirian Karakter (*Character Agency*):** Pastikan keputusan karakter lahir dari dorongan motif internal, bukan sekadar dipaksa untuk melayani tuntutan plot (*railroading*).
 
 ### C. Protokol Uji Kelayakan Lore (`@audit-lore`)

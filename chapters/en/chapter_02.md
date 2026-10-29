@@ -104,7 +104,7 @@ A murmur of dread rippled through the men.
 
 The Elder looked upon his people, voicing an archaic name buried deep within the folds of their oral legacy:
 
-"Our forebears named such an entity... *The Husk*."
+"Our forebears named that horror... *The Husk*."
 
 The word dropped like lead into the night, raising the hair on every man's arms.
 
@@ -143,7 +143,7 @@ Bran looked down at his son with conflicted eyes, but the Village Elder rested a
 
 Kael looked toward the dim doorway. His disappointment melted, replaced by a quiet, protective resolve that took root in his chest.
 
-"And concerning the youth who lies within my hearth..." The Elder fixed the crowd with a piercing, unyielding stare. "He was battered nearly unto death to shield our young. Let not a single whisper of his existence pass beyond the watchposts of the realm. If the outer Duchy catches wind of him, our peaceful valley will be overrun by men-at-arms who bring only ruin in their wake. Do you swear this pledge?"
+"And concerning the youth who lies within my hearth..." The Elder fixed the crowd with a piercing, unyielding stare. "He was battered nearly unto death to shield our young. Let not a single whisper of his presence pass beyond the watchposts of the realm. If the outer Duchy catches wind of him, our peaceful valley will be overrun by men-at-arms who bring only ruin in their wake. Do you swear this pledge?"
 
 "We swear it, Elder!" the men chorused into the dark.
 

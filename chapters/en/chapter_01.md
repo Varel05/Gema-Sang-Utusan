@@ -24,7 +24,7 @@ In the corner of a modest stilt chamber, a single oil lamp cast a gentle amber g
 
 The old man offered a warm, comforting smile. His calloused fingers brushed gently through his granddaughter's hair before he sprinkled a pinch of dried herbs into a clay bowl.
 
-"Far more than merely walking, Mira," his voice rumbled low and rhythmic, like a bedtime tale passed down through hundreds of turnings of the seasons. "The Envoy was woven directly from the natural laws of this world—from the very heartbeat of Aethelgard itself. Unlike the Archangel, who was wrought from pure light in the highest heavens, the Envoy walked among mortal men to guide them in order, balance, and quiet reverence toward the Creator."
+"Far more than merely walking, Mira," his voice rumbled low and rhythmic, like a bedtime tale passed down through hundreds of turnings of the seasons. "The Envoy was woven directly from the deep pulse of this world, born of the heartbeat of Aethelgard itself. Unlike the Archangel, who was wrought from pure light in the highest heavens, the Envoy walked among mortal men to guide them in order, balance, and quiet reverence toward the Creator."
 
 Mira pulled her knees to her chest, hugging her cold shins. "Then... why did the old world fall apart, Grandpa?"
 
@@ -34,13 +34,13 @@ The Elder’s chest rose and fell in a heavy sigh. The lamp's flame flickered as
 
 "But our ancestors survived..." Mira murmured.
 
-"Our ancestors refused to take part in that slaughter," the Elder replied, gazing at her with tender warmth. "They chose instead to tend the land, cherish their kin, and keep their prayers pure. That is why we are called the ones who remained—*The Remnant*. As for those who lost themselves to bitter strife... it is told they were cast into a hidden sanctuary beyond the bounds of the cosmos, so the mortal seed would not perish entirely from existence."
+"Our ancestors refused to take part in that slaughter," the Elder replied, gazing at her with tender warmth. "They chose instead to tend the land, cherish their kin, and keep their prayers pure. That is why we are called the ones who remained—*The Remnant*. As for those who lost themselves to bitter strife... it is told they were guided into a hidden sanctuary beyond the rim of the sky, so the mortal seed would not perish entirely from the earth."
 
 The Elder patted her shoulder gently and rose to his feet. "It grows late, Mira. Close your eyes. Always remember the path of our forebears: tend the soil that feeds you, and shield those who cry out for aid."
 
 Blowing softly across the wick, he left only a glowing red ember before stepping out and drawing the timber door shut.
 
-The room settled into the silver gloom of moonlight filtering through the window lattice. Mira lay down, pulling her coarse wool blanket up to her chin. In her mind, luminous angels and cosmic secrets still spun in quiet wonder.
+The room settled into the silver gloom of moonlight filtering through the window lattice. Mira lay down, pulling her coarse wool blanket up to her chin. In her mind, luminous angels and ancient mysteries still spun in quiet wonder.
 
 *Tap. Tap. Tap.*
 
@@ -108,7 +108,7 @@ The figure stood over seven feet tall. Its silhouette mimicked the frame of a ma
 
 Across its chest and limbs, jagged fissures gaped open. Through the cracks, there was no flesh, no bone, no drop of blood—only a bottomless void licking with the same cold violet fire from deep within its hollow core.
 
-This was no beast of the wild woods. The entity radiated an aura of unyielding hunger that withered the very air around it. The purple blaze atop its torso churned violently as it tilted upward, tasting the freezing draft upon the cliff, as though scenting the warm blood of the two children before it.
+This was no beast of the wild woods. The horror radiated an aura of unyielding hunger that withered the very air around it. The purple blaze atop its torso churned violently as it tilted upward, tasting the freezing draft upon the cliff, as though scenting the warm blood of the two children before it.
 
 "Run, Mira! Run back to the village!" Kael shouted.
 
@@ -142,7 +142,7 @@ Mira, at his side, had gone completely still. Not the stillness of terror—the 
 
 The hollow, freezing aura of the beast was instantly repelled by a wave of living warmth rolling off the white-blue fire.
 
-The fiery orbs soared upward, then converged, spiraling violently between the children and the monster. The radiant white-blue glare bathed the entire summit of Pine Cliff in midday brilliance amidst the dead of night. Within the heart of that swirling vortex, particles of solidifying light condensed with astonishing speed—knitting together the shoulders, limbs, and form of a living youth.
+The fiery orbs soared upward, then converged, spiraling violently between the children and the monster. The radiant white-blue glare bathed the entire summit of Pine Cliff in midday brilliance amidst the dead of night. Within the heart of that swirling vortex, shimmering motes of light condensed with astonishing speed—knitting together the shoulders, limbs, and form of a living youth.
 
 The blinding radiance settled into a single, warm exhalation of mountain wind.
 

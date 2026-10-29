@@ -183,6 +183,6 @@ Upon the young guardsman’s left flank, no crimson blood flowed. Instead, there
 
 At the threshold of the dim chamber, Azariel stood frozen. Beneath the shadow of his linen cowl, his eyes burned with a silent, azure luminescence.
 
-This was no mortal blade’s work. This was *Corrosion*—the existential decay borne by the empty husks of the ancient world. And now, the catastrophic shadow of antiquity had officially breached the threshold of their peaceful valley.
+This was no mortal blade’s work. This was *Corrosion*—the creeping decay borne by the empty husks of the ancient world. And now, the catastrophic shadow of antiquity had officially breached the threshold of their peaceful valley.
 
 The seven years of peace had ended.

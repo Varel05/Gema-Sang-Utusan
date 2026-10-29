@@ -24,7 +24,7 @@ Di sudut bilik rumah panggung yang sederhana, sebutir lentera minyak menyala tem
 
 Pria tua itu tersenyum teduh. Jemarinya yang kasar membelai puncak kepala cucunya, lalu menuangkan sejumput herba kering ke dalam mangkuk tanah liat.
 
-"Bukan sekadar menjejakkan kaki, Mira," suara kakeknya bergetar rendah, berirama seperti dongeng pengantar tidur yang telah melintasi ratusan musim. "Sang Utusan dirajut langsung dari hukum alam dunia ini, terlahir dari detak bumi Aethelgard itu sendiri. Berbeda dengan Sang Malaikat Agung yang diciptakan dari cahaya di langit tertinggi, Sang Utusan hadir membimbing manusia fana agar hidup dalam ketertiban dan ketundukan kepada Sang Pencipta."
+"Bukan sekadar menjejakkan kaki, Mira," suara kakeknya bergetar rendah, berirama seperti dongeng pengantar tidur yang telah melintasi ratusan musim. "Sang Utusan dirajut langsung dari denyut bumi dunia ini, terlahir dari detak tanah Aethelgard itu sendiri. Berbeda dengan Sang Malaikat Agung yang diciptakan dari cahaya di langit tertinggi, Sang Utusan hadir membimbing manusia fana agar hidup dalam ketertiban dan ketundukan kepada Sang Pencipta."
 
 Mira mendekatkan dagunya ke lutut, memeluk kakinya yang dingin. "Lalu... mengapa peradaban lama hancur, Kek?"
 
@@ -34,7 +34,7 @@ Helaan napas sang tetua terasa berat. Bayang-bayang lentera bergoyang pelan saat
 
 "Tapi leluhur kita selamat..." gumam Mira.
 
-"Leluhur kita menolak ikut dalam pertumpahan darah itu," sang kakek menatap cucunya dengan binar lembut. "Mereka memilih tetap merawat tanah, mencintai sesama, dan menjaga kemurnian doa. Karena itulah kita disebut kaum yang tersisa, *The Remnant*. Dan mereka yang tersesat dalam pertikaian... konon dipindahkan ke suaka rahasia di balik batas semesta agar benih manusia tidak musnah seluruhnya."
+"Leluhur kita menolak ikut dalam pertumpahan darah itu," sang kakek menatap cucunya dengan binar lembut. "Mereka memilih tetap merawat tanah, mencintai sesama, dan menjaga kemurnian doa. Karena itulah kita disebut kaum yang tersisa, *The Remnant*. Dan mereka yang tersesat dalam pertikaian... konon dipindahkan ke suaka rahasia di balik batas langit agar benih manusia tidak musnah seluruhnya."
 
 Sang kakek menepuk pelan bahu cucunya lalu bangkit. "Sudah larut, Mira. Pejamkan matamu. Ingatlah selalu jalan leluhur kita: rawat tanah yang memberimu makan, dan lindungi mereka yang membutuhkan pertolongan."
 
@@ -142,7 +142,7 @@ Di sisinya, Mira terpaku membisu. Bukan karena ngeri, melainkan oleh takjub yang
 
 Hawa dingin kehampaan yang dibawa monster itu tersapu oleh gelombang hangat yang mengembang dari api putih-kebiruan tersebut.
 
-Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, partikel-partikel cahaya memadat dengan cepat, membentuk garis bahu, lengan, hingga sosok utuh raga seorang pemuda.
+Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, percikan-percikan cahaya memadat dengan cepat, membentuk garis bahu, lengan, hingga sosok utuh raga seorang pemuda.
 
 Cahaya menyilaukan itu mereda dalam satu hembusan angin hangat.
 

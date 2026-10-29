@@ -106,7 +106,7 @@ Bisik-bisik lirih kembali berdesir cemas.
 
 Sang tetua memandang warganya, melafalkan sebuah nama arkais yang telah lama terkubur dalam lipatan tradisi lisan leluhur mereka:
 
-"Para leluhur kita menyebut entitas itu... *The Husk*."
+"Para leluhur kita menyebut makhluk celaka itu... *The Husk*."
 
 Nama itu meluncur dingin di udara malam, membuat bulu kuduk mereka yang mendengarnya meremang.
 

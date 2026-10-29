@@ -162,7 +162,7 @@ Naluri medis Mira menyentak kesadarannya seketika. Tanpa ragu sedetik pun, gadis
 
 Mira memutar tubuhnya dan berlari kencang membelah jalan setapak menuju kediaman sang kakek. Kael menghambur menyusul di samping ayahnya untuk membantu memapah kuda, sementara Azariel melangkah cepat di belakang mereka.
 
-Dada Azariel berdenyut perih. Bara tatanan di rongga dadanya bergolak liar saat jaraknya kian merapat dengan prajurit yang terluka itu. Getaran dingin yang sama dengan urat kayu ara tua kini terasa berdenyut nyata, merayap dari raga prajurit fana tersebut.
+Dada Azariel berdenyut perih. Bara hangat di rongga dadanya bergolak liar saat jaraknya kian merapat dengan prajurit yang terluka itu. Getaran dingin yang sama dengan urat kayu ara tua kini terasa berdenyut nyata, merayap dari raga prajurit fana tersebut.
 
 Rombongan itu menerobos undakan teras kediaman Tetua Desa. Pintu kayu jati disibak lebar. Bran dan Garrett mengangkat tubuh prajurit muda itu dari atas pelana, membopongnya menembus lorong, dan membaringkannya ke atas dipan jerami di bilik belakang.
 
@@ -180,7 +180,7 @@ Di lambung kiri sang prajurit, tidak ada darah merah segar yang mengalir. Yang m
 
 Di ambang pintu bilik yang temaram, Azariel berdiri mematung. Manik matanya berpendar dalam cahaya biru redup yang sunyi di balik kerudung lenannya.
 
-Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion*, racun pembusukan tatanan yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
+Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion*, racun pembusukan kelam yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
 
 Waktu kedamaian tujuh tahun telah usai.
 
