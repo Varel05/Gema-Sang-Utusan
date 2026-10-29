@@ -28,7 +28,7 @@ Azariel terdiam sejenak, mengamati urat kayu itu sebelum suara derap langkah mem
 
 "Kupikir kau ke mana, Kak Azariel!"
 
-Dari pematang timur, sesosok pemuda berlari kencang menerobos rimbunnya batang gandum. Kael kini telah tumbuh menjadi pemuda tegap berusia sembilan belas tahun. Bahunya bidang, kulitnya terbakar warna cokelat khas penjelajah alam bebas, dan di pinggangnya terselip pedang tempaan bersarung kulit hitam berpelindung kuningan — senjata asli warisan ayahnya.
+Dari pematang timur, gemerisik batang gandum tersibak tergesa disusul derap langkah tegap yang memecah kehangatan ladang. Anak laki-laki yang tujuh musim silam gemetar menodongkan pisau buru tulang di tepi tebing cadas itu kini telah menjelma menjadi pemuda yang tegap, liat, dan tangkas. Kulitnya terbakar matahari keemasan khas penjelajah rimba, dengan otot bahu yang mengeras berkat tempaan tanpa jeda di lapangan latihan. Di pinggangnya, tersampir pedang tempur berpelindung kuningan dalam sarung kulit hitam bergores cuaca—senjata tempaan warisan ayahnya yang kini tergantung pas di sisinya. Namun di balik postur seorang ksatria penjaga perbatasan yang kian matang, seringai lebar dan kilat jenaka di mata cokelatnya sama sekali tak pernah pudar sejak masa kanak-kanak.
 
 "Sudah kuduga kau bersembunyi di sini lagi!" seru Kael seraya meluncur duduk di atas rumput di samping Azariel, menyeka peluh di pelipisnya. "Panasnya bukan main di lapangan tadi. Ayah benar-benar berniat mematahkan tulang rusukku dengan tongkat kayunya!"
 

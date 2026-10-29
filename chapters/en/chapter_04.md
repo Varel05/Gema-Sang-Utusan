@@ -31,7 +31,7 @@ Azariel paused, studying the dark veins of the timber before the sound of poundi
 
 "Hey! Azariel, my brother!"
 
-From the eastern embankment, a figure came sprinting through the amber stalks. Kael had grown into a broad-shouldered, sinewy young man of nineteen. His skin had bronzed under years of open skies, and at his belt hung a forged iron blade sheathed in brass-fitted black leather—a genuine weapon of war bequeathed from his father’s past.
+From the eastern embankment, the rustle of amber stalks parted in haste before the rhythmic thud of solid strides cutting across the warm fields. The boy who had once trembled upon the crags of Pine Cliff brandishing a fragile bone knife had grown into a sinewy, sure-footed young hunter. His skin was bronzed golden by endless seasons under open skies, his shoulders broad and hardened from unrelenting drills upon the training yard. Buckled at his hip rested a forged broadsword in a weathered, brass-fitted scabbard of black leather—a weapon of war once borne by his father, now sitting true against his stride. Yet beneath the sharpening presence of a frontier sentinel, the wide grin and playful spark in his amber-brown eyes had not dimmed in the slightest since childhood.
 
 "I knew I'd find you hiding out here again!" Kael called out, sliding down onto the grass beside Azariel and wiping sweat from his temple. "It was brutal out on the training field today. Father truly meant to crack my ribs with that wooden staff!"
 
