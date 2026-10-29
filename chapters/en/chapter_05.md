@@ -140,13 +140,13 @@ The Elder turned his gaze upon Azariel, who now stood tall beside the cot.
 
 Azariel remained silent for a breath. He looked down at his open palm, then at the peaceful face of the mortal soldier he had saved. The memory of that mortal love still vibrated like a warm bell within his chest.
 
-"I will not let them burn this valley, Grandpa," Azariel replied softly, yet each word was forged with unwavering resolve. "I remember the truth of my purpose. I was not meant to hide in quiet peace, but to mend that which was shattered in the beginning."
+"I will not let them burn this valley, Grandpa," Azariel replied softly, yet each word was forged with unwavering resolve. "Nor can I stand idly by and let what befell this soldier happen to hundreds more in the northern gorges."
 
-Azariel looked toward the northern window. "I must find the remaining shards of the Heart of Aethel. Only by restoring the sacred order can the veil of the world be sealed, and the suffering of the hollowed ones brought to an end."
+Azariel stepped toward the open window, gazing into the dark silhouette of the northern mountains. "I still remember the terror at Pine Cliff seven summers ago—the exact same freezing dread that clawed at this young man. Their mortal blades and arrows are powerless against that purple mist, but the warm ember within my breast can dissolve it. I do not yet understand the full truth of what I am, Grandpa. But if this flame can halt that suffering and save those dying in the canyon... then I must go with Captain Garrett."
 
 Hearing that pledge, Kael stepped forward without a heartbeat's hesitation. "I'm with you, brother. My blade is your blade. Those purple monsters will have to carve through me before they touch a hair on your head."
 
-Mira tightened the shoulder strap of her satchel, stepping squarely to Azariel’s side with her chin lifted high. "And you need someone to make sure your mortal flesh continues to breathe, El. You can't carry the weight of creation alone. Wherever you go, I walk with you."
+Mira tightened the shoulder strap of her satchel, stepping squarely to Azariel’s side with her chin lifted high. "And you need someone to make sure your mortal flesh continues to breathe, El. You can't bear the weight of everyone's suffering alone. Wherever you go, I walk with you."
 
 A faint, proud smile tugged at the corner of Bran’s grizzled mustache. The veteran hunter turned toward an iron-bound chest in the corner of the room. Prizing it open, he lifted out a long forged broadsword in a scabbard of black leather and antique brass, accompanied by a hardened cuirass of boiled hide and tempered iron.
 

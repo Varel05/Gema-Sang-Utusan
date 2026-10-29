@@ -140,13 +140,13 @@ Sang Tetua memandang Azariel yang telah kembali berdiri tegak.
 
 Azariel terdiam sejenak. Ia menatap telapak tangannya sendiri, lalu beralih menatap wajah damai prajurit muda yang baru saja ia selamatkan. Kilasan memori tentang cinta fana sang prajurit masih berdenyut hangat di dalam nuraninya.
 
-"Aku tidak akan membiarkan mereka membakar lembah ini, Kakek," tutur Azariel pelan, namun setiap kata terpatri kokoh tanpa keraguan. "Aku telah mengingat hakikat keberadaanku. Tugasku bukan bersembunyi dalam damai, melainkan memulihkan apa yang telah retak di masa lalu."
+"Aku tidak akan membiarkan mereka membakar lembah ini, Kakek," tutur Azariel pelan, namun setiap kata terpatri kokoh tanpa keraguan. "Dan aku tidak bisa tinggal diam membiarkan apa yang menimpa prajurit ini terjadi pada ratusan nyawa lainnya di utara."
 
-Azariel menatap ke arah utara. "Aku harus menemukan pecahan-pecahan Jantung Aethel lainnya. Hanya dengan menyatukan kembali esensi tatanan itu, pembatas semesta dapat dipulihkan dan penderitaan mereka yang terkorosi dapat diakhiri."
+Azariel melangkah mendekati jendela yang terbuka, menatap ke arah siluet pegunungan utara yang kelam. "Aku masih mengingat kengerian di Tebing Pinus tujuh musim silam, rasa dingin yang sama persis dengan yang mencengkeram pemuda ini. Pedang dan panah fana mereka tak berdaya melawan kabut abu itu, tetapi bara hangat di dadaku sanggup melarutkannya. Aku memang belum mengerti apa sesungguhnya hakikat kekuatan yang kumiliki, Kakek. Namun jika nyala api ini bisa menghentikan derita dan menyelamatkan mereka yang terancam di ngarai... aku harus pergi bersama Kapten Garrett."
 
 Mendengar ikrar itu, Kael melangkah maju tanpa ragu sedetik pun. "Aku bersamamu, Kak. Pedangku adalah pedangmu. Monster-monster ungu itu harus melangkahiku dulu sebelum bisa menyentuhmu."
 
-Mira mengencangkan tali selempang tas ramuannya, melangkah berdiri tepat di sisi Azariel dengan dagu terangkat mantap. "Dan kau butuh seseorang yang memastikan tubuhmu tetap bernapas dan tidak kelelahan menanggung beban semesta sendirian, El. Ke mana pun kalian melangkah, aku ikut."
+Mira mengencangkan tali selempang tas ramuannya, melangkah berdiri tepat di sisi Azariel dengan dagu terangkat mantap. "Dan kau butuh seseorang yang memastikan tubuhmu tetap bernapas dan tidak memaksakan diri menanggung derita orang lain sendirian, El. Ke mana pun kalian melangkah, aku ikut."
 
 Senyum bangga merekah samar di balik kumis lebat Bran. Sang pemburu berbalik menuju lemari kayu di sudut bilik, membuka peti besi tua miliknya, dan mengeluarkan sebilah pedang tempaan panjang bersarung kulit hitam dengan segel kuningan kuno, serta satu set zirah pelindung dada yang kokoh.
 
