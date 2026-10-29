@@ -148,20 +148,20 @@ Hearing that pledge, Kael stepped forward without a heartbeat's hesitation. "I'm
 
 Mira tightened the shoulder strap of her satchel, stepping squarely to Azariel’s side with her chin lifted high. "And you need someone to make sure your mortal flesh continues to breathe, El. You can't bear the weight of everyone's suffering alone. Wherever you go, I walk with you."
 
-A faint, proud smile tugged at the corner of Bran’s grizzled mustache. The veteran hunter turned toward an iron-bound chest in the corner of the room. Prizing it open, he lifted out a long forged broadsword in a scabbard of black leather and antique brass, accompanied by a hardened cuirass of boiled hide and tempered iron.
-
-Bran placed the heavy hilt into his son’s hands. "Be the true shield for your brethren, Kael. Guard them with the honor of the Remnant."
-
-"I will, Father," Kael answered solemnly, strapping the weapon to his hip.
-
-Meanwhile, Captain Garrett reached deep beneath his tattered tunic. From an inner velvet pocket, he drew forth a heavy silver medallion—an official seal bearing the relief of a winged lion encircled by the regal laurels of the Leovard High Guard.
+Moved by the unyielding resolve of the three youths, Captain Garrett reached deep beneath his tattered tunic with trembling fingers. From an inner velvet pocket, he drew forth a heavy silver medallion—an official seal bearing the relief of a winged lion encircled by the regal laurels of the Leovard High Guard.
 
 Garrett placed the cold silver disc into Azariel’s hand.
 
-"Take this, son," Garrett said, his eyes filled with profound reverence. "This is the Commander’s Signet of the High Guard. If your journey crosses the fortified garrisons of the Duchy or meets the patrols along the river crossings, show them this seal. They will deem you secret envoys under my direct command, and no soldier will dare bar your path."
+"Take this, son," Garrett said, his eyes filled with profound reverence. "This is the Commander’s Signet of the High Guard. If your journey crosses the fortified garrisons of the Duchy or meets the patrols along the frontier crossings, show them this seal. They will deem you secret envoys under my direct command, and no soldier will dare bar your path."
 
 Azariel took the cold metal seal, meeting the captain's gaze with a respectful nod. "Thank you, Captain Garrett."
 
-Beyond the timber window, the shadows of night slowly gave way to the cold breath of the dawn. Upon the eastern horizon, the first ribbon of amber light spilled across the peaks of the pine ridges.
+Bran looked at his son, then at Azariel and Mira. The veteran hunter’s gaze hardened with the solemn resolve of both a father and an old soldier. "If you truly intend to set forth before dawn, we have little time. There are provisions to pack, and people you must bid farewell to before the first stride is taken."
 
-The seven years of growing in secret had ended. Before them lay the vast, wounded expanse of Aethelgard, awaiting the first stride of the wanderers.
+Bran gripped Kael’s shoulder firmly. "Come, Kael. We return home. There is an heirloom you must take from our hearth."
+
+The Village Elder nodded slowly, looking upon the three young souls with eyes glistening in silent benediction. "Go and prepare. This chamber remains safe under my vigil and Garrett’s watch. See your kin before the sun crests the ridge."
+
+Beyond the timber window, the heavy veil of night slowly gave way to the chill breath of early dawn. Upon the eastern rim, the shadows thinned, leaving only precious little time before sunrise broke across the jagged pine ridges.
+
+The seven seasons of growing in secret beneath the old fig tree had drawn to a close. The dawn of their departure had arrived.

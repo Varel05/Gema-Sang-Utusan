@@ -148,13 +148,7 @@ Mendengar ikrar itu, Kael melangkah maju tanpa ragu sedetik pun. "Aku bersamamu,
 
 Mira mengencangkan tali selempang tas ramuannya, melangkah berdiri tepat di sisi Azariel dengan dagu terangkat mantap. "Dan kau butuh seseorang yang memastikan tubuhmu tetap bernapas dan tidak memaksakan diri menanggung derita orang lain sendirian, El. Ke mana pun kalian melangkah, aku ikut."
 
-Senyum bangga merekah samar di balik kumis lebat Bran. Sang pemburu berbalik menuju lemari kayu di sudut bilik, membuka peti besi tua miliknya, dan mengeluarkan sebilah pedang tempaan panjang bersarung kulit hitam dengan segel kuningan kuno, serta satu set zirah pelindung dada yang kokoh.
-
-Bran menyerahkan pedang itu ke tangan putranya. "Jadilah perisai sejati bagi saudaramu, Kael. Lindungi mereka dengan kehormatan kaum Remnant."
-
-"Amanah kuterima, Ayah," sahut Kael tegas seraya menyematkan pedang itu ke pinggangnya.
-
-Sementara itu, Garrett merogoh balik jubah dalamnya. Dari sebuah kantung beludru yang tersembunyi, ia mengeluarkan sebuah medali logam perak padat berukir lambang singa bersayap dengan ukiran sulur resmi Garda Utama Kadipaten Leovard.
+Melihat keteguhan ketiga pemuda itu, Kapten Garrett merogoh balik jubah dalamnya dengan jemari gemetar. Dari sebuah kantung beludru yang tersembunyi, ia mengeluarkan sebuah medali logam perak padat berukir lambang singa bersayap dengan ukiran sulur resmi Garda Utama Kadipaten Leovard.
 
 Garrett menyerahkan segel logam itu ke tangan Azariel.
 
@@ -162,6 +156,12 @@ Garrett menyerahkan segel logam itu ke tangan Azariel.
 
 Azariel menerima segel logam dingin itu, menatap mata sang kapten dengan anggukan takzim. "Terima kasih, Kapten Garrett."
 
-Di luar jendela bilik, kabut malam perlahan tersapu oleh embusan angin dini hari. Di ufuk timur, fajar pertama mulai memancarkan semburat cahaya keemasan di atas puncak-pucuk cemara perbatasan.
+Bran menatap putranya, lalu beralih menatap Azariel dan Mira. Sorot mata sang pemburu mengeras penuh ketetapan hati seorang ayah sekaligus prajurit veteran. "Jika kalian memang berniat berangkat sebelum fajar, kita tidak punya banyak waktu. Masih ada barang yang harus dipersiapkan, dan ada orang-orang yang harus kalian temui sebelum langkah pertama diayunkan."
 
-Waktu tumbuh dalam rahasia telah usai. Di hadapan mereka, bentangan benua Aethelgard yang terluka tengah menanti langkah pertama sang pengembara.
+Bran menepuk pundak Kael dengan kuat. "Ayo pulang, Kael. Ada pusaka yang harus kau bawa dari rumah kita."
+
+Sang Tetua Desa mengangguk pelan seraya menatap ketiga anak asuhnya dengan binar mata yang dipenuhi doa restu. "Pergilah berkemas. Bilik ini aman di bawah penjagaanku dan Garrett. Temui keluarga kalian sebelum fajar menyingsing."
+
+Di luar jendela bilik, kabut malam perlahan tersapu oleh embusan angin dini hari. Di ufuk timur, bayang-bayang gelap malam mulai menipis, menyisakan waktu yang kian sempit sebelum matahari terbit di atas puncak-pucuk cemara perbatasan.
+
+Waktu bertumbuh dalam rahasia di bawah naungan ara tua telah resmi usai. Fajar keberangkatan mereka telah tiba.

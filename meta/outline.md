@@ -61,8 +61,9 @@ aliases:
 |   `02`    | **Cangkang di Balik Kabut**     | Kael & Bran                | Rapat darurat alun-alun desa; kesaksian Kael dibela Bran; perdebatan dengan Vane; Tetua menyingkap hakikat The Husk dan mengukuhkan regu patroli perbatasan.                              | **Draft Selesai** |
 |   `03`    | **Napas Pertama di Tanah Fana** | Azariel                    | Disorientasi pasca-mimpi buruk kosmis pembersihan langit; asuhan medis Mira; kehangatan celoteh Kael; rutinitas latihan tempur Bran; ikatan persaudaraan beranda.                         | **Draft Selesai** |
 | `04` | **Di Bawah Naungan Ara Tua** | Azariel (~18–19 th) | Tujuh musim berlalu; piknik di bawah pohon ara raksasa; kunjungan ke perpustakaan; derap panik kedatangan Garrett membawa prajurit sekarat berongga abu ke rumah Tetua. | **Draft Selesai** |
-| `05` | **Bara yang Melarutkan Abu** | Azariel | Krisis medis bilik perawatan; kegagalan herba fana; mukjizat Pemurnian Pertama oleh Azariel; sumpah & permohonan tulus Garrett; penyerahan pedang Bran & medali segel; fajar keberangkatan trio. | **Draft Selesai** |
-| `06+` | *Fase Pengembaraan* | Trio Pengelana | Ekspedisi melintasi benua menyerap pecahan Jantung Aethel (mengacu ke [[shards_tracker\|Shards Tracker]]). | *Rencana* |
+| `05` | **Bara yang Melarutkan Abu** | Azariel | Krisis medis bilik perawatan; kegagalan herba fana; mukjizat Pemurnian Pertama oleh Azariel; sumpah & permohonan tulus Garrett; penyerahan Medali Segel Komandan Garda Leovard; instruksi berkemas & restu Tetua sebelum fajar. | **Draft Selesai** |
+| `06` | **Langkah Pertama Menyongsong Fajar** | Trio (Kael, Mira, Azariel) | Persiapan fajar dan pamitan personal masing-masing tokoh: (1) Kael di kediamannya menerima pedang tempaan & zirah warisan Bran serta pamitan haru Elora; (2) Mira mengemas perbekalan medis & berpamitan pada ayahnya; (3) Azariel merenung di bawah Ara Tua; konvergensi trio di gerbang desa melangkah ke celah utara. | *Rencana* |
+| `07+` | *Fase Pengembaraan* | Trio Pengelana | Ekspedisi melintasi benua menyerap pecahan Jantung Aethel (mengacu ke [[shards_tracker\|Shards Tracker]]). | *Rencana* |
 | `Klimaks` | **Bara di Balik Abu Fana** | Azariel, Kael, & Mira | Penyatuan utuh Jantung Aethel; konfrontasi dengan Malaikat Agung; Pemurnian Kedua; transformasi Vivarium. | *Rencana* |
 
 ---
