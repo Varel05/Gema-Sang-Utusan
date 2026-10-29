@@ -11,6 +11,8 @@ aliases:
   - Abu Fana
   - Terrene Cinder
   - Bola Api Putih-Biru
+  - The Seven Echoes
+  - Tujuh Gema
 ---
 
 # Sistem Kekuatan: Jantung Aethel (Abu Fana)
@@ -39,7 +41,20 @@ aliases:
 ## 3. Pewujudan Raga Azariel & Eksklusivitas Akses
 - **Kelahiran Raga Azariel:** Saat anak-anak berdoa di [[tebing_pinus|Tebing Pinus]], bola-bola api putih-kebiruan yang terkubur di tebing terbangkitkan, berpusar di udara memancarkan pendar menyilaukan, lalu memadat membentuk raga pemuda manusia ([[azariel|Azariel]]).
 - **Hak Akses Eksklusif:** Hanya raga Azariel yang memiliki kompatibilitas ontologis untuk menyerap bola api ini dan membuka rekaman memori hukum kosmis di dalamnya. Pihak lain hanya melihatnya sebagai api berkobar biasa.
-- **Progresi Penyerapan:** Setiap pecahan yang diserapAzariel mengembalikan kosakata, memulihkan memori tatanan duniawi, memperkuat otoritas [[pemurnian_the_husks|Pemurnian The Husks]], dan menyingkap cetak biru [[segel_vivarium|Segel Pembatas Dimensi]].
+- **Progresi Penyerapan:** Setiap pecahan yang diserap Azariel mengembalikan kosakata, memulihkan memori tatanan duniawi, memperkuat otoritas [[pemurnian_the_husks|Pemurnian The Husks]], dan menyingkap cetak biru [[segel_vivarium|Segel Pembatas Dimensi]].
+
+---
+
+## 4. Tujuh Gema Kosmis (*The Seven Echoes*)
+Ketika Jantung Aethel retak saat benturan pemurnian surga di masa purba, esensinya tidak hancur menjadi debu mati, melainkan terpecah menjadi **Tujuh Gema (*The Seven Echoes*)**. Masing-masing pecahan memegang satu prinsip fundamental dari hukum eksistensi fana dan semesta:
+
+1. **Pecahan #1 — *Echoes of Humanity* (Gema Kemanusiaan):** Berada di [[tebing_pinus|Tebing Pinus]]. Memberikan raga biologis fana, detak jantung, empati, serta kemampuan membaca getaran trauma dan cinta fana (*terserap di Bab 1, aktif di Bab 5*).
+2. **Pecahan #2 — *Echoes of Order* (Gema Tatanan):** Berada di [[kadipaten_leovard|Kadipaten Leovard]]. Mewakili struktur hukum, tata kelola kemasyarakatan, dan kehormatan sumpah kesatria.
+3. **Pecahan #3 — *Echoes of Mortality* (Gema Kerapuhan Fana):** Berada di Pelabuhan Danau. Mewakili siklus hayat alami fana, kesembuhan, dan penerimaan atas kematian.
+4. **Pecahan #4 — *Echoes of Free Will* (Gema Kehendak Bebas):** Berada di [[kadipaten_morvath|Kadipaten Morvath]]. Melambangkan kemerdekaan jiwa manusia yang menolak belenggu tirani dan perbudakan.
+5. **Pecahan #5 — *Echoes of Memory* (Gema Ingatan):** Berada di Reruntuhan Kota Kuno. Menyimpan rekaman sejarah asli kehancuran peradaban masa lalu dan penyesalan Sang Utusan purba.
+6. **Pecahan #6 — *Echoes of Devotion* (Gema Ketaatan / Doa):** Berada di Biara The Remnant. Melambangkan kemurnian doa tanpa pamrih dan kepatuhan sejati kepada [[sang_pencipta|Sang Pencipta]].
+7. **Pecahan #7 — *Echoes of Sanctuary* (Gema Suaka):** Berada di Ambang [[vivarium|Vivarium]]. Kunci pembuka batas dimensi yang mentransformasi Vivarium menjadi suaka transit kepulangan jiwa.
 
 ---
 ## Referensi Terkait

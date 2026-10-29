@@ -49,12 +49,13 @@ aliases:
 - Tinggal dalam kerahasiaan di rumah [[tetua_desa|Tetua Desa]] selama bertahun-tahun.
 - Belajar bahasa fana, membaca arsip peradaban bersama [[elora|Elora]], serta menyerap rasa empati dan kehangatan manusia dari Mira dan Kael.
 
-### B. Penyerapan Pecahan Jantung Aethel (Fase Pengembaraan)
-- Menyerap kepingan bola api [[jantung_aethel|Jantung Aethel]] di reruntuhan benua untuk merekonstruksi memori hukum ruang, waktu, dan pembatas dimensi.
+### B. Pewarisan Tujuh Gema (*The Seven Echoes*) & Pengembaraan
+- **Gema Pertama (*Echoes of Humanity*):** Sejak kemunculannya di [[tebing_pinus|Tebing Pinus]], rongga dada Azariel telah bersemayam Pecahan #1 Jantung Aethel (*Echoes of Humanity*). Pecahan inilah yang memadatkannya menjadi raga biologis fana, memberinya detak jantung, air mata, serta kemampuan empati untuk menyerap getaran luka batin dan memori kemanusiaan dari korban terkorosi (aktif pertama kali di Bab 5).
+- **Pengumpulan 6 Gema Lainnya:** Dalam fase pengembaraan, Azariel menyerap kepingan-kepingan berikutnya (*Echoes of Order*, *Mortality*, *Free Will*, *Memory*, *Devotion*, dan *Sanctuary*) untuk memulihkan seluruh tatanan hukum kosmis yang runtuh (rincian lengkap di [[shards_tracker|Pelacak 7 Pecahan]]).
 - **Eksklusivitas Akses:** Hanya Azariel yang kompatibel membaca rekaman memori Jantung Aethel; entitas surgawi seperti [[sang_malaikat_agung|Sang Malaikat Agung]] buta terhadap isi data duniawi ini.
 
 ### C. Pemurnian The Husks
-- Mengembangkan kemampuan [[pemurnian_the_husks|Pemurnian The Husks]] untuk melarutkan [[corrosion|Corrosion]], membebaskan sisa kemanusiaan, dan membaca kilasan memori terakhir makhluk tersebut.
+- Mengembangkan kemampuan [[pemurnian_the_husks|Pemurnian The Husks]] untuk melarutkan [[corrosion|Corrosion]], membebaskan sisa kemanusiaan, dan membaca kilasan memori terakhir makhluk tersebut melalui resonansi *Echoes of Humanity*.
 
 ### D. Resonansi Jantung Aethel dengan Bumi *(Kanon Baru — 2026-10-10)*
 - **Mekanisme:** Karena esensi Azariel berasal dari [[jantung_aethel|Jantung Aethel]] yang terhubung ke "bedrock" hukum alam [[aethelgard|Aethelgard]], ia dapat **merasakan gangguan kosmis The Husks melalui kontak langsung dengan benda-benda alami yang berakar dalam** — tanah cadas, batuan, atau pohon berumur panjang.

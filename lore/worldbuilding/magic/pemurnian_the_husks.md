@@ -25,11 +25,12 @@ aliases:
 ---
 
 ## 2. Kilasan Memori Terakhir (*Echoes of Humanity*)
-- Setiap kali Azariel berhasil memurnikan The Husk, ia menerima kilasan sekilas dari sisa ingatan manusiawi makhluk tersebut sesaat sebelum kewarasan mereka terenggut:
+- **Manifestasi Hakikat Pecahan #1:** Fenomena kilasan ini lahir dari aktivasi **Pecahan #1 Jantung Aethel (*Echoes of Humanity*)** yang bersemayam di dalam dada Azariel sejak kebangkitannya di [[tebing_pinus|Tebing Pinus]] (diaktifkan pertama kali di Bab 5).
+- **Mekanisme Resonansi Jiwa:** Setiap kali Azariel memurnikan korban korosi atau entitas The Husk, api putih-biru melarutkan abu pembusukan sementara esensi *Echoes of Humanity* bertindak sebagai jembatan batin yang menyerap dan merefleksikan sisa-sisa getaran jiwa fana:
   - Potongan nama yang pernah mereka miliki.
-  - Wajah orang tercinta dari ribuan tahun silam.
-  - Detik-detik penyesalan saat krisis purba meletus.
-- Kilasan ini menorehkan duka mendalam pada batin Azariel, menumbuhkan kompas empati yang tidak pernah dimiliki oleh pendahulunya ([[the_envoy|Sang Utusan]]).
+  - Wajah orang tercinta dan kehangatan rumah fana dari masa lalu.
+  - Detik-detik trauma dan penyesalan saat krisis purba atau serangan terjadi.
+- **Dampak Psikologis:** Kilasan memori ini menorehkan duka mendalam pada batin Azariel, menumbuhkan kompas empati yang tidak pernah dimiliki oleh pendahulunya ([[the_envoy|Sang Utusan]]), dan menjadi alasan mengapa ia menangis saat memurnikan makhluk hidup.
 
 ---
 

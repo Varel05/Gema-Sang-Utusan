@@ -61,6 +61,8 @@ Dokumen ini memuat daftar istilah resmi, etimologi, dan rujukan cepat in-univers
 | **Corrosion**                   | Disintegrasi ontologis akibat ketidaksesuaian pengetahuan langit dengan materi fana. | [[corrosion\|Corrosion]]                           |     |
 | **Jantung Aethel**              | Bara esensi Sang Utusan berwujud bola api putih bersemburat biru.                    | [[jantung_aethel\|Jantung Aethel]]                 |     |
 | **Abu Fana** (*Terrene Cinder*) | Sebutan Sang Malaikat Agung bagi Jantung Aethel yang dipendam di bumi.               | [[jantung_aethel\|Jantung Aethel]]                 |     |
+| **Tujuh Gema** (*The Seven Echoes*) | Manifestasi 7 pecahan Jantung Aethel yang memegang prinsip tatanan semesta.      | [[shards_tracker\|Pelacak 7 Pecahan]]              |     |
+| **Echoes of Humanity**          | Pecahan #1 Jantung Aethel (Tebing Pinus); sumber raga fana, empati, dan memori jiwa. | [[shards_tracker\|Pelacak 7 Pecahan]]             |     |
 | **Mitos Bintang Jatuh**         | Degradasi memori teror bola api pemurnian surga menjadi dongeng pembawa berkah.      | [[mitos_bintang_jatuh\|Mitos Bintang Jatuh]]       |     |
 | **Pemurnian The Husks**         | Kemampuan Azariel melarutkan korosi dan membebaskan sisa jiwa The Husks.             | [[pemurnian_the_husks\|Pemurnian The Husks]]       |     |
 | **Segel Vivarium**              | Pembatas dimensi ruang-waktu yang ditopang kesadaran aktif Sang Utusan.              | [[segel_vivarium\|Segel Vivarium]]                 |     |
@@ -82,6 +84,14 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **The Remnant**                           | The Remnant                                  | [[the_remnant\|Faksi / Kaum]]                    |
 | **The Husks / The Husk**                  | The Husks / The Husk                         | [[the_husks\|Entitas / Ancaman]]                 |
 | **Jantung Aethel (Abu Fana)**             | The Heart of Aethel (Terrene Cinder)         | [[jantung_aethel\|Metafisika / Artefak]]         |
+| **Tujuh Gema**                            | The Seven Echoes                             | [[shards_tracker\|Metafisika / Artefak]]         |
+| **Gema Kemanusiaan (Pecahan #1)**         | Echoes of Humanity                           | [[shards_tracker\|Pecahan #1]]                   |
+| **Gema Tatanan (Pecahan #2)**             | Echoes of Order                              | [[shards_tracker\|Pecahan #2]]                   |
+| **Gema Kerapuhan Fana (Pecahan #3)**      | Echoes of Mortality                          | [[shards_tracker\|Pecahan #3]]                   |
+| **Gema Kehendak Bebas (Pecahan #4)**      | Echoes of Free Will                          | [[shards_tracker\|Pecahan #4]]                   |
+| **Gema Ingatan (Pecahan #5)**             | Echoes of Memory                             | [[shards_tracker\|Pecahan #5]]                   |
+| **Gema Ketaatan / Doa (Pecahan #6)**      | Echoes of Devotion                           | [[shards_tracker\|Pecahan #6]]                   |
+| **Gema Suaka (Pecahan #7)**               | Echoes of Sanctuary                          | [[shards_tracker\|Pecahan #7]]                   |
 | **Corrosion**                             | Corrosion                                    | [[corrosion\|Fenomena]]                          |
 | **Pemurnian Pertama**                     | The First Cleansing                          | [[era_katastrofisme_pertama\|Peristiwa Sejarah]] |
 | **Pemurnian The Husks**                   | Purification of the Husks                    | [[pemurnian_the_husks\|Kemampuan]]               |
