@@ -52,3 +52,4 @@ aliases:
 - [[tetua_desa|Tetua Desa]]
 - [[vane|Juragan Vane]]
 - [[desa_lembah_perbatasan|Desa Lembah Perbatasan]]
+
