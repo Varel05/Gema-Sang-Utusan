@@ -133,7 +133,7 @@ Nama itu meresap ke dalam jiwanya, menjadi penambat bagi kehidupannya yang baru 
 
 Dari beranda belakang tempat ia mulai diizinkan duduk menghirup udara segar, Azariel mengamati denyut desa agraris itu. 
 
-Setiap pagi, ayah Mira, seorang petani gandum bersahaja yang bertubuh liat, berangkat ke ladang memikul sabit dan cangkul. Sebelum pergi, pria itu selalu mengusap rambut putrinya dengan penuh kasih dan melambaikan tangan canggung ke arah Azariel. Sementara di batas barat desa, Bran melatih para pemuda desa dengan formasi tombak dan pedang; Kael tampak berulang kali terjatuh di tanah basah, bangkit kembali sambil meringis, lalu mengayunkan pedang kayunya hingga peluh membasahi dahi.
+Setiap pagi, Joran, ayah Mira yang merupakan petani gandum bersahaja bertubuh liat, berangkat ke ladang memikul sabit dan cangkul. Sebelum pergi, pria itu selalu mengusap rambut putrinya dengan penuh kasih dan melambaikan tangan canggung ke arah Azariel. Sementara di batas barat desa, Bran melatih para pemuda desa dengan formasi tombak dan pedang; Kael tampak berulang kali terjatuh di tanah basah, bangkit kembali sambil meringis, lalu mengayunkan pedang kayunya hingga peluh membasahi dahi.
 
 Dan di samping Azariel, ada Mira yang membimbingnya mengenal dunia.
 

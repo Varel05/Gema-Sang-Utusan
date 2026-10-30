@@ -29,7 +29,7 @@ aliases:
 - **Garis Silsilah & Keluarga:**
   - **Kakek (Garis Ibu):** [[tetua_desa|Tetua Desa]], pemimpin tradisi luhur kaum [[the_remnant|The Remnant]].
   - **Ibu (Almarhumah):** Putri kandung Tetua Desa, wafat saat bersalin melahirkan Mira; kematiannya memutus garis pewaris dewasa suksesi desa.
-  - **Ayah:** Menantu Tetua Desa, seorang petani gandum bersahaja dan pekerja keras yang mencintai ketenangan hidup tanpa ambisi takhta.
+  - **Ayah:** [[joran|Joran]], menantu Tetua Desa, seorang petani gandum bersahaja dan pekerja keras yang mencintai ketenangan hidup tanpa ambisi takhta.
 - **Ciri Fisik:** Perawakan anggun, pembawaan tenang dan teduh, mata bening yang menampung kepekaan batin tinggi, jemari lincah dan teliti dalam meracik ramuan herba.
 - **Busana & Perlengkapan:** Gaun praktis perawat rimba dengan selempang tas kulit berisi botol tingtur ekstrak herba, perban steril, salep pereda nyeri, dan pisau bedah sederhana.
 

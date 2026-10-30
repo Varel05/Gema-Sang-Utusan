@@ -153,7 +153,7 @@ Not one, but five battered warhorses burst into the village lane at full gallop,
 
 Yet what froze the blood in Azariel’s veins was not the clamor of hooves, but the alien reek poisoning the air.
 
-The stench of ozone and dead ash—the bitter vapor of the void he remembered all too well from Pine Cliff seven years ago—struck his senses with merciless clarity. The warm rustic breeze turned abruptly arid and freezing, as if the breath of a dead winter had swept through the lane.
+The stench of scorched stone and dead ash, the bitter vapor of the void he remembered all too well from Pine Cliff seven years ago, struck his senses with merciless clarity. The warm rustic breeze turned abruptly arid and freezing, as if the breath of a dead winter had swept through the lane.
 
 "Clear the way!" Bran’s voice thundered across the homesteads, guiding the exhausted mounts toward the Village Elder’s compound. "Take him straight to the Elder’s house! Make haste!"
 

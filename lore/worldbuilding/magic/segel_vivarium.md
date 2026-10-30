@@ -28,16 +28,18 @@ aliases:
 
 ## 2. Mekanisme Keretakan (*Corrosion-Seal Decay Linkage*)
 - **Penopang Berbasis Kesadaran:** Segel Vivarium tidak bekerja seperti gerbang fisik pasif, melainkan bergantung pada daya fokus kesadaran aktif [[the_envoy|Sang Utusan]] yang menjaganya dari sisi dalam.
-- **Kebocoran Dimensi:**
-  - Karena Sang Utusan terpapar [[corrosion|Corrosion]] bertubi-tubi di alam kehampaan, daya ingat dan fokus kosmisnya melemah.
-  - Pelemahan kesadaran penjaga inilah yang menyebabkan tapal batas dimensi retak dan berlubang.
-  - Dampaknya: hawa beku anomali dan entitas [[the_husks|The Husks]] dapat merayap lolos menembus celah ke wilayah perbatasan Aethelgard.
+- **Kebocoran Dimensi & Peran Biara The Remnant:**
+  - Kebocoran celah dimensi Vivarium sejatinya telah terjadi berkali-kali sejak masa lampau akibat erosi kesadaran Sang Utusan yang terpapar [[corrosion|Corrosion]].
+  - Para leluhur [[tetua_desa|Tetua Desa]] memiliki hubungan langsung dengan para pendoa di [[biara_the_remnant|Biara The Remnant]] (pemberi suaka bagi Pecahan #6). Selama ribuan musim, para pendoa suci tersebut merawat dan meredam retakan celah menggunakan kemurnian doa syafaat spiritual turun-temurun (menjadi asal-usul kidung leluhur Tetua di Bab 2).
+  - Namun di era masa kini, pembusukan segel telah terlampau parah dan melampaui kapasitas doa para pendoa biara, menyebabkan hawa beku dan kawanan [[the_husks|The Husks]] merangsek menembus ngarai utara.
 
 ---
 
-## 3. Rekonstruksi Kunci oleh Azariel
-- Melalui pengembaraan menyerap serpihan [[jantung_aethel|Jantung Aethel]], [[azariel|Azariel]] mengumpulkan kembali kepingan memori hukum ruang dan waktu yang tercerai-berai.
-- Dari sanalah Azariel secara bertahap merekonstruksi pemahaman cara menembus, mengunci, dan kelak mentransformasikan pembatas dimensi tersebut.
+## 3. Rekonstruksi Kunci & Peran Azariel sebagai Pemandu Jiwa
+- Melalui pengembaraan menyerap ketujuh serpihan [[jantung_aethel|Jantung Aethel]], [[azariel|Azariel]] merekonstruksi pemahaman atas hukum pembatas dimensi ini.
+- **Resolusi Pemurnian Kedua (Bukan Penyegelan Mati):**
+  - Tujuan akhir Azariel bukan sekadar mengunci kembali Vivarium secara permanen. Setelah ancaman The Husks dipadamkan, jiwa-jiwa manusia purba yang terbebas tidak lagi memiliki raga ataupun tempat bernaung di dunia fana.
+  - Azariel memainkan perannya yang sejati sebagai **Pemandu Jiwa (*Guide of Souls*)**—membuka ambang batas Vivarium demi melangsungkan Pemurnian Kedua, mentransformasikan ruang saku tersebut menjadi **Suaka Transit Kepulangan Jiwa**, dan mengantarkan jiwa-jiwa purba berpulang dengan tenang menuju haribaan [[sang_pencipta|Sang Pencipta]].
 
 ---
 ## Referensi Terkait

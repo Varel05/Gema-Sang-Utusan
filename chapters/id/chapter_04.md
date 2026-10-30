@@ -150,7 +150,7 @@ Bukan satu, melainkan lima ekor kuda perang menerobos jalan tanah desa dengan ke
 
 Namun yang membuat darah Azariel seketika membeku bukanlah derap kudanya, melainkan hawa asing yang menguar pekat di udara.
 
-Bau ozon dan abu mati, aroma tajam kehampaan yang teramat ia kenali dari malam di Tebing Pinus tujuh tahun silam, menyergap indra penciumannya dengan kejam. Udara hangat pedesaan mendadak terasa kering dan dingin laksana musim gugur yang mati.
+Bau batu terbakar dan abu mati, aroma tajam kehampaan yang teramat ia kenali dari malam di Tebing Pinus tujuh tahun silam, menyergap indra penciumannya dengan kejam. Udara hangat pedesaan mendadak terasa kering dan dingin laksana musim gugur yang mati.
 
 "Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
@@ -180,7 +180,7 @@ Di lambung kiri sang prajurit, tidak ada darah merah segar yang mengalir. Yang m
 
 Di ambang pintu bilik yang temaram, Azariel berdiri mematung. Manik matanya berpendar dalam cahaya biru redup yang sunyi di balik kerudung lenannya.
 
-Itu bukan sekadar luka senjata fana. Itu adalah *Corrosion*, racun pembusukan kelam yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
+Itu bukan sekadar luka senjata fana. Itu adalah pembusukan kelam, racun purba yang dibawa oleh makhluk-makhluk cangkang hampa. Dan kini, bayang-bayang kelam yang meruntuhkan peradaban masa lalu telah resmi menyeberang melintasi perbatasan lembah mereka.
 
 Waktu kedamaian tujuh tahun telah usai.
 

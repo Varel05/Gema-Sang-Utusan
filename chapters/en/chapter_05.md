@@ -50,7 +50,7 @@ Beneath his linen cowl, the ember nestled within his breast no longer merely pul
 
 Azariel stepped forward.
 
-His bare feet made no sound against the timber planks. As he drew near the straw cot, the reek of ozone and spent ash stung his throat—the exact stench of primordial ruin that haunted the shattered skies of his earliest memories. But this time, lying before him was no ancient, prideful civilization, but a mortal child weeping for his mother in the dark.
+His bare feet made no sound against the timber planks. As he drew near the straw cot, the reek of scorched stone and spent ash stung his throat—the exact stench of primordial ruin that haunted the shattered skies of his earliest memories. But this time, lying before him was no ancient, prideful civilization, but a mortal child weeping for his mother in the dark.
 
 A profound, quiet pity gripped Azariel’s chest. Over the past seven years in this valley, he had learned how fragile, how precious, every mortal breath truly was. He had watched Bran drill his son with fierce devotion, watched Mira tenderly wash the grime from exhausted brows, and tasted how a simple bowl of warm broth could kindle the will to live.
 
@@ -82,15 +82,17 @@ A thick plume of dark purple mist shrieked as the white-blue fire dissolved the 
 
 And then, an unseen resonance struck Azariel’s consciousness.
 
-*Echoes of humanity.*
-
 In a fleeting instant, a tapestry of memories not his own blossomed across Azariel’s mind: the comforting aroma of pumpkin soup in a modest kitchen within the frontier city; the bright laughter of a mother fastening a bronze medal to her son’s new surcoat; and then... the shearing terror of the northern canyon as purple fog crept down the crags, followed by the hoarse shrieking of headless terrors shattering their iron lances like dried twigs.
 
 The fear, the longing, and the unblemished love of the mortal youth flowed through Azariel’s soul. A single warm tear slipped down Azariel's cheek as he received the weight of that grief, dissolving the nightmare into the quiet hearth within his chest.
 
-The white-blue luminescence receded into a long, quiet exhale.
+The white-blue luminescence receded into a long, quiet exhale. And with its passing, the mortal toll demanded its due.
 
-When Azariel slowly lifted his hand, an absolute, breathless hush enveloped the room.
+A searing, glacial recoil surged back from the dying ash, striking Azariel’s right palm. The skin of his hand blanched to a corpse-pale, stony grey, turning numb and lifeless to the wrist. Azariel swayed faintly, his breath catching and cold sweat beading upon his brow as profound exhaustion battered his sinews.
+
+Biting down on his inner lip to keep his footing, he quietly tucked his stiff, ashen right hand beneath the deep sleeve of his linen cowl before Mira could turn to notice.
+
+When Azariel slowly straightened his spine, an absolute, breathless hush enveloped the room.
 
 Upon the young guardsman’s flank, the horrifying crater had vanished entirely. In its place remained only a clean, pale-pink scar, knit tight and fully restored. The soldier’s skin no longer burned with delirium; his sweat had dried, and a healthy flush of life had returned to his cheeks. His chest rose and fell in deep, peaceful rhythms, surrendered to natural, restorative slumber.
 
@@ -112,45 +114,45 @@ At his father’s flank, Kael braced his footing, his fingers clamped white-knuc
 
 The tension in the chamber turned taut as a drawn longbow.
 
-Captain Garrett looked at the blade leveled at his throat. Then his gaze drifted to his sleeping subordinate breathing softly upon the cot, and finally locked upon Azariel—upon the shimmering silver hair, the calm azure embers of his eyes, and the quiet warmth still lingering upon his bare palm.
+Captain Garrett did not instantly yield. His gauntleted right hand instinctively shifted to the hilt of his command sword, his jaw working as he returned his old comrade's lethal stare.
 
-There was no greed in the old soldier's eyes. Nor was there any reach for steel.
+"You draw steel on me, Bran?" Garrett rasped, his voice thick and heavy. "After ten turnings of the seasons sharing blood and rations along the northern wall?"
 
-Slowly, Garrett’s knees gave way. The heavy, dented iron of his armor clattered onto the timber floor as the veteran captain sank to his knees before Bran and the Village Elder. Tears tracked through the dried blood and road grit on his weathered cheeks.
+"The blood of the High Guard binds us, Garrett," Bran answered coldly, not moving the point an inch. "Yet if a single whisper of this boy reaches the Duke’s hall, the masked inquisitors and cleansing cohorts will scour this valley to blackened cinder. You know imperial law on unsanctioned arcana. Swear it, Garrett."
 
-"I swear it, Bran..." Garrett whispered, his voice trembling under the weight of his soul. "By the blood of my men who dried in the northern pass... by the last shred of honor left upon the lion’s banner... I swear my tongue shall rot before I breathe a word of this youth to the Duke, or to any lord in the realm."
+Garrett locked eyes with the veteran hunter, then his gaze drifted to his sleeping subordinate breathing softly upon the cot, and finally locked upon Azariel, who stood pale and silent in the shadows.
 
-Garrett raised his face, looking toward Azariel with a desperate plea that stripped away every vestige of military pride.
+An agonizing conflict of duties tore at the captain's soul. As a sworn officer, his military oath demanded he report every manifestation of powerful arcana to the citadel. Yet his conscience knew: in the hands of the Duke and the schemers of the council, this youth would only be ground to dust as an expendable siege weapon, or slaughtered out of dread.
 
-"But by the heavens above... hear me, Bran! Hear me, Elder!" Garrett pressed a scarred fist against his shredded breastplate. "You saw what happened here! Our steel is worthless! Our arrows shatter like glass! Three hundred brave men at the forward gorge were slaughtered in the violet mist. Any legion the Duke marshals will be nothing more than cattle marched to the slaughterhouse!"
+Slowly, the tension drained from Garrett's knuckles. He released his grip on the command hilt, letting his arms hang limp at his sides.
 
-Garrett leaned toward Azariel, his voice choked with agony.
+"Three hundred of my men died in the northern gorge, Bran," Garrett whispered hoarsely, his bloodshot eyes hollow with grief that stripped away the last shred of martial pride. "If the Duke learns someone can dissolve that cursed ash, he will march an iron legion to drag him away. I swear... by my ancestors' dust and the blood of my fallen boys, my tongue shall rot before I breathe word of this lad to any lord or councilor."
 
-"This boy... this youth possesses what every legion of steel in this continent lacks. He bears the cure for our world’s unmaking. I do not ask this in the name of the throne. I beg in the name of the mortal souls dying in the dark at the northern rim... help us, son. Please."
+Garrett turned his gaze toward Azariel, looking upon the youth with the stripped desperation of an officer who had seen his world collapse.
+
+"Yet hear me, lad... our blades were brittle twigs against that mist. If that horror spills down into the lowlands, every border town will burn. I ask not in the name of the Ducal throne. I plead for the mortal souls trapped in that gorge... aid us."
 
 The captain's plea hung heavy in the lantern light.
 
 The Village Elder stepped forward, resting a gentle hand upon Garrett’s armored shoulder while gesturing for Bran to lower his blade.
 
-"Rise, Captain Garrett," the Elder said, his voice resonant with ancient calm. "The truth has unveiled its path tonight."
+"Lift your head, Captain Garrett," the Elder said, his voice resonant with ancient calm. "The truth has unveiled its path tonight."
 
-The Elder turned his gaze upon Azariel, who now stood tall beside the cot.
+The Elder turned his gaze upon Azariel.
 
-"For seven summers, we sheltered you beneath the boughs of the old fig tree, Azariel," the old man spoke with solemn gravity. "Yet the hollow husks have stirred not by chance. They press toward the frontier guided by their ancient thirst for the Heart of Aethel slumbering in your chest. If you remain within this valley, the scent of that ember will inevitably draw the hordes upon our homesteads, and the Duchy’s soldiers will burn this valley to cinder to flush them out."
+"Since the night you fell from Pine Cliff seven summers ago, the archaic hymns of our people have warned of this," the old man spoke in low, reverent tones. "The empty husks have stirred not by idle chance. They creep toward our borders guided by an ancient hunger, seeking the quiet hearth-fire that beats within your chest. The monks in our ancestral monastery upon the eastern crest have tended the warding seal for thousands of seasons, yet the barrier has frayed. So long as that flame dwells here, its warmth will inevitably draw them through our palisades."
 
-Azariel remained silent for a breath. He looked down at his open palm, then at the peaceful face of the mortal soldier he had saved. The memory of that mortal love still vibrated like a warm bell within his chest.
+Azariel remained silent for a breath. Beneath his linen sleeve, he flexed his numb, stone-cold fingers, looking down upon the peaceful face of the mortal soldier he had saved.
 
-"I will not let them burn this valley, Grandpa," Azariel replied softly, yet each word was forged with unwavering resolve. "Nor can I stand idly by and let what befell this soldier happen to hundreds more in the northern gorges."
-
-Azariel stepped toward the open window, gazing into the dark silhouette of the northern mountains. "I still remember the terror at Pine Cliff seven summers ago—the exact same freezing dread that clawed at this young man. Their mortal blades and arrows are powerless against that purple mist, but the warm ember within my breast can dissolve it. I do not yet understand the full truth of what I am, Grandpa. But if this flame can halt that suffering and save those dying in the canyon... then I must go with Captain Garrett."
+"I will not let them burn this valley, Grandpa," Azariel replied softly, yet each word was forged with unwavering resolve. "Nor can I stand idly by and let what befell this soldier happen to hundreds more in the northern gorges. I do not yet understand the full truth of the flame within my breast, Grandpa. But if it can dissolve that ash and save those dying in the canyon... then I must go with Captain Garrett."
 
 Hearing that pledge, Kael stepped forward without a heartbeat's hesitation. "I'm with you, brother. My blade is your blade. Those purple monsters will have to carve through me before they touch a hair on your head."
 
 Mira tightened the shoulder strap of her satchel, stepping squarely to Azariel’s side with her chin lifted high. "And you need someone to make sure your mortal flesh continues to breathe, El. You can't bear the weight of everyone's suffering alone. Wherever you go, I walk with you."
 
-Beholding the quiet resolve of the three youths, Captain Garrett slowly rose from the timber floor. His bloodshot eyes looked upon Azariel, Kael, and Mira with profound reverence, the desperate despair of an overwhelmed commander giving way to solemn duty.
+Beholding the quiet resolve of the three youths, Captain Garrett nodded firmly, his bloodshot eyes shining with the solemn duty of a veteran officer.
 
-"Our mounts have been fed and rested in the western stables," Garrett said, his voice regaining the steady cadence of a veteran officer. "When dawn breaks, my guardsmen will guide you through the northern rock pass. As long as our blades remain unbroken, you will not ride alone into that cursed mist."
+"Our mounts have been fed and rested in the western stables," Garrett said, his voice regaining the steady cadence of command. "My five scouts wait beyond the perimeter of this chamber. They have seen nothing of what transpired here; I ordered them to keep vigil in the courtyard and to regard you only as a gifted village healer. When dawn breaks, they will guide our path through the northern rock pass. As long as our blades remain unbroken, you will not ride alone into that cursed mist."
 
 Bran gave his old comrade a curt nod of mutual understanding, then turned his gaze upon Kael, Azariel, and Mira. The veteran hunter’s eyes hardened with the resolute purpose of both a father and a seasoned warrior. "If we ride together at dawn, we have little time. There are provisions to pack, and people you must bid farewell to before the first stride is taken."
 

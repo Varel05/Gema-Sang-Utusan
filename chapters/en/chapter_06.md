@@ -55,13 +55,23 @@ A knot tightened in Kael’s throat. His eyes burned as he looked upon the resol
 
 A soft creak at the chamber doorway drew their gaze.
 
-Elora stood there, the faded blue of her gown catching the dim glow of the hearth. In her arms she cradled a thick traveling cloak of grey wool with a deep cowl, alongside a linen parcel packed with dense wheat bread and dried venison.
+Elora stood there, the faded blue of her gown catching the dim glow of the hearth. In her arms she cradled a thick traveling cloak of grey wool with a deep cowl, alongside a linen parcel packed with dense wheat bread and dried venison. Yet her fingers gripped the heavy wool fiercely, refusing to release it at once.
 
-Tears glistened in Elora’s eyes as she beheld her only boy standing tall in the harness of a warrior. She crossed the room, unable to hold back the warmth spilling down her cheeks. With trembling fingers, she smoothed the folds of the cloak about Kael’s neck, fastening it at his shoulder with an ancient copper clasp.
+Tears glistened in Elora’s eyes, born not merely of tender sentiment, but of a mother's profound sorrow kept silent for twenty years. Her gaze rose above Kael’s armored shoulder, fixing squarely upon Bran, who stood rigid beside the hearthstones.
 
-"I have known this day would come since the night you carried that silver-haired youth down from the high crags," Elora whispered, cupping Kael’s cheek in her warm palm. "Do not be reckless, Kael. Do not act foolishly merely to prove your bravery. Eat your bread, draw your hood when the icy gales scour the mountain passes... and bring your brother home to me."
+"Twenty years you drilled him with the blade, Bran," Elora spoke, her voice strained against the trembling fury of a mother's grief. "And now... you buckle cold iron across his chest. Tell me, Bran... for what? So our only boy can bleed out on some northern crag like your comrades of old?"
 
-Kael embraced his mother fiercely. Beneath the cold steel at his chest, the warmth of her arms sank deep into his marrow, becoming an unseen bulwark he would carry across the borderlands.
+Bran stood frozen in silence. The veteran hunter's jaw knotted hard, yet the gaze that was usually as piercing as an eagle's softened under an unyielding burden of guilt. As a husband who had sworn to leave the horrors of the shield wall behind, he knew the ancient wound he had torn wide in his wife’s heart.
+
+Kael stepped close to his mother. Reaching out with his leather-gloved hands, he gently enfolded her trembling fingers upon the coarse cloak.
+
+"Not to die on cold stones, Mother," Kael whispered with unwavering resolve, holding her gaze with steady conviction. "Father forged me so I would have the strength to guard Mira and Azariel, and so I would have the power to walk back into this kitchen alive. If I stay huddled behind these logs while those boys bleed in the passes, I am not worthy to be called your son, nor my father’s son."
+
+Tears spilled freely down Elora’s cheeks. The mother's fierce defense slowly gave way before the mature dignity in her boy’s voice. With trembling hands, she smoothed the folds of the grey cloak about Kael’s neck, pinning it at his shoulder with an ancient copper clasp, before cupping his weathered cheek.
+
+"Do not be reckless, Kael," Elora whispered, pulling him into a fierce, desperate embrace. "Eat your bread, draw your hood when the icy gales scour the mountain passes... and bring your brother home to me."
+
+Beneath the cold steel at his chest, the warmth of her arms sank deep into his marrow, becoming an unseen bulwark Kael would carry across the borderlands.
 
 ***
 
@@ -75,15 +85,15 @@ The failure of her remedies hours earlier had not broken her courage. On the con
 
 A soft, barefoot tread creaked against the floorboards of the rear entrance.
 
-Mira’s father stepped into the room. A lean, sinewy farmer with sun-darkened skin, he carried no weapons. His clothing was humble, his palms calloused and split from seasons of turning the valley soil. In his hands, he bore two cured-leather flasks of boiled well water and a large bundle of sweet, dense raisin wheat bread, still radiating the residual warmth of the stone hearth.
+Joran, Mira’s father, stepped into the room. A lean, sinewy farmer with sun-darkened skin, he carried no weapons. His clothing was humble, his palms calloused and split from seasons of turning the valley soil. In his hands, he bore two cured-leather flasks of boiled well water and a large bundle of sweet, dense raisin wheat bread, still radiating the residual warmth of the stone hearth.
 
-Without a word, the quiet farmer settled the provisions into Mira’s satchel.
+Without a word, Joran settled the provisions into Mira’s satchel.
 
 "Father..." Mira murmured, gazing upon the gentle face of the man who had always spoken so little.
 
-The man paused. His gentle eyes looked down upon his daughter, fully clad in her travel boots and healer's satchel. Slowly, his rough, warm palm reached out, resting upon Mira’s braided hair just as he did every morning before setting out for the fields at first light.
+Joran paused. His gentle eyes looked down upon his daughter, fully clad in her travel boots and healer's satchel. Slowly, his rough, warm palm reached out, resting upon Mira’s braided hair just as he did every morning before setting out for the fields at first light.
 
-"Your mother carried that very same fire in her eyes," her father said softly, his voice thick with quiet pride. "When the great fever swept through the lower hamlets fifteen turnings ago, she never stayed behind her hearth. She packed her herbs and set forth into the dark to tend those in torment."
+"Your mother carried that very same fire in her eyes," Joran said softly, his voice thick with quiet pride. "Twenty turnings of the seasons ago, before you were born, when the great fever swept through the lower hamlets, your mother never stayed behind her hearth. She packed her herbs and set forth into the dark to tend those in torment."
 
 A faint, proud smile touched his lips. "Go, my child. Heal those who cry out for your aid. Do not worry for this valley; our fields will be waiting to welcome your return when the harvest moon comes."
 
@@ -99,7 +109,7 @@ Far out in the expanse of the wheat fields, a low mist crawled across the dew-dr
 
 Azariel stood in solitude beneath the spreading roots of the Old Fig Tree.
 
-He carried no forged broadsword, no satchel of medicine to pack. He wore only simple homespun tunics of grey, draped in a deep-cowl mantle of coarse brown linen that shadowed his silver-blue hair. His palm rested against the ancient, weathered bark of the giant tree.
+He carried no forged broadsword, no satchel of medicine to pack. He wore only simple homespun tunics of grey, draped in a deep-cowl mantle of coarse brown linen that shadowed his silver-blue hair. His left palm rested against the ancient, weathered bark of the giant tree. Meanwhile, his right hand remained tucked within the folds of his cloak, still stiff and corpse-pale from the glacial venom of the ash he had dissolved hours earlier. Slowly, Azariel flexed his chilled fingers against his thigh, feeling the ember within his chest patiently driving warmth back to his fingertips.
 
 Beneath his fingers, the fibrous veins of the old boughs still captured the faint, icy tremor creeping from the northern passes. Yet within the hollow of his own breast, the quiet flame beat with steady, untroubled warmth.
 
@@ -135,7 +145,7 @@ The words struck the core of Azariel’s soul with undeniable force.
 
 *Pumpkin soup in a modest kitchen... the bright laughter of a mother...*
 
-The exact resonance that had flooded his consciousness when he dissolved the rot within the young guardsman flared brilliantly within Azariel’s breast. It had been no passing dream; it was the sacred truth of mortal life. Mortals did not endure for cold thrones or abstract notions of celestial order. They struggled and bled for small, fragile wonders: a warm meal, a child’s carefree laugh, and the safety of returning to a waiting hearth.
+The exact resonance that had flooded his consciousness when he dissolved the rot within the young guardsman flared brilliantly within Azariel’s breast. It had been no passing dream; it was the sacred truth of mortal life. Mortals did not endure for cold thrones or grandiose triumphs. They struggled and bled for small, fragile wonders: a warm meal, a child’s carefree laugh, and the safety of returning to a waiting hearth.
 
 Azariel took a quiet step forward. The morning breeze tugged slightly at his linen cowl, revealing the calm radiance of his pale-blue eyes, glowing like a gentle hearth fire in the gloom.
 
@@ -161,15 +171,15 @@ Kael walked down the village path with measured strides. His reinforced cuirass 
 
 The two halted near the gate timbers, where Azariel already stood waiting beneath his simple brown cowl.
 
-The three companions exchanged glances.
+Mira's trained eye immediately caught how Azariel held his right arm stiffly beneath the heavy folds of his mantle, as well as the faint shadows of exhaustion lingering beneath his brow. The young healer stepped close, fixing him with a quiet, searching glance that demanded a clinical truth. Azariel met her gaze, exhaling softly before offering a faint, reassuring smile—a silent promise that his mortal vessel would endure.
 
-There were no grandiose speeches of heroic destiny. Kael offered his familiar, roguish grin that had never left him since boyhood. Mira gave a subtle nod with a tender, resolute smile, while Azariel's eyes reflected an unbreakable bond of brotherhood. Their silence carried a promise that needed no words: they would step beyond the palisade together, and together they would return.
+Kael offered his familiar, roguish grin that had never left him since boyhood, clapping a gloved hand against the brass hilt at his hip. Their silence carried a promise that needed no words: they would step beyond the palisade together, and together they would return.
 
 Beside them, the muffled thunder of iron-shod hooves shook the damp turf.
 
 Captain Garrett was once more clad in the full harness of his command, sitting tall atop his black warhorse. Behind him, five mounted scouts sat in disciplined formation, their lances held aloft, ready to scout the winding mountain roads.
 
-Upon the watchpost landing, Bran and the Village Elder stood side by side, their weathered gazes watching over the three young wanderers like an impenetrable blessing.
+Upon the watchpost landing, Bran and the Village Elder stood side by side, their weathered gazes watching over the three young wanderers like an impenetrable blessing. Not far from the timber wall of the western grain store, several townsfolk had gathered in hushed whispers to watch the unheralded cavalry detachment. Among them stood Master Vane, wrapped in his fine, dark purple woolen coat, leaning upon his bronze-headed walking staff. The vineyard lord's eyes narrowed with calculating intensity, noting how an officer of the Ducal Guard and Bran's armored son flanked the cloaked youth beyond the palisade. The rhythmic, quiet tapping of his bronze cane against the stone betrayed the deep suspicion taking root in his mind.
 
 Garrett drew his reins, cast a respectful salute toward the watchpost, and raised his armored gauntlet.
 
@@ -183,6 +193,6 @@ Garrett’s warhorse surged forward to take the lead, flanked by the steady stri
 
 *THUD.*
 
-Behind them, the massive timber doors of the palisade swung shut, sealing away their seven years of peace beneath the shelter of the old fig tree.
+Behind them, the massive timber doors of the palisade swung shut with a heavy, final reverberation that locked the quiet valley behind them.
 
-Ahead of them, the morning sun broke across the winding stone path ascending toward the northern gorge. Their first strides into the dawn had begun.
+Ahead of them, the morning sun broke across the winding stone path ascending steeply toward the shadows of the northern gorge. The mountain wind whipped the hems of their wool cloaks, while road dust billowed beneath the iron-shod hooves of the warhorses. Far behind, the timber gables and the boughs of the old fig tree within the border valley slowly sank away, swallowed by the rising wall of pines that sealed the path home.

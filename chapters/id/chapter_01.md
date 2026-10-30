@@ -94,7 +94,7 @@ Hening.
 
 Keheningan yang datang bukan kesunyapan malam biasa, melainkan rasa sunyi yang menindih udara secara ganjil. Suara derit dahan dan serangga malam padam seketika, seolah seluruh rimba menarik napas dalam-dalam dan lupa mengembuskannya kembali. Angin pun terhenti. Pohon-pohon pinus berhenti bergoyang. Alam di sekeliling mereka menjadi diam yang tertahan, kegelapan yang menunggu sesuatu yang akan segera pecah. Tekanan itu sampai terasa di gendang telinga Mira, seperti udara yang tiba-tiba kehilangan bobotnya.
 
-Suhu di Tebing Pinus anjlok drastis. Hawa dingin yang menusuk tulang, kering, hampa, serta membawa bau ozon dan abu mati, merayap turun dari balik barisan pohon pinus purba di belakang mereka.
+Suhu di Tebing Pinus anjlok drastis. Hawa dingin yang menusuk tulang, kering, hampa, serta membawa bau batu terbakar dan abu mati, merayap turun dari balik barisan pohon pinus purba di belakang mereka.
 
 Di sisi Mira, Kael tersentak. Senyum lebar yang tadi masih tergelar di wajah sahabatnya runtuh seketika. Tangannya yang semula bersandar santai di lutut kini mencengkeram erat gagang pisau buru di sabuk. Leher Kael menegang. Napasnya tercekat seolah ada yang menyumpal tenggorokannya dari dalam.
 

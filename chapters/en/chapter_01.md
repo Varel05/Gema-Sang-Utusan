@@ -94,7 +94,7 @@ Absolute silence.
 
 It was not the peaceful quiet of an ordinary mountain night, but a heavy, unnatural stillness that weighed down the air. The rustle of branches and the chirping of crickets were snuffed out in a heartbeat—as though the forest itself had drawn a sharp breath and forgotten to release it. Even the wind died. The pines stopped swaying. The world around them became a held breath, a waiting darkness that pressed against Mira's eardrums like something about to break.
 
-The temperature atop Pine Cliff plummeted. A bone-gnawing cold—dry, hollow, carrying the bitter stench of ozone and dead ash—crept down from the ancient pines behind them.
+The temperature atop Pine Cliff plummeted. A bone-gnawing cold, dry, hollow, carrying the bitter stench of scorched stone and dead ash, crept down from the ancient pines behind them.
 
 Beside her, Kael went rigid. The easy grin that had brightened his face vanished in an instant; the hand resting on his knee clamped fiercely around the hilt of his bone knife. His neck cords strained, and his breath hitched as though something invisible had seized his throat.
 

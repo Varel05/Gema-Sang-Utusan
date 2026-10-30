@@ -55,13 +55,23 @@ Tenggorokan Kael tercekat kaku. Matanya yang panas menatap wajah tegas sang ayah
 
 Sebuah derit lembut di ambang pintu bilik mengalihkan perhatian mereka. 
 
-Elora berdiri di sana, gaun biru pudarnya tersapu temaram lentera. Di tangannya, sang ibu mendekap selembar mantel wol tebal berwarna kelabu berkerudung lebar, serta sebuah bungkusan kain lenan berisi roti gandum padat dan dendeng kering.
+Elora berdiri di sana, gaun biru pudarnya tersapu temaram lentera. Di tangannya, sang ibu mendekap selembar mantel wol tebal berwarna kelabu berkerudung lebar, serta sebuah bungkusan kain lenan berisi roti gandum padat dan dendeng kering. Namun jemarinya mencengkeram kain mantel itu begitu erat, menolak untuk langsung melepaskannya.
 
-Mata Elora berkaca-kaca menatap putra tunggalnya yang kini telah berdiri tegap dalam balutan zirah prajurit. Wanita itu melangkah mendekat tanpa sanggup membendung air matanya. Dengan jemari halus yang bergetar, ia merapikan lipatan mantel di leher Kael, lalu menyematkan peniti tembaga di pundaknya.
+Mata Elora berkaca-kaca, bukan semata oleh haru, melainkan oleh kepedihan mendalam yang bertahun-tahun ia simpan rapat. Pandangan wanita itu terangkat melewati pundak Kael, menatap lurus ke arah Bran yang berdiri kaku di samping perapian.
 
-"Ibu tahu hari ini cepat atau lambat akan tiba sejak malam kau membawa pemuda berambut perak itu dari tebing cadas," tutur Elora lirih, menangkup kedua pipi Kael dengan telapak tangannya yang hangat. "Jangan bersikap gegabah, Kael. Jangan bertindak bodoh hanya demi membuktikan keberanianmu. Makanlah bekal rotimu, kenakan kerudung mantelmu saat badai menembus gunung... dan bawa saudaramu kembali pada Ibu."
+"Dua puluh tahun kau mengajarinya memegang pedang, Bran," ucap Elora, suaranya tercekat menahan getaran amarah seorang ibu. "Dan sekarang... kau memasangkan zirah besi itu ke tubuhnya. Katakan padaku, Bran... untuk apa? Agar anakmu mati di celah batu utara seperti kawan-kawanmu dahulu?"
 
-Kael mendekap ibunya erat-erat. Di balik dinginnya pelat baja di dadanya, kehangatan pelukan itu meresap begitu dalam, menjadi benteng tak terlihat yang akan ia bawa melintasi perbatasan.
+Bran terdiam membisu. Rahang sang pemburu mengeras, namun sorot matanya yang biasanya tajam laksana elang kini melembut dalam rasa bersalah yang tak sanggup ia bantah. Sebagai seorang suami yang berjanji meninggalkan medan perang, ia tahu luka lama yang kembali ia buka di hati istrinya.
+
+Kael melangkah mendekati ibunya. Tangan pemuda itu yang kini berbalut sarung kulit mencengkeram lembut jemari Elora yang gemetar di atas kain mantel.
+
+"Bukan untuk mati di celah batu, Ibu," bisik Kael mantap seraya menatap mata sang ibu lekat-lekat. "Ayah menempaku agar aku punya kekuatan untuk melindungi Mira dan Azariel, dan agar aku bisa pulang kembali ke dapur rumah ini. Jika aku tetap berdiam diri di bilik ini sementara prajurit-prajurit itu mati di perbatasan, aku tidak layak menyebut diriku putramu ataupun putra Ayah."
+
+Air mata Elora runtuh membasahi pipinya. Pertahanan wanita itu perlahan luruh mendengar kedewasaan dalam suara putranya. Dengan jemari bergetar, ia merapikan lipatan mantel di leher Kael, menyematkan peniti tembaga di pundaknya, lalu menangkup kedua pipi pemuda itu.
+
+"Jangan bersikap gegabah, Kael," bisik Elora seraya mendekap putranya erat-erat. "Makanlah bekal rotimu, rapatkan kerudung mantelmu saat badai menembus gunung... dan bawa saudaramu pulang pada Ibu."
+
+Di balik dinginnya pelat baja di dadanya, kehangatan dekapan itu meresap begitu dalam, menjadi benteng tak terlihat yang akan Kael bawa melintasi perbatasan.
 
 ***
 
@@ -75,15 +85,15 @@ Kegagalan ramuannya kemarin tidak menyurutkan keberanian gadis itu. Justru sebal
 
 Sebuah langkah kaki yang lambat dan berat terdengar di ambang pintu belakang pondok.
 
-Ayah Mira melangkah masuk tanpa alas kaki. Pria petani bertubuh liat dengan kulit sewarna tembaga itu tidak mengenakan senjata apa pun. Pakaian kerjanya sederhana, dengan telapak tangan yang kasar dan pecah-pecah akibat puluhan musim mencangkul tanah gandum perbatasan. Di tangannya, pria itu membawa dua kantong kulit air bersih yang telah direbus dan sebungkus besar roti gandum manis kismis yang masih memancarkan sisa hangat tungku pembakaran.
+Joran, ayah Mira, melangkah masuk tanpa alas kaki. Pria petani bertubuh liat dengan kulit sewarna tembaga itu tidak mengenakan senjata apa pun. Pakaian kerjanya sederhana, dengan telapak tangan yang kasar dan pecah-pecah akibat puluhan musim mencangkul tanah gandum perbatasan. Di tangannya, pria itu membawa dua kantong kulit air bersih yang telah direbus dan sebungkus besar roti gandum manis kismis yang masih memancarkan sisa hangat tungku pembakaran.
 
-Pria itu meletakkan bekal makanan tersebut ke dalam tas Mira tanpa banyak kata. 
+Joran meletakkan bekal makanan tersebut ke dalam tas Mira tanpa banyak kata. 
 
 "Ayah..." bisik Mira pelan, menatap ayahnya yang selalu pendiam.
 
-Pria itu terdiam sejenak. Matanya yang teduh menatap putrinya yang kini telah mengenakan tas obat dan sepatu bot kulit tebal bertali. Perlahan, telapak tangannya yang kasar dan hangat terangkat, membelai lembut sanggul rambut Mira seperti yang selalu ia lakukan setiap kali hendak berangkat ke ladang di waktu subuh.
+Joran terdiam sejenak. Matanya yang teduh menatap putrinya yang kini telah mengenakan tas obat dan sepatu bot kulit tebal bertali. Perlahan, telapak tangannya yang kasar dan hangat terangkat, membelai lembut sanggul rambut Mira seperti yang selalu ia lakukan setiap kali hendak berangkat ke ladang di waktu subuh.
 
-"Ibumu dulu memiliki sorot mata yang persis sama denganmu malam ini," tutur ayahnya dengan suara serak yang tenang. "Saat wabah demam melanda pemukiman bawah lima belas musim silam, ibumu tidak pernah berdiam diri di rumah. Ia mengemasi herba dan melangkah pergi demi menolong mereka yang kesakitan."
+"Ibumu dulu memiliki sorot mata yang persis sama denganmu malam ini," tutur Joran dengan suara serak yang tenang. "Dua puluh musim silam, sebelum kau lahir, saat wabah demam melanda pemukiman bawah, ibumu tidak pernah berdiam diri di rumah. Ia mengemasi herba dan melangkah pergi demi menolong mereka yang kesakitan."
 
 Pria itu tersenyum tipis, sebuah senyuman bangga yang tulus dari seorang ayah bersahaja. "Pergilah, Nak. Rawat mereka yang membutuhkan pertolonganmu. Jangan cemas memikirkan desa ini; ladang gandum kita akan selalu menunggumu pulang saat musim panen tiba."
 
@@ -99,7 +109,7 @@ Jauh di tengah bentangan ladang gandum yang luas, kabut tipis merayap rendah di 
 
 Azariel berdiri seorang diri di bawah naungan akar banir Pohon Ara Tua.
 
-Pemuda itu tidak memiliki pedang pusaka tempaan besi ataupun tas ramuan medis untuk dikemas. Ia hanya mengenakan pakaian kain kelabu sederhana, dibalut jubah bertudung lenan cokelat tua yang menutupi helaian rambut perak bersemburat birunya. Telapak tangannya menyentuh kulit kayu ara raksasa yang kasar dan dingin. 
+Pemuda itu tidak memiliki pedang pusaka tempaan besi ataupun tas ramuan medis untuk dikemas. Ia hanya mengenakan pakaian kain kelabu sederhana, dibalut jubah bertudung lenan cokelat tua yang menutupi helaian rambut perak bersemburat birunya. Telapak tangan kirinya menyentuh kulit kayu ara raksasa yang kasar dan dingin. Sementara tangan kanannya tetap terselip di balik lipatan jubah, masih terasa kaku dan pucat pasi akibat sengatan dingin sisa luka abu yang ia serap semalam. Perlahan, Azariel mengepalkan dan membuka jemari kanannya, merasakan bagaimana bara di dadanya membutuhkan waktu untuk mengembalikan aliran darah hangat ke ujung-ujung kukunya.
 
 Di bawah telapak tangannya, urat-urat kayu purba itu masih menangkap denyutan dingin yang samar dari arah utara. Namun di dalam rongga dadanya sendiri, bara hangat yang berdetak tenang itu tidak lagi merasa gentar. 
 
@@ -135,7 +145,7 @@ Kata-kata itu menghantam batin Azariel dengan kekuatan yang teramat nyata.
 
 *Sup labu di dapur sederhana... tawa seorang ibu...*
 
-Kilasan rasa yang sama persis dengan yang meresap ke dalam jiwanya saat ia memurnikan luka prajurit muda di bilik Tetua seketika berdentang keras di dalam dada Azariel. Itu bukan sekadar kenangan acak; itu adalah esensi dari seluruh harapan fana yang sedang dipertaruhkan. Manusia tidak bertarung demi takhta yang dingin atau tatanan yang abstrak. Mereka berjuang demi hal-hal kecil yang bersahaja: semangkuk sup hangat, senyuman seorang anak, dan kepulangan ke rumah yang aman.
+Kilasan rasa yang sama persis dengan yang meresap ke dalam jiwanya saat ia memurnikan luka prajurit muda di bilik Tetua seketika berdentang keras di dalam dada Azariel. Itu bukan sekadar kenangan acak; itu adalah wujud nyata dari seluruh harapan fana yang sedang dipertaruhkan. Manusia tidak bertarung demi takhta yang dingin atau kemuliaan yang muluk-muluk. Mereka berjuang demi hal-hal kecil yang bersahaja: semangkuk sup hangat, senyuman seorang anak, dan kepulangan ke rumah yang aman.
 
 Azariel melangkah maju mendekati perwira tua itu. Tudung lenannya tersibak sedikit oleh semilir angin subuh, menampakkan manik matanya yang berkilau dalam redup putih kebiruan yang hangat laksana nyala tungku perapian.
 
@@ -161,15 +171,15 @@ Kael melangkah mantap menuruni jalan setapak desa. Zirah kulit bertulang bajanya
 
 Keduanya berhenti di dekat palang pintu gerbang, tempat Azariel telah berdiri menunggu mereka dalam tudung lenan cokelatnya yang bersahaja.
 
-Ketiga pemuda itu saling bertatapan. 
+Mata Mira yang terlatih seketika menangkap bagaimana tangan kanan Azariel tetap terselip kaku di balik lipatan jubahnya, serta sisa kelelahan yang samar di kelopak matanya. Gadis tabib itu melangkah mendekat, menatap Azariel dengan sorot mata menuntut jawaban medis tanpa kata. Azariel menangkap tatapan itu, menarik napas pelan, lalu membalasnya dengan senyuman tipis yang menenangkan: sebuah isyarat bisu bahwa ia sanggup bertahan.
 
-Tidak ada pidato kepahlawanan yang muluk-muluk di antara mereka. Kael menarik sudut bibirnya, membentuk senyuman seringai khasnya yang tak pernah pudar sejak masa kanak-kanak. Mira tersenyum simpul seraya mengangguk pelan, sementara mata Azariel memancarkan kehangatan persaudaraan yang tak tergoyahkan. Tatapan mereka menyiratkan janji yang terpatri tanpa perlu diucapkan: mereka melangkah bersama keluar dari lembah ini, dan mereka akan pulang bersama kembali ke tanah ini.
+Kael menarik sudut bibirnya, membentuk senyuman seringai khasnya yang tak pernah pudar sejak masa kanak-kanak seraya menepuk pelindung kuningan di pinggangnya. Tatapan mereka bertiga menyiratkan janji yang terpatri tanpa perlu diucapkan: mereka melangkah bersama keluar dari lembah ini, dan mereka akan pulang bersama kembali ke tanah ini.
 
 Di samping mereka, derap tapal kuda bergemuruh pelan di atas tanah basah. 
 
 Kapten Garrett telah kembali mengenakan zirah komandonya yang lengkap, duduk tegak di atas pelana kuda perang hitamnya yang bugar. Di belakangnya, lima prajurit pengintai Leovard telah berbaris rapi di atas kuda-kuda mereka dengan tombak terhunus ke atas, siap memandu perjalanan.
 
-Di undakan pos jaga, Bran dan Tetua Desa berdiri melepas kepergian mereka. Tatapan kedua pria tua itu mengawal ketiga anak asuh mereka dengan doa restu yang membentengi setiap jengkal langkah.
+Di undakan pos jaga, Bran dan Tetua Desa berdiri melepas kepergian mereka. Sementara tak jauh dari dinding gudang gandum barat, beberapa warga desa tampak berdiri berbisik-bisik menyaksikan iring-iringan berkuda yang tak lazim itu. Di antara kerumunan kecil tersebut, berdirilah Juragan Vane dalam balutan mantel wol ungu gelapnya, bersandar pada tongkat berkepala perunggu. Mata sang juragan anggur menyipit kalkulatif, memperhatikan dengan saksama bagaimana perwira resmi Kadipaten dan putra Bran mengawal sosok pemuda berkerudung cokelat itu keluar dari desa. Ketukan pelan ujung tongkatnya di atas batu mengisyaratkan kecurigaan yang mulai berakar di benaknya.
 
 Kapten Garrett menarik tali kekang kudanya, menoleh ke arah pos jaga, lalu mengangkat tangan kanannya memberi tanda perintah.
 
@@ -183,6 +193,6 @@ Kuda hitam Garrett melangkah keluar memimpin jalan, disusul oleh derap langkah m
 
 *BUM.*
 
-Di belakang punggung mereka, pintu gerbang kayu perbatasan perlahan menutup kembali dengan satu dentuman berat yang menutup tujuh tahun masa damai mereka di bawah naungan ara tua.
+Di belakang punggung mereka, pintu gerbang kayu perbatasan perlahan menutup kembali dengan satu dentuman berat yang mengunci keheningan lembah.
 
-Di depan mereka, matahari pagi mulai menyinari jalan berbatu yang mendaki menuju ngarai utara. Langkah pertama pengembaraan menyongsong fajar telah resmi dimulai.
+Di hadapan mereka, matahari pagi mulai menyinari jalan setapak berbatu yang mendaki curam menuju bayang-bayang tebing cadas utara. Deru angin gunung menyibak ujung mantel wol mereka, sementara debu jalanan mengepul di bawah derap kuku besi kuda perang. Jauh di belakang, atap-atap kayu dan kanopi pohon ara tua di lembah perbatasan perlahan tenggelam, ditelan oleh pekatnya kabut cemara yang menutup jalan pulang.

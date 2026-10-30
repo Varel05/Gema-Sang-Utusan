@@ -134,7 +134,7 @@ The name settled into his consciousness, tethering his newborn life to the morta
 
 From the rear porch where he was soon permitted to sit and breathe the crisp mountain air, Azariel observed the pulse of the agrarian settlement.
 
-Each dawn, Mira’s father—a quiet, sinewy farmer—set out for the wheat fields with sickle and spade slung over his back. Before leaving, the man would tenderly smooth his daughter's hair and offer a shy, respectful nod toward Azariel. Meanwhile, at the western edge of the village, Bran drilled the local youth in spear and sword formations; Azariel watched Kael tumble repeatedly into the wet grass, scramble up with a grimace, and swing his practice blade until sweat soaked his brow.
+Each dawn, Joran, Mira’s father, a quiet, sinewy farmer, set out for the wheat fields with sickle and spade slung over his back. Before leaving, the man would tenderly smooth his daughter's hair and offer a shy, respectful nod toward Azariel. Meanwhile, at the western edge of the village, Bran drilled the local youth in spear and sword formations; Azariel watched Kael tumble repeatedly into the wet grass, scramble up with a grimace, and swing his practice blade until sweat soaked his brow.
 
 And beside Azariel was Mira, patiently guiding him into the world of men.
 
