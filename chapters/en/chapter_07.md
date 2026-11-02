@@ -164,13 +164,13 @@ Kael drew a breath, choosing his words with care as a young warrior learning the
 
 Garrett went still. He looked at Kael for a long time, studying the unpretentious resolve in the boy's dark brown eyes. The captain did not smile, but the hard knot in his jaw slowly unraveled. Garrett nodded once in quiet respect, tossed the dry twig into the fire, and picked up his tea bowl in silence. The heavy shadow upon his shoulders seemed to shift.
 
-In the dim corner by the wall, Azariel watched the stone hearth. His eyes rested upon the grey ash drifting over the red coals below the logs. The embers were not dead; their warmth endured, sheltered beneath the veil of dust.
+In the dim corner by the wall, Azariel watched the stone hearth. Beneath the blanket of cold grey ash, a faint red ember still pulsed, cradling a warmth unseen from without.
 
-Azariel rested his head against the stone wall, murmuring softly to himself:
+Azariel rested his head against the stone wall, murmuring softly:
 
-"The ember is not dead... only sleeping beneath the ash. I do not understand what it is to be late, Mira. But I understand what it is to be 'not yet'."
+"The ember is not dead, Mira... only buried beneath the ash. So long as warmth remains within it, nothing is ever truly too late."
 
-Mira glanced at him, catching the serene assurance in his whisper. They shared a quiet look in the warmth of the fire before night guided them into rest.
+Mira glanced at him, catching the quiet grace in his whisper. They shared a soft look in the warmth of the fire before night guided them into rest.
 
 ***
 

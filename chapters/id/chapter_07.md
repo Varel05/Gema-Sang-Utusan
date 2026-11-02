@@ -162,13 +162,13 @@ Kael menarik napas perlahan. Sebagai pemuda yang baru belajar memikul beban peda
 
 Garrett terdiam. Ia menatap Kael lama sekali, menatap mata cokelat gelap pemuda itu yang memancarkan keteguhan tanpa dibuat-buat. Sang kapten tidak tersenyum, namun ketegangan di rahangnya perlahan mereda. Garrett mengangguk pelan satu kali, meletakkan ranting kayu ke dalam bara, lalu kembali memegang mangkuk tehnya dalam hening. Beban berat di bahu perwira itu tampak sedikit bergeser.
 
-Di sudut ruangan yang temaram, Azariel menatap perapian batu. Matanya memandang tumpukan abu kelabu yang menutupi lapisan bara merah di bawah kayu bakar. Bara itu tidak mati; nyala hangatnya tetap terjaga di balik selubung debu.
+Di sudut ruangan yang temaram, Azariel menatap perapian batu. Di bawah tumpukan abu kelabu yang dingin, seberkas bara merah masih berpendar redup, menjaga kehangatan yang tak kasat mata dari luar.
 
-Azariel menyandarkan kepalanya ke dinding batu, berbisik sangat lirih kepada dirinya sendiri:
+Azariel menyandarkan kepalanya ke dinding batu, berbisik sangat pelan:
 
-"Bara itu belum padam... hanya tertutup abu. Aku tidak mengerti apa itu terlambat, Mira. Tetapi aku mengerti apa itu belum."
+"Bara itu belum mati, Mira... hanya tertimbun abu. Selama masih ada hangat yang tersisa di dalamnya, tidak ada yang namanya terlambat."
 
-Mira menoleh menatap Azariel, menangkap ketenangan dalam gumaman pemuda itu. Keduanya saling bertukar pandang dalam kehangatan api perapian, sebelum akhirnya malam membimbing mereka beristirahat.
+Mira menoleh menatap Azariel, menangkap ketenangan dalam gumaman pemuda itu. Keduanya saling bertukar pandang dalam kehangatan perapian, sebelum akhirnya malam membimbing mereka beristirahat.
 
 ***
 
