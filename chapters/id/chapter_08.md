@@ -17,115 +17,129 @@ tags:
 
 # Bab 8: Pintu Besi Singa Bersayap
 
-Matahari pagi membakar sisa kabut di lembah bawah, menyingkap hamparan atap sirap kelabu dan kepulan asap cerobong Kadipaten Leovard. Dari ketinggian lereng terakhir, kota benteng itu tampak seperti raksasa batu yang meringkuk di tengah dataran cadas, dikelilingi parit air keruh dan tembok pertahanan berlapis ganda yang berdiri angkuh.
+Matahari pagi membakar sisa kabut di lembah bawah, menyingkap hamparan atap sirap kelabu dan kepulan asap cerobong Kadipaten Leovard. Dari lereng terakhir, kota benteng itu tampak seperti raksasa batu yang meringkuk di dataran cadas, dikelilingi parit air keruh dan tembok pertahanan berlapis ganda.
 
-Kapten Garrett menarik tali kekang kuda hitamnya, menghentikan langkah di punggung bukit. Di belakangnya, lima prajurit pengintai berkuda berbaris rapat, menjaga keledai perbekalan yang dituntun Kael. Garrett melirik sekilas ke arah Azariel dan Mira. Pemuda berambut perak itu melangkah tenang, namun jemari tangan kanannya sesekali meremas keliman jubah wol kasarnya, menahan denyut yang kaku.
+Kapten Garrett menarik tali kekang kuda hitamnya, menghentikan langkah di punggung bukit. Di belakangnya, lima pengintai berkuda berbaris rapat menjaga keledai perbekalan yang dituntun Kael. Garrett melirik Azariel dan Mira. Pemuda berambut perak itu melangkah diam, tangan kanannya mencengkeram lipatan jubah wol kasarnya, menahan sesuatu yang tak tampak dari luar.
 
 "Kita masuk melalui gerbang luar Distrik Pengrajin," ujar Garrett, suaranya parau oleh debu jalanan. "Tetap di belakang kudaku. Jangan menatap mata para penjaga cukai, dan biarkan lencanaku yang bicara."
 
-Rombongan menuruni lereng menuju jalan lingkar luar. Begitu melewati pos barikade kayu terluar, keriuhan kota menelan mereka seketika. Jalan raya utama kota bawah beralaskan batu sungai yang licin digerus roda gerobak selama berabad-abad. Udara pengap dan kental, berbau jelaga bengkel tempa, kotoran kuda, rebusan kubis asam, serta lemak kambing dari kedai-kedai murah di sepanjang gang sempit.
+Rombongan menuruni lereng menuju jalan lingkar luar. Melewati pos barikade kayu terluar, keriuhan kota menelan mereka seketika. Jalan raya kota bawah beralaskan batu sungai licin yang digerus roda gerobak selama berabad-abad. Udara berbau tajam jelaga bengkel tempa, kotoran kuda, rebusan kubis asam, serta lemak kambing dari kedai-kedai murah di sepanjang gang sempit.
 
-Ratusan orang berjejal di jalanan. Para pandai besi bertelanjang dada memukul paron, memercikkan bunga api ke jalan berbatu. Pedagang biji-bijian berteriak memamerkan karung gandum, sementara kusir pedati melecutkan cemeti membubarkan anjing jalanan. Bagi rakyat Leovard, ini pagi biasa yang dipenuhi urusan perut dan perak. Tidak ada satu pun dari mereka yang menyadari kengerian yang baru saja mengubur celah utara dalam abu beku.
+Ratusan orang berjejal di jalanan. Pandai besi bertelanjang dada memukul paron, memercikkan bunga api ke jalan berbatu. Pedagang biji-bijian meneriakkan harga gandum, sementara kusir pedati melecutkan cemeti membubarkan anjing jalanan. Bagi rakyat Leovard, ini pagi biasa yang dipenuhi urusan perut dan perak. Tidak ada satu pun dari mereka yang menyadari kengerian yang baru saja mengubur celah utara dalam abu beku.
 
-Garrett memandang wajah-wajah orang pasar itu dengan dada berdenyut getir. Di kantong pelana terdalam kudanya, sepatu kulit kecil milik anak pedagang garam masih tersimpan, dingin dan kaku. Berapa banyak dari orang-orang ini yang akan bertahan jika kabut ungu itu merembes menuruni tebing dan menyapu kota bawah sebelum prajurit benteng sempat menarik tuas pintu besi?
+Garrett memandang wajah-wajah orang pasar itu dengan dada berdenyut getir. Di kantong pelana terdalam kudanya, sepatu kulit kecil milik anak pedagang garam masih tersimpan dingin. Berapa banyak dari orang-orang ini yang akan bertahan jika kabut ungu itu merembes menuruni tebing dan menyapu kota bawah sebelum prajurit benteng sempat menarik tuas pintu besi?
 
-Rombongan menyeberangi jembatan lengkung batu yang melintasi parit pertahanan dalam. Di hadapan mereka, berdiri gerbang utama kastel kadipaten: sebuah lubang gapura raksasa dari batu granit hitam di bawah menara jaga bertingkat empat. Tepat di atas lengkungan ambang pintu, terpahat lambang Kadipaten Leovard, seekor singa bersayap yang mencengkeram pedang tegak. Di bawahnya, pintu kisi besi seberat ribuan pon tergantung menggantung, siap dijatuhkan kapan saja.
+Rombongan menyeberangi jembatan lengkung batu yang melintasi parit pertahanan dalam. Di hadapan mereka, berdiri gerbang utama kastel: gapura granit hitam di bawah menara jaga bertingkat empat. Tepat di atas lengkungan ambang pintu, terpahat lambang singa bersayap yang mencengkeram pedang tegak. Di bawahnya, pintu kisi besi seberat ribuan batu tergantung siap dijatuhkan.
 
 Dua belas penjaga berseragam zirah pelat mengilap berdiri memalang jalan dengan tombak bersilang. Mantel mereka berwarna merah tua bertepi keemasan, tanda kesatuan Garda Dalam yang tidak pernah merasakan lumpur perbatasan.
 
-Seorang sersan gerbang berperut buncit melangkah maju, memegang papan kayu berisi perkamen bertinta basah. Matanya menyipit angkuh, menatap kuda Garrett dan rombongan berpakaian rimba di belakangnya.
+Seorang sersan gerbang berperut buncit melangkah maju membawa papan kayu berisi perkamen bertinta basah. Matanya menyipit angkuh.
 
 "Tahan di tempat," perintah sersan itu dengan suara sengau. "Sebutkan nama kesatuan dan urusan kedatangan."
 
-Garrett mencondongkan tubuh dari pelana, menyingkap mantel dinasnya untuk memperlihatkan lencana singa bersayap perak di pelindung dadanya. "Kapten Garrett, komandan patroli perbatasan sektor ngarai utara. Buka jalurnya, Sersan. Aku membawa laporan mendesak yang harus didengar langsung oleh Yang Mulia Adipati sebelum matahari condong."
+Garrett mencondongkan tubuh dari pelana, menyingkap mantel dinasnya untuk memperlihatkan lencana singa bersayap perak di pelindung dadanya. "Kapten Garrett, komandan patroli perbatasan sektor ngarai utara. Buka jalurnya, Sersan. Aku membawa laporan mendesak untuk Yang Mulia Adipati sebelum matahari condong."
 
-Sersan itu tidak bergeser satu jengkal pun. Tangannya mengetuk-ngetuk perkamen di pangkuannya. "Garda Perbatasan memang berhak melintas, Kapten. Namun perintah baru dikeluarkan dua jam lalu oleh kantor majelis istana. Seluruh rombongan yang datang dari celah utara tanpa segel niaga resmi wajib ditahan di pelataran luar untuk pemeriksaan karantina dan verifikasi dokumen."
+Sersan itu tidak bergeser satu jengkal pun. "Garda Perbatasan memang berhak melintas, Kapten. Namun perintah baru dikeluarkan dua jam lalu oleh kantor majelis istana. Seluruh rombongan yang datang dari celah utara tanpa segel niaga resmi wajib ditahan di pelataran luar untuk pemeriksaan wabah dan verifikasi surat jalan."
 
-Rahang Garrett mengeras. "Karantina? Dua pasukanku tewas di tebing dan karavan garam musnah diserang monster, lalu kau menahanku dengan urusan surat jalan?"
+Rahang Garrett mengeras. "Pemeriksaan wabah? Dua pasukanku tewas di tebing dan karavan garam musnah diserang monster, lalu kau menahanku dengan urusan surat jalan?"
 
-"Bukan urusanku, Tuan," sahut sersan itu dingin. "Perintah ini ditandatangani langsung oleh Sekretaris Perbendaharaan, Tuan Aldric. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa-desa terluar yang berpotensi membawa wabah atau pelarian gelap ke dalam tembok istana. Jika Anda keberatan, silakan ajukan protes ke meja perbendaharaan."
+"Bukan urusanku, Tuan," sahut sersan itu dingin. "Perintah ini ditandatangani Sekretaris Perbendaharaan, Tuan Aldric. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa-desa terluar yang berpotensi membawa penyakit ke dalam tembok istana. Jika berkeberatan, silakan ajukan sanggahan ke meja perbendaharaan."
 
 Tangan Garrett mencengkeram tali kekang hingga kulit sarung tangannya berdecit tajam. Vane. Pria itu telah bekerja sangat cepat. Hanya butuh beberapa keping perak dan bisikan manis di telinga juru tulis istana untuk mengurung seorang kapten garda di depan pintu gerbangnya sendiri.
 
 "Panggil perwira tugas garnisun utama," kata Garrett dengan suara rendah menahan amarah. "Sekarang juga. Jika menolak, kucatat namamu sebagai pembangkang perintah militer di masa darurat perbatasan."
 
-Mata sang sersan berkedip ragu melihat kilat mata Garrett dan bau anyir lumpur yang masih melekat pada rombongan perbatasan. Setelah hening yang menegangkan, ia meludah ke tanah dan memberi isyarat kepada bawahannya untuk mengangkat ujung tombak.
+Mata sang sersan berkedip ragu melihat kilat mata Garrett dan bau lumpur anyir yang melekat pada rombongan perbatasan. Setelah hening yang tegang, ia meludah ke tanah.
 
-"Kalian boleh masuk ke aneks sayap barat," gumam sersan itu ketus. "Hanya sampai ruang tunggu pelataran luar. Hewan perbekalan ditinggal di pos jaga, dan tidak ada warga sipil ini yang boleh melangkah ke aula dalam sebelum ada izin tertulis dari balai perbendaharaan."
+"Kalian boleh masuk ke sayap samping barat," gumam sersan itu ketus. "Hanya sampai ruang tunggu pelataran luar. Hewan perbekalan ditinggal di pos jaga, dan seluruh senjata warga sipil wajib dititipkan di lemari sitaan pos gerbang. Tidak ada bilah baja yang melintas tanpa izin perbendaharaan."
 
-Pintu kisi besi berderit terangkat separuh jalan, membuka celah gelap menuju lorong batu kastel. Garrett menoleh ke arah Kael, memberi isyarat singkat dengan anggukan kepala agar pemuda itu terus merapatkan langkah di sampingnya.
+Kael tersentak, tangannya spontan mencengkeram hulu pedang ayahnya.
+
+Dua prajurit penjaga gerbang segera melangkah maju hendak melucuti senjatanya. Kael menatap Garrett dengan napas memburu, menuntut perlawanan.
+
+Garrett memandang Kael dengan rahang terkatup rapat, lalu menggeleng pelan. "Serahkan, Kael. Di sini kau tidak sedang menghadapi serigala rimba."
+
+Dada Kael berdegup kencang karena amarah dan rasa terhina. Namun melihat keteguhan dingin di mata sang kapten, jemarinya perlahan mengendur. Ia melepas sabuk kulit pedangnya, menyerahkan senjata tempaan pusaka ayahnya ke tangan kasar prajurit gerbang yang langsung menguncinya di peti kayu pos jaga.
+
+Pintu kisi besi berderit terangkat separuh jalan. Kael melangkah melewati lubang gapura di samping keledai mereka, merasakan pinggang kirinya yang mendadak hampa dan telanjang.
 
 ***
 
-Lantai lorong sayap barat terasa licin oleh kelembapan udara bawah tanah. Dinding batunya tebal dan dingin, dipenuhi jelaga hitam dari obor minyak lemak di ceruk-ceruk besi. Bau belerang, minyak zirah, dan batu basah menggantikan aroma pinus yang biasa Kael hirup di lembah.
+Lantai lorong sayap barat licin oleh kelembapan udara bawah tanah. Dinding batunya tebal dan dingin, dipenuhi jelaga hitam dari obor minyak lemak di ceruk-ceruk besi. Bau belerang, minyak zirah, dan batu basah menggantikan aroma pinus yang biasa Kael hirup di lembah.
 
-Kael melangkah hati-hati, mengamati setiap celah dan pintu berterali besi. Di sekelilingnya, kastel ini sama sekali tidak mirip dengan kemegahan istana yang sering diceritakan ibunya dari buku-buku dongeng tua. Tempat ini adalah benteng pertahanan yang kaku, dibangun murni untuk bertahan dari kepungan dan menuntut ketaatan.
+Garrett pergi bersama seorang perwira piket untuk mengurus izin masuk, meninggalkan Kael, Mira, dan Azariel di sebuah ruang tunggu batu beratap lengkung. Dua prajurit penjaga berdiri tegak di luar ambang pintu dengan tombak terhunus, mengawasi mereka layaknya tawanan perang.
 
-Garrett telah pergi bersama seorang perwira piket untuk mengurus surat izin masuk, meninggalkan Kael, Mira, dan Azariel duduk di sebuah ruang tunggu batu beratap lengkung. Dua prajurit penjaga berdiri tegak di luar ambang pintu dengan tombak terhunus, mengawasi gerak-gerik mereka layaknya tawanan perang.
+Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya berulang kali meraba pinggangnya yang kosong, mencari hulu pedang yang biasa menemaninya setiap hari. Rasa kehilangan itu membuatnya gelisah. Selama tujuh musim ia ditempa oleh ayahnya di perbukitan, pedang itu adalah pelindung dan bagian dari dirinya. Kini, terkurung di dalam dinding batu asing tanpa sebilah belati pun, ia merasa rapuh.
 
-Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya bertumpu pada hulu pedang tempaan ayahnya. Melalui sarung kulit pedang itu, ia merasakan bentuk timbul lambang kesatuan kuno pada palang pelindung gagangnya. Tempat ini dahulu adalah rumah ayahnya, tempat Bran muda mengasah pedang sebelum memilih pergi menembus hutan demi menikahi Elora. Kini, Kael duduk di tempat yang sama, namun ia merasa lebih terasing daripada saat berada di sarang serigala rimba.
+Ibunya dahulu hanya pernah bercerita samar bahwa Bran pernah menjadi prajurit di kota benteng ini sebelum memilih hidup damai di perbatasan. Namun melihat keangkuhan para penjaga dan dinginnya lorong-lorong ini, Kael tidak habis pikir bagaimana ayahnya bisa bertahan bertahun-tahun di tempat seperti ini.
 
-"Duduklah, Kael," bisik Mira lembut di sampingnya seraya meletakkan tas perbekalan herba di lantai batu. "Kau membuat para penjaga itu semakin tegang dengan caramu menatap mereka."
+"Duduklah dengan tenang, Kael," bisik Mira lembut di sampingnya seraya meletakkan tas perbekalan herba di lantai batu. "Kau membuat para penjaga itu semakin waspada dengan caramu mengepalkan tangan."
 
-"Mereka mengurung kita seperti pencuri," sahut Kael pelan dengan gigi terkatup.
+"Mereka melucuti kita seperti kawanan penyamun," sahut Kael pelan dengan gigi terkatup.
 
-Azariel duduk diam di ujung bangku. Kedua tangannya bertumpu di atas lutut, dan kepalanya sedikit mendongak, mendengarkan gema langkah kaki para prajurit di lantai atas. Wajahnya pucat, namun sorot matanya yang tenang memantulkan cahaya lentera minyak dengan kejernihan yang aneh.
+Azariel duduk diam di ujung bangku. Kedua tangannya bertumpu di atas lutut, dan kepalanya sedikit mendongak, mendengarkan gema langkah kaki para prajurit di lantai atas. Wajahnya pucat, namun sorot matanya yang tenang memantulkan cahaya lentera minyak dengan kejernihan yang hening.
 
-Pintu samping ruang tunggu tiba-tiba terbuka. Seorang anak pelayan muda berpakaian tunik lenan abu-abu yang lusuh melangkah masuk membawa baki kayu berisi kendi tembikar dan tiga potong roti gandum kasar. Langkah anak itu tergesa-gesa dan gemetar, matanya terpaku pada lantai, jelas terintimidasi oleh prajurit bersenjata di lorong.
+Pintu samping ruang tunggu berderit terbuka. Seorang anak pelayan muda berpakaian tunik lenan abu-abu yang lusuh melangkah masuk membawa baki kayu berisi kendi tembikar dan tiga potong roti gandum kasar. Langkah anak itu gemetar, matanya terpaku pada lantai, jelas terintimidasi oleh prajurit bersenjata di lorong.
 
-Saat hendak meletakkan baki di atas meja batu, ujung sepatunya tersandung undakan lantai. Baki itu oleng, kendi berguncang, dan sepotong roti menggelinding jatuh ke lantai batu, berhenti tepat di dekat ujung sepatu kulit Azariel.
+Saat hendak meletakkan baki di atas meja batu, ujung sepatunya tersandung undakan lantai. Baki oleng, kendi berguncang, dan sepotong roti menggelinding jatuh ke dekat ujung sepatu kulit Azariel.
 
-Anak pelayan itu tersentak kaget. Wajahnya memucat ketakutan, dan ia buru-buru membungkuk hendak memungutnya seraya bergumam panik meminta ampun.
+Anak pelayan itu tersentak kaget. Wajahnya memucat ketakutan, buru-buru membungkuk hendak memungutnya seraya bergumam panik meminta ampun.
 
-Namun, sebelum jemari anak itu menyentuh lantai, sebuah tangan yang ramping dan putih telah lebih dulu memungut roti tersebut.
+Namun sebelum jemari anak itu menyentuh lantai, tangan Azariel telah lebih dulu memungut roti tersebut.
 
-Azariel membersihkan serpihan debu batu dari permukaan roti dengan usapan ibu jarinya. Ia mengangkat pandangannya, menatap anak pelayan itu, lalu mengulurkan roti tersebut seraya tersenyum tipis. Tidak ada amarah di wajahnya, hanya kehangatan yang bersahaja dan tenang.
+Azariel meniup serpihan debu batu dari permukaan roti dengan usapan pelan, persis seperti yang pernah diajarkan Mira di dapur pondok. Ia mengangkat pandangannya, lalu mengulurkan roti tersebut terlalu dekat ke wajah anak pelayan itu.
 
-"Terima kasih atas air dan rotinya," ujar Azariel perlahan. Setiap suku kata yang keluar dari bibirnya terdengar teratur dan jernih, membawa rasa sejuk yang ganjil ke dalam ruangan yang pengap itu.
+Di bawah remang cahaya lentera, pupil mata Azariel memantulkan pendar putih kebiruan yang ganjil dan dingin.
 
-Anak pelayan itu terpaku. Tangannya yang gemetar menerima roti tersebut secara kaku. Selama beberapa detik, anak itu menatap lekat-lekat ke dalam mata Azariel. Napasnya yang semula memburu mendadak mereda, seakan beban ketakutan yang menindih bahunya baru saja diangkat oleh tangan tak kasat mata. Anak itu membungkuk dalam-dalam sebelum berbalik dan bergegas keluar tanpa sepatah kata pun.
+"Terima kasih... untuk airnya," ujar Azariel perlahan. Setiap suku kata terdengar kaku dan sangat lambat, seakan ia sedang menimbang bentuk kata di atas lidahnya.
 
-Kael memperhatikan kepergian anak itu dengan dahi berkerut. Ia telah melihat Azariel menyembuhkan luka dan memadamkan bara para Husk, namun melihat pengaruh hening pemuda itu pada seorang manusia biasa di kota asing ini memicu rasa waspada di dadanya. Azariel tidak perlu mengangkat senjata untuk menarik perhatian. Keberadaannya sendiri sudah menjadi sesuatu yang mencolok jika ada orang yang tahu apa yang harus dicari.
+Anak pelayan itu terpaku. Matanya melebar menatap pendar redup di mata Azariel dan jarak wajah pemuda itu yang terlalu dekat. Napas anak itu tercekat oleh rasa ngeri yang tiba-tiba merayapi kuduknya. Dengan gerakan panik, anak itu menyambar roti dari tangan Azariel, mundur dua langkah dengan tubuh gemetar, lalu berbalik dan berlari terbirit-birit keluar lorong tanpa menoleh lagi.
 
-Langkah kaki yang lambat dan terukur terdengar dari arah lorong. Kali ini bukan derap sepatu besi para prajurit, melainkan ketukan sol kulit halus di atas batu granit.
+Kael memperhatikan kepergian anak itu dengan dahi berkerut tajam. Azariel tidak memahami aturan jarak manusia fana. Cara bicaranya yang kaku dan pendar di matanya bukanlah sesuatu yang bisa disembunyikan jika para penjaga mulai menaruh perhatian.
 
-Seorang pria lanjut usia melangkah melewati ambang pintu. Pria itu bertubuh kurus namun berdiri tegak dengan keanggunan yang terlatih. Ia mengenakan jubah wol hitam berpotongan rapi dengan sulaman perak di kerah, dan di pinggangnya tergantung cincin kuningan besar yang memuat belasan anak kunci berukir rumit. Wajahnya dipenuhi keriput halus, namun tatapan matanya tajam dan jernih di balik alis kelabunya yang tebal.
+Langkah kaki yang lambat dan terukur terdengar dari arah lorong. Bukan derap sepatu besi prajurit, melainkan ketukan sol kulit halus di atas batu granit.
+
+Seorang pria lanjut usia melangkah melewati ambang pintu. Pria itu bertubuh kurus namun berdiri tegak dengan keanggunan yang terlatih. Ia mengenakan jubah wol hitam berpotongan rapi dengan sulaman perak tipis di kerah, dan di pinggangnya tergantung cincin kuningan besar yang memuat belasan anak kunci berukir rumit. Di tangan kirinya, pria itu membawa bungkusan kain terpal kasar.
 
 Kedua penjaga di luar pintu sontak menegakkan badan dan memberi hormat singkat dengan merapatkan gagang tombak ke dada.
 
 "Cukup, prajurit," ujar pria tua itu dengan suara tenang dan berwibawa. "Tinggalkan ruangan ini dan kembalilah ke pos sayap timur. Aku yang akan mencatat tamu-tamu Kapten Garrett."
 
-Para penjaga itu mengangguk patuh dan segera berderap pergi. Pria berjubah hitam itu melangkah masuk, lalu menutup pintu kayu di belakangnya.
+Para penjaga itu mengangguk patuh dan segera berderap pergi. Pria berjubah hitam itu melangkah masuk, menutup pintu kayu di belakangnya, lalu meletakkan bungkusan terpal di atas meja batu dengan dentang logam yang berat.
 
-Kael spontan berdiri, tangannya menempel erat pada hulu pedang.
+Pria tua itu menyingkap kain terpal, memperlihatkan pedang tempaan pusaka Bran beserta sabuk kulitnya. Pedang itu tampak utuh, tanpa cacat sedikit pun.
 
-Pria tua itu tidak terkejut. Pandangannya menyapu sekeliling ruangan dengan cermat, melewati tas obat Mira, lalu terpaku sejenak pada wajah Azariel yang tenang. Akhirnya, tatapannya turun ke pinggang Kael, tepat pada palang pelindung pedang kuno yang dipegang pemuda itu.
+"Pedang ini disita di gerbang depan," kata pria tua itu datar, tatapannya menyapu mereka bertiga tanpa senyuman. "Para penjaga gerbang sangat gemar menumpuk rampasan tanpa tahu apa yang sebenarnya mereka pegang."
 
-Sudut bibir pria tua itu terangkat tipis.
+Pandangan pria itu turun ke palang pelindung pedang tersebut, mengamati ukiran singa berkepala tombak yang timbul di permukaannya.
 
-"Santai saja, anak muda," kata pria itu seraya menyatukan kedua tangannya di depan dada. "Namaku Tobias. Aku menjabat sebagai kepala pelayan istana ini sejak mendiang ayah Yang Mulia Adipati masih menunggang kuda perang di perbatasan."
+"Lambang Garda Pembuka Jalur," gumam pria itu pelan. "Dua puluh musim lalu, resimen perintis itu dibubarkan di perbatasan utara, dan hanya para petarung paling keras kepala yang berani membawa bilah seberat ini menembus badai es. Siapa namamu, anak muda?"
 
-"Di mana Kapten Garrett?" tanya Kael lugas, tidak melonggarkan genggamannya pada pedang.
+Kael menelan ludah, dadanya berdegup kencang mendengar nama kesatuan yang belum pernah ia dengar dari ayahnya. "Kael. Pedang ini milik ayahku, Bran."
 
-"Kaptenmu sedang dipusingkan oleh tumpukan perkamen di ruang juru tulis," sahut Tobias tenang. "Sekretaris Aldric sangat ahli dalam memanfaatkan aturan kuno untuk menunda hal-hal yang tidak ia sukai. Saat ini, sang sekretaris sedang mengadakan pertemuan tertutup di ruang dewan bersama para saudagar anggur. Mereka meyakinkan dewan kadipaten bahwa celah utara tidak lagi aman dan pengawasan lembah harus diserahkan kepada pihak swasta."
+Pria tua itu mengangguk tipis, seakan sebuah teka-teki baru saja terpecahkan di kepalanya. "Bran si Pemburu Cadas. Pria yang memilih membuang baju zirahnya demi memetik gandum di lembah. Pantas saja Kapten Garrett bersikeras membawa kalian melewati gerbang."
 
-Mira mengangkat kepalanya, matanya memancarkan rasa ingin tahu yang tajam. "Vane ada di dalam ruangan itu?"
+"Siapa Anda?" tanya Kael seraya meraih kembali pedang ayahnya dan memasang sabuknya ke pinggang. Rasa mantap dan dingin di sisi kirinya seketika mengembalikan ketenangannya.
 
-Tobias menatap Mira, mengamati lencana perak berbentuk tangkai herba yang tersemat di tasnya. "Orang yang membawa cincin kebun anggur itu sangat pandai menabur janji emas, gadis muda. Namun, perbendaharaan kadipaten bukan satu-satunya telinga yang mendengar denyut istana ini."
+"Namaku Tobias," jawab pria itu singkat. "Aku menjabat sebagai kepala pelayan istana ini sejak mendiang ayah Sang Adipati masih memimpin perang di perbatasan."
 
-Pandangan Tobias kembali beralih kepada Kael, lalu menunjuk pelan ke arah gagang pedang di pinggang pemuda itu. "Lambang singa berkepala tombak di pedangmu itu... aku belum pernah melihat tempaan itu lagi sejak resimen Garda Pembuka Jalur dibubarkan dua puluh musim yang lalu. Hanya para prajurit sejati yang berani membawa bilah seberat itu menembus badai salju utara."
+Mira melangkah maju sedikit, suaranya teratur dan hati-hati. "Mengapa Anda mengembalikan pedang ini kepada kami, Tuan Tobias?"
 
-Kael menelan ludah, dadanya berdegup kencang mendengar pengakuan itu. "Pedang ini milik ayahku. Bran."
+Tobias menatap Mira dengan mata kelabunya yang tajam dan dingin. Tidak ada keramahan di wajahnya.
 
-Tobias mengangguk pelan, seolah sebuah kepingan ingatan lama baru saja terpasang di kepalanya. "Bran si Pemburu Cadas. Pria yang memilih meletakkan zirah perangnya demi memetik gandum di lembah. Pantas saja Kapten Garrett bersedia mempertaruhkan pangkatnya demi mengawal kalian menembus gerbang ini."
+"Karena kantor perbendaharaan sedang berusaha membungkam kapten kalian dengan jerat perkamen," sahut Tobias rendah. "Sekretaris Aldric sangat ahli menggunakan aturan usang untuk menyingkirkan siapa pun yang mengancam pengaruhnya. Aku butuh kesaksian Garrett di hadapan Yang Mulia Adipati sebelum Aldric berhasil mengunci pintu ruang dewan."
 
-Tobias melangkah mendekati meja batu, menuangkan sedikit air dari kendi ke cangkir tembikar. Gerakannya sangat tertata dan tanpa cela.
+Kael menatap cincin anak kunci kuningan yang tergantung di pinggang Tobias, merasakan bahwa pria tua ini sedang memainkan permainannya sendiri di balik tembok istana.
 
-"Birokrasi kadipaten ini memang lambat dan penuh jerat kertas yang licik," bisik Tobias pelan seraya menatap mereka bertiga. "Tuan Aldric mungkin memegang kunci perbendaharaan dan pena pencatat pajak, namun dinding kastel ini selalu memiliki celah bagi mereka yang membawa kejujuran dari tanah perbatasan. Bersabarlah. Pintu halaman tengah telah kubuka. Hiruplah udara di luar sana sementara kapten kalian menyelesaikan perdebatan dokumennya."
+Tobias berbalik menuju pintu kayu, meletakkan tangannya di atas grendel besi. Ia menoleh sedikit tanpa memandang mereka langsung.
+
+"Pintu sayap samping ini tidak terkunci sampai lonceng tengah hari," bisik Tobias dingin. "Hiruplah udara di halaman tengah jika kalian tidak ingin mati lemas di ruangan ini. Dan ingat, aku tidak pernah mengatakan apa pun kepada kalian."
+
+Grendel berdentang pelan saat Tobias membukanya, lalu melangkah pergi ke lorong luar.
 
 ***
 
-Halaman tengah kastel terbentang luas di bawah langit siang yang kelabu pucat. Berbeda dengan lorong sayap barat yang suram, pelataran ini berlantai kerikil putih bersih, dikelilingi barisan pilar batu kapur yang menopang balkon bertingkat istana utama. Di kejauhan, para prajurit jaga berpatroli di atas dinding pembatas, siluet baju zirah mereka terpantul samar di genangan air sisa hujan semalam.
+Halaman tengah kastel terbentang luas di bawah langit siang yang kelabu pucat. Pelataran ini berlantai kerikil putih bersih, dikelilingi barisan pilar batu kapur yang menopang balkon bertingkat istana utama. Di kejauhan atas parapet, derap langkah teratur sepatu besi prajurit jaga terdengar berpatroli, melintas tanpa sekali pun menoleh ke bawah.
 
 Azariel melangkah perlahan melintasi kerikil putih.
 
@@ -143,37 +157,35 @@ Dunia di sekitarnya seakan meredup seketika.
 
 Getaran itu meledak melalui kulit tangannya. Bukan kilatan api putih atau kehangatan hidup seperti di Tebing Pinus, melainkan sebuah bobot yang luar biasa berat, kaku, dan membekukan. Denyutan itu merambat naik melalui pergelangan tangannya, menjalar ke bahu, lalu menghantam bara di rongga dadanya laksana hantaman palu pandai besi di atas batangan baja dingin.
 
-Jauh di bawah tanah, berpuluh-puluh hasta menembus lapisan cadas fondasi kastel, di bawah bilik-bilik penyimpanan anggur, ada sesuatu yang bernapas dengan keteraturan yang mutlak. Sesuatu yang terperangkap dalam tidur yang kaku. Itu adalah suara keteraturan yang angkuh, hukum yang tak memberi ruang bagi ampunan, dinding kokoh yang menolak setiap ketidaksempurnaan fana.
-
-*Gema Tatanan.*
+Jauh di bawah tanah, berpuluh-puluh hasta menembus lapisan cadas fondasi kastel, ada sebuah denyut yang merambat dengan keteraturan mutlak. Sebuah kehadiran yang tertidur kaku, dingin, dan menolak setiap ketidaksempurnaan fana. Getaran itu merambat dari arah fondasi sisi timur pelataran, menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
 
 Napas Azariel tertahan di tenggorokan. Otot rahangnya menegang kaku, dan pupil matanya memancarkan pendar putih kebiruan yang tajam selama satu detik sebelum ia berhasil memejamkan mata rapat-rapat. Tangan kanannya, yang sejak malam di pos singgah terasa kebas akibat menopang tunas pinus, mendadak bergetar hebat. Rasa dingin yang menusuk membekukan ujung jemarinya hingga memutih.
 
 Azariel menarik tangannya dari bibir sumur dengan sentakan kasar, menyembunyikan jemarinya yang gemetar di balik lipatan jubah wol.
 
-Mira melangkah cepat ke sisinya. Tanpa banyak bicara, gadis itu langsung meraih pergelangan tangan Azariel, merasakan denyut nadinya yang berdegup liar seperti genderang perang. Dengan gerak tangkas yang terlatih, Mira membuka sumbat botol tingtur kecil dari tas selempangnya, meneteskan minyak herba beraroma cengkeh dan daun pepermin ke telapak tangan Azariel, lalu mulai memijat buku jarinya dengan gerakan memutar.
+Mira melangkah cepat ke sisinya. Tanpa banyak bicara, gadis itu langsung meraih pergelangan tangan Azariel, merasakan denyut nadinya yang berdegup liar seperti genderang perang. Dengan gerak tangkas yang terlatih, Mira membuka sumbat botol tingtur kecil dari tas selempangnya, meneteskan minyak herba beraroma daun mint hutan ke telapak tangan Azariel, lalu mulai memijat buku jarinya dengan gerakan memutar.
 
-Dari kejauhan balkon atas, pemandangan itu hanya tampak seperti seorang tabib perbatasan yang sedang mengoleskan minyak penghangat pada tangan rekannya yang pegal karena perjalanan jauh.
+Derap langkah prajurit jaga di balkon atas terdengar melintas di atas kepala mereka, lewat begitu saja tanpa berhenti.
 
-"Apa yang ada di bawah sana, El?" bisik Mira sangat pelan, matanya tetap tertuju pada jemari Azariel agar tidak memancing kecurigaan penjaga di menara.
+"Apa yang ada di bawah sana, El?" bisik Mira sangat pelan, matanya tetap tertuju pada jemari Azariel agar tidak memancing perhatian.
 
 Azariel menarik napas panjang, menghirup udara dingin yang menusuk dada. Suaranya terdengar serak dan berat.
 
-"Ia tidak tidur, Mira," bisik Azariel seraya memandang lurus ke seberang halaman tengah. "Ia dipenjara... dibelenggu dalam peti yang terlalu sempit untuk membiarkannya bernapas."
+"Ia tidak tidur, Mira," bisik Azariel seraya memandang lurus ke arah pelataran timur. "Ia dipenjara... dibelenggu dalam ruang yang terlalu sempit untuk membiarkannya bernapas."
 
-Kael melangkah mendekat, berdiri membelakangi mereka untuk menutupi tubuh Azariel dari pandangan para prajurit jaga yang berpatroli. "Di mana tempatnya?"
+Kael melangkah mendekat, berdiri membelakangi mereka untuk menutupi tubuh Azariel dari pandangan luar. "Di arah mana?"
 
-Azariel mengangkat dagunya sedikit, mengarahkan pandangannya ke sudut timur pelataran kastel.
+Azariel mengarahkan pandangannya ke sudut timur pelataran kastel.
 
-Di sana, terpisah dari bangunan istana utama, berdiri sebuah benteng batu persegi yang kokoh dan rendah. Dindingnya dibangun dari balok granit tanpa jendela, hanya memiliki satu pintu masuk berupa sepasang daun pintu besi tebal berukir relief singa yang dikunci dengan palang baja melintang. Empat prajurit berzirah lengkap bersenjatakan kapak bertangkai panjang berdiri tegak di depan ambang pintunya, tidak bergerak layaknya patung perunggu.
+Di sana, terpisah dari bangunan istana utama, berdiri sebuah benteng batu persegi yang kokoh dan rendah. Dindingnya dibangun dari balok granit tanpa jendela, hanya memiliki satu pintu masuk berupa sepasang daun pintu besi tebal berukir relief singa yang dipalang baja melintang. Empat prajurit berzirah lengkap bersenjatakan kapak bertangkai panjang berdiri tegak di depan ambang pintunya, tidak bergerak layaknya patung perunggu.
 
-Di atas ambang pintu besi itu, sebuah plakat tembaga kuno bertuliskan huruf-huruf timbul terpampang jelas di bawah cahaya siang: *Bilik Perbendaharaan Utama Kadipaten Leovard*.
+Kael menyipitkan mata mengamati penjagaan itu. "Bangunan itu tidak punya jendela. Empat penjaga kapak di depan pintu besi... tempat penyimpanan barang berharga istana."
 
-"Di sana," bisik Azariel datar. "Ia ada di balik pintu besi itu."
+"Ia ada di balik batu-batu itu," bisik Azariel datar. "Di kedalaman fondasinya."
 
 ***
 
-Malam turun di Kadipaten Leovard dengan sapuan angin dingin yang membawa bau asap batu bara dari cerobong kota bawah. Dari menara tertinggi katedral kadipaten, lonceng jam malam berdentang sembilan kali. Dentangnya berat, bergaung teratur di atas deretan atap sirap kelabu, memerintahkan warga kota untuk memadamkan lentera luar dan mengunci pintu rumah mereka rapat-rapat.
+Malam turun di Kadipaten Leovard dengan sapuan angin dingin yang membawa bau asap batu bara dari cerobong kota bawah. Dari menara lonceng utama kota benteng, dentang jam malam bergaung sembilan kali. Suaranya berat, bergema di atas deretan atap sirap kelabu, memerintahkan warga kota untuk memadamkan lentera luar dan mengunci pintu rumah mereka rapat-rapat.
 
 Di lantai atas Penginapan Lentera Besi, sebuah penginapan berdinding batu tebal di dalam lingkar tembok dalam kastel, sebatang lilin lemak menyala di atas meja kayu berkaki tiga.
 
@@ -181,17 +193,17 @@ Pintu bilik berderit pelan saat Garrett melangkah masuk. Kapten itu tampak sanga
 
 "Bagaimana di balai istana, Kapten?" tanya Kael yang berdiri bersandar di dekat celah jendela sempit.
 
-Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Aldric mengajukan mosi keberatan resmi atas laporanku. Ia menuduhku bertindak ceroboh meninggalkan pos perbatasan tanpa izin tertulis dari panglima garnisun, dan menuntut agar laporan kerugian dagang dari serikat saudagar didengar terlebih dahulu oleh Adipati."
+Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Aldric mengajukan sanggahan tertulis atas laporanku. Ia menuduhku bertindak ceroboh meninggalkan pos perbatasan tanpa izin tertulis dari panglima garnisun, dan menuntut agar laporan kerugian dagang dari serikat saudagar didengar terlebih dahulu oleh Adipati."
 
 "Vane?" cetus Kael tajam.
 
-"Ia menginap di wisma bangsawan Distrik Atas," sahut Garrett dingin. "Malam ini ia menggelar jamuan makan malam bersama tiga anggota dewan kota dan juru tulis perbendaharaan. Ia mengalirkan anggur terbaiknya ke gelas-gelas mereka, membujuk mereka bahwa lembah perbatasan lebih baik dikelola secara mandiri oleh dewan saudagar daripada dipertahankan dengan darah prajurit kadipaten. Sidang pembuktian kita baru dijadwalkan dua hari lagi."
+"Ia menggelar jamuan makan malam di wisma Distrik Atas," sahut Garrett dingin. "Mengalirkan anggur terbaiknya ke meja dewan kota dan para juru tulis, membujuk mereka bahwa lembah perbatasan lebih menguntungkan jika diserahkan ke tangan para saudagar. Sidang pembuktian kita baru dijadwalkan dua hari lagi."
 
-Mira meletakkan cangkir seduhan herba hangat di depan Garrett. "Apakah itu sebabnya kita diizinkan menginap di sini?"
+Mira meletakkan cangkir seduhan herba hangat di depan Garrett, lalu menatap sang kapten dengan pandangan lurus. "Dua hari tertahan di bilik ini sementara mereka memutarbalikkan fakta di ruang dewan? Apakah kita hanya akan duduk menunggu sampai pintu sidang benar-benar dikunci dari dalam?"
 
-Garrett mengangguk pelan seraya menerima cangkir tersebut. "Jika bukan karena Tuan Tobias yang turun tangan membisiki kepala pengawal gerbang, kita semua sudah mendekam di bilik tahanan garnisun malam ini dengan tuduhan pembangkangan prosedur. Tobias yang menjamin kamar ini atas wewenang rumah tangga istana, bukan wewenang militer. Namun pria tua itu juga memberiku peringatan keras: jangan biarkan kalian bertiga berkeliaran di dekat sayap timur kastel tanpa pengawalanku."
+Garrett menatap cangkir itu sejenak sebelum mengangguk berat. "Jika bukan karena Tobias yang turun tangan berbicara kepada kepala pengawal gerbang, kita semua sudah mendekam di bilik tahanan garnisun malam ini. Tobias menjamin kamar ini atas wewenang rumah tangga istana, namun pria tua itu menuntut timbal balik: ia ingin kesaksianku di hadapan Adipati mematahkan pengaruh Aldric. Peringatannya sangat tegas: jangan biarkan kalian bertiga mendekati sayap timur kastel tanpa pengawalanku."
 
-"Karena Aldric mengawasi kita?" tanya Kael.
+"Karena Aldric mengawasi setiap langkah kita?" tanya Kael.
 
 "Karena Aldric adalah serigala berbulu perkamen," tukas Garrett datar. "Ia tidak menggunakan pedang untuk membunuh musuhnya. Ia menggunakan cap meterai lilin dan daftar sitaan."
 
@@ -199,23 +211,23 @@ Garrett meneguk seduhan herba itu hingga tandas, lalu bangkit berdiri. "Aku haru
 
 Setelah langkah kaki berat Garrett menuruni tangga kayu penginapan dan lenyap ke jalanan batu di bawah, keheningan kembali menguasai bilik sempit itu.
 
-Mira duduk di tepi dipan jerami di dekat Azariel, melilitkan perban kain linen bersih yang telah diolesi minyak penawar pada pergelangan tangan kanan pemuda itu. Azariel duduk bersandar pada dinding batu yang dingin, menatap nyala lilin yang bergoyang ditiup angin yang menyelinap dari celah jendela.
+Mira duduk di tepi dipan jerami di dekat Azariel, membalut pergelangan tangan kanan pemuda itu dengan kain linen bersih yang telah diolesi minyak penawar. Azariel duduk bersandar pada dinding batu yang dingin, menatap nyala lilin yang bergoyang ditiup angin yang menyelinap dari celah dinding.
 
-Kael melangkah mendekati jendela sempit tanpa kaca. Udara malam yang membekukan menyapu wajahnya, membawa aroma basah lumut dan besi tua dari halaman kastel di kejauhan.
+Kael melangkah mendekati jendela sempit tanpa kaca. Udara malam yang menusuk menyapu wajahnya, membawa aroma basah lumut dan besi tua dari halaman kastel di kejauhan.
 
-Dari celah sempit itu, Kael dapat melihat atap batu Bilik Perbendaharaan Leovard yang menjulang muram di balik barisan dinding pembatas. Bangunan itu berdiri sunyi di tengah kegelapan malam, namun tepat di atas sepasang pintu besi gandanya, sebuah lentera gantung berkerangka besi tempa menyala dengan nyala api kekuningan yang tak pernah padam. Dua prajurit jaga berdiri mematung di bawah cahaya lentera itu, bayangan tombak mereka memanjang di atas lantai kerikil putih.
+Dari celah sempit itu, Kael dapat melihat atap batu benteng penyimpanan di pelataran timur yang menjulang muram di balik dinding pembatas. Bangunan itu berdiri sunyi di tengah kegelapan malam, namun tepat di atas sepasang pintu besi gandanya, sebuah lentera berkerangka besi tempa menyala dengan api kekuningan yang tak pernah padam. Dua prajurit jaga berdiri mematung di bawah cahaya lentera itu, bayangan tombak mereka memanjang di atas lantai kerikil putih.
 
-Kael menunduk menatap tangan kanannya sendiri.
+Kael menunduk menatap pedang warisan ayahnya yang tersandar di kusen jendela.
 
-Ibu jarinya menyentuh hulu pedang warisan ayahnya yang tersandar di kusen jendela. Selama bertahun-tahun di lembah, ia dididik oleh Bran untuk percaya bahwa keberanian, ketangkasan mengayunkan bilah baja, dan ketajaman mata adalah segalanya untuk melindungi mereka yang ia sayangi. Jika monster datang, tebas lehernya. Jika bahaya menghadang, pasang badan di garis depan.
+Ibu jarinya menyentuh hulu senjata itu. Siang tadi di gerbang luar, para penjaga melucuti pedang ini darinya hanya dengan sepatah perintah dan selembar perkamen bertinta basah. Selama bertahun-tahun di lembah, ia dididik oleh Bran untuk percaya bahwa keberanian, ketangkasan mengayunkan bilah baja, dan ketajaman mata adalah segalanya untuk melindungi mereka yang ia sayangi. Jika monster datang, tebas lehernya. Jika bahaya menghadang, pasang badan di garis depan.
 
-Namun di kota benteng ini, pedang baja terasa begitu tumpul dan tak berdaya.
+Namun di kota benteng ini, pedang baja terasa begitu tumpul.
 
-Musuh yang mereka hadapi malam ini tidak memiliki taring atau cakar berdarah. Musuh mereka bersembunyi di balik senyum juragan anggur berbusana ungu gelap, di balik tumpukan perkamen juru tulis berkacamata, dan di balik pintu besi berlapis segel lilin yang tidak boleh disentuh tanpa izin selembar kertas bertinta. Pedang ayahnya tidak bisa menebas surat perintah penahanan, dan ketangkasan fisiknya tidak bisa memutar kunci kuningan yang tergantung di pinggang para bendahara istana.
+Musuh yang mereka hadapi malam ini tidak memiliki taring atau cakar berdarah. Musuh mereka bersembunyi di balik senyum manis juragan anggur berbusana ungu, di balik tumpukan perkamen juru tulis bermata lelah, dan di balik pintu besi berlapis segel lilin yang tidak boleh disentuh tanpa selembar izin resmi. Pedang ayahnya tidak bisa menebas surat penahanan, dan ketangkasan fisiknya tidak bisa memutar kunci kuningan yang tergantung di pinggang para bendahara istana.
 
-Kael meremas hulu pedang itu kuat-kuat, merasakan dinginnya besi menggigit kulit telapak tangannya. Perlahan, ia mengendurkan genggamannya, melepaskan hulu pedang itu satu per satu. Ia menatap telapak tangannya yang kosong, lalu kembali mencengkeram gagang senjata itu. Setelah beberapa detik, ia melepaskannya lagi.
+Kael meremas hulu pedang itu kuat-kuat, merasakan dinginnya besi menggigit kulit telapak tangannya.
 
-Sebuah kenyataan baru merayap dingin ke dalam benaknya: untuk membebaskan apa yang terkurung di balik pintu besi itu, keberanian membabi buta saja tidak akan pernah cukup.
+Perlahan, jemarinya mengendur. Ia melepaskan hulu pedang itu satu per satu, membiarkan tangannya tergantung kosong di sisi tubuh. Kali ini, ia tidak mengambilnya kembali.
 
 Di luar jendela, angin malam berembus kencang melintasi atap sirap. Di pelataran timur yang sunyi, lentera besi di atas pintu perbendaharaan berkedip satu kali, apinya bergoyang hebat diterpa angin sebelum kembali menyala tegak, memancarkan pendar kuning yang kaku dan tak tergoyahkan di atas batu granit hitam.
 
