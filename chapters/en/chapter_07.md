@@ -150,7 +150,7 @@ The captain lifted his eyes, meeting Kael's gaze with an old, enduring ache.
 
 "Yet there was an old border guard in that patrol who did not ride off after the plunder," Garrett murmured. "He knelt in the freezing slush, cradled my dying father’s head, and pulled off his gauntlets to hold his frostbitten hands. He stayed there and prayed with him until his last breath faded into the mist. Upon his armor was the very crest forged into the crossguard you cradle tonight... the mark of your grandfather's old regiment."
 
-Kael looked down at the brass emblem upon the broadsword given by his father, a quiet pulse drumming in his breast.
+Kael looked down at the brass emblem upon the broadsword given by his father. His thumb traced the worn contours of the crest slowly, as though truly understanding the weapon's lineage for the very first time.
 
 "My father died because no one arrived fast enough to shield them," Garrett said, his hands tightening upon his knees. "That day, beside his cairn, I swore I would enter the barracks. I did not endure the trials of the Ducal Guard for fine honors or the praise of high lords. I did it so I could be the one who rides faster, the one who arrives before death takes the defenseless."
 
@@ -200,6 +200,6 @@ Garrett stared cold toward the northern horizon.
 
 "Vane," Garrett rasped through clenched teeth, his leather gauntlets creaking as his grip seized the reins.
 
-Kael stepped up beside Garrett, his eyes hardening as he gazed into the distance. "He always mocked Grandfather in the village square. Said the Elder's bloodline was spent and Mira too young to lead the valley. Now he rides ahead to poison the Duke's ear."
+Kael stepped up beside Garrett, his eyes hardening as he gazed into the distance. "He always mocked the Elder in the village square. Said the Elder's bloodline was spent and Mira too young to lead the valley. Now he rides ahead to poison the Duke's ear."
 
 Garrett answered not a word. His jaw clamped tight, and his gauntlets creaked sharp as his knuckles seized the reins. Before them, the stone keeps of Leovard rose rigid and proud through the valley mist, while from beneath their cold foundations, that heavy, unyielding toll struck ever deeper within Azariel's breast.

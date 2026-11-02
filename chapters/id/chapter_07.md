@@ -148,7 +148,7 @@ Garrett menatap Kael, sorot matanya mengeras oleh kenangan lama.
 
 "Tetapi ada seorang prajurit perbatasan tua di regu itu yang tidak ikut mengejar barang jarahan," lanjut sang kapten pelan. "Prajurit itu berlutut di tanah salju, memangku kepala ayahku yang sekarat. Ia melepas sarung tangannya, menggenggam erat tangan ayahku yang membeku, dan menemaninya berdoa hingga napas terakhirnya terputus. Pada zirah prajurit tua itu, terpasang lambang yang sama dengan pedang tempaan yang kau pangku sekarang... lambang kesatuan lama kakekmu dahulu."
 
-Kael menunduk sejenak menatap lambang kuningan di gagang pedang pemberian ayahnya, dadanya berdenyut pelan.
+Kael menunduk menatap lambang kuningan di gagang pedang pemberian ayahnya. Ibu jarinya mengusap lekuk ukiran yang telah memudar itu perlahan, seakan baru benar-benar memahami riwayat senjata itu untuk pertama kali.
 
 "Ayahku mati karena tidak ada pertolongan yang datang cukup cepat," ucap Garrett seraya meremas lutut zirahnya. "Hari itu, di hadapan makam ayahku, aku bersumpah mendaftar ke barak prajurit. Aku menempuh gemblengan keras bukan demi gelar ksatria atau pujian istana Adipati. Aku melakukannya agar aku memiliki kecepatan untuk menjadi orang yang datang lebih cepat, tiba sebelum maut merenggut nyawa orang-orang tak berdaya."
 
@@ -198,6 +198,6 @@ Garrett menatap tajam ke arah cakrawala utara.
 
 "Vane," desis Garrett pelan dengan rahang terkatup rapat, dan kulit sarung tangannya berdecit tajam saat tangannya mencengkeram tali kekang kuda.
 
-Kael melangkah maju ke samping Garrett, sorot matanya mengeras menatap kejauhan. "Ia selalu mencemooh Kakek di alun-alun. Katanya garis keluarga Tetua sudah usang dan Mira terlalu belia untuk memimpin lembah. Sekarang ia memacu kuda mendahului kita demi membisiki Adipati."
+Kael melangkah maju ke samping Garrett, sorot matanya mengeras menatap kejauhan. "Ia selalu mencemooh Tetua di alun-alun. Katanya garis keluarga Tetua sudah usang dan Mira terlalu belia untuk memimpin lembah. Sekarang ia memacu kuda mendahului kita demi membisiki Adipati."
 
 Garrett tidak menjawab sepatah kata pun. Rahangnya terkatup rapat, dan tangannya meremas tali kekang hingga kulit sarung tangannya berdecit tajam. Di hadapan mereka, menara-menara batu Kadipaten Leovard menjulang angkuh menembus kabut dataran rendah, sementara dari balik fondasinya yang dingin, dentang kaku itu bergaung kian berat di dalam dada Azariel.
