@@ -59,7 +59,7 @@ Elora berdiri di sana, gaun biru pudarnya tersapu temaram lentera. Di tangannya,
 
 Mata Elora berkaca-kaca, bukan semata oleh haru, melainkan oleh kepedihan mendalam yang bertahun-tahun ia simpan rapat. Pandangan wanita itu terangkat melewati pundak Kael, menatap lurus ke arah Bran yang berdiri kaku di samping perapian.
 
-"Dua puluh tahun kau mengajarinya memegang pedang, Bran," ucap Elora, suaranya tercekat menahan getaran amarah seorang ibu. "Dan sekarang... kau memasangkan zirah besi itu ke tubuhnya. Katakan padaku, Bran... untuk apa? Agar anakmu mati di celah batu utara seperti kawan-kawanmu dahulu?"
+"Tujuh musim kau mengajarinya memegang pedang, Bran," ucap Elora, suaranya tercekat menahan getaran amarah seorang ibu. "Dan sekarang... kau memasangkan zirah besi itu ke tubuhnya. Katakan padaku, Bran... untuk apa? Agar anakmu mati di celah batu utara seperti kawan-kawanmu dahulu?"
 
 Bran terdiam membisu. Rahang sang pemburu mengeras, namun sorot matanya yang biasanya tajam laksana elang kini melembut dalam rasa bersalah yang tak sanggup ia bantah. Sebagai seorang suami yang berjanji meninggalkan medan perang, ia tahu luka lama yang kembali ia buka di hati istrinya.
 

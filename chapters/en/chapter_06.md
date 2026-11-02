@@ -57,9 +57,9 @@ A soft creak at the chamber doorway drew their gaze.
 
 Elora stood there, the faded blue of her gown catching the dim glow of the hearth. In her arms she cradled a thick traveling cloak of grey wool with a deep cowl, alongside a linen parcel packed with dense wheat bread and dried venison. Yet her fingers gripped the heavy wool fiercely, refusing to release it at once.
 
-Tears glistened in Elora’s eyes, born not merely of tender sentiment, but of a mother's profound sorrow kept silent for twenty years. Her gaze rose above Kael’s armored shoulder, fixing squarely upon Bran, who stood rigid beside the hearthstones.
+Tears glistened in Elora’s eyes, born not merely of tender sentiment, but of a mother's profound sorrow kept silent for all these seasons. Her gaze rose above Kael’s armored shoulder, fixing squarely upon Bran, who stood rigid beside the hearthstones.
 
-"Twenty years you drilled him with the blade, Bran," Elora spoke, her voice strained against the trembling fury of a mother's grief. "And now... you buckle cold iron across his chest. Tell me, Bran... for what? So our only boy can bleed out on some northern crag like your comrades of old?"
+"Seven seasons you drilled him with the blade, Bran," Elora spoke, her voice strained against the trembling fury of a mother's grief. "And now... you buckle cold iron across his chest. Tell me, Bran... for what? So our only boy can bleed out on some northern crag like your comrades of old?"
 
 Bran stood frozen in silence. The veteran hunter's jaw knotted hard, yet the gaze that was usually as piercing as an eagle's softened under an unyielding burden of guilt. As a husband who had sworn to leave the horrors of the shield wall behind, he knew the ancient wound he had torn wide in his wife’s heart.
 

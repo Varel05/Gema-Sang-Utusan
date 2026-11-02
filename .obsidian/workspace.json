@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47b52415f695ac1e",
+        "id": "f93d892b317a0950",
         "type": "tabs",
         "children": [
           {
-            "id": "2949213cc7acc38a",
+            "id": "f60cc6849ec29de5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lore/worldbuilding/magic/segel_vivarium.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "segel_vivarium"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "84a8f8ad1df6c935",
         "type": "tabs",
+        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "7a094efe1d62ae7f",
@@ -73,6 +78,23 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b19990a236da2af",
+        "type": "tabs",
+        "dimension": 27.624309392265197,
+        "children": [
+          {
+            "id": "2949213cc7acc38a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,6 +208,7 @@
   },
   "active": "2949213cc7acc38a",
   "lastOpenFiles": [
+    "lore/worldbuilding/magic/segel_vivarium.md",
     "chapters/en/chapter_07.md",
     "file:C:/Users/varel/Downloads/revision_brief_bab1-6.md",
     "chapters/id/chapter_07.md",
@@ -211,7 +234,6 @@
     "lore/worldbuilding/magic/kontras_api_kosmis.md",
     "lore/worldbuilding/geography/kadipaten_morvath.md",
     "lore/worldbuilding/cosmology/vivarium.md",
-    "lore/characters/vane.md",
     "chapters/en",
     "chapters/id",
     "lore/worldbuilding/magic",
