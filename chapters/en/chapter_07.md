@@ -58,7 +58,7 @@ A harsh rasp cut through the quiet. Haldor, the lean scout with hollow, sleep-de
 
 Before Haldor could take another step toward Azariel, Kael crossed the space in a single stride. His broad shoulders, clad in the reinforced cuirass of his father, planted themselves like a bulwark before Azariel and Mira. Kael’s right hand rested firm upon the brass crossguard at his hip, his dark brown eyes fixing the scout in an unblinking stare.
 
-"Watch your tongue, guardsman," Kael warned in a low, cold rasp. "Were it not for this youth's draught last night, your comrade in the village infirmary would be an empty shell of ash, no different from the carts before you."
+"Watch your tongue, guardsman," Kael warned in a low, cold rasp. "You rode into our valley with a dying man last night, and your comrade draws breath today only because our healers took him in. Your own Captain asked us to walk this road."
 
 Haldor stiffened, his fingers twitching instinctively toward the knife at his belt as he met Kael’s steely gaze.
 

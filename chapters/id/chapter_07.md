@@ -56,7 +56,7 @@ Sebuah bentakan tajam memecah kesunyian. Haldor, prajurit pengintai bertubuh kur
 
 Sebelum Haldor melangkah lebih dekat, Kael bergeser satu langkah lebar ke depan. Bahu tegapnya yang berbalut zirah kulit bertulang baja berdiri membentengi Azariel dan Mira. Tangan kanan Kael bertumpu mantap di gagang pedang ayahnya, matanya menatap lurus ke arah prajurit itu tanpa berkedip.
 
-"Jaga bicaramu, prajurit," desis Kael dengan nada rendah yang dingin. "Jika bukan karena ramuan pemuda ini semalam, kawanmu di bilik perawatan desa sudah menjadi bangkai kering berongga abu seperti gerobak di depanmu."
+"Jaga bicaramu, prajurit," desis Kael dengan nada rendah yang dingin. "Kalian datang membawa orang sekarat ke lembah kami kemarin malam, dan kawanmu masih bernapas hari ini karena perawatan di bilik desa kami. Kaptenmu sendiri yang meminta kami mendampingi perjalanan ini."
 
 Haldor tersentak, tangannya refleks meraba belati di sabuk saat melihat sikap siaga Kael.
 
