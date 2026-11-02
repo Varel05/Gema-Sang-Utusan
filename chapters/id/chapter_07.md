@@ -32,7 +32,7 @@ Namun, tidak ada ceceran darah di atas batu. Tidak ada jasad yang membusuk sebag
 
 Yang tertinggal di samping roda gerobak hanyalah gundukan kelabu yang menyerupai siluet tubuh manusia dan hewan hela, rapuh laksana cangkang serangga kering. Setiap hembusan angin ngarai menerbangkan serpihan abu dari cangkang-cangkang itu, menyisakan rongga kosong yang menatap langit tanpa mata.
 
-Kael memperketat pegangannya pada tali kekang keledai. Naluri berburunya memperingatkan bahaya; pemandangan ini bukan ulah kawanan serigala atau gerombolan penyamun. Ini adalah jejak pembusukan kelam, sisa keganasan The Husks yang merenggut hakikat raga fana hingga menjadi debu.
+Kael memperketat pegangannya pada tali kekang keledai. Naluri berburunya memperingatkan bahaya; pemandangan ini bukan ulah kawanan serigala atau gerombolan penyamun. Ini adalah jejak pembusukan kelam, sisa keganasan para Husk yang merenggut hakikat raga fana hingga menjadi debu.
 
 Kapten Garrett melompat turun dari pelana. Pelindung kakinya berdentang saat menjejak tanah berabu. Pria paruh baya itu melangkah perlahan mendekati puing gerobak terdepan, menyapu sekeliling dengan kerutan duka yang tertahan di dahinya.
 
@@ -52,7 +52,7 @@ Azariel menarik napas perlahan, meredakan getaran dingin di lengannya. Ia mengge
 
 "Hei, anak muda!" 
 
-Sebuah bentakan tajam memecah kesunyian. Haldor, prajurit pengintai bertubuh kurus dengan mata cekung kelelahan, melompat turun dari kudanya seraya menenteng tombak pendek. Wajah prajurit itu pucat oleh amarah yang tertahan. Dua rekannya tewas di ngarai utara beberapa hari lalu, dan melihat pemuda bertudung asing ini berkeliaran menyentuh batu terkutuk membakar amarahnya. "Apakah pemuda ini harus menyentuh setiap batu di jalan ini? Kapten membawa kalian untuk meracik obat penawar, bukan membawa bala di kuburan rekan-rekan kami!"
+Sebuah bentakan tajam memecah kesunyian. Haldor, prajurit pengintai bertubuh kurus dengan mata cekung kelelahan, melompat turun dari kudanya seraya menenteng tombak pendek. Tangannya bergetar di gagang senjata saat memandang bebatuan cadas itu. "Dua kawanku mati di bawah abu celah utara sana!" serunya parau, sorot matanya menatap Azariel dengan kemarahan yang tertahan. "Apakah pemuda ini harus menyentuh setiap batu di jalan ini? Kapten membawa kalian untuk meracik obat penawar, bukan membawa bala di kuburan rekan-rekan kami!"
 
 Sebelum Haldor melangkah lebih dekat, Kael bergeser satu langkah lebar ke depan. Bahu tegapnya yang berbalut zirah kulit bertulang baja berdiri membentengi Azariel dan Mira. Tangan kanan Kael bertumpu mantap di gagang pedang ayahnya, matanya menatap lurus ke arah prajurit itu tanpa berkedip.
 
@@ -72,7 +72,7 @@ Kael perlahan mengendurkan jemarinya pada gagang pedang, lalu menoleh ke arah Az
 
 Rombongan melanjutkan langkah menyusuri jalan berbatu yang kian mendaki. Di sepanjang lintasan, reruntuhan karavan garam terus memperlihatkan sisa petaka serupa: muatan barang dan perkakas besi berserakan utuh di tanah, sementara seluruh makhluk hidup telah musnah menjadi debu.
 
-Namun, sekitar sepuluh tombak di depan gerobak terakhir, langkah Azariel tiba-tiba terhenti. Pemuda itu menatap ke tengah jalan setapak, matanya melebar menangkap sesuatu yang ganjil.
+Namun, sekitar dua puluh langkah di depan gerobak terakhir, langkah Azariel tiba-tiba terhenti. Pemuda itu menatap ke tengah jalan setapak, matanya melebar menangkap sesuatu yang ganjil.
 
 "Ada apa, Kak?" tanya Kael seraya melangkah mendekat.
 
@@ -80,7 +80,7 @@ Mira dan Kapten Garrett turut menghampiri, memandang ke titik yang ditatap Azari
 
 Di tengah permukaan jalan cadas yang menghitam oleh jelaga pembusukan kelam, terbentang sebuah batas lingkaran tanah yang bersih, berdiameter kira-kira lima hasta. Di luar lingkaran itu, semak berduri mengering kaku menjadi arang dan bebatuan tertutup lapisan abu kelabu pekat. Namun, di dalam batas lingkaran tersebut, tanah dan kerikilnya tampak utuh, seakan kabut maut terhalang oleh kubah tak kasat mata.
 
-Tepat di celah rekahan batu di tengah lingkaran, tumbuh tiga tunas kecambah pohon pinus yang mungil. Daun jarumnya berwarna hijau segar, memantulkan sisa embun pagi. Di samping tunas-tunas itu, tergeletak sebuah batu kerikil pipih yang terlilit seutas tali rami bertali simpul tiga kali, simpul sederhana yang biasa diajarkan para penarik pedati kepada anak-anak mereka agar bekal tidak terlepas di jalan.
+Tepat di celah rekahan batu di tengah lingkaran, tumbuh tiga tunas kecambah pohon pinus yang mungil. Daun jarumnya berwarna hijau segar, memantulkan sisa embun pagi. Di samping tunas-tunas itu, tergeletak sebuah batu kerikil pipih yang terlilit seutas tali rami dengan simpul tiga kali.
 
 Azariel melangkah perlahan memasuki batas lingkaran. Saat melintasi garis batas tersebut, hawa dingin ngilu yang sedari tadi menusuk kulitnya mendadak surut, berganti rasa hening yang menyejukkan.
 
@@ -98,7 +98,7 @@ Azariel menarik tangannya perlahan, menyembunyikannya ke balik lipatan jubah len
 
 Di tepi lingkaran, Kapten Garrett berdiri memandang batu bertali simpul tiga kali itu. Rahang perwira veteran itu mengeras, matanya terpaku pada ikatan rami tersebut.
 
-"Simpul doa para carter garam," bisik Garrett parau tanpa menatap siapa pun. "Dahulu ibuku mengajariku simpul itu saat melepas ayahku ke gunung."
+"Simpul doa para pengangkut garam," bisik Garrett parau tanpa menatap siapa pun. "Dahulu ibuku mengajariku simpul itu saat melepas ayahku ke gunung."
 
 Kapten itu tidak melangkah masuk. Ia hanya berdiri terpaku dalam keheningan yang khidmat, menatap tiga helai tunas hijau itu dengan rasa hormat yang membungkam keraguannya.
 
@@ -120,7 +120,7 @@ Garrett menerima mangkuk kayu itu dengan kedua tangan kasarnya. "Terima kasih, T
 
 Mira tersenyum tipis, lalu bergeser duduk di samping Azariel yang bersandar pada dinding batu pos di tepi lingkaran cahaya perapian. Pemuda itu memegang mangkuk kayunya, menikmati kehangatan yang merembes ke balik kulitnya seraya menatap bara api yang berkedip redup.
 
-Kael duduk bersila memangku pedang ayahnya yang telah ia bersihkan dari jelaga debu. Matanya menatap lidah api yang menari, lalu beralih menatap Kapten Garrett yang memandang kosong ke dasar mangkuk seduhannya.
+Kael duduk bersila memangku pedang pemberian ayahnya yang telah ia bersihkan dari jelaga debu. Matanya menatap lidah api yang menari, lalu beralih menatap Kapten Garrett yang memandang kosong ke dasar mangkuk seduhannya.
 
 Rasa penasaran yang terpendam di dada Kael sejak siang tadi mendesak untuk disuarakan. Kewaspadaan naluriahnya memang membuatnya berhati-hati terhadap orang luar, namun kedukaan yang ia lihat pada diri sang kapten bukanlah kepura-puraan.
 
@@ -146,9 +146,9 @@ Garrett berhenti sejenak, menghela napas panjang seraya menyeruput seteguk teh m
 
 Garrett menatap Kael, sorot matanya mengeras oleh kenangan lama.
 
-"Tetapi ada seorang prajurit perbatasan tua di regu itu yang tidak ikut mengejar barang jarahan," lanjut sang kapten pelan. "Prajurit itu berlutut di tanah salju, memangku kepala ayahku yang sekarat. Ia melepas sarung tangannya, menggenggam erat tangan ayahku yang membeku, dan menemaninya berdoa hingga napas terakhirnya terputus. Pada zirah prajurit tua itu, terpasang lambang yang sama dengan pedang tempaan yang kau pangku sekarang."
+"Tetapi ada seorang prajurit perbatasan tua di regu itu yang tidak ikut mengejar barang jarahan," lanjut sang kapten pelan. "Prajurit itu berlutut di tanah salju, memangku kepala ayahku yang sekarat. Ia melepas sarung tangannya, menggenggam erat tangan ayahku yang membeku, dan menemaninya berdoa hingga napas terakhirnya terputus. Pada zirah prajurit tua itu, terpasang lambang yang sama dengan pedang tempaan yang kau pangku sekarang... lambang kesatuan lama kakekmu dahulu."
 
-Kael menunduk sejenak menatap lambang kuningan di gagang pedang peninggalan ayahnya, dadanya berdenyut pelan.
+Kael menunduk sejenak menatap lambang kuningan di gagang pedang pemberian ayahnya, dadanya berdenyut pelan.
 
 "Ayahku mati karena tidak ada pertolongan yang datang cukup cepat," ucap Garrett seraya meremas lutut zirahnya. "Hari itu, di hadapan makam ayahku, aku bersumpah mendaftar ke barak prajurit. Aku menempuh gemblengan keras bukan demi gelar ksatria atau pujian istana Adipati. Aku melakukannya agar aku memiliki kecepatan untuk menjadi orang yang datang lebih cepat, tiba sebelum maut merenggut nyawa orang-orang tak berdaya."
 
@@ -156,19 +156,15 @@ Garrett menundukkan kepalanya ke arah bara api yang kian memerah. Suaranya terce
 
 Keheningan kembali mendekap pos batu tersebut. Kael menatap perwira veteran di hadapannya. Kata-kata Garrett terasa jujur dan berat, mengingatkannya pada latihan fajar yang selalu diajarkan ayahnya di lembah perbatasan.
 
-Kael menarik napas perlahan. Sebagai pemuda yang baru belajar memikul beban pedang, ia merangkai kata-katanya dengan hati-hati.
+Kael menarik napas perlahan. Sebagai pemuda yang baru belajar memikul beban pedang, ia menatap api, merangkai kata-katanya dengan canggung.
 
-"Ayah pernah berpesan kepadaku di depan perapian rumah kami, Kapten," tutur Kael pelan namun tegas. "Ia bilang... prajurit yang baik bukan yang tidak pernah terlambat. Di dunia fana ini, tidak ada manusia yang bisa mengatur waktu. Tetapi pelindung sejati adalah yang tidak berhenti melangkah setelah terlambat."
+"Ayah pernah berpesan kepadaku di depan perapian rumah kami, Kapten," tutur Kael pelan. "Ayah bilang... prajurit yang baik bukan yang tidak pernah terlambat. Di dunia fana ini, tidak ada manusia yang bisa mengatur waktu. Yang penting itu... tetap melangkah setelahnya." Kael mengusap tengkuknya, suaranya agak kaku. "Ah, aku tidak pandai merangkai kata seperti Ayah. Tapi maksudnya... Kapten belum berhenti melangkah, kan?"
 
-Garrett terdiam. Ia menatap Kael lama sekali, menatap mata cokelat gelap pemuda itu yang memancarkan keteguhan tanpa dibuat-buat. Sang kapten tidak tersenyum, namun ketegangan di rahangnya perlahan mereda. Garrett mengangguk pelan satu kali, meletakkan ranting kayu ke dalam bara, lalu kembali memegang mangkuk tehnya dalam hening. Beban berat di bahu perwira itu tampak sedikit bergeser.
+Garrett terdiam. Ia menatap Kael lama sekali, menatap mata cokelat gelap pemuda itu yang memancarkan keteguhan tanpa kepura-puraan. Sang kapten tidak tersenyum, namun ketegangan di rahangnya perlahan mereda. Garrett mengangguk pelan satu kali, meletakkan ranting kayu ke dalam bara, lalu kembali memegang mangkuk tehnya dalam hening. Beban berat di bahu perwira itu tampak sedikit bergeser.
 
-Di sudut ruangan yang temaram, Azariel menatap perapian batu. Di bawah tumpukan abu kelabu yang dingin, seberkas bara merah masih berpendar redup, menjaga kehangatan yang tak kasat mata dari luar.
+Di sudut ruangan yang temaram, Azariel menatap perapian batu. Matanya memandang tumpukan abu kelabu yang menutupi lapisan bara merah di bawah kayu bakar. Pemuda itu mengulurkan tangan, mengambil sebilah ranting kecil dari lantai batu. Dengan gerakan perlahan dan hati-hati, Azariel mendorong sebutir bara yang hampir padam masuk ke bawah selimut abu, melindunginya agar panasnya tetap terjaga di dalam kegelapan.
 
-Azariel menyandarkan kepalanya ke dinding batu, berbisik sangat pelan:
-
-"Bara itu belum mati, Mira... hanya tertimbun abu. Selama masih ada hangat yang tersisa di dalamnya, tidak ada yang namanya terlambat."
-
-Mira menoleh menatap Azariel, menangkap ketenangan dalam gumaman pemuda itu. Keduanya saling bertukar pandang dalam kehangatan perapian, sebelum akhirnya malam membimbing mereka beristirahat.
+Mira memperhatikan gerakan itu dari sampingnya, lalu menatap wajah Azariel. Tanpa sepatah kata pun terucap, gadis tabib itu mengerti. Keduanya saling bertukar pandang dalam keheningan yang tenang, sebelum akhirnya malam membimbing mereka beristirahat.
 
 ***
 
@@ -186,7 +182,7 @@ Namun, saat rombongan melintasi undakan batu terakhir yang membuka pemandangan l
 
 Di balik tulang rusuknya, bara putih-biru Jantung Aethel bergetar dengan irama yang belum pernah ia rasakan sebelumnya.
 
-Getaran itu bukan kehangatan empati seperti saat ia menyembuhkan prajurit muda, bukan pula ngilu perih seperti saat menyentuh abu The Husks. Getaran ini terasa berat, kaku, dan berdentang dengan keteraturan yang sangat dingin, laksana dentang lonceng besi raksasa yang tertanam jauh di bawah fondasi benteng kota Kadipaten Leovard. Bau logam dingin seakan memenuhi pangkal lidahnya, membuat rahangnya mengatup rapat.
+Getaran itu bukan kehangatan empati seperti saat ia menyembuhkan prajurit muda, bukan pula ngilu perih seperti saat menyentuh abu para Husk. Getaran ini terasa berat, kaku, dan berdentang dengan keteraturan yang sangat dingin, laksana dentang lonceng besi raksasa yang tertanam jauh di bawah fondasi benteng kota Kadipaten Leovard. Bau logam dingin seakan memenuhi pangkal lidahnya, membuat rahangnya mengatup rapat.
 
 "Azariel?" Mira menoleh cepat, menyadari langkah pemuda itu terhenti. "Kau merasakannya lagi?"
 
@@ -196,12 +192,12 @@ Sebelum Mira sempat membalas, derap tapal kuda yang dipacu kencang terdengar dar
 
 Salah seorang prajurit pengintai Leovard yang ditugaskan Garrett memeriksa jalan simpang tampak memacu kudanya mendaki kembali dengan napas memburu. Prajurit itu menarik tali kekang di hadapan sang komandan.
 
-"Lapor, Kapten!" bisik prajurit itu dengan nada tegang seraya mencondongkan tubuh dari pelana. "Di simpang pos bayaran bawah, kami berpapasan dengan seorang penunggang kuda tunggal yang memacu kencang mendahului kita menuju gerbang istana Adipati. Ia mengenakan mantel wol ungu gelap dan memperlihatkan cincin cap tembaga kebun anggur untuk meminta jalan prioritas."
+"Lapor, Kapten!" bisik prajurit itu dengan nada tegang seraya mencondongkan tubuh dari pelana. "Di simpang pos bayaran bawah, kami berpapasan dengan seorang penunggang kuda tunggal yang memacu kencang mendahului kita menuju gerbang istana Adipati. Ia mengenakan mantel wol ungu gelap dan memperlihatkan cincin cap tembaga kebun anggur untuk meminta hak jalan lebih dulu."
 
 Garrett menatap tajam ke arah cakrawala utara.
 
 "Vane," desis Garrett pelan dengan rahang terkatup rapat, dan kulit sarung tangannya berdecit tajam saat tangannya mencengkeram tali kekang kuda.
 
-Kael melangkah maju ke samping Garrett, sorot matanya mengeras menatap kejauhan. "Ia selalu mencemooh Kakek di alun-alun, mengatakan bahwa perbatasan ditinggalkan kadipaten karena dipimpin oleh orang-orang tua yang terlalu banyak berdoa. Sekarang ia berlari membawa kabar mendahului kita."
+Kael melangkah maju ke samping Garrett, sorot matanya mengeras menatap kejauhan. "Ia selalu mencemooh Kakek di alun-alun. Katanya garis keluarga Tetua sudah usang dan Mira terlalu belia untuk memimpin lembah. Sekarang ia memacu kuda mendahului kita demi membisiki Adipati."
 
-Kapten Garrett tidak menjawab sepatah kata pun. Namun hembusan napasnya yang berat dan pandangannya yang terpaku pada benteng batu Leovard menyiratkan bahwa di balik tembok-tembok kokoh kadipaten, perang dingin yang penuh kecurigaan telah menanti kedatangan mereka.
+Garrett tidak menjawab sepatah kata pun. Rahangnya terkatup rapat, dan tangannya meremas tali kekang hingga kulit sarung tangannya berdecit tajam. Di hadapan mereka, menara-menara batu Kadipaten Leovard menjulang angkuh menembus kabut dataran rendah, sementara dari balik fondasinya yang dingin, dentang kaku itu bergaung kian berat di dalam dada Azariel.

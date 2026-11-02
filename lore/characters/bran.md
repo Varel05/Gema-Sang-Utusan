@@ -36,6 +36,7 @@ aliases:
 > **Batasan Kanon Naratif:** Masa lalu Bran sebagai mantan prajurit elit garda utama kadipaten **DILARANG DICERITAKAN ATAU DIBONGKAR SEBELUM BAB 3**. Di Bab 1 dan 2, Bran hanya ditampilkan sebagai pemburu paling disegani di lembah.
 
 - **Mantan Garda Utama Leovard:** Pada masa mudanya, Bran adalah prajurit elit di ibu kota Kadipaten Leovard. Ia kenyang dengan seni beladiri pedang tinggi, strategi formasi tempur, dan taktik militer resmi.
+- **Garis Keturunan Penjaga Perbatasan:** Ayah Bran (kakek Kael) adalah perwira/prajurit veteran Garda Perbatasan Leovard generasi pendahulu, sosok yang dahulu memangku kepala dan mendoakan ayah Garrett saat sekarat di celah utara. Bran masuk ke dinas militer didorong oleh tradisi dan tuntutan warisan kehormatan keluarga, sebelum akhirnya memilih meletakkan lencana prajurit. Pedang tempaan baja kelabu yang diwariskannya kepada Kael adalah pusaka keluarga yang pernah disandang ayahnya.
 - **Memilih Hidup Bersahaja:** Jenuh oleh intrik politik militer dan kekerasan medan laga, ia terpikat oleh [[elora|Elora]] — gadis desa pengelola buku arsip — dan memilih pensiun secara terhormat demi membangun rumah tangga damai di perbatasan.
 - **Peti Rahasia di Gudang:** Menyimpan peti kayu oak berbalut kain minyak berisi zirah tempaan berkualitas kadipaten dan pedang tempur lamanya, yang kelak diwariskan kepada Kael saat pengembaraan trio dimulai.
 

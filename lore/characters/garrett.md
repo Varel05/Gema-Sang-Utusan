@@ -32,6 +32,7 @@ aliases:
 ---
 
 ## 2. Latar Belakang (Backstory)
+- **Tragedi Masa Kanak-Kanak & Ikatan Leluhur:** Ayah Garrett adalah pengangkut garam bersahaja yang tewas disergap penyamun di celah utara saat Garrett masih kecil. Prajurit perbatasan tua yang memangku kepala dan mendoakan ayahnya hingga napas terakhir adalah ayah [[bran|Bran]] (kakek Kael). Tragedi ini menjadi pemicu tekad murni Garrett untuk masuk ke barak prajurit agar bisa menjadi orang yang datang lebih cepat melindungi orang-orang tak berdaya, sekaligus mengukuhkan ikatan takdir dan rasa hormatnya kepada garis keturunan keluarga Bran.
 - **Rekan Seperjuangan Bran:** Garrett adalah kawan lama Bran semasa keduanya masih aktif berdinas di kesatuan elit Garda Utama Leovard puluhan tahun silam. Ketika Bran memilih pensiun terhormat demi hidup damai bersama [[elora|Elora]] di desa perbatasan, Garrett tetap melanjutkan karier militernya hingga dipercaya memegang tongkat komando regu patroli perbatasan.
 - **Ikatan Kepercayaan:** Meskipun terpisah jarak geografis dan status dinas, Garrett menaruh rasa hormat serta kepercayaan mutlak kepada integritas dan kecakapan tempur Bran.
 

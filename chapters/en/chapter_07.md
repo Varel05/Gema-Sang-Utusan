@@ -18,7 +18,7 @@ tags:
 
 Morning crept cold through the jagged defile of the northern crags. The wind sweeping down the gorge carried a biting chill, thick with the damp reek of wet slate and the acrid stench of charcoal doused in ice water.
 
-Kael kept pace beside their pack mule. His hunt-leather boots struck the flinty gravel with measured scuffs that mingled with the muffled clink of the steel plates strapped across his chest. At his left hip, his father’s forged broadsword hung heavy and cold, a silent anchor to the vow he had sworn at their homestead’s threshold.
+Kael kept pace beside their pack mule. His hunt-leather boots struck the flinty gravel with measured scuffs that mingled with the muffled clink of the steel plates strapped across his chest. At his left hip, the forged broadsword given by his father hung heavy and cold, a silent anchor to the vow he had sworn at their homestead’s threshold.
 
 Ahead of the small column, Captain Garrett rode tall atop his black warhorse. Yet the rigid tension across the veteran’s broad shoulders was plain to see. Five mounted scouts of the Ducal Guard rode close in his wake, their lances angled skyward through the lingering wisps of fog coiling along the ravine walls.
 
@@ -54,7 +54,7 @@ Azariel drew a slow breath, willing the cold tremor in his arm to still. He offe
 
 "Hey, boy!"
 
-A harsh rasp cut through the quiet. Haldor, the lean scout with hollow, sleep-deprived eyes, dismounted with a short lance in hand, his face pale with bottled fury. Two of his squad had perished in the northern gorge days prior, and the sight of this foreign hooded youth meddling with the scorched rock grated on his raw nerves. "Must this hooded youth lay hands upon every cursed stone on this pass? The Captain brought you along to brew remedies, not to court ill fortune over the graves of our comrades!"
+A harsh rasp cut through the quiet. Haldor, the lean scout with hollow, sleep-deprived eyes, dismounted with a short lance in hand, his knuckles whitening on the shaft as his hands trembled with bottled fury. "Two of my squad died beneath the ash of that northern pass!" he rasped, his eyes flashing with bitter grief. "Must this hooded youth lay hands upon every cursed stone on this road? The Captain brought you along to brew remedies, not to court ill fortune over the graves of our comrades!"
 
 Before Haldor could take another step toward Azariel, Kael crossed the space in a single stride. His broad shoulders, clad in the reinforced cuirass of his father, planted themselves like a bulwark before Azariel and Mira. Kael’s right hand rested firm upon the brass crossguard at his hip, his dark brown eyes fixing the scout in an unblinking stare.
 
@@ -74,7 +74,7 @@ Kael slowly eased the tension in his fingers from the broadsword’s hilt, turni
 
 The company resumed their climb along the winding rocky trail. Along the next fifty paces, the devastated caravan revealed the same terrible truth: piles of dry provisions, iron kettles, and brass coin pouches lay scattered upon the dirt, entirely untouched, while every living soul and beast had been turned to ash.
 
-Yet ten paces beyond the last broken cart, Azariel abruptly halted. The youth stared at the center of the stony track, his pale blue eyes widening at an uncanny sight amidst the desolation.
+Yet roughly twenty paces beyond the last broken cart, Azariel abruptly halted. The youth stared at the center of the stony track, his pale blue eyes widening at an uncanny sight amidst the desolation.
 
 "What is it, brother?" Kael asked, stepping up to his side.
 
@@ -82,7 +82,7 @@ Mira and Captain Garrett drew near, their eyes following Azariel’s gaze with q
 
 Amidst the blackened stone scorched by the dark rot, there lay a circle of clean earth, roughly five paces across. Outside its boundary, mountain thistles lay withered to charcoal and the rock was smothered in powdery ash. But within that ring, the dirt and gravel were immaculate, as though an invisible canopy had shielded the earth from the blight that devoured the road.
 
-At the very center of the ring, nestled within a hairline fissure in the rock, grew three tiny pine seedlings. Their needles were a bright, vibrant green, glistening with tiny drops of morning dew. Beside the shoots lay a flat river stone bound three times with a length of hemp twine, a simple knot carters often taught their children so provisions would not come loose along the road.
+At the very center of the ring, nestled within a hairline fissure in the rock, grew three tiny pine seedlings. Their needles were a bright, vibrant green, glistening with tiny drops of morning dew. Beside the shoots lay a flat river stone bound three times with a length of hemp twine.
 
 Azariel stepped slowly across the perimeter. As his boots entered the ring, the gnawing cold that had bitten his skin faded away, replaced by a still, restorative quiet.
 
@@ -122,7 +122,7 @@ Garrett took the bowl with his scarred, calloused hands. "My thanks, young heale
 
 Mira offered a faint smile, then slipped back to sit beside Azariel, who leaned against the stone wall at the edge of the hearth light. The dark-haired youth held his bowl in both hands, absorbing the heat radiating into his palms as he gazed into the glowing embers.
 
-Kael sat cross-legged near the fire, cradling his father’s broadsword, which he had wiped clean of road grit. His eyes tracked the dancing flames, then shifted toward Captain Garrett, who was staring into his untouched tea.
+Kael sat cross-legged near the fire, cradling the broadsword given by his father, which he had wiped clean of road grit. His eyes tracked the dancing flames, then shifted toward Captain Garrett, who was staring into his untouched tea.
 
 The question that had simmered in Kael’s chest since morning pressed to be asked. His protective nature made him wary of outsiders, but the raw grief he had witnessed in the captain was not something an enemy could feign.
 
@@ -148,9 +148,9 @@ Garrett paused, drawing a slow breath as he took a sip of the steaming mint tea.
 
 The captain lifted his eyes, meeting Kael's gaze with an old, enduring ache.
 
-"Yet there was an old border guard in that patrol who did not ride off after the plunder," Garrett murmured. "He knelt in the freezing slush, cradled my dying father’s head, and pulled off his gauntlets to hold his frostbitten hands. He stayed there and prayed with him until his last breath faded into the mist. Upon his armor was the very crest forged into the crossguard you cradle tonight."
+"Yet there was an old border guard in that patrol who did not ride off after the plunder," Garrett murmured. "He knelt in the freezing slush, cradled my dying father’s head, and pulled off his gauntlets to hold his frostbitten hands. He stayed there and prayed with him until his last breath faded into the mist. Upon his armor was the very crest forged into the crossguard you cradle tonight... the mark of your grandfather's old regiment."
 
-Kael looked down at the brass emblem upon his father's broadsword, a quiet pulse drumming in his breast.
+Kael looked down at the brass emblem upon the broadsword given by his father, a quiet pulse drumming in his breast.
 
 "My father died because no one arrived fast enough to shield them," Garrett said, his hands tightening upon his knees. "That day, beside his cairn, I swore I would enter the barracks. I did not endure the trials of the Ducal Guard for fine honors or the praise of high lords. I did it so I could be the one who rides faster, the one who arrives before death takes the defenseless."
 
@@ -158,19 +158,15 @@ Garrett looked down into the glowing coals, his voice catching in his throat. "Y
 
 A solemn stillness wrapped the stone chamber. Kael looked upon the weathered veteran before him. Garrett’s words carried a raw, unvarnished truth that echoed the morning drills his own father had overseen back in the valley.
 
-Kael drew a breath, choosing his words with care as a young warrior learning the weight of steel.
+Kael drew a slow breath. A young warrior still learning the weight of steel, he stared into the flames, finding his words with an awkward sincerity.
 
-"My father gave me counsel beside our hearth, Captain," Kael said, his voice quiet yet firm. "He told me... a good guardian is not one who is never late. In this mortal world, no man commands time. A true guardian is the one who never stops moving forward after being late."
+"My father gave me counsel beside our hearth, Captain," Kael said softly. "He told me... a good guardian is not one who is never late. In this mortal world, no man commands time. What matters is... you keep moving forward after." Kael rubbed the back of his neck, his voice turning slightly stiff. "Ah, I am not good with words like my father. But the point is... you haven't stopped moving, have you, Captain?"
 
 Garrett went still. He looked at Kael for a long time, studying the unpretentious resolve in the boy's dark brown eyes. The captain did not smile, but the hard knot in his jaw slowly unraveled. Garrett nodded once in quiet respect, tossed the dry twig into the fire, and picked up his tea bowl in silence. The heavy shadow upon his shoulders seemed to shift.
 
-In the dim corner by the wall, Azariel watched the stone hearth. Beneath the blanket of cold grey ash, a faint red ember still pulsed, cradling a warmth unseen from without.
+In the dim corner by the wall, Azariel watched the stone hearth. His eyes rested upon the grey ash drifting over the red coals below the logs. The dark-haired youth reached down, picking up a small dry twig from the stone floor. With slow, deliberate care, Azariel nudged a dying red ember beneath the blanket of grey ash, burying it gently so its heat remained sheltered in the dark.
 
-Azariel rested his head against the stone wall, murmuring softly:
-
-"The ember is not dead, Mira... only buried beneath the ash. So long as warmth remains within it, nothing is ever truly too late."
-
-Mira glanced at him, catching the quiet grace in his whisper. They shared a soft look in the warmth of the fire before night guided them into rest.
+Mira watched the motion from his side, then looked up into his face. Without a single word spoken, the young healer understood. They shared a quiet look in the stillness of the shelter before night guided them into rest.
 
 ***
 
@@ -198,12 +194,12 @@ Before Mira could answer, the frantic thunder of galloping hooves echoed from th
 
 One of the scouts Garrett had dispatched to reconnoiter the crossroads came tearing up the path, his mount lathered in sweat. The scout hauled on the reins before the captain.
 
-"Captain!" the scout breathed, leaning low from his saddle. "At the lower toll crossroads, we passed a lone rider galloping hard ahead of us toward the Duke's citadel. He wore a dark purple woolen cloak and presented a vineyard's copper signet ring to demand priority clearance."
+"Captain!" the scout breathed, leaning low from his saddle. "At the lower toll crossroads, we passed a lone rider galloping hard ahead of us toward the Duke's citadel. He wore a dark purple woolen cloak and presented a vineyard's copper signet ring to demand right-of-way."
 
 Garrett stared cold toward the northern horizon.
 
 "Vane," Garrett rasped through clenched teeth, his leather gauntlets creaking as his grip seized the reins.
 
-Kael stepped up beside Garrett, his eyes hardening as he gazed into the distance. "He always mocked Grandfather in the village square, saying the border was abandoned because old men prayed too much. Now he rides ahead to poison our arrival."
+Kael stepped up beside Garrett, his eyes hardening as he gazed into the distance. "He always mocked Grandfather in the village square. Said the Elder's bloodline was spent and Mira too young to lead the valley. Now he rides ahead to poison the Duke's ear."
 
-Captain Garrett did not answer. But his heavy breath and his gaze fixed upon the stone keeps of Leovard made it clear: behind those formidable walls, a cold war of suspicion was already waiting for them.
+Garrett answered not a word. His jaw clamped tight, and his gauntlets creaked sharp as his knuckles seized the reins. Before them, the stone keeps of Leovard rose rigid and proud through the valley mist, while from beneath their cold foundations, that heavy, unyielding toll struck ever deeper within Azariel's breast.
