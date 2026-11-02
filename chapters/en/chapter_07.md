@@ -136,7 +136,7 @@ Garrett set his bowl down by the hearthstones. He picked up a dry twig, prodding
 
 A heavy breath escaped the captain’s chest, misting in the cold air.
 
-"My father hauled salt carts upon this very road, many seasons ago," Garrett said, his voice gravelly and low. "He was no highborn soldier bearing a crest of silver. Just a stooped, quiet carter who spent his life gripping mule reins through blizzards to bring kitchen salt to the duchy."
+"My father hauled salt on this road," Garrett said, his voice gravelly and low. "He wasn't a soldier, wasn't anyone of note. Just an old man with a stooped back and calloused hands from gripping mule reins in the cold."
 
 Kael listened without interrupting. Beside him, Mira pulled her cloak tighter around her shoulders.
 

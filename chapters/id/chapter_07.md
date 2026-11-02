@@ -134,7 +134,7 @@ Garrett meletakkan mangkuk tehnya ke lantai batu. Ia mengambil sebilah ranting k
 
 Napas sang kapten berembus berat, mengabur menjadi kepulan uap putih di udara malam yang dingin.
 
-"Ayahku adalah pengangkut karavan garam di jalur ini puluhan musim silam," tutur Garrett dengan suara rendah dan serak. "Ia bukan prajurit bangsawan berzirah mengilap. Ia pria bersahaja bertubuh bungkuk yang menghabiskan hidupnya mencengkeram tali kekang keledai, menembus badai es demi mengantarkan garam dapur ke kadipaten."
+"Ayahku dulu pengangkut garam di jalur ini," tutur Garrett dengan suara rendah dan serak. "Bukan prajurit, bukan orang penting. Cuma orang tua bertubuh bungkuk yang tangannya kapalan karena seharian memegang tali kekang keledai di tengah angin dingin."
 
 Kael menyimak tanpa menyela. Di sampingnya, Mira merapatkan mantel wolnya.
 
