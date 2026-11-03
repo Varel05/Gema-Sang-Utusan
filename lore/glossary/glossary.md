@@ -104,6 +104,9 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **Kadipaten Leovard**                     | The Duchy of Leovard                         | [[kadipaten_leovard\|Geografi / Politik]]        |
 | **Kadipaten Morvath (Kerajaan Tetangga)** | The Duchy of Morvath (The Bordering Kingdom) | [[kadipaten_morvath\|Geografi / Politik]]        |
 | **Garda Utama Leovard**                   | Leovard High Guard / Main Guard              | [[bran\|Militer / Afiliasi]]                     |
+| **Garda Dalam**                           | Inner Guard / Fortress Garrison              | [[kadipaten_leovard\|Militer / Garnisun]]        |
+| **Garda Perbatasan**                      | Border Guard / Ravine Patrol                 | [[garrett\|Militer / Patroli Perbatasan]]        |
+| **Garda Pembuka Jalur (Pathfinders)**     | Pathfinders Guard / Pioneer Regiment         | [[bran\|Militer / Resimen Perintis]]             |
 | **Tetua Desa**                            | The Village Elder                            | [[tetua_desa\|Karakter]]                         |
 | **Kapten Garrett**                        | Captain Garrett                              | [[garrett\|Karakter]]                            |
 | **Bara di Tepi Rimba**                    | Embers by the Forest Verge                   | Judul Bab 1                                      |
@@ -112,6 +115,21 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **Di Bawah Naungan Ara Tua**              | Beneath the Shade of the Old Fig Tree        | Judul Bab 4                                      |
 | **Bara yang Melarutkan Abu**              | The Ember that Dissolves Ash                 | Judul Bab 5                                      |
 | **Langkah Pertama Menyongsong Fajar**     | First Strides into the Dawn                  | Judul Bab 6                                      |
+| **Jejak Beku di Jalur Garam**             | Frozen Tracks upon the Salt Road             | Judul Bab 7                                      |
+| **Pintu Besi Singa Bersayap**             | Iron Gates of the Winged Lion                | Judul Bab 8                                      |
+
+---
+
+## 5. Klasifikasi Resimen & Kesatuan Garda Kadipaten Leovard
+
+> `[USULAN KANON BARU]` Kodifikasi resmi nomenklatur militer kadipaten untuk menjaga konsistensi lintas Bab 5–8 dan bab-bab berikutnya:
+
+| Nama Kesatuan | Padanan Bahasa Inggris | Fungsi & Penempatan | Status Operasional | Catatan & Tokoh Terkait |
+| :--- | :--- | :--- | :--- | :--- |
+| **Garda Utama Leovard** | *Leovard High Guard* | Korps angkatan bersenjata kadipaten di bawah mandat resmi Sang Adipati Leovard. | **Aktif** | Pasukan reguler kadipaten; Bran pernah berdinas di dalamnya sebelum pensiun ke lembah. |
+| **Garda Dalam** | *Inner Guard / Fortress Garrison* | Garnisun penjaga benteng batu utama dan kompleks istana; mengenakan pelat dada mengilat dan mantel merah-emas. | **Aktif** | Menjaga gerbang dalam, ruang dewan, dan gerbang sayap istana di bawah pengawasan birokrasi istana. |
+| **Garda Perbatasan** | *Border Guard / Ravine Patrol* | Pasukan patroli celah ngarai utara dan tapal batas rimba; bertugas menghadapi cuaca ekstrem dan ancaman luar. | **Aktif** | Dipimpin oleh [[garrett\|Kapten Garrett]]; membawa zirah berlapis wol tebal dan jubah kelabu berdebu. |
+| **Garda Pembuka Jalur** | *Pathfinders* | Resimen perintis yang direkrut dari rakyat jelata untuk merintis jalur liar dan mengamankan pos perbatasan utara. | **Dibubarkan** *(~20 musim silam)* | Korps kakek Kael dan masa muda [[bran\|Bran]]; pedang pusaka keluarga Kael berpalang singa berkepala tombak ditempa untuk resimen ini. |
 
 ---
 ## Referensi Terkait

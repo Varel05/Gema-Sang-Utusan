@@ -41,7 +41,7 @@ aliases:
 ## 3. Peran Naratif & Dinamika Relasi
 - **Persaingan Pengaruh Istana (Bab 8):** Berdiri berseberangan dengan faksi Majelis Perbendaharaan di bawah Sekretaris Aldric. Tobias tidak membantu rombongan secara cuma-cuma atas dasar kebaikan moral, melainkan karena ia **membutuhkan kesaksian militer Garrett di hadapan Sang Adipati untuk mematahkan hegemoni politik dan jerat perkamen Aldric**.
 - **Bantuan Dingin & Penuh Perhitungan:** 
-  - Mengambil dan mengembalikan pedang warisan Bran milik Kael yang sempat disita oleh penjaga gerbang luar.
+  - Memeriksa bilah pusaka kakek Kael di lemari sitaan gerbang dan menyerahkan selembar tanda terima sitaan bertinta hitam kepada Kael; ia dengan tegas menolak mengeluarkan atau mengembalikan pedang tersebut karena melanggar prosedur hukum formal dan akan memberi amunisi politik bagi Sekretaris Aldric untuk mendakwa mereka.
   - Membubarkan penjaga di ruang tunggu sayap samping dan membiarkan pintu halaman tengah tidak terkunci hingga lonceng tengah hari tanpa memberikan izin tertulis ("Aku tidak pernah mengatakan apa pun kepada kalian").
   - Menjamin kamar bagi Garrett dan trio di Penginapan Lentera Besi atas wewenang rumah tangga istana untuk menghindarkan mereka dari sel tahanan garnisun, dengan syarat Garrett bersiap memberikan kesaksian penuh dalam sidang dewan.
 
