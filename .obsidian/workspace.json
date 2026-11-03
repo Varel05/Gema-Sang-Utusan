@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/worldbuilding/magic/segel_vivarium.md",
+                "file": "chapters/id/chapter_08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "segel_vivarium"
+              "title": "chapter_08"
             }
           }
         ]
@@ -206,34 +206,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2949213cc7acc38a",
+  "active": "f60cc6849ec29de5",
   "lastOpenFiles": [
+    "lore/worldbuilding/magic/revision_brief_bab8.md",
+    "chapters/id/chapter_03.md",
+    "chapters/id/chapter_02.md",
+    "chapters/id/chapter_01.md",
+    "chapters/id/chapter_08.md",
+    "chapters/id/chapter_04.md",
+    "chapters/id/chapter_05.md",
+    "chapters/id/chapter_06.md",
+    "chapters/id/chapter_07.md",
+    "update/changelog.md",
     "lore/worldbuilding/magic/segel_vivarium.md",
     "chapters/en/chapter_07.md",
     "file:C:/Users/varel/Downloads/revision_brief_bab1-6.md",
-    "chapters/id/chapter_07.md",
     "meta/character_arcs.md",
     "meta/outline.md",
     "meta/synopsis.md",
-    "update/changelog.md",
     "Panduan.md",
     "meta/shards_tracker.md",
     "chapters/en/chapter_06.md",
-    "chapters/id/chapter_06.md",
     "chapters/en/chapter_05.md",
-    "chapters/id/chapter_05.md",
-    "chapters/id/chapter_02.md",
-    "chapters/id/chapter_01.md",
-    "chapters/id/chapter_04.md",
     "lore/characters/azariel.md",
     "lore/characters/sang_malaikat_agung.md",
     "lore/characters/sang_pencipta.md",
     "lore/characters/tetua_desa.md",
     "chapters/en/chapter_01.md",
     "lore/worldbuilding/society/dinamika_sosial_desa.md",
-    "lore/worldbuilding/magic/kontras_api_kosmis.md",
-    "lore/worldbuilding/geography/kadipaten_morvath.md",
-    "lore/worldbuilding/cosmology/vivarium.md",
     "chapters/en",
     "chapters/id",
     "lore/worldbuilding/magic",
