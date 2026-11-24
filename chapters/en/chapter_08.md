@@ -35,11 +35,11 @@ A pot-bellied gate sergeant stepped forward, clutching a wooden ledger clamped w
 
 Garrett leaned down in the saddle, sweeping back his service cloak to reveal the silver winged-lion badge pinned upon his breastplate. "Captain Garrett, commander of the northern ravine border patrol. Clear the gate, Sergeant. I bear an urgent dispatch that must reach His Grace the Duke before midday."
 
-The sergeant did not yield an inch. "The Border Guard holds right of passage, Captain. Yet a new decree was issued two hours ago from the hall of assembly. All parties arriving from the northern defile without registered merchant seals are to be held in the outer ward for pestilence inspection and travel permit examination."
+The sergeant did not yield an inch. "The Border Guard holds right of passage, Captain. Yet a new decree was issued two hours ago by the Treasury. All parties arriving from the northern defile without registered merchant seals are to be held in the outer ward for pestilence inspection and travel permit examination."
 
 Garrett's jaw locked hard. "Pestilence inspection? Two of my troopers lie dead on the cliffs and an entire salt caravan was butchered by horrors, and you dare stall me with paperwork?"
 
-"Not my affair, Captain," the sergeant replied without looking up from his parchment. "This order bears the seal of the Chancellor of the Treasury, Master Aldric. A representative of the frontier vintners had audience earlier this morning. He warned the council that lawless unrest in the outer hamlets risks bringing disease into these walls. If you take issue with the directive, lodge your complaint with the treasury desk."
+"Not my affair, Captain," the sergeant replied without looking up from his parchment. "This order bears the seal of the Chancellor of the Treasury, Master Aldric. A representative of the frontier vintners had audience earlier this morning. He warned the council that lawless unrest in the outer hamlets risks bringing disease into these walls. If you take issue with the directive, lodge your complaint with the Treasury."
 
 Garrett's fist clenched the reins until the boiled leather groaned under his grip. Vane. The man moved like poison through water. It took nothing more than a handful of silver coins and sweet promises in a clerk's ear to cage a veteran captain outside his own citadel.
 
@@ -47,7 +47,7 @@ Garrett's fist clenched the reins until the boiled leather groaned under his gri
 
 The sergeant's eyes wavered, unsettled by the raw fury in Garrett's gaze and the dried mire clinging to the border troops. After a tense silence, the man spat upon the cobbles.
 
-"You may proceed to the west side-wing," the sergeant muttered sullenly. "As far as the outer receiving hall, no further. Mounts and pack beasts remain in the outer livery, and all civilian weapons are to be surrendered to the gatehouse lockbox. No steel enters without written clearance from the treasury."
+"You may proceed to the west side-wing," the sergeant muttered sullenly. "As far as the outer receiving hall, no further. Mounts and pack beasts remain in the outer livery, and all civilian weapons are to be surrendered to the gatehouse lockbox. No steel enters without written clearance from the Treasury."
 
 Kael stiffened, his fingers clamping onto the hilt of his father's sword.
 
@@ -125,7 +125,7 @@ Kael gripped the parchment tightly, feeling the stiff fiber in his palm. "Who ar
 
 Mira stepped forward a pace, her tone measured and wary. "Why are you helping us, Master Tobias?"
 
-"Because the treasury seeks to muzzle your captain with paper snares," Tobias said quietly. "Chancellor Aldric is extraordinarily adept at using ancient protocols to purge whoever threatens his sway. I need Garrett's testimony before His Grace the Duke before Aldric succeeds in barring the council chamber."
+"Because the Treasury seeks to muzzle your captain with paper snares," Tobias said quietly. "Chancellor Aldric is extraordinarily adept at using ancient protocols to purge whoever threatens his sway. I need Garrett's testimony before His Grace the Duke before Aldric succeeds in barring the council chamber."
 
 Kael looked down at the brass key ring hanging at Tobias's waist, watching the score of notched keys without interrupting.
 
@@ -191,13 +191,13 @@ The chamber door creaked open as Garrett stepped through. The captain looked utt
 
 "What news from the council, Captain?" Kael asked, standing near the narrow embrasure window.
 
-Garrett rubbed his rough face with both palms. "The hearing is stayed. Aldric filed a formal written objection against my report. Two chairs belonging to the Artisans' District delegates sat empty in that chamber. The summons was deliberately never delivered to their hands, allowing the treasury to dictate the vote at will. Meanwhile, Vane feasts councilors and clerks in the High Quarter, pouring his finest vintage into their cups. Our audience is pushed back two full days."
+Garrett rubbed his rough face with both palms. "The hearing is stayed. Aldric filed a formal written objection against my report. Two chairs belonging to the Artisans' District delegates sat empty in that chamber. The summons was deliberately never delivered to their hands, allowing the Treasury to dictate the vote at will. Meanwhile, Vane feasts councilors and clerks in the High Quarter, pouring his finest vintage into their cups. Our audience is pushed back two full days."
 
 Mira set a steaming mug of steeped herbs before him, meeting the captain's gaze with steady resolve. "Two days confined to this room while they twist the truth in the council chamber? Are we merely to wait until the doors are bolted from the inside?"
 
 Garrett looked down at his mug before drawing a heavy breath. "We wait, Mira. It is the hardest thing I will ask of you."
 
-The captain looked between the three of them. "Were it not for Tobias speaking to the gate warden, we would be sitting on wet straw in the holding cells tonight. Tobias vouched for this room under the authority of the ducal household, but he demands a return: he wants my testimony before the Duke to break Aldric's sway. His warning was stern: stay away from the east wing unless I walk beside you."
+The captain looked between the three of them. "Were it not for Tobias speaking to the gate warden, we would be sitting on wet straw in the holding cells tonight. Tobias vouched for this room under the authority of the ducal household, but he demands a return, and you heard for yourselves what his price was. His warning was stern: stay away from the east wing unless I walk beside you. A sentry on the balcony already reported that three strangers lingered by the well."
 
 "Because Aldric has us watched?" Kael asked.
 

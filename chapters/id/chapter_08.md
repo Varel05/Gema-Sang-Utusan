@@ -35,11 +35,11 @@ Seorang sersan gerbang berperut buncit melangkah maju membawa papan kayu berisi 
 
 Garrett mencondongkan tubuh dari pelana, menyingkap mantel dinasnya untuk memperlihatkan lencana singa bersayap perak di pelindung dada. "Kapten Garrett, komandan patroli perbatasan sektor ngarai utara. Buka jalurnya, Sersan. Aku membawa laporan mendesak untuk Yang Mulia Adipati sebelum matahari condong."
 
-Sersan itu tidak bergeser satu jengkal pun. "Garda Perbatasan memang berhak melintas, Kapten. Namun perintah baru dikeluarkan dua jam lalu oleh balai majelis istana. Seluruh rombongan dari celah utara tanpa segel niaga resmi wajib ditahan di pelataran luar untuk pemeriksaan wabah dan pemeriksaan surat jalan."
+Sersan itu tidak bergeser satu jengkal pun. "Garda Perbatasan memang berhak melintas, Kapten. Namun perintah baru dikeluarkan dua jam lalu oleh Perbendaharaan. Seluruh rombongan dari celah utara tanpa segel niaga resmi wajib ditahan di pelataran luar untuk pemeriksaan wabah dan pemeriksaan surat jalan."
 
 Rahang Garrett mengeras. "Pemeriksaan wabah? Dua pasukanku tewas di tebing dan karavan garam musnah diserang monster, lalu kau menahanku dengan urusan surat jalan?"
 
-"Bukan urusanku, Tuan," sahut sersan itu tanpa menoleh dari catatannya. "Perintah ini ditandatangani Sekretaris Perbendaharaan, Tuan Aldric. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa terluar yang berpotensi membawa penyakit ke dalam tembok istana. Jika berkeberatan, silakan ajukan sanggahan ke meja perbendaharaan."
+"Bukan urusanku, Tuan," sahut sersan itu tanpa menoleh dari catatannya. "Perintah ini ditandatangani Sekretaris Perbendaharaan, Tuan Aldric. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa terluar yang berpotensi membawa penyakit ke dalam tembok istana. Jika berkeberatan, silakan ajukan sanggahan ke Perbendaharaan."
 
 Tangan Garrett mencengkeram tali kekang hingga kulit sarung tangannya berdecit tajam. Vane. Pria itu telah bekerja sangat cepat. Hanya butuh beberapa keping perak dan bisikan manis di telinga juru tulis istana untuk mengurung seorang kapten garda di depan pintu gerbangnya sendiri.
 
@@ -47,7 +47,7 @@ Tangan Garrett mencengkeram tali kekang hingga kulit sarung tangannya berdecit t
 
 Mata sang sersan berkedip ragu melihat kilat mata Garrett dan bau lumpur anyir yang melekat pada rombongan perbatasan. Setelah hening yang tegang, ia meludah ke tanah.
 
-"Kalian boleh masuk ke sayap samping barat," gumam sersan itu ketus. "Hanya sampai ruang tunggu pelataran luar. Hewan perbekalan ditinggal di pos jaga, dan seluruh senjata warga sipil wajib dititipkan di lemari sitaan pos gerbang. Tidak ada bilah baja yang melintas tanpa izin perbendaharaan."
+"Kalian boleh masuk ke sayap samping barat," gumam sersan itu ketus. "Hanya sampai ruang tunggu pelataran luar. Hewan perbekalan ditinggal di pos jaga, dan seluruh senjata warga sipil wajib dititipkan di lemari sitaan pos gerbang. Tidak ada bilah baja yang melintas tanpa izin Perbendaharaan."
 
 Kael tersentak, tangannya spontan mencengkeram hulu pedang ayahnya.
 
@@ -125,7 +125,7 @@ Kael menggenggam perkamen itu erat-erat, merasakan kertas yang kaku di telapak t
 
 Mira melangkah maju sedikit, suaranya teratur dan hati-hati. "Mengapa Anda membantu kami, Tuan Tobias?"
 
-"Karena kantor perbendaharaan sedang berusaha membungkam kapten kalian dengan jerat perkamen," sahut Tobias rendah. "Sekretaris Aldric sangat ahli menggunakan aturan usang untuk menyingkirkan siapa pun yang mengancam pengaruhnya. Aku butuh kesaksian Garrett di hadapan Yang Mulia Adipati sebelum Aldric berhasil mengunci pintu dewan."
+"Karena Perbendaharaan sedang berusaha membungkam kapten kalian dengan jerat perkamen," sahut Tobias rendah. "Sekretaris Aldric sangat ahli menggunakan aturan usang untuk menyingkirkan siapa pun yang mengancam pengaruhnya. Aku butuh kesaksian Garrett di hadapan Yang Mulia Adipati sebelum Aldric berhasil mengunci pintu dewan."
 
 Kael menatap cincin anak kunci kuningan yang tergantung di pinggang Tobias, memperhatikan belasan anak kunci berukir rumit itu tanpa menyela.
 
@@ -191,13 +191,13 @@ Pintu bilik berderit pelan saat Garrett melangkah masuk. Kapten itu tampak sanga
 
 "Bagaimana di balai istana, Kapten?" tanya Kael yang berdiri di dekat celah jendela sempit.
 
-Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Aldric mengajukan sanggahan tertulis atas laporanku. Dua kursi wakil Distrik Pengrajin kosong di ruangan itu. Panggilan sidang sengaja tidak pernah dikirimkan ke tangan mereka agar majelis perbendaharaan bisa mengatur suara sesuka hati. Sementara itu, Vane menggelar jamuan makan malam di wisma Distrik Atas, mengalirkan anggur terbaiknya ke meja dewan kota dan para juru tulis. Sidang pembuktian kita baru dijadwalkan dua hari lagi."
+Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Aldric mengajukan sanggahan tertulis atas laporanku. Dua kursi wakil Distrik Pengrajin kosong di ruangan itu. Panggilan sidang sengaja tidak pernah dikirimkan ke tangan mereka agar Perbendaharaan bisa mengatur suara sesuka hati. Sementara itu, Vane menggelar jamuan makan malam di wisma Distrik Atas, mengalirkan anggur terbaiknya ke meja dewan dan para juru tulis. Sidang pembuktian kita baru dijadwalkan dua hari lagi."
 
 Mira meletakkan cangkir seduhan herba hangat di depan Garrett, lalu menatap sang kapten dengan pandangan lurus. "Dua hari tertahan di bilik ini sementara mereka memutarbalikkan fakta di ruang dewan? Apakah kita hanya akan duduk menunggu sampai pintu sidang benar-benar dikunci dari dalam?"
 
 Garrett menatap cangkirnya sejenak, lalu menghela napas berat. "Kita menunggu, Mira. Itu hal paling sulit yang akan kuminta dari kalian."
 
-Kapten itu memandang mereka bertiga bergantian. "Jika bukan karena Tobias yang berbicara kepada kepala pengawal gerbang, kita semua sudah mendekam di bilik tahanan malam ini. Tobias menjamin kamar ini atas wewenang rumah tangga istana, namun pria tua itu menuntut timbal balik: ia ingin kesaksianku di hadapan Adipati mematahkan pengaruh Aldric. Peringatannya sangat tegas: jangan mendekati sayap timur kastel tanpa pengawalanku."
+Kapten itu memandang mereka bertiga bergantian. "Jika bukan karena Tobias yang berbicara kepada kepala pengawal gerbang, kita semua sudah mendekam di bilik tahanan malam ini. Tobias menjamin kamar ini atas wewenang rumah tangga istana, namun pria tua itu menuntut timbal balik, dan kalian sudah mendengar sendiri apa harganya. Peringatannya sangat tegas: jangan mendekati sayap timur kastel tanpa pengawalanku. Seorang prajurit balkon sudah melapor bahwa tiga orang asing berdiri lama di dekat sumur."
 
 "Karena Aldric mengawasi setiap langkah kita?" tanya Kael.
 
