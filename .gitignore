@@ -1,0 +1,14 @@
+# Obsidian workspace & local state
+.obsidian/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & backup files
+*.tmp
+*.bak
+*~

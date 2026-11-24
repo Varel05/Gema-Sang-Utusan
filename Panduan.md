@@ -190,4 +190,22 @@ Setiap penulisan, adaptasi sastra, dan audit naskah versi Bahasa Inggris (`chapt
 3. Verifikasi konsistensi nomor bab, metadata frontmatter, dan istilah kanon.
 4. Catat setiap pembaruan dwibahasa ke dalam `update/changelog.md`.
 
+---
+## 9. PROTOKOL SINKRONISASI OTOMATIS GITHUB
+
+Setiap kali asisten/editor menyelesaikan sesi penulisan, revisi naskah (`chapters/`), pembaruan kanon (`lore/`), perancangan (`meta/`), maupun pembaruan pedoman, asisten **wajib langsung melakukan sinkronisasi otomatis ke repositori GitHub** sebelum mengakhiri respons kerja:
+
+1. **Penyaringan Berkas (`.gitignore`):**
+   - Berkas konfigurasi lokal dan antarmuka Obsidian (folder `.obsidian/`) serta berkas temporer sistem operasi wajib diabaikan agar riwayat repositori tetap bersih dan murni terfokus pada karya sastra.
+2. **Tahapan Sinkronisasi:**
+   - Tambahkan berkas yang diubah: `git add .`
+   - Buat *commit* dengan pesan terstruktur (*Conventional Commits*):
+     - `feat:` penambahan bab baru atau entitas lore baru.
+     - `fix:` perbaikan logika, kontinuitas cerita, atau koreksi naskah.
+     - `refactor:` penataan ulang prosa, adaptasi bahasa Inggris, atau restrukturisasi berkas.
+     - `docs:` pembaruan dokumentasi panduan, metadata, outline, atau changelog.
+   - Unggah langsung ke cabang utama: `git push origin main`.
+3. **Penyampaian Status:**
+   - Di akhir respons, asisten wajib mengonfirmasi hash commit atau status keterunggahan perubahan ke GitHub kepada Penulis.
+
 
