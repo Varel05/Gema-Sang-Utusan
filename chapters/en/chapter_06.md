@@ -127,9 +127,9 @@ He looked toward the peaceful roofs of the village, then turned his gaze upon Az
 
 Azariel met the captain's gaze with tranquil stillness. "His life had the right to remain, Captain."
 
-Garrett drew a long, heavy breath. He looked down at his own calloused hands, hands that had gripped command hilts for twenty-five turnings of the seasons in defense of the realm.
+Garrett drew a long, heavy breath. He looked down at his own calloused hands, hands that had gripped command hilts for thirty turnings of the seasons in defense of the realm.
 
-"Our steel was worthless in that northern gorge, lad," Garrett whispered, his voice trembling under a frustration that had long festered in his marrow. "Twenty-five summers I have marched with the Vanguard of Leovard. We were forged to shatter enemy spear walls, charge through hailstorms of arrows, and match blades with the knights of Morvath. But how do you raise a shield against a creeping frost that has no shape? How could my men stand when our iron shattered like dry boughs beneath the talons of those cursed horrors?"
+"Our steel was worthless in that northern gorge, lad," Garrett whispered, his voice trembling under a frustration that had long festered in his marrow. "Thirty summers I have marched with the Vanguard of Leovard. We were forged to shatter enemy spear walls, charge through hailstorms of arrows, and match blades with the knights of Morvath. But how do you raise a shield against a creeping frost that has no shape? How could my men stand when our iron shattered like dry boughs beneath the talons of those cursed horrors?"
 
 Garrett shook his head bitterly, his teeth grinding against his own helplessness.
 

@@ -129,7 +129,7 @@ Azariel memandang perwira tua itu dengan mata jernih tanpa cela. "Tubuhnya berha
 
 Garrett menghela napas panjang dan berat. Pandangannya menunduk menatap kedua telapak tangannya yang kapalan dan berparut luka, tangan yang telah memegang pedang komando selama puluhan tahun menjaga kadipaten.
 
-"Pedang baja kami tidak ada artinya di celah utara sana, Nak," tutur Garrett parau, suaranya bergetar menahan frustrasi yang telah lama menghimpit dadanya. "Dua puluh lima musim aku berdinas di Garda Utama Leovard. Kami dilatih untuk mematahkan formasi tombak musuh, menunggang kuda menembus hujan panah, dan menangkis serangan prajurit Kadipaten Morvath. Namun bagaimana kau melawan kabut dingin yang merayap tanpa wujud? Bagaimana pasukanku bisa bertahan saat senjata besi kami hancur laksana ranting lapuk di hadapan cakar makhluk-makhluk terkutuk itu?"
+"Pedang baja kami tidak ada artinya di celah utara sana, Nak," tutur Garrett parau, suaranya bergetar menahan frustrasi yang telah lama menghimpit dadanya. "Tiga puluh musim aku berdinas di Garda Utama Leovard. Kami dilatih untuk mematahkan formasi tombak musuh, menunggang kuda menembus hujan panah, dan menangkis serangan prajurit Kadipaten Morvath. Namun bagaimana kau melawan kabut dingin yang merayap tanpa wujud? Bagaimana pasukanku bisa bertahan saat senjata besi kami hancur laksana ranting lapuk di hadapan cakar makhluk-makhluk terkutuk itu?"
 
 Garrett menggelengkan kepalanya getir. Giginya bergemeletuk menahan amarah terhadap ketakberdayaannya sendiri.
 

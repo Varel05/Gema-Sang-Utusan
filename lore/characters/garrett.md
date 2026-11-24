@@ -17,23 +17,23 @@ aliases:
 # Profil Karakter: Kapten Garrett
 
 > **Status:** Kanon Mutlak  
-> **Peran:** Tokoh Pendukung / Kepala Prajurit & Komandan Regu Pengintai Kadipaten  
-> **Faksi / Afiliasi:** [[kadipaten_leovard|Kadipaten Leovard]] — Garda Utama Leovard (Di bawah Otoritas Sang Adipati Leovard)
+> **Peran:** Tokoh Pendukung / Perwira Komando Garda Utama & Pemimpin Detasemen Garda Perbatasan  
+> **Faksi / Afiliasi:** [[kadipaten_leovard|Kadipaten Leovard]] — Komandan Garda Utama (Membawahi Detasemen Garda Perbatasan Sektor Utara)
 
 ---
 
 ## 1. Identitas & Ciri Fisik
 - **Nama Lengkap:** Garrett (disebut juga Garret)
-- **Pangkat / Jabatan:** Kapten / Kepala Prajurit Garnisun Kadipaten Leovard.
-- **Usia:** Paruh baya (~40-an tahun, sebaya dengan [[bran|Bran]]).
+- **Pangkat / Jabatan:** Kapten Garda Utama Leovard / Komandan Detasemen Garda Perbatasan Sektor Ngarai Utara.
+- **Masa Dinas & Usia:** Tiga puluh musim (30 musim) penuh mengabdi di kemiliteran kadipaten; berusia paruh baya (~46-47 tahun, sebaya dengan [[bran|Bran]]).
 - **Ciri Fisik Utama:** Prajurit veteran berperawakan kekar dengan cambang kelabu di rahangnya. Sorot matanya yang biasanya tegas dan terlatih kini menyimpan bayang-bayang trauma mendalam setelah menyaksikan horor di celah utara.
 - **Gaya Busana & Perlengkapan:** Mengenakan setelan zirah besi tempaan resmi Kadipaten Leovard dengan lambang singa bersayap di pelindung dada, pelindung leher (*gorget*), jubah dinas militer yang tercabik medan laga, menunggangi kuda perang kadipaten, serta dipersenjatai pedang komando dan tombak kavaleri.
 
 ---
 
 ## 2. Latar Belakang (Backstory)
-- **Tragedi Masa Kanak-Kanak & Ikatan Leluhur:** Ayah Garrett adalah pengangkut garam bersahaja yang tewas disergap penyamun di celah utara saat Garrett masih kecil. Prajurit perbatasan tua yang memangku kepala dan mendoakan ayahnya hingga napas terakhir adalah ayah [[bran|Bran]] (kakek Kael). Tragedi ini menjadi pemicu tekad murni Garrett untuk masuk ke barak prajurit agar bisa menjadi orang yang datang lebih cepat melindungi orang-orang tak berdaya, sekaligus mengukuhkan ikatan takdir dan rasa hormatnya kepada garis keturunan keluarga Bran.
-- **Rekan Seperjuangan Bran:** Garrett adalah kawan lama Bran semasa keduanya masih aktif berdinas di kesatuan elit Garda Utama Leovard puluhan tahun silam. Ketika Bran memilih pensiun terhormat demi hidup damai bersama [[elora|Elora]] di desa perbatasan, Garrett tetap melanjutkan karier militernya hingga dipercaya memegang tongkat komando regu patroli perbatasan.
+- **Tragedi Masa Kanak-Kanak & Ikatan Leluhur:** Ayah Garrett adalah pengangkut garam bersahaja yang tewas disergap penyamun di celah utara saat Garrett masih kecil. Prajurit veteran yang memangku kepala dan mendoakan ayahnya hingga napas terakhir adalah ayah [[bran|Bran]] (kakek Kael), yang kala itu bertugas di Garda Pembuka Jalur. Tragedi ini menjadi pemicu tekad murni Garrett untuk masuk ke dinas militer agar bisa menjadi orang yang datang lebih cepat melindungi orang-orang tak berdaya, sekaligus mengukuhkan ikatan takdir dan rasa hormatnya kepada garis keturunan keluarga Bran.
+- **Rekan Seperjuangan Bran:** Garrett muda masuk ke Garda Utama Leovard sekitar tiga puluh musim lalu, dan selama sepuluh musim pertama ia bertugas berdampingan dengan Bran di dinding utara. Ketika Bran memilih pensiun terhormat demi hidup damai bersama [[elora|Elora]], Garrett terus meniti karier militernya di Garda Utama hingga dipercaya memegang tongkat komando detasemen Garda Perbatasan.
 - **Ikatan Kepercayaan:** Meskipun terpisah jarak geografis dan status dinas, Garrett menaruh rasa hormat serta kepercayaan mutlak kepada integritas dan kecakapan tempur Bran.
 
 ---

@@ -65,9 +65,9 @@ The flags of the west corridor were slick with subterranean damp. Thick, cold ma
 
 Garrett had departed down the hall alongside a duty officer to untangle their entry permits, leaving Kael, Mira, and Azariel seated in a vaulted stone alcove near the courtyard portal. Two sentries stood at attention outside the archway, halberds upright, watching them like prisoners under open arrest.
 
-Kael sat stiffly upon a bench of rough-hewn oak. His left hand repeatedly brushed against his empty hip, searching for the familiar hilt that had accompanied him every single day. The void unnerved him. For seven seasons, Bran had forged him in the hills, and that weapon was his guard and part of his very self. Unarmed inside foreign stone walls, he felt stripped of his footing.
+Kael sat stiffly upon a bench of rough-hewn oak. His left hand repeatedly brushed against his empty hip, searching for the familiar hilt that had accompanied his stride. The void unnerved him. For seven seasons, Bran had forged him in the hills, and the heirloom blade placed in his hands only days ago had already become his shield and part of his very self. Unarmed inside foreign stone walls, he felt stripped of his footing.
 
-His mother had once spoken in passing that Bran had served as a soldier in this fortress before choosing peace in the valley. Yet looking at the insolent guards and the stifling stone vaults, Kael could not fathom how his father had endured years in such a place.
+His mother had once spoken in passing that Bran had served as a soldier in this realm before choosing peace in the valley. Yet looking at the insolent guards and the stifling stone vaults, Kael could not fathom how his father had endured years in such a service.
 
 "Sit quietly, Kael," Mira whispered softly from his side, setting her herbal satchel upon the flags. "You will only make those guards more suspicious if you keep balling your fists."
 
@@ -155,7 +155,7 @@ The air around him seemed to go dead and hollow.
 
 The pulse surged into his flesh. It was not the white flame or the breathing warmth of Tebing Pinus, but an immense, rigid weight that chilled the blood. The vibration traveled up the bones of his wrist, into his shoulder, and struck the ember in his chest like an iron sledgehammer crashing down upon an anvil.
 
-Fathoms below the bedrock foundations, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It emanated from beneath the eastern foundations of the yard, pulling at the ember in his chest with an unyielding certainty.
+Deep within the citadel grounds, pulsing from the ancestral treasury vault on the eastern side of the yard, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It emanated from beneath the eastern storehouse, pulling at the ember in his chest with an unyielding certainty.
 
 His breath caught in his throat. The sinews of his jaw locked tight, and a faint sheen of pale blue light flared in his eyes before he forced his lids shut. His right hand, which had remained numb since the night at the waystation when he bolstered the pine shoots, trembled violently. A sudden frost bit into his fingertips, turning them white against the stone.
 

@@ -17,7 +17,7 @@ aliases:
 
 > **Status:** Kanon Mutlak  
 > **Peran:** Tokoh Pendukung / Ayah [[kael|Kael]] / Ketua Regu Patroli & Pelatih Tempur Desa  
-> **Faksi / Afiliasi:** Kaum [[the_remnant|The Remnant]] — Mantan Prajurit Garda Utama [[kadipaten_leovard|Kadipaten Leovard]] / Warga [[desa_lembah_perbatasan|Desa Lembah Perbatasan]]
+> **Faksi / Afiliasi:** Kaum [[the_remnant|The Remnant]] — Mantan Prajurit Garda Pembuka Jalur (*Pathfinders*) & Rekan Dinas Garda Utama [[kadipaten_leovard|Kadipaten Leovard]] / Warga [[desa_lembah_perbatasan|Desa Lembah Perbatasan]]
 
 ---
 
@@ -33,18 +33,18 @@ aliases:
 ## 2. Latar Belakang & Rahasia Masa Lalu
 
 > [!IMPORTANT]
-> **Batasan Kanon Naratif:** Masa lalu Bran sebagai mantan prajurit elit garda utama kadipaten **DILARANG DICERITAKAN ATAU DIBONGKAR SEBELUM BAB 3**. Di Bab 1 dan 2, Bran hanya ditampilkan sebagai pemburu paling disegani di lembah.
+> **Batasan Kanon Naratif:** Masa lalu Bran sebagai mantan prajurit elit perbatasan kadipaten **DILARANG DICERITAKAN ATAU DIBONGKAR SEBELUM BAB 3**. Di Bab 1 dan 2, Bran hanya ditampilkan sebagai pemburu paling disegani di lembah.
 
-- **Mantan Garda Utama Leovard:** Pada masa mudanya, Bran adalah prajurit elit di ibu kota Kadipaten Leovard. Ia kenyang dengan seni beladiri pedang tinggi, strategi formasi tempur, dan taktik militer resmi.
-- **Garis Keturunan Penjaga Perbatasan:** Ayah Bran (kakek Kael) adalah perwira/prajurit veteran Garda Perbatasan Leovard generasi pendahulu, sosok yang dahulu memangku kepala dan mendoakan ayah Garrett saat sekarat di celah utara. Bran masuk ke dinas militer didorong oleh tradisi dan tuntutan warisan kehormatan keluarga, sebelum akhirnya memilih meletakkan lencana prajurit. Pedang tempaan baja kelabu yang diwariskannya kepada Kael adalah pusaka keluarga yang pernah disandang ayahnya.
+- **Masa Dinas Militer di Tapal Batas:** Pada masa mudanya, Bran mengabdi di dinding utara kadipaten. Menguasai seni beladiri pedang, formasi tempur perintis, dan taktik medan liar, serta mengenal seluk-beluk tatanan militer Kadipaten Leovard.
+- **Garis Keturunan Penjaga Perbatasan:** Ayah Bran (kakek Kael) adalah perwira/prajurit veteran Garda Pembuka Jalur generasi pendahulu, sosok yang dahulu memangku kepala dan mendoakan ayah Garrett saat sekarat di celah utara. Bran masuk ke dinas militer didorong oleh tradisi dan tuntutan warisan kehormatan keluarga, sebelum akhirnya memilih meletakkan lencana prajurit. Pedang tempaan baja kelabu yang diwariskannya kepada Kael adalah pusaka keluarga yang pernah disandang ayahnya.
 - **Memilih Hidup Bersahaja:** Jenuh oleh intrik politik militer dan kekerasan medan laga, ia terpikat oleh [[elora|Elora]] — gadis desa pengelola buku arsip — dan memilih pensiun secara terhormat demi membangun rumah tangga damai di perbatasan.
-- **Peti Rahasia di Gudang:** Menyimpan peti kayu oak berbalut kain minyak berisi zirah tempaan berkualitas kadipaten dan pedang tempur lamanya, yang kelak diwariskan kepada Kael saat pengembaraan trio dimulai.
+- **Peti Rahasia di Gudang:** Menyimpan peti kayu oak berbalut kain minyak berisi zirah tempaan berkualitas kadipaten dan pedang tempur pusaka keluarganya, yang diwariskan kepada Kael saat pengembaraan trio dimulai (menggantikan pedang latihan harian Kael).
 
-### Linimasa Karier Militer Bran (Kanon Linimasa & Rekonsiliasi)
-1. **~30–28 Musim Lalu (Masa Muda di Tapal Batas):** Memulai dinas militer di **Garda Pembuka Jalur (*Pathfinders*)** di perbatasan utara demi meneruskan tradisi kehormatan ayahnya (kakek Kael), menyandang pedang pusaka tempaan keluarga berpalang singa berkepala tombak.
-2. **~28–20 Musim Lalu (Dinas Bersama Garrett di Garda Utama):** Resimen Garda Pembuka Jalur direorganisasi dan resmi dibubarkan di perbatasan utara (~20 musim lalu). Bran kemudian dimutasi ke **Garda Utama Leovard**, menjadi rekan seperjuangan Kapten [[garrett|Garrett]] selama sepuluh musim menghadapi kerasnya medan laga dan menjaga keamanan kadipaten.
-3. **~20–19 Musim Lalu (Pensiun Terhormat):** Jenuh oleh intrik politik militer istana dan duka kekerasan, Bran meletakkan jabatannya secara terhormat sebelum Kael lahir. Ia menikahi [[elora|Elora]] dan memilih hidup bersahaja sebagai pemburu di [[desa_lembah_perbatasan|Desa Lembah Perbatasan]].
-4. **Masa Kini (Kael Usia 19 Tahun):** Pedang pusaka Pembuka Jalur diwariskan kepada Kael saat pengembaraan ke Leovard dimulai; pedang tersebut disita di pos gerbang dalam Bab 8, menjadi simbol kerentanan dan kedewasaan Kael menghadapi intrik kekuasaan perkamen.
+### Linimasa Karier Militer Bran (Kanon Linimasa Opsi A)
+1. **~30 Musim Lalu (Masa Muda di Dinding Utara):** Bran (~17 musim) masuk ke dinas militer **Garda Pembuka Jalur (*Pathfinders*)** di celah cadas utara meneruskan tradisi kehormatan ayahnya (kakek Kael), menyandang pedang pusaka keluarga berpalang singa berkepala tombak. Pada masa yang sama, [[garrett|Garrett]] muda masuk ke kesatuan **Garda Utama Leovard** di penugasan sektor utara yang sama.
+2. **~30–20 Musim Lalu (Sepuluh Musim Berdinas Berdampingan):** Garda Pembuka Jalur dan Garda Utama bertugas berdampingan menjaga dinding utara. Bran dan Garrett menjadi rekan seperjuangan selama sepuluh musim penuh berbagi darah dan ransum menghadapi keganasan perbatasan, sementara pedang Pembuka Jalur setia menemani Bran menjaga celah cadas utara.
+3. **~20 Musim Lalu (Pembubaran Resimen & Pensiun Terhormat):** Menjelang reorganisasi pertahanan perbatasan, Garda Pembuka Jalur resmi dibubarkan. Menolak terikat lebih jauh dalam intrik politik kota, Bran (~27 musim) memilih pensiun secara terhormat. Ia menikahi [[elora|Elora]] dan menetap di [[desa_lembah_perbatasan|Desa Lembah Perbatasan]].
+4. **~19 Musim Lalu hingga Kini:** Kael lahir (~19 musim lalu). Pada fajar keberangkatan ke Leovard (Bab 6), pedang pusaka warisan Pembuka Jalur diserahkan kepada Kael. Pedang ini kemudian disita di pos gerbang dalam Bab 8.
 
 ---
 

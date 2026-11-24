@@ -65,9 +65,9 @@ Lantai lorong sayap barat licin oleh kelembapan udara bawah tanah. Dinding batun
 
 Garrett pergi bersama seorang perwira jaga untuk mengurus izin masuk, meninggalkan Kael, Mira, dan Azariel di sebuah ruang tunggu batu beratap lengkung. Dua prajurit penjaga berdiri tegak di luar ambang pintu dengan tombak terhunus, mengawasi mereka layaknya tawanan perang.
 
-Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya berulang kali meraba pinggangnya yang kosong, mencari hulu pedang yang biasa menemaninya setiap hari. Rasa kehilangan itu membuatnya gelisah. Selama tujuh musim ia ditempa oleh ayahnya di perbukitan, pedang itu adalah pelindung dan bagian dari dirinya. Kini, terkurung di dalam dinding batu asing tanpa sebilah belati pun, ia merasa rapuh.
+Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya berulang kali meraba pinggangnya yang kosong, mencari hulu pedang yang biasa menemaninya. Rasa kehilangan itu membuatnya gelisah. Selama tujuh musim ia ditempa oleh ayahnya di perbukitan, dan bilah pusaka yang baru beberapa hari diserahkan kepadanya itu telah menjadi pelindung sekaligus bagian dari dirinya. Kini, terkurung di dalam dinding batu asing tanpa sebilah belati pun, ia merasa rapuh.
 
-Ibunya dahulu hanya pernah bercerita samar bahwa Bran pernah menjadi prajurit di kota benteng ini sebelum memilih hidup damai di perbatasan. Namun melihat keangkuhan para penjaga dan pengapnya lorong-lorong ini, Kael tidak habis pikir bagaimana ayahnya bisa bertahan bertahun-tahun di tempat seperti ini.
+Ibunya dahulu hanya pernah bercerita samar bahwa Bran pernah menjadi prajurit di kadipaten ini sebelum memilih hidup damai di perbatasan. Namun melihat keangkuhan para penjaga dan pengapnya lorong-lorong ini, Kael tidak habis pikir bagaimana ayahnya bisa bertahan bertahun-tahun di lingkungan dinas seperti ini.
 
 "Duduklah dengan tenang, Kael," bisik Mira lembut seraya meletakkan tas perbekalan herba di lantai batu. "Kau membuat para penjaga itu semakin waspada dengan caramu mengepalkan tangan."
 
@@ -155,7 +155,7 @@ Dunia di sekitarnya seakan meredup seketika.
 
 Getaran itu meledak melalui kulit tangannya. Bukan kilatan api putih atau kehangatan hidup seperti di Tebing Pinus, melainkan sebuah bobot yang luar biasa berat, kaku, dan membekukan. Denyutan itu merambat naik melalui pergelangan tangannya, menjalar ke bahu, lalu menghantam bara di rongga dadanya laksana hantaman palu pandai besi di atas batangan baja.
 
-Jauh di bawah tanah, berpuluh-puluh hasta menembus lapisan cadas fondasi kastel, ada sebuah denyut yang merambat dengan keteraturan mutlak. Sebuah kehadiran yang tertidur kaku dan menolak setiap ketidaksempurnaan fana. Getaran itu merambat dari arah fondasi sisi timur pelataran, menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
+Jauh di dalam kompleks benteng, merambat dari brankas pusaka di sisi timur pelataran, ada sebuah denyut yang bergerak dengan keteraturan mutlak. Sebuah kehadiran yang diam dan kaku, menolak setiap ketidaksempurnaan fana. Getaran itu merambat dari arah fondasi bangunan penyimpanan di sisi timur pelataran, menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
 
 Napas Azariel tertahan di tenggorokan. Otot rahangnya menegang, dan pupil matanya memancarkan pendar putih kebiruan yang tajam selama satu detik sebelum ia berhasil memejamkan mata rapat-rapat. Tangan kanannya, yang sejak malam di pos singgah terasa kebas akibat menopang tunas pinus, mendadak bergetar hebat. Rasa beku yang menusuk memutihkan ujung jemarinya.
 

@@ -126,10 +126,10 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 
 | Nama Kesatuan | Padanan Bahasa Inggris | Fungsi & Penempatan | Status Operasional | Catatan & Tokoh Terkait |
 | :--- | :--- | :--- | :--- | :--- |
-| **Garda Utama Leovard** | *Leovard High Guard* | Korps angkatan bersenjata kadipaten di bawah mandat resmi Sang Adipati Leovard. | **Aktif** | Pasukan reguler kadipaten; Bran pernah berdinas di dalamnya sebelum pensiun ke lembah. |
+| **Garda Utama Leovard** | *Leovard High Guard* | Korps angkatan bersenjata kadipaten di bawah mandat resmi Sang Adipati Leovard. | **Aktif** | Pasukan reguler kadipaten; [[garrett\|Kapten Garrett]] adalah salah satu perwira komandannya (berdinas 30 musim). |
 | **Garda Dalam** | *Inner Guard / Fortress Garrison* | Garnisun penjaga benteng batu utama dan kompleks istana; mengenakan pelat dada mengilat dan mantel merah-emas. | **Aktif** | Menjaga gerbang dalam, ruang dewan, dan gerbang sayap istana di bawah pengawasan birokrasi istana. |
-| **Garda Perbatasan** | *Border Guard / Ravine Patrol* | Pasukan patroli celah ngarai utara dan tapal batas rimba; bertugas menghadapi cuaca ekstrem dan ancaman luar. | **Aktif** | Dipimpin oleh [[garrett\|Kapten Garrett]]; membawa zirah berlapis wol tebal dan jubah kelabu berdebu. |
-| **Garda Pembuka Jalur** | *Pathfinders* | Resimen perintis yang direkrut dari rakyat jelata untuk merintis jalur liar dan mengamankan pos perbatasan utara. | **Dibubarkan** *(~20 musim silam)* | Korps kakek Kael dan masa muda [[bran\|Bran]]; pedang pusaka keluarga Kael berpalang singa berkepala tombak ditempa untuk resimen ini. |
+| **Garda Perbatasan** | *Border Guard / Ravine Patrol* | Detasemen utara Garda Utama yang berpatroli di celah ngarai utara dan tapal batas rimba. | **Aktif** | Berada di bawah komando langsung Kapten [[garrett\|Garrett]]; membawa zirah berlapis wol tebal dan jubah kelabu berdebu. |
+| **Garda Pembuka Jalur** | *Pathfinders* | Resimen perintis yang direkrut dari rakyat jelata; bertugas berdampingan dengan Garda Utama di dinding utara sebelum dibubarkan ±20 musim silam. | **Dibubarkan** *(~20 musim silam)* | Korps kakek Kael dan masa muda [[bran\|Bran]]; pedang pusaka keluarga Kael berpalang singa berkepala tombak ditempa untuk resimen ini. |
 
 ---
 ## Referensi Terkait
