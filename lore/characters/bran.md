@@ -40,6 +40,12 @@ aliases:
 - **Memilih Hidup Bersahaja:** Jenuh oleh intrik politik militer dan kekerasan medan laga, ia terpikat oleh [[elora|Elora]] — gadis desa pengelola buku arsip — dan memilih pensiun secara terhormat demi membangun rumah tangga damai di perbatasan.
 - **Peti Rahasia di Gudang:** Menyimpan peti kayu oak berbalut kain minyak berisi zirah tempaan berkualitas kadipaten dan pedang tempur lamanya, yang kelak diwariskan kepada Kael saat pengembaraan trio dimulai.
 
+### Linimasa Karier Militer Bran (Kanon Linimasa & Rekonsiliasi)
+1. **~30–28 Musim Lalu (Masa Muda di Tapal Batas):** Memulai dinas militer di **Garda Pembuka Jalur (*Pathfinders*)** di perbatasan utara demi meneruskan tradisi kehormatan ayahnya (kakek Kael), menyandang pedang pusaka tempaan keluarga berpalang singa berkepala tombak.
+2. **~28–20 Musim Lalu (Dinas Bersama Garrett di Garda Utama):** Resimen Garda Pembuka Jalur direorganisasi dan resmi dibubarkan di perbatasan utara (~20 musim lalu). Bran kemudian dimutasi ke **Garda Utama Leovard**, menjadi rekan seperjuangan Kapten [[garrett|Garrett]] selama sepuluh musim menghadapi kerasnya medan laga dan menjaga keamanan kadipaten.
+3. **~20–19 Musim Lalu (Pensiun Terhormat):** Jenuh oleh intrik politik militer istana dan duka kekerasan, Bran meletakkan jabatannya secara terhormat sebelum Kael lahir. Ia menikahi [[elora|Elora]] dan memilih hidup bersahaja sebagai pemburu di [[desa_lembah_perbatasan|Desa Lembah Perbatasan]].
+4. **Masa Kini (Kael Usia 19 Tahun):** Pedang pusaka Pembuka Jalur diwariskan kepada Kael saat pengembaraan ke Leovard dimulai; pedang tersebut disita di pos gerbang dalam Bab 8, menjadi simbol kerentanan dan kedewasaan Kael menghadapi intrik kekuasaan perkamen.
+
 ---
 
 ## 3. Peran Naratif & Perkembangan Karakter

@@ -27,6 +27,12 @@ aliases:
 - **Kedudukan Desa Lembah (Desa Mira):** [[desa_lembah_perbatasan|Desa Lembah Perbatasan]] berstatus sebagai desa terluar di bawah yurisdiksi Kadipaten Leovard. Namun secara topografi, desa ini terisolasi dari pusat Leovard dan **letaknya justru jauh lebih dekat ke wilayah [[kadipaten_morvath|Kadipaten Morvath]]**, menjadikannya titik paling rentan jika gesekan perbatasan memanas.
 - **Hubungan Perdagangan:** Terhubung melalui pos-pos dagang perbatasan tempat juragan [[vane|Vane]] mendistribusikan anggur fermentasi lokal dan menukar desas-desus informal dengan para pejabat cukai kota benteng Leovard.
 
+### Struktur Kekuasaan & Lembaga Pemerintahan Kota Benteng
+- **Sang Adipati Leovard (*The Duke*):** Penguasa feodal tertinggi kadipaten; bertahta di istana utama dan menerima laporan resmi militer di balai istana.
+- **Perbendaharaan (*The Treasury*):** Dipimpin oleh Sekretaris/Kanselir [[aldric|Aldric]]. Mengendalikan regulasi dagang, surat jalan, karantina perbatasan, penyitaan senjata gerbang, dan cap meterai lilin. Bersekutu secara transaksional dengan cukong perbatasan seperti [[vane|Vane]].
+- **Dewan Kadipaten (*The Council*):** Badan permusyawaratan perwakilan rakyat dan distrik kota yang bersidang di ruang dewan. Dua kursi perwakilan Distrik Pengrajin (*Artisans' District*) saat ini sengaja disabotase/dikosongkan oleh Aldric agar Perbendaharaan mendominasi keputusan. *(Catatan Penulis: Menjadi ruang terbuka untuk memunculkan tokoh dewan yang jujur di Bab 9–10)*.
+- **Rumah Tangga Istana (*Ducal Household*):** Dipimpin oleh Kepala Pelayan Istana [[tobias|Tobias]]; faksi loyalis lama yang memegang kunci-kunci fisik istana dan berseberangan secara diam-diam dengan manuver birokrasi Aldric.
+
 ---
 
 ## 2. Hubungan dengan Masa Lalu Bran & Garrett
@@ -36,7 +42,9 @@ aliases:
 ---
 
 ## 3. Peran dalam Pengembaraan Trio
-- **Pecahan Jantung Aethel #2:** Salah satu pecahan [[jantung_aethel|Jantung Aethel]] tersimpan di dalam brankas perbendaharaan otoritas Kadipaten Leovard (dianggap sebagai relik permata kuno bernilai tinggi), menjadi ujian pertama bagi Azariel dan kawan-kawan saat memulai pengembaraan.
+- **Pecahan Jantung Aethel #2 (Gema Tatanan):** 
+  - **Koordinat Fisik Pasti:** Terdeteksi jelas pada Bab 8, tersimpan di bawah fondasi benteng batu persegi tanpa jendela di sudut timur pelataran istana (Gedung Perbendaharaan), berdekatan dengan sumur tua segi delapan. Terkunci di balik pintu besi berlambang singa dengan palang baja melintang dan dijaga ketat oleh empat prajurit berkapak.
+  - **Catatan Naratif Bab 9+:** Lokasi pecahan telah terkunci secara fisik oleh Azariel; pada Bab 9 dan seterusnya trio tidak perlu lagi mencari atau menebak keberadaan pecahan, melainkan berfokus pada strategi menembus penjagaan, audiensi Adipati, dan dinamika sidang dewan.
 - **Rapuhnya Gencatan Senjata:** Kadipaten Leovard berada dalam situasi gencatan senjata yang sangat rapuh dengan [[kadipaten_morvath|Kadipaten Morvath]] (*Kerajaan Tetangga*). Penguasa Morvath sangat haus akan sumber daya energi dan menaruh dendam serta ambisi untuk merebut Pecahan Jantung Aethel yang dikuasai Leovard, menjadikan perang saudara antar-kadipaten berada di ambang letusan.
 
 ---
