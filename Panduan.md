@@ -288,10 +288,10 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 
 **Teknik Konkret:**
 - Tambahkan 1–2 detail dunia yang *tidak diminta* namun mengandung implikasi besar (papan harga garam yang ditulis ulang tiga kali = dampak Korosi)
-- Aktifitas orang-orang kecil di latar belakang mencerminkan keadaan politik/ekonomi dunia
-- Aliran pikiran Azariel di momen kritis boleh panjang dan melingkar — tapi setiap kalimat harus berakhir pada satu kesimpulan karakter baru
+- Aktivitas orang-orang kecil di latar belakang mencerminkan keadaan politik/ekonomi dunia
+- Aliran pikiran Azariel di momen kritis boleh panjang dan melingkar, tetapi setiap kalimat harus berakhir pada satu kesimpulan karakter baru
 
-**Benchmark Naskah:** `Di depan toko rempah... 'GARAM PUTIH — PERSEDIAAN TERBATAS'... Harganya ditulis ulang tiga kali, dua angka lama masih tampak menembus cat baru.` *(Bab 8)*
+**Benchmark Naskah:** `Di depan toko rempah di sudut persimpangan, sebuah papan kayu bertuliskan *'GARAM PUTIH: PERSEDIAAN TERBATAS'*... Harganya ditulis ulang tiga kali, dua angka lama masih tampak menembus cat baru.` *(Bab 8)*
 
 ---
 
@@ -311,7 +311,7 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 - Diam atau pergi = tanda satu pihak tidak punya jawaban, bukan kesetujuan
 - Terapkan terutama pada: **Vane, Aldric, Haldor, Tobias**
 
-**Benchmark Naskah:** Dialog Kael–Tobias *(Bab 8)*: `"Hanya berbeda dari sisi mana Anda berdiri, Tuan Tobias." / Tobias meletakkan tangannya di grendel. Ia tidak menjawab.`
+**Benchmark Naskah:** Dialog Kael–Tobias *(Bab 8)*: `"Hanya berbeda dari sisi mana Anda berdiri, Tuan Tobias." / Tobias berbalik menuju pintu kayu dan meletakkan tangannya di atas grendel besi. Ia tidak menjawab, hanya menoleh sedikit tanpa memandang mereka langsung.`
 
 ---
 
@@ -330,7 +330,7 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 - Quirk ini harus organik — bukan dekorasi, tapi cerminan karakter (Elora menutup buku sebelum berjalan = orang yang menyelesaikan satu hal sebelum pindah ke berikutnya)
 - Penutup bab boleh menggantung di tengah aksi — tanpa resolusi, tanpa rangkuman
 
-**Benchmark Naskah:** `Sebelum melangkah, ia menutup buku itu lebih dulu, meski tidak ada yang memintanya.` *(Elora, Bab 6)*
+**Benchmark Naskah:** `Elora menutup buku catatan di mejanya sebelum melangkah. Ia selalu menutupnya, bahkan ketika tidak sedang membaca. Kebiasaan itu sudah tertanam sejak puluhan musim menjaga koleksi desa dari debu.` *(Elora, Bab 6)*
 
 ---
 

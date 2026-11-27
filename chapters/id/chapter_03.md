@@ -107,11 +107,13 @@ Pemuda itu berkedip perlahan, tersentak oleh luapan semangat anak laki-laki itu.
 
 "Kael, jangan terlalu dekat!" Mira menarik ujung rompi kulit Kael.
 
-"Aku cuma mau melihat keadaannya, Mira!" Kael menepuk gagang pedang kayunya dengan bangga. "Dengar ya, Kak! Ayahku sekarang memimpin patroli hutan. Dan mulai pagi ini, Ayah melatih kami di lapangan barat. Aku belajar menangkis dan menebas!"
+"Aku cuma mau melihat keadaannya, Mira!" Kael menepuk gagang pedang kayunya dengan bangga.
 
-Kael memamerkan kuda-kudanya. Gerakannya masih mentah, namun sorot matanya menyala penuh tekad.
+Kael memamerkan kuda-kudanya. Gerakannya masih mentah, namun sorot matanya tidak.
 
-"Jadi kau tidak usah cemas lagi! Kakek bilang tugas utamaku menjaga kalian berdua di rumah ini. Monster berapi ungu itu harus melangkahiku dulu sebelum bisa menyentuh bilik ini!"
+"Hei, Kak," seru Kael, "kau tahu siapa yang tidur di luar bilik ini malam ini?"
+
+Ia menunjuk dirinya sendiri dengan ibu jari.
 
 Melihat binar mata anak pemburu itu, sesuatu yang beku di dalam dada sang pemuda perlahan mencair. Di dalam ingatan masa lalunya, manusia selalu memandang wujudnya dengan ketundukan yang kaku atau rasa gentar. Namun dua anak ini... mereka melihatnya semata-mata sebagai seorang penolong yang terluka dan membutuhkan penjagaan.
 
@@ -173,7 +175,7 @@ Di samping dipan Azariel, Mira tertidur bersandar di bangku kayu berkaki tiga, n
 
 Azariel bangkit perlahan dari ranjang. Kakinya yang fana menjejak lantai papan tanpa alas. Ia membungkuk, meraih selimut wol itu dari lantai, lalu menyelimutkannya kembali ke bahu gadis kecil yang telah merawatnya.
 
-Azariel menatap jemarinya sendiri di bawah temaram lentera. Kulit. Darah. Detak jantung. Ia meletakkan telapak tangannya di dada, dan hanya berdiri di sana, mempelajari ritme itu.
+Azariel menatap jemarinya sendiri. Ia meletakkan telapak tangannya di dada.
 
-Ia melangkah ke jendela, menatap ke arah siluet Tebing Pinus di kejauhan. Dahinya berkerut tipis. Ada sesuatu yang menunggu di luar sana, tersembunyi di balik barisan pohon dan pekatnya kegelapan. Ia belum memiliki kata-kata untuk menyebutnya. Ia hanya tahu bahwa sesuatu itu dingin, dan bahwa sesuatu itu mengingatnya.
+Hanya berdiri di sana. Mendengarkan.
 

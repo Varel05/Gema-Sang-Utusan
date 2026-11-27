@@ -70,15 +70,11 @@ Azariel mengulurkan tangan kanannya. Tanpa sarung tangan dan tanpa ragu, ia mene
 
 Seketika itu juga, hawa beku dari luka sang prajurit menyengat telapak tangan Azariel bagai tusukan ribuan jarum es. Namun kebekuan itu hanya bertahan sedetik.
 
-Dari titik pusat di rongga dadanya, bara hangat itu menjawab sengatan dingin tersebut dengan luapan kehangatan yang murni.
+Telapak tangan Azariel menyentuh luka itu.
 
-Pendaran cahaya biru yang begitu murni dan ganjil seketika menyala di bawah permukaan kulit lengan Azariel. Sulur-sulur pembuluh vena yang biasanya gelap kini berkobar terang dalam cahaya biru cerah, menjalar cepat dari pangkal bahunya menuruni lengan bawah hingga ke ujung jemarinya. Udara dingin di sekitar dipan mendadak berdesir hangat, menyebarkan aroma tanah subur yang disiram hujan pertama musim semi.
+Dari celah luka abu di lambung sang prajurit, uap ungu mendesis naik laksana air disiram bara, berbau hangus dan tanah basah sekaligus. Abu hitam di tepi luka rontok satu per satu, perlahan, seperti kerak roti yang terlepas dari panci panas. Sulur ungu di bawah kulit surut mengikutinya.
 
-Dari balik telapak tangan Azariel, lidah-lidah api putih bersemburat biru memancar lembut, menyelimuti seluruh lambung sang prajurit.
-
-*Ssssshh!*
-
-Kepulan uap ungu gelap mendesis liar saat bara putih-kebiruan itu melarutkan kebekuan abu. Butiran-butiran abu hitam pekat terlepas dari tepi luka, terbakar lenyap menjadi debu tipis yang memudar di udara bilik. Urat-urat ungu beracun yang merambat di dada sang prajurit seketika surut dan pecah, dipaksa mundur oleh kehangatan hidup yang mengalir deras dari telapak tangan Azariel.
+Prajurit itu berhenti menggelepar. Napasnya berubah dalam.
 
 Lalu, sebuah sengatan getaran batin merayap masuk ke kesadaran Azariel.
 
@@ -110,7 +106,7 @@ Bran melangkah gesit ke arah pintu bilik. Dengan satu gerakan terlatih, sang pem
 
 Di samping ayahnya, Kael telah berdiri tegak, tangannya mencengkeram gagang pedang dengan napas memburu siaga membentengi Azariel.
 
-"Garrett," suara Bran meluncur rendah, dingin, dan sarat ancaman mematikan seorang prajurit veteran. "Demi darah persaudaraan kita di Garda Utama... apa yang baru saja kau saksikan di bilik ini tidak boleh terdengar oleh siapa pun. Jika kabar tentang apa yang ada di dalam diri anak ini bocor ke istana Kadipaten, seluruh lembah damai ini akan terseret ke dalam perang pembersihan. Bersumpahlah atas kubur leluhurmu, atau kau tidak akan pernah keluar dari ruangan ini hidup-hidup."
+"Garrett," kata Bran. Mata pisaunya tidak bergerak. "Bersumpahlah."
 
 Udara di dalam bilik menegang kaku laksana tali busur yang ditarik maksimal.
 
@@ -162,4 +158,4 @@ Sang Tetua Desa mengangguk pelan seraya menatap ketiga anak asuhnya dengan binar
 
 Di luar jendela bilik, kabut malam perlahan tersapu oleh embusan angin dini hari. Di ufuk timur, bayang-bayang gelap malam mulai menipis, menyisakan waktu yang kian sempit sebelum matahari terbit di atas puncak-pucuk cemara perbatasan.
 
-Waktu bertumbuh dalam rahasia di bawah naungan ara tua telah resmi usai. Fajar keberangkatan mereka telah tiba.
+Di atas dipan jerami, prajurit muda Kadipaten itu bernapas pulas, pipinya berwarna merah muda sekali lagi.

@@ -62,7 +62,7 @@ Desau tawa getir dan keraguan yang lebih keras merebak di antara kerumunan.
 
 "Dengarkan aku!" teriak Kael putus asa. "Satu ayunan tangannya menghancurkan batang pinus sebesar pelukan orang dewasa!"
 
-Vane mengetukkan tongkat perunggunya ke batu dengan bunyi berdentang pelan. "Jika benar ada makhluk seperti itu, ini bukan urusan anak-anak. Dan orang asing berambut putih di dalam sana... siapa yang tahu asal-usulnya? Bisa jadi dia mata-mata atau buronan kadipaten seberang perbatasan yang membawa bencana ke lembah kita. Jika ada bahaya, kita harus segera mengirim kabar ke pos jaga Kadipaten di utara. Biar prajurit bersenjata mereka yang mengurusnya."
+Vane mengetukkan tongkat perunggunya ke batu dengan bunyi berdentang pelan. "Anak laki-laki itu melihat sesuatu di tebing malam ini. Aku tidak meragukan itu, Bran," ujar Vane dengan nada tenang yang lebih menyulut daripada bentakan. "Tapi pertanyaannya bukan *apa* yang ia lihat. Pertanyaannya adalah: mengapa baru sekarang? Tujuh tahun lembah ini damai. Tujuh tahun tidak ada celah yang terbuka, tidak ada karavan yang menghilang. Lalu tiba-tiba malam ini... tepat di tahun ketiga rencana jalan perbatasan baru mulai digodok di istana kadipaten. Kalian tidak menemukan itu terlalu tepat waktunya?"
 
 "Dan menyerahkan desa kita pada pasukan kadipaten yang serakah?" gerutu seorang pandai besi tua.
 
@@ -165,11 +165,11 @@ Di atas pembaringan beralaskan wol tebal, pemuda asing itu terbaring tenang. Mir
 
 Sang tetua mendekat ke sisi pembaringan kayu. Jemarinya yang berurat perlahan menyibak helaian rambut putih berkilau semburat biru yang menutupi dahi sang pemuda.
 
+Matanya yang renta menatap lekat garis simetris wajah, lekuk tulang pipi, dan pendar biru lembut yang samar terpancar dari kulit sang pemuda.
+
 Gerakan tangan sang tetua seketika terhenti.
 
 Napas pria tua itu tercekat.
-
-Matanya yang renta menatap lekat garis simetris wajah, lekuk tulang pipi, dan pendar biru lembut yang samar terpancar dari kulit sang pemuda. Ciri-ciri yang persis seperti yang diuraikan dalam tuturan lisan tertua kaum *The Remnant* tentang rupa Sang Utusan dari masa purba.
 
 Sang kakek menoleh memandang Mira yang memegang jemari pemuda itu dengan penuh kehati-hatian, lalu beralih menatap Kael yang berdiri siaga di samping ranjang. Kedua anak itu memandangnya semata-mata sebagai seorang penolong yang rapuh dan terluka.
 
@@ -197,5 +197,7 @@ Kael dan Mira mengangguk serempak.
 
 Kael mengepalkan tinjunya di sisi paha. Menatap pemuda yang terbaring kaku di atas dipan jerami itu, janji baru terpatri di dadanya: ayahnya akan menjaga rimba di luar, tetapi ia akan menjadi perisai bagi Azariel dan Mira di bilik ini.
 
-Di luar jendela, kabut dini hari perlahan menipis saat fajar pertama mulai menyentuh puncak-pucuk cemara lembah. Namun di balik dinding kayu rumah Tetua, sebuah rahasia purba telah terbangun kembali di tengah kehangatan manusia fana.
+Di luar jendela, kabut dini hari perlahan menipis saat fajar pertama mulai menyentuh puncak-pucuk cemara lembah.
+
+Di dalam bilik yang hangat, pemuda berambut perak itu bernapas dalam tidurnya. Dua anak kecil menontonnya dari tepi ranjang.
 

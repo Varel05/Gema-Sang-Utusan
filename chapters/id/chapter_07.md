@@ -52,7 +52,9 @@ Azariel menarik napas perlahan, meredakan getaran dingin di lengannya. Ia mengge
 
 "Hei, anak muda!" 
 
-Sebuah bentakan tajam memecah kesunyian. Haldor, prajurit pengintai bertubuh kurus dengan mata cekung kelelahan, melompat turun dari kudanya seraya menenteng tombak pendek. Tangannya bergetar di gagang senjata saat memandang bebatuan cadas itu. "Dua kawanku mati di bawah abu celah utara sana!" serunya parau, sorot matanya menatap Azariel dengan kemarahan yang tertahan. "Apakah pemuda ini harus menyentuh setiap batu di jalan ini? Kapten membawa kalian untuk meracik obat penawar, bukan membawa bala di kuburan rekan-rekan kami!"
+Sebuah bentakan tajam memecah kesunyian. Haldor, prajurit pengintai bertubuh kurus dengan mata cekung kelelahan, melompat turun dari kudanya seraya menenteng tombak pendek. Tangannya bergetar di gagang senjata saat memandang bebatuan cadas itu.
+
+"Dua kawanku mati di sana!" seru Haldor. Suaranya lebih tinggi dari yang ia inginkan. "Mereka tidak mati karena pengecut. Mereka mati karena tidak ada yang tahu apa yang sedang mereka lawan." Ia menatap Azariel. "Dan sekarang pemuda ini berjalan ke tengah kuburan itu sambil menyentuh batu-batunya seperti... seperti itu adalah kebun."
 
 Sebelum Haldor melangkah lebih dekat, Kael bergeser satu langkah lebar ke depan. Bahu tegapnya yang berbalut zirah kulit bertulang baja berdiri membentengi Azariel dan Mira. Tangan kanan Kael bertumpu mantap di gagang pedang ayahnya, matanya menatap lurus ke arah prajurit itu tanpa berkedip.
 
@@ -86,13 +88,15 @@ Azariel melangkah perlahan memasuki batas lingkaran. Saat melintasi garis batas 
 
 Azariel berlutut di atas batu cadas. Tangannya terulur menyentuh pucuk salah satu tunas pinus hijau itu dengan bantalan jemari. Kehangatan lembut merayap ke telapak tangannya. Namun, Azariel menyadari bahwa kehangatan itu mulai menipis, diusik oleh embusan angin ngarai yang terus meniupkan debu abu ke tepian lingkaran.
 
-Tanpa ragu, Azariel meletakkan kedua telapak tangannya merapat ke permukaan tanah berbatu di samping tiga tunas itu.
+Tanpa ragu, Azariel meletakkan kedua telapak tangannya ke permukaan tanah berbatu di samping tiga tunas itu.
 
-Bara di dalam dadanya berdenyut pelan. Azariel memusatkan pikirannya, mengalirkan seberkas kehangatan murni dari dalam dirinya menembus celah batu, menguatkan akar-akar tunas pinus tersebut dan menahan batas lingkaran agar tidak runtuh ditelan hawa beku. Tiga tunas hijau itu menegak kian segar di tengah keheningan cadas.
+Tiga tunas itu menegak.
 
-Sebagai gantinya, rasa kebas yang tajam seketika menjalar naik ke pergelangan tangan kanan Azariel. Kulit tangannya kembali memucat kelabu dingin, mengulang rasa lemas yang ia tanggung sejak malam pemurnian di bilik perawatan.
+Rasa kebas yang tajam seketika menjalar naik ke pergelangan tangan kanan Azariel. Kulit tangannya kembali memucat kelabu dingin, mengulang rasa lemas yang ia tanggung sejak malam pemurnian di bilik perawatan.
 
-"Azariel!" bisik Mira tajam seraya berlutut di sampingnya, memegang pergelangan tangan pemuda itu yang kembali kaku. Mata gadis tabib itu berkilat cemas dan kesal. "Mengapa kau selalu mengorbankan dirimu untuk sesuatu yang tidak bisa ikut berjalan bersama kita?"
+"Azariel!" bisik Mira tajam seraya berlutut di sampingnya, memegang pergelangan tangan pemuda itu yang kembali kaku. Mata gadis tabib itu berkilat cemas dan kesal. "Tanganmu lagi."
+
+Ia tidak menambahkan apa pun. Tangannya sudah bergerak memeriksa pergelangan itu.
 
 Azariel menarik tangannya perlahan, menyembunyikannya ke balik lipatan jubah lenannya seraya tersenyum tipis. "Sesuatu yang masih sanggup tumbuh di tanah mati layak diberi kesempatan bernapas, Mira."
 

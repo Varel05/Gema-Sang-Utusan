@@ -25,7 +25,7 @@ Kapten Garrett menarik tali kekang kuda hitamnya di punggung bukit. Di belakangn
 
 Rombongan menuruni lereng menuju jalan lingkar luar. Melewati pos barikade kayu terluar, keriuhan kota menelan mereka seketika. Jalan raya kota bawah beralaskan batu sungai licin yang digerus roda gerobak selama berabad-abad. Udara berbau tajam jelaga bengkel tempa, kotoran kuda, rebusan kubis asam, serta lemak kambing dari kedai-kedai murah. Pandai besi memukul paron hingga memercikkan bunga api, pedagang meneriakkan harga gandum, dan kusir pedati melecutkan cemeti membubarkan anjing jalanan. Bagi rakyat Leovard, ini pagi biasa yang dipenuhi urusan perut dan perak. Tidak ada yang menyadari kengerian yang baru saja mengubur celah utara dalam abu beku.
 
-Di depan toko rempah di sudut persimpangan, sebuah papan kayu bertuliskan *'GARAM PUTIH — PERSEDIAAN TERBATAS'* tergantung di bawah papan nama usaha yang lebih tua. Harganya ditulis ulang tiga kali, dua angka lama masih tampak menembus cat baru.
+Di depan toko rempah di sudut persimpangan, sebuah papan kayu bertuliskan *'GARAM PUTIH: PERSEDIAAN TERBATAS'* tergantung di bawah papan nama usaha yang lebih tua. Harganya ditulis ulang tiga kali, dua angka lama masih tampak menembus cat baru.
 
 Garrett memandang orang-orang pasar itu dengan dada berdenyut getir. Di kantong pelana terdalam kudanya, sepatu kulit kecil milik anak pedagang garam masih tersimpan dingin. Berapa banyak dari mereka yang akan bertahan jika kabut ungu itu merembes menuruni tebing dan menyapu kota bawah sebelum prajurit benteng sempat menarik tuas pintu besi?
 
@@ -67,7 +67,7 @@ Lantai lorong sayap barat licin oleh kelembapan udara bawah tanah. Dinding batun
 
 Garrett pergi bersama seorang perwira jaga untuk mengurus izin masuk, meninggalkan Kael, Mira, dan Azariel di sebuah ruang tunggu batu beratap lengkung. Dua prajurit penjaga berdiri tegak di luar ambang pintu dengan tombak terhunus, mengawasi mereka layaknya tawanan perang.
 
-Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya berulang kali meraba pinggangnya yang kosong, mencari hulu pedang yang biasa menemaninya. Rasa kehilangan itu membuatnya gelisah. Selama tujuh musim ia ditempa oleh ayahnya di perbukitan, dan bilah pusaka yang baru beberapa hari diserahkan kepadanya itu telah menjadi pelindung sekaligus bagian dari dirinya. Kini, terkurung di dalam dinding batu asing tanpa sebilah belati pun.
+Kael duduk di bangku kayu panjang yang kasar, punggungnya tegak lurus. Tangan kirinya berulang kali meraba pinggangnya yang kosong, mencari hulu pedang yang biasa menemaninya. Rasa kehilangan itu membuatnya gelisah. Selama tujuh musim ia ditempa oleh ayahnya di perbukitan, dan bilah pusaka yang baru beberapa hari diserahkan kepadanya itu telah menjadi pelindung sekaligus bagian dari dirinya. Kini ia terkurung di dalam dinding batu asing tanpa sebilah belati pun.
 
 Ibunya dahulu hanya pernah bercerita samar bahwa Bran pernah menjadi prajurit di kadipaten ini sebelum memilih hidup damai di perbatasan. Namun melihat keangkuhan para penjaga dan pengapnya lorong-lorong ini, Kael tidak habis pikir bagaimana ayahnya bisa bertahan bertahun-tahun di lingkungan dinas seperti ini.
 
@@ -135,9 +135,7 @@ Mira melangkah maju sedikit, suaranya teratur dan hati-hati. "Mengapa Anda memba
 
 "Hanya berbeda dari sisi mana Anda berdiri, Tuan Tobias."
 
-Tobias meletakkan tangannya di grendel. Ia tidak menjawab.
-
-Tobias berbalik menuju pintu kayu, meletakkan tangannya di atas grendel besi. Ia menoleh sedikit tanpa memandang mereka langsung.
+Tobias berbalik menuju pintu kayu dan meletakkan tangannya di atas grendel besi. Ia tidak menjawab, hanya menoleh sedikit tanpa memandang mereka langsung.
 
 "Pintu sayap samping ini tidak terkunci sampai lonceng tengah hari," bisik Tobias seraya melepaskan grendel. "Hiruplah udara di halaman tengah jika kalian tidak ingin mati lemas di ruangan ini. Dan ingat, aku tidak pernah mengatakan apa pun kepada kalian."
 

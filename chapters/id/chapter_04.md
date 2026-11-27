@@ -22,7 +22,11 @@ Di balik naungan akar banir itulah, Azariel duduk bersandar.
 
 Jemarinya yang dahulu kaku kini membalik lembaran perkamen tipis bersampul kulit kusam dengan kehati-hatian yang terlatih. Buku catatan harian tua itu merangkum surat-surat pribadi dan renungan seorang pengelana fana tentang arti kerinduan dan kepulangan. Rambut putih peraknya yang bersemburat biru muda di tiap ujung terselubung oleh tudung kain lenan cokelat sederhana, penyamaran yang selalu ia kenakan atas pesan sang Tetua Desa agar pedagang luar yang sesekali melintas hanya mengenalnya sebagai anak angkat keluarga tetua yang pendiam.
 
-Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesuatu yang ganjil bergetar samar di bawah telapak tangannya. Pohon ara purba dengan akar yang menghujam puluhan depa ke jantung bumi perbatasan itu tampaknya tengah menangkap gangguan asing yang merambat di bawah tanah. Denyutan dingin yang ganjil dan merusak merayap melalui serat-serat kayu tua, sebuah tanda bahaya alami yang seketika beresonansi dengan bara hening di rongga dada Azariel.
+Ketika telapak tangan Azariel menyentuh permukaan urat kayu ara yang kasar, sesuatu bergetar di dalam dadanya.
+
+Ia melepaskan tangannya. Menatap telapaknya sejenak.
+
+Lalu meletakkannya kembali ke kayu.
 
 Azariel terdiam sejenak, mengamati urat kayu itu sebelum suara derap langkah memecah keheningan ladang.
 
@@ -142,6 +146,8 @@ Ketika Azariel, Kael, dan Mira berpamitan kepada Elora dan melangkah keluar menu
 
 Namun keheningan sore yang damai itu seketika koyak.
 
+Di los pasar seberang, seorang perempuan tua sedang menimbang tomat dengan teliti, membantah angka di neraca milik si pedagang dengan suara berdecak. Anjing kuning tua milik pandai besi berdiri di ambang bengkel dengan kaki depannya naik-naik, menggonggong ke arah lalat.
+
 Dari arah kelokan jalan utama di utara desa, debum ritmis kuku-kuku besi yang dipacu tanpa ampun menggemuruh keras, memecah kesunyian lembah. Suara teriakan panik dan derap tapal kuda melaju liar menuju permukiman.
 
 Kael seketika menghentikan langkahnya di bawah naungan pohon ek, tangannya secara naluriah mencengkeram erat gagang pedang di pinggangnya. "Derap kuda perang? Dari pos jaga perbatasan?"
@@ -154,7 +160,7 @@ Bau batu terbakar dan abu mati, aroma tajam kehampaan yang teramat ia kenali dar
 
 "Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
-Di atas kuda terdepan, Kapten Garrett, perwira berwajah tirus dengan cambang kelabu dan pelindung leher yang miring, merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya dengan kepala terayun lemas seiring derap kuda, nyaris tergelincir jatuh seandainya lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak. Dari balik kain koyak itu, mengepul uap putih tipis yang beku ke udara siang yang hangat.
+Di atas kuda terdepan, Kapten Garrett mengangkat pandangannya dari tubuh prajurit yang ia topang, hanya sekilas, ke arah kanopi pohon ara yang rimbun di ujung jalan. Sesuatu di wajahnya berubah selama sekejap itu sebelum ia kembali berteriak perintah. Perwira berwajah tirus dengan cambang kelabu dan pelindung leher yang miring itu merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya dengan kepala terayun lemas seiring derap kuda, nyaris tergelincir jatuh seandainya lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak. Dari balik kain koyak itu, mengepul uap putih tipis yang beku ke udara siang yang hangat.
 
 "Mira!" seru Bran saat melihat gadis tabib itu berdiri siaga di tepi jalan bersama putranya dan Azariel. "Buka bilik perawatan kakekmu! Kami membawa orang terluka yang sekarat!"
 

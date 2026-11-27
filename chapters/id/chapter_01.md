@@ -100,7 +100,7 @@ Di sisi Mira, Kael tersentak. Senyum lebar yang tadi masih tergelar di wajah sah
 
 "Mira... berdiri. Berdiri di belakangku," bisik Kael. Suaranya tercekat kaku, tawa cerianya lenyap tanpa sisa.
 
-"Kael... dingin sekali..." bisik Mira, tubuhnya menggigil hebat saat hawa asing itu mencekik tenggorokannya.
+"Kael..." bisik Mira. Tidak ada kata berikutnya. Giginya beradu.
 
 Dari balik kabut kelabu di antara dua pohon pinus raksasa, sesuatu melangkah keluar.
 
@@ -142,7 +142,7 @@ Di sisinya, Mira terpaku membisu. Bukan karena ngeri, melainkan oleh takjub yang
 
 Hawa dingin kehampaan yang dibawa monster itu tersapu oleh gelombang hangat yang mengembang dari api putih-kebiruan tersebut.
 
-Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, percikan-percikan cahaya memadat dengan cepat, membentuk garis bahu, lengan, hingga sosok utuh raga seorang pemuda.
+Bola-bola api itu membumbung ke udara lalu berpusar kencang di antara kedua anak itu dan sang monster. Cahaya putih berselubung biru menerangi seluruh puncak Tebing Pinus layaknya fajar mendadak di tengah malam. Dari pusaran bola api itulah, seorang pemuda berdiri. Ia sudah ada di sana sebelum mata mereka sempat mengikuti cahaya yang membentuknya.
 
 Cahaya menyilaukan itu mereda dalam satu hembusan angin hangat.
 
@@ -182,9 +182,7 @@ Di tengah kesenyapan tebing dan getaran tangis yang meraba telinganya, jemari pe
 
 "...Mi... ra..."
 
-Napas Mira tercekat. Seluruh tubuhnya tersentak haru mendengar namanya sendiri meluncur dari bibir pria asing itu. Suara itu serak dan hampir tenggelam oleh angin malam, namun memberi kehangatan yang mengusir dingin di dadanya.
+"Iya... aku di sini," bisik Mira. Tangannya menemukan tangan pemuda itu di atas batu cadas.
 
-"Iya... aku di sini," bisik Mira seraya menggenggam erat telapak tangan dingin pemuda itu dengan kedua tangannya. "Namaku Mira. Bertahanlah... kumohon, tetaplah bernapas..."
-
-Kelopak mata pemuda itu kembali terpejam rapat saat raganya tergelincir kembali ke dalam ketidaksadaran yang dalam. Namun jemarinya yang dingin tetap bertaut di dalam genggaman tangan Mira, di bawah kubah langit Tebing Pinus yang kembali sunyi.
+Pemuda itu tidak menjawab lagi. Namun jemarinya yang dingin tetap bertaut di dalam genggaman Mira, di bawah kubah langit Tebing Pinus yang kembali sunyi.
 

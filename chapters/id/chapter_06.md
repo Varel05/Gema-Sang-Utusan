@@ -57,6 +57,8 @@ Sebuah derit lembut di ambang pintu bilik mengalihkan perhatian mereka.
 
 Elora berdiri di sana, gaun biru pudarnya tersapu temaram lentera. Di tangannya, sang ibu mendekap selembar mantel wol tebal berwarna kelabu berkerudung lebar, serta sebuah bungkusan kain lenan berisi roti gandum padat dan dendeng kering. Namun jemarinya mencengkeram kain mantel itu begitu erat, menolak untuk langsung melepaskannya.
 
+Elora menutup buku catatan di mejanya sebelum melangkah. Ia selalu menutupnya, bahkan ketika tidak sedang membaca. Kebiasaan itu sudah tertanam sejak puluhan musim menjaga koleksi desa dari debu. Tangannya menempel sebentar di sampul kulit itu. Lalu ia melepaskannya dan menatap putranya.
+
 Mata Elora berkaca-kaca, bukan semata oleh haru, melainkan oleh kepedihan mendalam yang bertahun-tahun ia simpan rapat. Pandangan wanita itu terangkat melewati pundak Kael, menatap lurus ke arah Bran yang berdiri kaku di samping perapian.
 
 "Tujuh musim kau mengajarinya memegang pedang, Bran," ucap Elora, suaranya tercekat menahan getaran amarah seorang ibu. "Dan sekarang... kau memasangkan zirah besi itu ke tubuhnya. Katakan padaku, Bran... untuk apa? Agar anakmu mati di celah batu utara seperti kawan-kawanmu dahulu?"
@@ -129,11 +131,13 @@ Azariel memandang perwira tua itu dengan mata jernih tanpa cela. "Tubuhnya berha
 
 Garrett menghela napas panjang dan berat. Pandangannya menunduk menatap kedua telapak tangannya yang kapalan dan berparut luka, tangan yang telah memegang pedang komando selama puluhan tahun menjaga kadipaten.
 
-"Pedang baja kami tidak ada artinya di celah utara sana, Nak," tutur Garrett parau, suaranya bergetar menahan frustrasi yang telah lama menghimpit dadanya. "Tiga puluh musim aku berdinas di Garda Utama Leovard. Kami dilatih untuk mematahkan formasi tombak musuh, menunggang kuda menembus hujan panah, dan menangkis serangan prajurit Kadipaten Morvath. Namun bagaimana kau melawan kabut dingin yang merayap tanpa wujud? Bagaimana pasukanku bisa bertahan saat senjata besi kami hancur laksana ranting lapuk di hadapan cakar makhluk-makhluk terkutuk itu?"
+"Prajuritku yang masih hidup sudah tidak mau tidur sendirian," ujar Garrett tiba-tiba, tanpa pendahuluan. "Tiga puluh musim aku memimpin garda, belum pernah kulihat hal seperti itu. Prajurit yang tidak mau tidur sendirian."
+
+Garrett menggelengkan kepalanya getir, lalu meludah ke tanah basah. "Kabut ungu itu... bukan seperti musuh biasa. Musuh biasa bisa diincar."
 
 Garrett menggelengkan kepalanya getir. Giginya bergemeletuk menahan amarah terhadap ketakberdayaannya sendiri.
 
-"Di istana Kadipaten Leovard, para dewan penasihat dan bangsawan hanya memperdebatkan peta perbatasan, pajak perdagangan karavan, dan perebutan pengaruh takhta. Mereka bicara seolah perang hanyalah barisan angka di atas gulungan perkamen," lanjut Garrett seraya meludah ke tanah basah. "Aku muak dengan semua intrik politik itu."
+"Di istana Kadipaten Leovard, para dewan penasihat dan bangsawan hanya memperdebatkan peta perbatasan, pajak perdagangan karavan, dan perebutan pengaruh takhta. Mereka bicara seolah perang hanyalah barisan angka di atas gulungan perkamen," lanjut Garrett. "Aku muak dengan semua intrik politik itu."
 
 Perwira tua itu mendongak, menatap ke arah siluet puncak-puncak gunung utara yang kelam. Matanya memerah, menampakkan kepedihan seorang manusia yang mencintai tanah kelahirannya.
 
@@ -195,4 +199,6 @@ Kuda hitam Garrett melangkah keluar memimpin jalan, disusul oleh derap langkah m
 
 Di belakang punggung mereka, pintu gerbang kayu perbatasan perlahan menutup kembali dengan satu dentuman berat yang mengunci keheningan lembah.
 
-Di hadapan mereka, matahari pagi mulai menyinari jalan setapak berbatu yang mendaki curam menuju bayang-bayang tebing cadas utara. Deru angin gunung menyibak ujung mantel wol mereka, sementara debu jalanan mengepul di bawah derap kuku besi kuda perang. Jauh di belakang, atap-atap kayu dan kanopi pohon ara tua di lembah perbatasan perlahan tenggelam, ditelan oleh pekatnya kabut cemara yang menutup jalan pulang.
+Di hadapan mereka, matahari pagi mulai menyinari jalan setapak berbatu yang mendaki curam menuju bayang-bayang tebing cadas utara. Deru angin gunung menyibak ujung mantel wol mereka, sementara debu jalanan mengepul di bawah derap kuku besi kuda perang. Jauh di belakang, atap-atap kayu dan kanopi pohon ara tua di lembah perbatasan perlahan tenggelam ke dalam kabut cemara.
+
+Kael tidak menoleh.
