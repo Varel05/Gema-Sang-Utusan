@@ -54,7 +54,9 @@ Azariel drew a slow breath, willing the cold tremor in his arm to still. He offe
 
 "Hey, boy!"
 
-A harsh rasp cut through the quiet. Haldor, the lean scout with hollow, sleep-deprived eyes, dismounted with a short lance in hand, his knuckles whitening on the shaft as his hands trembled with bottled fury. "Two of my squad died beneath the ash of that northern pass!" he rasped, his eyes flashing with bitter grief. "Must this hooded youth lay hands upon every cursed stone on this road? The Captain brought you along to brew remedies, not to court ill fortune over the graves of our comrades!"
+A harsh rasp cut through the quiet. Haldor, the lean scout with hollow, sleep-deprived eyes, dismounted with a short lance in hand, his knuckles whitening on the shaft as his hands trembled.
+
+"Two of my men died up there!" Haldor shouted. His voice cracked higher than he meant it to. "They didn't die like cowards. They died because nobody knew what they were fighting." He fixed his stare on Azariel. "And now this boy strolls right across their grave touching the stones like... like it's a kitchen garden."
 
 Before Haldor could take another step toward Azariel, Kael crossed the space in a single stride. His broad shoulders, clad in the reinforced cuirass of his father, planted themselves like a bulwark before Azariel and Mira. Kael’s right hand rested firm upon the brass crossguard at his hip, his dark brown eyes fixing the scout in an unblinking stare.
 
@@ -90,11 +92,13 @@ He knelt upon the stone, gently touching the tip of a green needle with the pad 
 
 Without hesitation, Azariel pressed both palms flat against the flinty earth beside the three shoots.
 
-The living ember in his breast stirred with a gentle thrum. Azariel focused his will, sending a steady pulse of pure warmth deep into the fissure, anchoring the fragile roots and reinforcing the ring against the encroaching chill. The three shoots stood tall and vibrant in the stillness of the crags.
+The three shoots straightened.
 
-In return, a sharp numbness rushed up Azariel’s right forearm. His skin drained of color once more, turning a stiff, ash-pale grey that echoed the physical toll he had borne since the night of the healing.
+A sharp numbness rushed up Azariel’s right wrist. His skin drained of color once more, turning a stiff, ash-pale grey that echoed the physical toll he had borne since the night of the healing.
 
-"Azariel!" Mira whispered sharply, dropping to her knees beside him and seizing his frozen wrist. Her eyes flared with anxious frustration. "Why must you always bleed yourself for what cannot walk with us?"
+"Azariel!" Mira whispered sharply, dropping to her knees beside him and seizing his frozen wrist. Her eyes flared with anxious frustration. "Your hand again."
+
+She added nothing else. Her fingers were already moving along his wrist.
 
 Azariel slowly withdrew his hand, concealing it beneath the folds of his linen mantle with a faint smile. "What still has the strength to grow in dead soil deserves the chance to draw breath, Mira."
 

@@ -57,6 +57,8 @@ A soft creak at the chamber doorway drew their gaze.
 
 Elora stood there, the faded blue of her gown catching the dim glow of the hearth. In her arms she cradled a thick traveling cloak of grey wool with a deep cowl, alongside a linen parcel packed with dense wheat bread and dried venison. Yet her fingers gripped the heavy wool fiercely, refusing to release it at once.
 
+Elora closed the ledger on her table before taking a step. She always shut it, even when she had not been reading. It was a habit worn deep across decades of keeping valley dust off the village pages. Her hand lingered for a heartbeat on the leather cover. Then she let go and looked at her son.
+
 Tears glistened in Elora’s eyes, born not merely of tender sentiment, but of a mother's profound sorrow kept silent for all these seasons. Her gaze rose above Kael’s armored shoulder, fixing squarely upon Bran, who stood rigid beside the hearthstones.
 
 "Seven seasons you drilled him with the blade, Bran," Elora spoke, her voice strained against the trembling fury of a mother's grief. "And now... you buckle cold iron across his chest. Tell me, Bran... for what? So our only boy can bleed out on some northern crag like your comrades of old?"
@@ -129,11 +131,13 @@ Azariel met the captain's gaze with tranquil stillness. "His life had the right 
 
 Garrett drew a long, heavy breath. He looked down at his own calloused hands, hands that had gripped command hilts for thirty turnings of the seasons in defense of the realm.
 
-"Our steel was worthless in that northern gorge, lad," Garrett whispered, his voice trembling under a frustration that had long festered in his marrow. "Thirty summers I have marched with the Vanguard of Leovard. We were forged to shatter enemy spear walls, charge through hailstorms of arrows, and match blades with the knights of Morvath. But how do you raise a shield against a creeping frost that has no shape? How could my men stand when our iron shattered like dry boughs beneath the talons of those cursed horrors?"
+"The men I have left won't sleep alone anymore," Garrett said abruptly, without preamble. "Thirty seasons I've led the Guard, and I have never seen the like. Soldiers refusing to sleep alone."
 
-Garrett shook his head bitterly, his teeth grinding against his own helplessness.
+Garrett gave a bitter shake of his head and spat onto the damp turf. "That violet mist... it isn't like an ordinary foe. An ordinary foe you can aim at."
 
-"In the ducal palace of Leovard, the lords and councilors bicker over border markers, grain levies, and royal alliances. They speak of war as though it were columns of ink upon sheepskin," Garrett spat upon the damp turf. "I am sick unto death of their politics."
+His jaw ground against his own helplessness.
+
+"In the ducal palace of Leovard, the lords and councilors bicker over border markers, grain levies, and royal alliances. They speak of war as though it were columns of ink upon sheepskin," Garrett went on. "I am sick unto death of their politics."
 
 The veteran captain lifted his face toward the dark silhouette of the northern crags. His bloodshot eyes carried the profound sorrow of a man who loved his homeland far beyond its banners.
 
@@ -195,4 +199,6 @@ Garrett’s warhorse surged forward to take the lead, flanked by the steady stri
 
 Behind them, the massive timber doors of the palisade swung shut with a heavy, final reverberation that locked the quiet valley behind them.
 
-Ahead of them, the morning sun broke across the winding stone path ascending steeply toward the shadows of the northern gorge. The mountain wind whipped the hems of their wool cloaks, while road dust billowed beneath the iron-shod hooves of the warhorses. Far behind, the timber gables and the boughs of the old fig tree within the border valley slowly sank away, swallowed by the rising wall of pines that sealed the path home.
+Ahead of them, the morning sun broke across the winding stone path ascending steeply toward the shadows of the northern gorge. The mountain wind whipped the hems of their wool cloaks, while road dust billowed beneath the iron-shod hooves of the warhorses. Far behind, the timber gables and the boughs of the old fig tree within the border valley slowly sank into the pine mist.
+
+Kael did not look back.

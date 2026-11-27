@@ -60,7 +60,7 @@ A louder rumble of uneasy scoffing and disbelief rolled across the assembly.
 
 "Just listen to me!" Kael yelled in desperate frustration. "With one swing of its arm, it smashed a pine trunk as thick as a grown man's chest!"
 
-Vane brought his bronze-tipped cane down against the cobbles with a sharp, echoing tap. "If such a monstrosity truly exists, this is no matter for children. And that white-haired stranger within... who knows what he is? He could be a spy or a fugitive from across the border, bringing foreign ruin upon our heads. If real danger stalks our ridges, we must send an urgent dispatch to the northern outpost of the Duchy. Let their men-at-arms handle it."
+Vane brought his bronze-tipped cane down against the cobbles with a sharp, echoing tap. "The boy saw something upon the cliffs tonight. I do not doubt that, Bran," Vane said in a measured tone that kindled more tension than a shout. "Yet the question is not *what* he saw. The question is why now. Seven years this valley has known peace. Seven years without a breach opening, without a caravan vanishing. And suddenly tonight, in the very third year that talks of a new border road began in the Duke's court. Do none of you find the timing a shade too neat?"
 
 "And surrender our harvest and peace to the Duke's greedy garrisons?" grumbled an old blacksmith.
 
@@ -163,11 +163,11 @@ Upon a low cot laid with thick wool, the stranger rested peacefully. Mira sat at
 
 The Elder approached the timber frame. With trembling, vein-corded fingers, he gently brushed back the lock of shimmering silver-white hair that veiled the young man's brow.
 
+His rheumy eyes studied the symmetrical planes of the face, the high arch of the cheekbones, and the faint, living blue glow suffusing the youth's pale flesh.
+
 The old man’s hand froze in midair.
 
 His breath caught sharply in his throat.
-
-His rheumy eyes widened as he studied the symmetrical planes of the face, the high arch of the cheekbones, and the faint, living blue glow suffusing the youth's pale flesh. These were the exact hallmarks recorded in the oldest oral recitations of *The Remnant*—the likeness of the Envoy from the dawn of creation.
 
 The old man turned to glance at Mira, who held the stranger’s hand with such tender devotion, then looked to Kael standing sentinel by the door. To both children, this was simply a brave, broken boy who had bled to keep them safe.
 
@@ -195,4 +195,6 @@ Kael and Mira nodded in unison.
 
 Kael clenched his fists at his sides. Gazing down at the pale youth resting upon the straw mattress, a solemn vow etched itself into the boy's spirit: his father would hold the dark rimba outside, but he would stand as the shield for Azariel and Mira within these walls.
 
-Beyond the window lattice, the morning mist began to part as the first amber rays of dawn kissed the cedar tops of the valley. Yet behind the sturdy timber walls of the Elder's house, an ancient secret had awakened once more, cradled within the fragile warmth of mortal hands.
+Beyond the window lattice, the morning mist began to part as the first amber rays of dawn touched the cedar tops of the valley.
+
+Within the warm chamber, the silver-haired youth breathed softly in his sleep. Two small children watched over him from the edge of the cot.

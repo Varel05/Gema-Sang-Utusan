@@ -70,15 +70,11 @@ Azariel extended his bare right hand. Without glove and without hesitation, he l
 
 Instantly, the freezing void within the wound struck Azariel's skin like a thousand needles of ice. Yet the chill lasted only a fraction of a heartbeat.
 
-From the deepest core of his chest, the quiet ember answered that icy strike with a surge of unyielding warmth.
+Azariel's palm rested upon the wound.
 
-A luminous glow of pure, unearthly azure suddenly flared beneath the skin of Azariel's arm. The deep-set veins that normally lay dark and dormant suddenly ignited in radiant, crystal-blue light, coursing rapidly from his shoulder down his forearm into his fingertips. The freezing air surrounding the cot dissolved in a sudden, fragrant breeze, carrying the rich scent of fertile soil awakened by spring rain.
+From the cleft of grey ash along the soldier's flank, violet steam hissed upward like water splashed across live coals, carrying the stench of scorched stone and rain-soaked loam at once. Flecks of black ash peeled away from the rim one by one, slowly, like crusted soot flaking off a hot iron kettle. The purple veins beneath the pale skin drew back in their wake.
 
-From beneath Azariel's palm, ribbons of white fire veiled in brilliant blue spilled forth, enveloping the soldier’s withered flank.
-
-*Hiiisssss!*
-
-A thick plume of dark purple mist shrieked as the white-blue fire dissolved the creeping frost. Motes of blackened ash detached from the rim of the wound, disintegrating into faint dust that melted away into the air. The venomous violet veins branching across the youth’s chest snapped and retreated, forced back by the surge of living warmth pouring from Azariel’s hand.
+The soldier stopped thrashing. His breathing deepened.
 
 And then, an unseen resonance struck Azariel’s consciousness.
 
@@ -110,7 +106,7 @@ Bran moved with the lethal speed of a veteran warden. In a single sweep, the hun
 
 At his father’s flank, Kael braced his footing, his fingers clamped white-knuckled around the hilt of his broadsword, his breath ragged as he shielded Azariel from view.
 
-"Garrett," Bran’s voice rasped low, cold, and heavy with the promise of blood. "By the brotherhood we shared in the High Guard... what you have witnessed in this room never leaves your lips. If word of what lives inside this boy reaches the halls of the Duke, this entire valley will be drowned in a war of purge. Swear it upon the dust of your ancestors, or you will not walk from this room alive."
+"Garrett," Bran said. The point of his dagger did not move. "Swear it."
 
 The tension in the chamber turned taut as a drawn longbow.
 
@@ -162,4 +158,4 @@ The Village Elder nodded slowly, looking upon the three young souls with eyes gl
 
 Beyond the timber window, the heavy veil of night slowly gave way to the chill breath of early dawn. Upon the eastern rim, the shadows thinned, leaving only precious little time before sunrise broke across the jagged pine ridges.
 
-The seven seasons of growing in secret beneath the old fig tree had drawn to a close. The dawn of their departure had arrived.
+Upon the straw cot, the young Leovard guardsman slept soundly, color blooming pink across his cheeks once more.

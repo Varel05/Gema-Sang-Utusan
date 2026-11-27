@@ -25,6 +25,8 @@ Captain Garrett pulled back on the reins of his black warhorse upon the stony ri
 
 They descended the slope toward the outer ring road. Passing the outer timber barbican, the roar of the city swallowed them whole. The lower city's thoroughfare was paved with river stones worn slick by centuries of cartwheels. The air hung thick with the sharp stench of smithy soot, horse droppings, sour boiled cabbage, and mutton fat from cheap cookhouses. Blacksmiths hammered anvils into showers of sparks, grain merchants shouted prices over sacks of wheat, and draymen cracked whips to scatter street curs. For the common folk of Leovard, it was merely another morning driven by coin and bread. Not a single soul among them had any inkling of the horror that had just smothered the northern pass in frozen ash.
 
+Outside a spice shop at the corner crossroads, a wooden board reading *'WHITE SALT: LIMITED STOCK'* hung beneath an older tradesman's signboard. The price had been painted over three times; two old figures still showed dimly through the fresh coat.
+
 Garrett watched those oblivious faces with a bitter ache in his chest. Deep within his saddlebag, the small leather shoe of the salt merchant's child still lay tucked away, cold and still. How many of them would survive if that violet mist spilled down the mountain cliffs and swept the lower ward before the castle gate could drop its iron grate?
 
 The company crossed the arched stone bridge spanning the inner moat. Before them rose the grand portal of the ducal citadel: a cavernous archway of black granite beneath a four-tiered watchtower. Carved deep into the keystone above the arch was the heraldry of Leovard, a winged lion clasping an upright broadsword. Suspended beneath it hung a portcullis weighing thousands of stones, poised to drop at the release of an iron lever.
@@ -65,7 +67,7 @@ The flags of the west corridor were slick with subterranean damp. Thick, cold ma
 
 Garrett had departed down the hall alongside a duty officer to untangle their entry permits, leaving Kael, Mira, and Azariel seated in a vaulted stone alcove near the courtyard portal. Two sentries stood at attention outside the archway, halberds upright, watching them like prisoners under open arrest.
 
-Kael sat stiffly upon a bench of rough-hewn oak. His left hand repeatedly brushed against his empty hip, searching for the familiar hilt that had accompanied his stride. The void unnerved him. For seven seasons, Bran had forged him in the hills, and the heirloom blade placed in his hands only days ago had already become his shield and part of his very self. Unarmed inside foreign stone walls, he felt stripped of his footing.
+Kael sat stiffly upon a bench of rough-hewn oak. His left hand repeatedly brushed against his empty hip, searching for the familiar hilt that had accompanied his stride. The void unnerved him. For seven seasons, Bran had forged him in the hills, and the heirloom blade placed in his hands only days ago had already become his shield and part of his very self. Now he sat caged within foreign stone walls without even a dagger at his side.
 
 His mother had once spoken in passing that Bran had served as a soldier in this realm before choosing peace in the valley. Yet looking at the insolent guards and the stifling stone vaults, Kael could not fathom how his father had endured years in such a service.
 
@@ -127,9 +129,13 @@ Mira stepped forward a pace, her tone measured and wary. "Why are you helping us
 
 "Because the Treasury seeks to muzzle your captain with paper snares," Tobias said quietly. "Chancellor Aldric is extraordinarily adept at using ancient protocols to purge whoever threatens his sway. I need Garrett's testimony before His Grace the Duke before Aldric succeeds in barring the council chamber."
 
-Kael looked down at the brass key ring hanging at Tobias's waist, watching the score of notched keys without interrupting.
+"So you need Captain Garrett to break Aldric," Kael said. "And you need us to make sure Garrett doesn't come home empty-handed."
 
-Tobias turned toward the door, resting a gaunt hand upon the iron latch. He glanced back, without looking at them directly.
+"You need one another," Tobias corrected coldly. "That is different."
+
+"Only depending on which side of the table you're standing on, Master Tobias."
+
+Tobias turned toward the door and rested a gaunt hand upon the iron latch. He did not answer, only glancing back without looking at them directly.
 
 "The side portal to the yard remains unbolted until the noon bell," Tobias whispered as he released the catch. "Take the air in the courtyard if you have no wish to suffocate in this vault. And remember, I have said nothing to you."
 
@@ -225,4 +231,4 @@ That night, for the very first time, his fingers stopped mid-motion. He did not 
 
 Outside the window, the night wind surged across the slate roofs. In the silent courtyard below, the iron lantern above the treasury doors flickered once, its flame bowing hard against the gale before righting itself, burning steady, rigid, and cold against the black granite stone.
 
-Kael watched that pale flame for a quiet moment, then drew the rough woolen curtain shut, sealing out the night.
+Kael watched that pale flame for a moment, then drew the curtain.

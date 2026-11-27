@@ -100,7 +100,7 @@ Beside her, Kael went rigid. The easy grin that had brightened his face vanished
 
 "Mira... get up. Get behind me," Kael breathed. His voice was taut and trembling, stripped clean of boyish warmth.
 
-"Kael... it's so cold..." Mira shivered violently as the alien draft gripped her chest.
+"Kael..." Mira whispered. No other word followed. Her teeth chattered.
 
 From the swirling grey fog between two colossal pines, something stepped into the open.
 
@@ -142,7 +142,7 @@ Mira, at his side, had gone completely still. Not the stillness of terror—the 
 
 The hollow, freezing aura of the beast was instantly repelled by a wave of living warmth rolling off the white-blue fire.
 
-The fiery orbs soared upward, then converged, spiraling violently between the children and the monster. The radiant white-blue glare bathed the entire summit of Pine Cliff in midday brilliance amidst the dead of night. Within the heart of that swirling vortex, shimmering motes of light condensed with astonishing speed—knitting together the shoulders, limbs, and form of a living youth.
+The fiery orbs soared upward, then converged, spiraling violently between the children and the monster. The radiant white-blue glare bathed the entire summit of Pine Cliff in midday brilliance amidst the dead of night. Within the heart of that swirling vortex, a youth stood. He was already there before their eyes could follow the light that shaped him.
 
 The blinding radiance settled into a single, warm exhalation of mountain wind.
 
@@ -182,8 +182,6 @@ Amidst the stillness of the crags and the gentle tremble of her voice against hi
 
 "...Mi... ra..."
 
-Mira’s breath caught in her throat. Her entire heart trembled to hear her own name spoken by the stranger's lips. The voice was raspy, nearly swallowed by the night wind, yet it carried a profound warmth that banished the chill from her chest.
+"I'm here... I'm right here," Mira whispered. Her hand found his upon the granite stone.
 
-"I'm here... I'm right here," Mira whispered, taking his cold hand between both of hers. "My name is Mira. Hold on... please, just keep breathing..."
-
-The youth's eyes drifted shut once more as his consciousness slipped back into the quiet depths of exhaustion. Yet his cold fingers remained intertwined within Mira's grasp, beneath the silent vault of Pine Cliff, where the night had finally found its peace.
+The youth did not answer again. Yet his cold fingers remained intertwined within Mira's grasp, beneath the silent vault of Pine Cliff.

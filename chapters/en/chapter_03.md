@@ -108,11 +108,13 @@ Azariel blinked slowly, overwhelmed by the torrent of boyish vitality.
 
 "Kael, give him some room!" Mira tugged at the hem of Kael’s hunting vest.
 
-"I just wanted to see how he was doing, Mira!" Kael tapped the hilt of his wooden sword with immense pride. "Listen to me, brother! My father's in command of the border watch now. And starting this morning, he's drilling us in the western paddock. I'm learning how to block and strike!"
+"I just wanted to see how he was doing, Mira!" Kael tapped the hilt of his wooden sword with immense pride.
 
-Kael dropped into an awkward, eager combat stance. His technique was raw, but his eyes burned with resolute fire.
+Kael dropped into a combat stance. His footwork was raw, though his eyes were not.
 
-"So you don't have to worry about anything! Grandpa told me my main duty is to guard the two of you here. That violet-flamed monster will have to step over my dead body before it ever touches this room!"
+"Hey, brother," Kael called out, "you know who's sleeping outside this room tonight?"
+
+He jabbed a thumb at his own chest.
 
 Looking into the fierce devotion burning in the young hunter's eyes, the deep frost within the stranger's chest began to thaw. In his ancient memories, mortals had always regarded his presence with rigid dread or bowed submission. Yet these two children... they saw him merely as a wounded protector in need of shelter and care.
 
@@ -174,6 +176,6 @@ Beside Azariel’s cot, Mira had drifted off leaning against her wooden stool, h
 
 Azariel rose quietly from the bed. His bare feet made no sound against the wooden planks. Bending down, he lifted the wool blanket from the floor and draped it tenderly over the shoulders of the girl who had nursed him back to life.
 
-He looked at his own hands beneath the dim lamplight. Skin. Blood. A heartbeat. He pressed his palm to his chest and simply stood there, learning the rhythm.
+Azariel looked down at his own fingers. He pressed his palm against his chest.
 
-Stepping to the window, he looked out toward the distant silhouette of Pine Cliff against the stars. His brow furrowed faintly. Something lay waiting out there—beyond the trees, beyond the dark. He did not yet have the words for it. He only knew that it was cold, and that it remembered him.
+He simply stood there. Listening.

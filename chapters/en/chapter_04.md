@@ -25,7 +25,11 @@ Reclining against the hollow of those buttress roots, Azariel rested in the cool
 
 His fingers, once stiff and alien to physical form, turned the brittle parchment of a weathered leather-bound tome with practiced care—an old traveler's journal compiling personal letters and quiet musings of mortal souls contemplating longing and home. His silver-white hair, still kissed with vivid azure at every tip, remained hidden beneath a simple cowl of brown linen—a disguise urged upon him by the Village Elder so that the itinerant merchants who occasionally passed through would see him only as a quiet, adopted son of the village patriarch.
 
-As Azariel’s bare palm brushed the furrowed bark of the fig tree, a faint, unnatural tremor vibrated against his skin. The ancient tree—whose taproots plunged deep into the bedrock of the valley—seemed to be catching an alien disturbance traveling through the deep strata of the earth. A cold, ruinous pulse crept through the ancient fibers, a silent alarm of nature that resonated instantly with the quiet ember slumbering within Azariel’s chest.
+As Azariel’s bare palm brushed the furrowed bark of the fig tree, something stirred within his chest.
+
+He drew his hand back. Studied his palm for a heartbeat.
+
+Then laid it back against the wood.
 
 Azariel paused, studying the dark veins of the timber before the sound of pounding boots broke the serenity of the fields.
 
@@ -145,6 +149,8 @@ When Azariel, Kael, and Mira bade Elora farewell and stepped down the timber sta
 
 Yet the tranquil stillness of the valley afternoon was abruptly torn asunder.
 
+Across the market lane, an old woman was weighing tomatoes with painstaking care, clicking her tongue as she disputed the balance on the merchant's scale. The blacksmith's old yellow hound stood in the smithy doorway with its forepaws hopping in place, barking lazily at a passing fly.
+
 From the northern bend of the highroad, the frantic, thunderous clatter of iron hooves beaten without mercy came roaring down the incline, shattering the valley's silence. Shouts of panic and the desperate drumming of galloping mounts surged straight toward the settlement.
 
 Kael halted beneath the boughs of an ancient oak, his hand instinctively snapping to the hilt of the forged broadsword at his hip. "Warhorses? From the northern border post?"
@@ -157,7 +163,7 @@ The stench of scorched stone and dead ash, the bitter vapor of the void he remem
 
 "Clear the way!" Bran’s voice thundered across the homesteads, guiding the exhausted mounts toward the Village Elder’s compound. "Take him straight to the Elder’s house! Make haste!"
 
-Astride the foremost horse, a grizzled officer with a crooked gorget and hollow, haggard eyes—Captain Garrett—held tight to a young guardsman who slumped lifelessly against his saddle. The youth was completely limp and spent, his head swaying slackly with the violent jolts of the gallop, nearly pitching down into the dirt had Garrett’s arm not clamped firmly around him to keep him upright—his torn wool cloak eerily seeping a thin plume of freezing white vapor into the warm afternoon air.
+Astride the foremost horse, Captain Garrett lifted his gaze from the stricken youth he braced, only for a heartbeat, toward the lush canopy of the fig tree at the end of the lane. Something shifted in his weathered face in that brief instant before he barked his next command. The grizzled officer with a crooked gorget and hollow, haggard eyes held tight to a young guardsman who slumped lifelessly against his saddle. The youth was completely limp and spent, his head swaying slackly with the violent jolts of the gallop, nearly pitching down into the dirt had Garrett’s arm not clamped firmly around him to keep him upright—his torn wool cloak eerily seeping a thin plume of freezing white vapor into the warm afternoon air.
 
 "Mira!" Bran barked, spotting the young healer standing alert beside his son and Azariel by the roadside. "Open your grandfather's healing ward! We bear a dying man!"
 
