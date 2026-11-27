@@ -81,3 +81,6 @@ Dokumen ini mencatat seluruh pembaruan, penyesuaian berkas, dan refaktor struktu
 - `2026-10-07 23:20 WIB`: `[Vault Refactor & Setup]`, `[All]`, `[Restrukturisasi total naskah dan lore dari folder draf menjadi arsitektur Catatan Atomik (Zettelkasten) di dalam vault Gema Sang Utusan. Menghilangkan redundansi deskripsi berulang lintas berkas, membuat subdirektori fungsional (lore/characters, lore/worldbuilding, lore/timeline, lore/glossary, meta, chapters), mengaktifkan frontmatter YAML dan wikilinks komprehensif, serta melengkapi entitas penting seperti Tetua Desa, Elora, Sang Pencipta, Sang Malaikat Agung, dan MOC Lore.]`
 
 ---
+
+[2026-11-27 18:28]: chapters/id/chapter_08.md, various lines, Revisi teknik sastra klasik — B8-01 TOL (papan harga garam), B8-02 HEM (hapus label 'ia merasa rapuh'), B8-03 DOS (dialog duel Kael-Tobias), B8-04 KAW (tirai tanpa komentar narator).
+[2026-11-27 18:28]: Panduan.md, Section 10 baru, Tambah panduan teknik sastra klasik permanen (HEM/GAB/KAW/TOL/DOS/DIC) — 6 teknik, checklist, benchmark naskah.

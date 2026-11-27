@@ -208,4 +208,145 @@ Setiap kali asisten/editor menyelesaikan sesi penulisan, revisi naskah (`chapter
 3. **Penyampaian Status:**
    - Di akhir respons, asisten wajib mengonfirmasi hash commit atau status keterunggahan perubahan ke GitHub kepada Penulis.
 
+---
+## 10. TEKNIK SASTRA KLASIK (LITERARY TECHNIQUE GUIDE)
+
+Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah diadaptasi untuk naskah *Gema Sang Utusan*. Setiap teknik diberi **kode label** untuk kemudahan referensi saat revisi dan penulisan bab baru.
+
+> **Cara Gunakan:** Saat membuat atau merevisi adegan, pilih satu atau dua teknik yang paling sesuai dengan fungsi adegan tersebut. Jangan paksa semua teknik masuk ke satu adegan.
+
+---
+
+### HEM — Ernest Hemingway (*Iceberg Theory*)
+
+**Prinsip Inti:** Emosi terbesar tidak ditulis. Ia tersembunyi di bawah permukaan — dalam satu gestur, satu kata yang diucapkan, satu hal yang *tidak* dikatakan.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Momen konfrontasi, ancaman, atau kehilangan | Label emosi langsung: `ia merasa [emosi]`, `tubuhnya [verba emosi]` |
+| Dialog bermuatan tegangan tinggi | Monolog panjang karakter yang menjelaskan perasaannya sendiri |
+| Akhir adegan yang berdampak besar | Kalimat penutup yang bersifat abstrak/kosmis |
+
+**Teknik Konkret:**
+- Satu tindakan fisik kecil menggantikan satu paragraf emosi (tangan yang meraba pinggang kosong = kehilangan)
+- Dialog menghilangkan kata-kata, bukan menambahkan (karakter memotong kalimat di tengah, diam, atau menjawab dengan pertanyaan berbeda)
+- Gunakan detail benda — bukan perasaan (bukan *"ia berduka"* tapi *"ia menggenggam perkamen itu erat-erat"*)
+
+**Benchmark Naskah:** `"Garrett," kata Bran. Mata pisaunya tidak bergerak. "Bersumpahlah."` *(Bab 5)*
+
+---
+
+### GAB — Gabriel García Márquez (*Magical Realism — Flat-Tone Reporting*)
+
+**Prinsip Inti:** Hal-hal luar biasa dilaporkan seperti berita biasa. Tidak ada penjelas mekanisme, tidak ada kekaguman narator.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Pemurnian / manifestasi kekuatan Azariel | Kata mekanisme: `mengalirkan`, `memusatkan`, `memadat dengan cepat` |
+| Momen magis di lingkungan duniawi | Reaksi berlebihan dari narator atau karakter lain |
+| Sinyal bahaya dari alam / objek supranatural | Metafora yang menjelaskan cara kerja sihir |
+
+**Teknik Konkret:**
+- Laporkan hasil, bukan proses (`Prajurit itu berhenti menggelepar. Napasnya berubah dalam.`)
+- Objek ajaib diperlakukan sama seperti objek biasa — disebutkan tanpa penanda kagum
+- Karakter di sekitar bereaksi wajar, bukan terpukau atau panik berlebihan
+
+**Benchmark Naskah:** `Telapak tangan Azariel menyentuh luka itu. ... Abu hitam di tepi luka rontok satu per satu... Prajurit itu berhenti menggelepar.` *(Bab 5)*
+
+---
+
+### KAW — Yasunari Kawabata (*Mono no Aware — Berhenti Sebelum Puncak*)
+
+**Prinsip Inti:** Adegan berakhir *sebelum* emosi mencapai puncak. Detail kecil yang netral — bukan penilaian — menanggung berat emosi seluruh adegan.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Penutup bab atau adegan emosional | Kalimat penutup interpretatif (`sebuah rahasia purba telah terbangun...`) |
+| Momen diam setelah konflik besar | Narasi yang memberi tahu pembaca apa yang harus dirasakan |
+| Hubungan antara dua karakter yang tak terucap | Kata sifat emosi di kalimat terakhir |
+
+**Teknik Konkret:**
+- Akhiri dengan gestur netral, bukan kesimpulan (`Kael tidak menoleh.` / `lalu menarik tirai.`)
+- Objek kecil menanggung emosi besar (bara di bawah abu, tangan di atas batu cadas)
+- Diam dan gerakan minimal > kata-kata panjang
+
+**Benchmark Naskah (JANGAN DIUBAH):** Adegan Azariel menopang bara di bawah abu *(Bab 7)* — ini adalah standar baku teknik KAW di naskah ini.
+
+**Benchmark Lain:** `Hanya berdiri di sana. Mendengarkan.` *(Bab 3)* | `Kael tidak menoleh.` *(Bab 6)* | `lalu menarik tirai.` *(Bab 8)*
+
+---
+
+### TOL — Leo Tolstoy (*Dunia sebagai Karakter*)
+
+**Prinsip Inti:** Detail dunia yang tampak "tidak perlu" justru membangun konteks tematik. Aliran kesadaran karakter di momen kritis mengungkap worldview-nya.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Pembukaan adegan di lingkungan baru (kota, pasar, medan perang) | Detail yang tidak terhubung ke tema atau konflik |
+| Momen Azariel memasuki Pecahan / merasakan denyut kekuatan | Stream of consciousness yang kehilangan arah |
+| Adegan yang perlu menunjukkan dampak makro konflik ke rakyat biasa | Deskripsi pemandangan murni tanpa muatan tematik |
+
+**Teknik Konkret:**
+- Tambahkan 1–2 detail dunia yang *tidak diminta* namun mengandung implikasi besar (papan harga garam yang ditulis ulang tiga kali = dampak Korosi)
+- Aktifitas orang-orang kecil di latar belakang mencerminkan keadaan politik/ekonomi dunia
+- Aliran pikiran Azariel di momen kritis boleh panjang dan melingkar — tapi setiap kalimat harus berakhir pada satu kesimpulan karakter baru
+
+**Benchmark Naskah:** `Di depan toko rempah... 'GARAM PUTIH — PERSEDIAAN TERBATAS'... Harganya ditulis ulang tiga kali, dua angka lama masih tampak menembus cat baru.` *(Bab 8)*
+
+---
+
+### DOS — Fyodor Dostoyevsky (*Setiap Karakter Punya Keyakinan Sendiri*)
+
+**Prinsip Inti:** Setiap karakter — termasuk antagonis — memiliki logika batin yang koheren dan meyakinkan dirinya sendiri. Dialog adalah duel ideologis, bukan pertukaran informasi.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Karakter antagonis menyampaikan motif atau ancaman | Antagonis yang jahat "karena memang jahat" |
+| Dialog antara dua karakter dengan kepentingan bertentangan | Karakter setuju terlalu cepat tanpa proses dialektis |
+| Momen ketika karakter mempertanyakan worldview satu sama lain | Dialog yang hanya berfungsi menyampaikan informasi plot |
+
+**Teknik Konkret:**
+- Antagonis harus bisa *memenangkan argumen* jika pembaca hanya membaca sisinya
+- Karakter tidak sekadar membalas — mereka melawan dengan logika yang berbeda arah
+- Diam atau pergi = tanda satu pihak tidak punya jawaban, bukan kesetujuan
+- Terapkan terutama pada: **Vane, Aldric, Haldor, Tobias**
+
+**Benchmark Naskah:** Dialog Kael–Tobias *(Bab 8)*: `"Hanya berbeda dari sisi mana Anda berdiri, Tuan Tobias." / Tobias meletakkan tangannya di grendel. Ia tidak menjawab.`
+
+---
+
+### DIC — Charles Dickens (*Karakter yang Tak Terlupakan*)
+
+**Prinsip Inti:** Setiap karakter baru diperkenalkan dengan satu detail fisik atau kebiasaan yang khas — sebelum ia berbicara. Detail itu menjadi tanda pengenal sepanjang naskah.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Perkenalan karakter baru (terutama karakter Leovard) | Deskripsi fisik panjang tanpa quirk yang menempel |
+| Penutup bab yang perlu mempertahankan ketegangan | Kalimat penutup bab yang merangkum / menyimpulkan |
+| Karakter berulang yang perlu diidentifikasi cepat | Cliffhanger yang terlalu mudah diprediksi |
+
+**Teknik Konkret:**
+- Satu quirk fisik atau kebiasaan per karakter baru: cara berdiri, cara memegang benda, cara menutup sesuatu sebelum berbicara
+- Quirk ini harus organik — bukan dekorasi, tapi cerminan karakter (Elora menutup buku sebelum berjalan = orang yang menyelesaikan satu hal sebelum pindah ke berikutnya)
+- Penutup bab boleh menggantung di tengah aksi — tanpa resolusi, tanpa rangkuman
+
+**Benchmark Naskah:** `Sebelum melangkah, ia menutup buku itu lebih dulu, meski tidak ada yang memintanya.` *(Elora, Bab 6)*
+
+---
+
+### Checklist Cepat: Menulis Adegan Baru
+
+Sebelum menyelesaikan adegan, periksa daftar berikut:
+
+- [ ] **HEM:** Apakah ada label emosi langsung (`ia merasa/merasakan X`) yang bisa diganti gestur fisik?
+- [ ] **GAB:** Jika ada momen sihir/supernatural — apakah dilaporkan datar tanpa kata mekanisme?
+- [ ] **KAW:** Apakah kalimat terakhir adegan/bab bersifat netral sensorik, bukan interpretatif?
+- [ ] **TOL:** Apakah ada 1–2 detail latar yang menanggung makna tematik, bukan sekadar dekorasi?
+- [ ] **DOS:** Apakah setiap karakter di dialog punya logika yang bisa dimenangkan dari sudut pandangnya sendiri?
+- [ ] **DIC:** Jika ada karakter baru — apakah ada satu quirk fisik/kebiasaan yang diperkenalkan sebelum dialog pertamanya?
+
+---
+
+> **Catatan Penting:** Teknik-teknik ini adalah *alat*, bukan aturan mutlak. Prioritas utama tetap: konsistensi POV, organik eksposisi, dan integritas emosional karakter. Jika sebuah teknik terasa dipaksakan dalam satu adegan, abaikan dan tulis yang terasa benar.
+
 
