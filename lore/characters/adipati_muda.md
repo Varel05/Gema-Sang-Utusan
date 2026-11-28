@@ -38,7 +38,7 @@ aliases:
 
 ## 2. Situasi Politik
 
-- **Wali Takhta:** [[aldric|Patih Aldric]] berfungsi sebagai Wali Takhta (*Regent Guardian*) secara de facto — ia menandatangani keputusan resmi "atas nama Sang Adipati" selama masa ketidakcakapan hukum ini. Ini memberinya kuasa hampir tak terbatas atas mesin birokrasi kadipaten.
+- **Wali Takhta:** [[aldric|Patih Aldric Corvin]] berfungsi sebagai Wali Takhta (*Regent Guardian*) secara de facto — lahir dari pernikahan morganatik di garis kakek pihak ayah Edric yang kemudian disahkan Neraca Arbita lewat klausul statuta darurat (tidak mampu dibantah Dewan secara formal). Aldric menandatangani keputusan resmi "atas nama Sang Adipati" selama masa ketidakcakapan hukum Edric.
 - **Perlindungan Tobias:** [[tobias|Tobias]] menjabat sebagai pelindung Sang Adipati dari sisi Rumah Tangga Istana, berupaya membatasi pengaruh Aldric terhadap anak muda ini — tanpa secara terbuka melawan Aldric karena ketimpangan kekuasaan.
 - **Kerentanan Strategis:** Karena masih "terlalu belia untuk menolak meterai walinya" (seperti dikatakan Tobias di Bab 8), setiap dokumen resmi yang disahkan Aldric secara hukum mengikat Sang Adipati. Neraca Arbita menjadi salah satu jalur yang dapat memotong siklus ini — kesaksian bernama di hadapan Neraca melampaui meterai wali jika dihadiri oleh Sang Adipati sendiri.
 

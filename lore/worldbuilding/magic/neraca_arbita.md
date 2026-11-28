@@ -57,7 +57,7 @@ Rakyat Kadipaten Leovard menyebut Neraca Arbita (serta pendar cahaya pucat keper
 ## 5. Konteks Naratif
 
 - [[tobias|Tobias]] mengetahui fungsi hukum Neraca dan aturan sumpah bernama-bermeterai. Ia menggunakannya sebagai argumen strategis di Bab 8 untuk mendorong Garrett bersumpah resmi.
-- [[aldric|Patih Aldric]] memahami celah Neraca (meterai dan nama, bukan fakta) dan mengeksploitasinya melalui juru tulis berjubah kelabu yang ia kendalikan.
+- [[aldric|Patih Aldric Corvin]] memahami celah Neraca (meterai dan dokumen prosedural, bukan keadilan substantif) sejak ia sendiri memanfaatkan klausul darurat pernikahan morganatik di hadapan Neraca untuk mengukuhkan posisi Wali Takhta tanpa mampu dibantah Dewan — dan kini mengeksploitasinya lebih jauh melalui juru tulis berjubah kelabu yang ia kendalikan.
 - Neraca menjadi arena konflik di Arc Leovard: sumpah Garrett vs. manuver perkamen Aldric.
 
 ---

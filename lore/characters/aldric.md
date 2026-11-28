@@ -1,5 +1,5 @@
 ---
-title: "Profil Karakter: Aldric"
+title: "Profil Karakter: Aldric Corvin"
 type: character
 role: antagonist
 status: kanon
@@ -8,14 +8,17 @@ tags:
   - lore/karakter/antagonis
   - faksi/kadipaten
 aliases:
+  - Aldric Corvin
   - Aldric
   - Tuan Aldric
   - Patih Aldric
+  - Patih Aldric Corvin
+  - Wangsa Corvin
   - High Steward Aldric
   - Lord Steward Aldric
 ---
 
-# Profil Karakter: Patih Aldric
+# Profil Karakter: Patih Aldric Corvin
 
 > **Status:** Kanon Mutlak  
 > **Peran:** Tokoh Antagonis Regional / Patih & Wali Takhta Kadipaten Leovard  
@@ -24,10 +27,10 @@ aliases:
 ---
 
 ## 1. Identitas & Ciri Fisik
-- **Nama Lengkap:** Aldric (disapa sebagai *Patih Aldric* atau *Tuan Aldric*).
-- **Jabatan:** Patih (*High Steward / Lord Steward*) Kadipaten Leovard, merangkap Wali Takhta (*Regent Guardian*) selama Adipati belum mencapai usia hukum 16 tahun.
-- **Hubungan Darah:** Sepupu jauh dari pihak ayah Sang Adipati; kerabat yang cukup dekat untuk ditetapkan sebagai wali oleh Dewan, cukup jauh untuk tidak memiliki klaim takhta langsung.
-- **Legitimasi Kewalian:** Putusan formal Neraca Arbita atas permohonan Dewan pasca-gugurnya ayah Adipati menetapkan Aldric sebagai Wali Takhta — sebuah preseden yang kini digunakannya sebagai tameng hukum untuk setiap tindakannya.
+- **Nama Lengkap:** Aldric Corvin (disapa secara formal sebagai *Patih Aldric*; marga *Corvin* lahir dari status pernikahan morganatik leluhurnya).
+- **Jabatan:** Patih (*High Steward / Lord Steward*) Kadipaten Leovard, merangkap Wali Takhta (*Regent Guardian*) selama [[adipati_muda|Adipati Edric Arundel]] belum mencapai usia hukum 16 tahun.
+- **Hubungan Darah & Pernikahan Morganatik:** Sepupu dari pihak ayah Edric yang lahir dari **pernikahan morganatik** di garis kakek pihak ayah Edric (cabang non-utama bermarga *Corvin*). Secara adat biasa, cabang Corvin tersisih dari takhta dan hak istimewa Wangsa Arundel — memaksa Aldric meniti tangga kekuasaan sepenuhnya lewat kerja keras di bidang hukum, pajak, dan arsip Perbendaharaan.
+- **Legitimasi Kewalian & Suksesi Kedua (Opsi A + B):** Dalam statuta tua wangsa Leovard terdapat klausul darurat (*Opsi B*) yang menyatakan bahwa hak waris cabang morganatik hanya *ditangguhkan* selama garis utama Arundel masih memiliki pewaris dewasa; jika pewaris tinggal anak di bawah umur tanpa kerabat Arundel dewasa lain, garis sampingan dapat masuk sebagai pengampu darurat. Pasca-gugurnya ayah Edric di perbatasan utara, Aldric membawa klausul tertulis itu ke hadapan [[neraca_arbita|Neraca Arbita]] dengan berkas bermeterai lengkap (*Opsi A*). Karena Neraca mengesahkan dokumen yang sah di atas kertas tanpa memverifikasi keadilan adat, **Dewan saat itu tidak dapat membantahnya secara langsung** — sehingga Neraca mengukuhkan Aldric sebagai Wali Takhta sekaligus bangsawan suksesi kedua di bawah Edric. Dari putusan inilah kecurigaan rakyat terhadap penggunaan *Mata Timbang* mulai berakar.
 - **Usia:** Paruh baya (~48–52 tahun).
 - **Ciri Fisik Utama:** Bertubuh ramping dengan pembawaan kaku dan berwibawa khas birokrat tinggi. Wajah licin terawat, sorot mata dingin kalkulatif yang terbiasa menimbang segala sesuatu dari timbangan laba-rugi, serta ujung jemari yang kerap diwarnai noda tinta perkamen.
 - **Busana & Atribut:** Mengenakan jubah beludru wol halus berpotongan rapi dengan kerah bulu musang dan korset sutra bersulam benang tembaga. Selalu membawa stempel meterai lilin pribadi serta tabung perkamen bertuliskan titah hukum kadipaten.
@@ -53,7 +56,7 @@ aliases:
 
 ## 3b. Motif Cermin & Metode Khas
 
-- **Cermin Gelap Azariel:** Aldric mewakili Hukum tanpa Belas — ia memahami tatanan, prosedur, dan legitimasi lebih dari siapa pun, namun menerapkannya tanpa kapasitas empati. Ini membuatnya menjadi kontras langsung dengan apa yang akan dipulihkan oleh Pecahan #2 pada Azariel.
+- **Cermin Gelap Azariel & Ambisi yang Masuk Akal:** Aldric mewakili Hukum tanpa Belas — namun ia **bukan penjahat tanpa alasan**. Terlahir tersingkir dengan marga *Corvin* akibat selembar kontrak pernikahan morganatik, ia bekerja keras puluhan tahun membangun mesin pajak dan hukum kadipaten sementara cabang utama Arundel duduk di atas takhta karena kelahiran. Saat ancaman [[the_husks|The Husks]] dan [[kadipaten_morvath|Morvath]] mengintai, ia sungguh meyakini bahwa kekuasaan harus berada di tangan orang yang teruji mengendalikan tatanan dan prosedur — bukan di tangan anak 14 tahun. Baginya, kertas dan meterai bukan sekadar alat curang, melainkan senjata sah untuk merebut pengakuan yang selama ini diingkari oleh garis lahirnya.
 - **Metode: Kertas, Bukan Darah:** Aldric tidak menggunakan kekerasan fisik. Ia membunuh karier dan kebebasan lawannya dengan cap meterai lilin, daftar sitaan, dan sabotase panggilan sidang.
 - **Celah Neraca:** Aldric mengetahui bahwa Neraca Arbita mengesahkan nama dan meterai, bukan fakta. Ia mengeksploitasi ini dengan mengendalikan juru tulis berjubah kelabu yang membawa dokumen bermeterai resmi — sehingga catatan Neraca dapat diisi dengan kesaksian yang sesuai kepentingannya selama formalitas terpenuhi.
 - **Hubungan dengan Vane:** Persekutuan transaksional — Vane menjanjikan konsorsium ekonomi; Aldric menyediakan maklumat dan sabotase birokrasi.
