@@ -110,7 +110,7 @@ Azariel blinked slowly, overwhelmed by the torrent of boyish vitality.
 
 "I just wanted to see how he was doing, Mira!" Kael tapped the hilt of his wooden sword with immense pride.
 
-Kael dropped into a combat stance. His footwork was raw, though his eyes were not.
+Kael dropped into a combat stance. His footwork was raw, though his gaze was steady.
 
 "Hey, brother," Kael called out, "you know who's sleeping outside this room tonight?"
 

@@ -100,7 +100,7 @@ A sharp numbness rushed up Azariel’s right wrist. His skin drained of color on
 
 She added nothing else. Her fingers were already moving along his wrist.
 
-Azariel slowly withdrew his hand, concealing it beneath the folds of his linen mantle with a faint smile. "What still has the strength to grow in dead soil deserves the chance to draw breath, Mira."
+Azariel slowly withdrew his hand, concealing it beneath the folds of his linen mantle. Mira did not repeat the question she had left unasked.
 
 At the edge of the circle, Captain Garrett stared at the stone bound with three hemp knots. The officer’s jaw set hard, his gaze locked upon the twine.
 

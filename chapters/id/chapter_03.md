@@ -109,7 +109,7 @@ Pemuda itu berkedip perlahan, tersentak oleh luapan semangat anak laki-laki itu.
 
 "Aku cuma mau melihat keadaannya, Mira!" Kael menepuk gagang pedang kayunya dengan bangga.
 
-Kael memamerkan kuda-kudanya. Gerakannya masih mentah, namun sorot matanya tidak.
+Kael memamerkan kuda-kudanya. Gerakannya masih mentah, namun sorot matanya sudah mantap.
 
 "Hei, Kak," seru Kael, "kau tahu siapa yang tidur di luar bilik ini malam ini?"
 

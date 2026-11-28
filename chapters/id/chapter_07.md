@@ -98,7 +98,7 @@ Rasa kebas yang tajam seketika menjalar naik ke pergelangan tangan kanan Azariel
 
 Ia tidak menambahkan apa pun. Tangannya sudah bergerak memeriksa pergelangan itu.
 
-Azariel menarik tangannya perlahan, menyembunyikannya ke balik lipatan jubah lenannya seraya tersenyum tipis. "Sesuatu yang masih sanggup tumbuh di tanah mati layak diberi kesempatan bernapas, Mira."
+Azariel menarik tangannya perlahan, menyembunyikannya ke balik lipatan jubah lenannya. Mira tidak mengulangi pertanyaan yang tidak ia ajukan.
 
 Di tepi lingkaran, Kapten Garrett berdiri memandang batu bertali simpul tiga kali itu. Rahang perwira veteran itu mengeras, matanya terpaku pada ikatan rami tersebut.
 

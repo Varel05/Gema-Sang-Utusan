@@ -231,4 +231,4 @@ Malam itu, untuk pertama kalinya, jemarinya berhenti di tengah gerakan. Ia tidak
 
 Di luar jendela, angin malam berembus kencang melintasi atap sirap. Jauh di seberang sana, di tepi alun-alun gelap di tengah kompleks istana, sebuah titik pucat keperakan berkedip satu kali, lalu tenang kembali. Kael tidak tahu apa itu. Ia hanya tahu bahwa titik itu dingin, bahkan dari sejauh ini.
 
-Kael menatap nyala pucat itu sejenak, lalu menarik tirai.
+Kael menatap titik pucat itu sejenak, lalu menarik tirai.

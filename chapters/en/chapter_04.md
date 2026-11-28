@@ -163,7 +163,7 @@ The stench of scorched stone and dead ash, the bitter vapor of the void he remem
 
 "Clear the way!" Bran’s voice thundered across the homesteads, guiding the exhausted mounts toward the Village Elder’s compound. "Take him straight to the Elder’s house! Make haste!"
 
-Astride the foremost horse, Captain Garrett lifted his gaze from the stricken youth he braced, only for a heartbeat, toward the lush canopy of the fig tree at the end of the lane. Something shifted in his weathered face in that brief instant before he barked his next command. The grizzled officer with a crooked gorget and hollow, haggard eyes held tight to a young guardsman who slumped lifelessly against his saddle. The youth was completely limp and spent, his head swaying slackly with the violent jolts of the gallop, nearly pitching down into the dirt had Garrett’s arm not clamped firmly around him to keep him upright—his torn wool cloak eerily seeping a thin plume of freezing white vapor into the warm afternoon air.
+Astride the foremost horse, Captain Garrett held tight to a young guardsman who slumped lifelessly against his saddle, the grizzled officer's gorget crooked and his eyes hollow and haggard. The youth was completely limp and spent, his head swaying slackly with the violent jolts of the gallop, nearly pitching down into the dirt had Garrett’s arm not clamped firmly around him to keep him upright—his torn wool cloak eerily seeping a thin plume of freezing white vapor into the warm afternoon air.
 
 "Mira!" Bran barked, spotting the young healer standing alert beside his son and Azariel by the roadside. "Open your grandfather's healing ward! We bear a dying man!"
 

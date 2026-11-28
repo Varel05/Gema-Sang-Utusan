@@ -231,4 +231,4 @@ That night, for the very first time, his fingers stopped mid-motion. He did not 
 
 Outside the window, the night wind surged across the slate roofs. Far across the grounds, at the edge of the dark square in the heart of the palace complex, a pale silver point of light flickered once, then went still. Kael did not know what it was. He only knew that it was cold, even from this distance.
 
-Kael watched that pale glow for a moment, then drew the curtain.
+Kael watched that pale point for a moment, then drew the curtain.

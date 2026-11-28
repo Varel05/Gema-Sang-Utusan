@@ -160,7 +160,7 @@ Bau batu terbakar dan abu mati, aroma tajam kehampaan yang teramat ia kenali dar
 
 "Tahan kuda!" seru Bran menggelegar ke sekeliling pemukiman, memandu rombongan itu membelok ke arah kediaman Tetua Desa. "Bawa dia langsung ke rumah Tetua! Cepat!"
 
-Di atas kuda terdepan, Kapten Garrett mengangkat pandangannya dari tubuh prajurit yang ia topang, hanya sekilas, ke arah kanopi pohon ara yang rimbun di ujung jalan. Sesuatu di wajahnya berubah selama sekejap itu sebelum ia kembali berteriak perintah. Perwira berwajah tirus dengan cambang kelabu dan pelindung leher yang miring itu merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Prajurit itu tampak lunglai tak berdaya dengan kepala terayun lemas seiring derap kuda, nyaris tergelincir jatuh seandainya lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak. Dari balik kain koyak itu, mengepul uap putih tipis yang beku ke udara siang yang hangat.
+Di atas kuda terdepan, Kapten Garrett merengkuh erat tubuh seorang prajurit muda yang melorot terkulai di pelananya. Wajah perwira itu tirus dengan cambang kelabu dan pelindung leher yang miring. Prajurit itu tampak lunglai tak berdaya dengan kepala terayun lemas seiring derap kuda, nyaris tergelincir jatuh seandainya lengan Garrett tidak membopong dan mendekap jubah wolnya yang terkoyak. Dari balik kain koyak itu, mengepul uap putih tipis yang beku ke udara siang yang hangat.
 
 "Mira!" seru Bran saat melihat gadis tabib itu berdiri siaga di tepi jalan bersama putranya dan Azariel. "Buka bilik perawatan kakekmu! Kami membawa orang terluka yang sekarat!"
 

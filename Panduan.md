@@ -269,6 +269,7 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 - Akhiri dengan gestur netral, bukan kesimpulan (`Kael tidak menoleh.` / `lalu menarik tirai.`)
 - Objek kecil menanggung emosi besar (bara di bawah abu, tangan di atas batu cadas)
 - Diam dan gerakan minimal > kata-kata panjang
+- **Aturan Variasi Penutup Bab:** Jangan mengakhiri *setiap* bab dengan gestur tenang KAW agar tidak berubah menjadi kebiasaan repetitif (*tic*). Setidaknya **satu dari tiap tiga bab** harus berakhir pada **aksi yang menggantung (DIC)** atau pergeseran keadaan yang nyata
 
 **Benchmark Naskah (JANGAN DIUBAH):** Adegan Azariel menopang bara di bawah abu *(Bab 7)* — ini adalah standar baku teknik KAW di naskah ini.
 
@@ -309,7 +310,8 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 - Antagonis harus bisa *memenangkan argumen* jika pembaca hanya membaca sisinya
 - Karakter tidak sekadar membalas — mereka melawan dengan logika yang berbeda arah
 - Diam atau pergi = tanda satu pihak tidak punya jawaban, bukan kesetujuan
-- Terapkan terutama pada: **Vane, Aldric, Haldor, Tobias**
+- Terapkan terutama pada: **Vane, Aldric Corvin, Haldor, Tobias**
+- **Catatan Khusus — Patih Aldric Corvin (Bab 9+):** Kemunculan pertamanya harus menampilkan **keyakinan yang koheren**, bukan penjahat kartun. Terlahir tersingkir dari garis takhta akibat pernikahan morganatik (*Corvin*) dan meniti jabatan lewat kerja keras, ia sungguh percaya bahwa hukum, meterai, dan kompetensi birokrasi adalah satu-satunya penahan kekacauan di era *The Husks* dan ancaman *Morvath* — jauh lebih dapat dipercaya daripada menyerahkan kadipaten kepada Adipati berusia 14 tahun
 
 **Benchmark Naskah:** Dialog Kael–Tobias *(Bab 8)*: `"Hanya berbeda dari sisi mana Anda berdiri, Tuan Tobias." / Tobias berbalik menuju pintu kayu dan meletakkan tangannya di atas grendel besi. Ia tidak menjawab, hanya menoleh sedikit tanpa memandang mereka langsung.`
 
@@ -334,6 +336,22 @@ Panduan ini merangkum enam teknik sastra dari penulis klasik dunia yang telah di
 
 ---
 
+### MYT — Register Mitos & Sakral (*Monumental Vision*)
+
+**Prinsip Inti:** Teknik `HEM`, `GAB`, dan `KAW` menarik prosa ke arah kesahajaan dan penahanan diri, tetapi *Gema Sang Utusan* tetap bergenre Fantasi Epik/Mitologis. Untuk adegan yang memang **agung dan sakral**, prosa diperbolehkan memakai irama kalimat yang lebih panjang, berwibawa, dan khidmat.
+
+| Kapan Digunakan | Apa yang Dihindari |
+|---|---|
+| Visi atau mimpi kosmis (mis. mimpi Bab 3) | Memakai nada khidmat pada adegan sehari-hari atau pertempuran biasa |
+| Kemunculan Sang Malaikat Agung / gema purba | Menyelipkan jargon meta-kosmis/semi-ilmiah (*eksistensi*, *ontologis*, *partikel*) — **tetap wajib mematuhi *Mortal Sensory Realism*** |
+| Momen Pemurnian skala besar yang memang menuntut bobot mitologis | Mengulang register ini berkali-kali hingga melemahkan kontrasnya dengan realisme fana |
+
+**Batasan Wajib:**
+- Hanya digunakan pada adegan **visi, mimpi, atau penampakan sakral**, maksimal **satu kali per bab**.
+- Tetap dibangun dari citra indrawi yang dapat ditangkap manusia (cahaya, panas, gema suara, kehampaan, batu, abu), bukan abstraksi teori alam semesta.
+
+---
+
 ### Checklist Cepat: Menulis Adegan Baru
 
 Sebelum menyelesaikan adegan, periksa daftar berikut:
@@ -344,6 +362,8 @@ Sebelum menyelesaikan adegan, periksa daftar berikut:
 - [ ] **TOL:** Apakah ada 1–2 detail latar yang menanggung makna tematik, bukan sekadar dekorasi?
 - [ ] **DOS:** Apakah setiap karakter di dialog punya logika yang bisa dimenangkan dari sudut pandangnya sendiri?
 - [ ] **DIC:** Jika ada karakter baru — apakah ada satu quirk fisik/kebiasaan yang diperkenalkan sebelum dialog pertamanya?
+- [ ] **MYT (Opsional):** Jika ada visi, mimpi, atau momen sakral — apakah irama agungnya dijaga tetap berbasis citra indrawi fana (maks. 1 kali per bab)?
+- [ ] **Variasi Penutup:** Apakah penutup bab ini memberi variasi yang sehat terhadap bab-bab sebelumnya (tidak terus-menerus berakhir pada gestur diam KAW)?
 
 ---
 
