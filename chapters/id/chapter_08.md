@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bab 8: Pintu Besi Singa Bersayap"
 bab: 8
 status: draft
@@ -41,7 +41,7 @@ Sersan itu tidak bergeser satu jengkal pun. "Garda Perbatasan memang berhak meli
 
 Rahang Garrett mengeras. "Pemeriksaan wabah? Dua pasukanku tewas di tebing dan karavan garam musnah diserang monster, lalu kau menahanku dengan urusan surat jalan?"
 
-"Bukan urusanku, Tuan," sahut sersan itu tanpa menoleh dari catatannya. "Perintah ini ditandatangani Sekretaris Perbendaharaan, Tuan Aldric. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa terluar yang berpotensi membawa penyakit ke dalam tembok istana. Jika berkeberatan, silakan ajukan sanggahan ke Perbendaharaan."
+"Bukan urusanku, Tuan," sahut sersan itu tanpa menoleh dari catatannya. "Perintah ini ditandatangani Patih Aldric atas nama Perbendaharaan. Perwakilan saudagar anggur dari perbatasan baru saja menghadap dan memberi peringatan bahwa ada kekacauan liar di desa terluar yang berpotensi membawa penyakit ke dalam tembok istana. Jika berkeberatan, silakan ajukan sanggahan ke Perbendaharaan."
 
 Tangan Garrett mencengkeram tali kekang hingga kulit sarung tangannya berdecit tajam. Vane. Pria itu telah bekerja sangat cepat. Hanya butuh beberapa keping perak dan bisikan manis di telinga juru tulis istana untuk mengurung seorang kapten garda di depan pintu gerbangnya sendiri.
 
@@ -127,7 +127,7 @@ Kael menggenggam perkamen itu erat-erat, merasakan kertas yang kaku di telapak t
 
 Mira melangkah maju sedikit, suaranya teratur dan hati-hati. "Mengapa Anda membantu kami, Tuan Tobias?"
 
-"Karena Perbendaharaan sedang berusaha membungkam kapten kalian dengan jerat perkamen," sahut Tobias rendah. "Sekretaris Aldric sangat ahli menggunakan aturan usang untuk menyingkirkan siapa pun yang mengancam pengaruhnya. Aku butuh kesaksian Garrett di hadapan Yang Mulia Adipati sebelum Aldric berhasil mengunci pintu dewan."
+"Karena Perbendaharaan sedang berusaha membungkam kapten kalian dengan jerat perkamen," sahut Tobias rendah. "Patih Aldric sangat ahli menggunakan aturan usang untuk menyingkirkan siapa pun yang mengancam pengaruhnya, dan Sang Adipati masih terlalu belia untuk menolak meterai walinya. Aku butuh sumpah Garrett di atas Neraca Arbita, bernama dan bermeterai, sebelum Aldric berhasil mengunci pintu dewan. Neraca tidak mendengar suara yang tidak punya nama."
 
 "Jadi Anda membutuhkan Kapten Garrett untuk mematahkan Aldric," kata Kael. "Dan Anda membutuhkan kami untuk memastikan Garrett tidak pulang dengan tangan kosong."
 
@@ -161,7 +161,7 @@ Dunia di sekitarnya seakan meredup seketika.
 
 Getaran itu meledak melalui kulit tangannya. Bukan kilatan api putih atau kehangatan hidup seperti di Tebing Pinus, melainkan sebuah bobot yang luar biasa berat, kaku, dan membekukan. Denyutan itu merambat naik melalui pergelangan tangannya, menjalar ke bahu, lalu menghantam bara di rongga dadanya laksana hantaman palu pandai besi di atas batangan baja.
 
-Jauh di dalam kompleks benteng, merambat dari brankas pusaka di sisi timur pelataran, ada sebuah denyut yang bergerak dengan keteraturan mutlak. Sebuah kehadiran yang diam dan kaku, menolak setiap ketidaksempurnaan fana. Getaran itu merambat dari arah fondasi bangunan penyimpanan di sisi timur pelataran, menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
+Jauh di dalam kompleks benteng, dari arah timur, melewati atap pelataran dan lereng jalan-jalan kota yang menurun di baliknya, ada sebuah denyut yang bergerak dengan keteraturan mutlak. Sebuah kehadiran yang diam dan kaku, menolak setiap ketidaksempurnaan fana. Getaran itu menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
 
 Napas Azariel tertahan di tenggorokan. Otot rahangnya menegang, dan pupil matanya memancarkan pendar putih kebiruan yang tajam selama satu detik sebelum ia berhasil memejamkan mata rapat-rapat. Tangan kanannya, yang sejak malam di pos singgah terasa kebas akibat menopang tunas pinus, mendadak bergetar hebat. Rasa beku yang menusuk memutihkan ujung jemarinya.
 
@@ -177,7 +177,7 @@ Kael bergeser setengah langkah ke samping sumur, memposisikan punggungnya untuk 
 
 Azariel menarik napas panjang, menghirup udara dingin yang menusuk dada. Suaranya terdengar serak dan berat.
 
-"Ia tidak tidur, Mira," bisik Azariel seraya memandang lurus ke arah pelataran timur. "Ia dipenjara... dibelenggu dalam ruang yang terlalu sempit untuk membiarkannya bernapas."
+"Ia tidak tidur, Mira," bisik Azariel seraya memandang ke arah timur, melewati atap pelataran. "Ia dipenjara... dibelenggu dalam ruang yang terlalu sempit untuk membiarkannya bernapas."
 
 Kael melirik ke arah yang ditunjuk pandangan Azariel. "Di arah mana?"
 
@@ -185,7 +185,7 @@ Di sudut timur pelataran kastel, terpisah dari bangunan istana utama, berdiri se
 
 Kael menyipitkan mata mengamati penjagaan itu. "Bangunan itu tidak punya jendela. Empat penjaga kapak di depan pintu besi... tempat penyimpanan barang berharga istana."
 
-"Ia ada di balik batu-batu itu," bisik Azariel datar. "Di kedalaman fondasinya."
+"Arahnya ke sana," bisik Azariel datar. "Tetapi tarikannya tidak berhenti di batu-batu itu. Ia terus menuruni lereng, ke tempat yang ramai." Kael mengerutkan kening, lalu memutuskan menyimpan teka-teki itu untuk nanti.
 
 ***
 
@@ -197,7 +197,7 @@ Pintu bilik berderit pelan saat Garrett melangkah masuk. Kapten itu tampak sanga
 
 "Bagaimana di balai istana, Kapten?" tanya Kael yang berdiri di dekat celah jendela sempit.
 
-Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Aldric mengajukan sanggahan tertulis atas laporanku. Dua kursi wakil Distrik Pengrajin kosong di ruangan itu. Panggilan sidang sengaja tidak pernah dikirimkan ke tangan mereka agar Perbendaharaan bisa mengatur suara sesuka hati. Sementara itu, Vane menggelar jamuan makan malam di wisma Distrik Atas, mengalirkan anggur terbaiknya ke meja dewan dan para juru tulis. Sidang pembuktian kita baru dijadwalkan dua hari lagi."
+Garrett mengusap wajahnya yang kasar dengan kedua telapak tangan. "Sidang dewan ditunda. Patih Aldric mengajukan sanggahan tertulis atas laporanku. Dua kursi wakil Distrik Pengrajin kosong di ruangan itu. Panggilan sidang sengaja tidak pernah dikirimkan ke tangan mereka agar Perbendaharaan bisa mengatur suara sesuka hati. Sementara itu, Vane menggelar jamuan makan malam di wisma Distrik Atas, mengalirkan anggur terbaiknya ke meja dewan dan para juru tulis. Sidang pembuktian di hadapan Neraca Arbita baru dijadwalkan dua hari lagi."
 
 Mira meletakkan cangkir seduhan herba hangat di depan Garrett, lalu menatap sang kapten dengan pandangan lurus. "Dua hari tertahan di bilik ini sementara mereka memutarbalikkan fakta di ruang dewan? Apakah kita hanya akan duduk menunggu sampai pintu sidang benar-benar dikunci dari dalam?"
 
@@ -217,7 +217,7 @@ Mira duduk di tepi dipan jerami di dekat Azariel, membalut pergelangan tangan ka
 
 Kael melangkah mendekati jendela sempit tanpa kaca. Udara malam yang dingin menyapu wajahnya, membawa aroma basah lumut dan besi tua dari halaman kastel di kejauhan.
 
-Dari celah sempit itu, Kael dapat melihat atap batu benteng penyimpanan di pelataran timur yang menjulang muram di balik dinding pembatas. Bangunan itu berdiri sunyi di tengah kegelapan malam, namun tepat di atas sepasang pintu besi gandanya, sebuah lentera berkerangka besi tempa menyala dengan api kekuningan yang tak pernah padam. Dua prajurit jaga berdiri mematung di bawah cahaya lentera itu, bayangan tombak mereka memanjang di atas lantai kerikil putih.
+Dari celah sempit itu, Kael dapat melihat atap batu benteng penyimpanan di pelataran timur yang menjulang muram di balik dinding pembatas. Bangunan itu berdiri sunyi di tengah kegelapan malam, namun tepat di atas sepasang pintu besi gandanya, sebuah lentera berkerangka besi tempa menyala dengan api kekuningan yang tak pernah padam. Dua prajurit jaga berdiri mematung di bawah cahaya lentera itu, bayangan tombak mereka memanjang di atas lantai kerikil putih. Seorang juru tulis berjubah kelabu keluar sambil mendekap gulungan, meterai lilin merah menjuntai dari tali pengikatnya, lalu pintu besi itu tertutup di belakangnya.
 
 Kael menunduk menatap tangan kanannya.
 
@@ -229,6 +229,6 @@ Tangan kiri Kael perlahan turun ke pinggangnya yang kosong, mencari hulu pedang 
 
 Malam itu, untuk pertama kalinya, jemarinya berhenti di tengah gerakan. Ia tidak lagi meremas udara kosong. Perlahan, Kael membiarkan tangannya tergantung diam di sisi tubuh.
 
-Di luar jendela, angin malam berembus kencang melintasi atap sirap. Di pelataran timur yang sunyi, lentera besi di atas pintu perbendaharaan berkedip satu kali, apinya bergoyang hebat diterpa angin sebelum kembali menyala tegak, memancarkan pendar kuning yang kaku dan tak tergoyahkan di atas batu granit hitam.
+Di luar jendela, angin malam berembus kencang melintasi atap sirap. Jauh di bawah sana, di antara atap-atap alun-alun yang gelap, sebuah titik pucat keperakan berkedip satu kali, lalu tenang kembali. Kael tidak tahu apa itu. Ia hanya tahu bahwa titik itu dingin, bahkan dari sejauh ini.
 
 Kael menatap nyala api itu sejenak, lalu menarik tirai.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Profil Karakter: Tobias"
 type: character
 role: supporting
@@ -12,6 +12,8 @@ aliases:
   - Tuan Tobias
   - Kepala Pelayan Istana Leovard
   - High Steward
+  - Master Tobias
+  - Pelindung Adipati
 ---
 
 # Profil Karakter: Tobias
@@ -38,16 +40,25 @@ aliases:
 
 ---
 
+## 2b. Hubungan dengan Adipati Muda & Neraca Arbita
+
+- **Pelindung Adipati Muda:** Tobias menjabat sebagai pelindung [[adipati_muda|Sang Adipati]] dari sisi Rumah Tangga Istana. Sejak ayah Adipati gugur melawan The Husks, Tobias berupaya membatasi pengaruh [[aldric|Patih Aldric]] — tanpa secara terbuka melawan Aldric karena ketimpangan kekuasaan formal.
+- **Pengetahuan tentang Neraca Arbita:** Tobias mengetahui sejarah dan fungsi hukum [[neraca_arbita|Neraca Arbita]] — aturan sumpah bernama dan bermeterai, kekuatan kesaksian di hadapannya, dan celah yang ada. Namun ia **tidak** mengetahui hakikat kosmis Neraca sebagai wadah Pecahan Jantung Aethel.
+- **Strategi Tobias di Bab 8:** Tobias mendorong Garrett untuk bersumpah di atas Neraca Arbita — bukan karena ia curiga tentang hakikat relik itu, melainkan karena ia tahu bahwa sumpah bernama di hadapan Neraca merupakan satu-satunya instrumen hukum yang dapat memotong kekuasaan Wali Takhta Aldric jika disaksikan langsung oleh Sang Adipati.
+
 ## 3. Peran Naratif & Dinamika Relasi
-- **Persaingan Pengaruh Istana (Bab 8):** Berdiri berseberangan dengan faksi Perbendaharaan di bawah Sekretaris Aldric. Tobias tidak membantu rombongan secara cuma-cuma atas dasar kebaikan moral, melainkan karena ia **membutuhkan kesaksian militer Garrett di hadapan Sang Adipati untuk mematahkan hegemoni politik dan jerat perkamen Aldric**.
+- **Persaingan Pengaruh Istana (Bab 8):** Berdiri berseberangan dengan faksi Perbendaharaan di bawah Patih Aldric. Tobias tidak membantu rombongan secara cuma-cuma atas dasar kebaikan moral, melainkan karena ia **membutuhkan kesaksian militer Garrett di hadapan Sang Adipati untuk mematahkan hegemoni politik dan jerat perkamen Aldric**.
 - **Bantuan Dingin & Penuh Perhitungan:** 
-  - Memeriksa bilah pusaka kakek Kael di lemari sitaan gerbang dan menyerahkan selembar tanda terima sitaan bertinta hitam kepada Kael; ia dengan tegas menolak mengeluarkan atau mengembalikan pedang tersebut karena melanggar prosedur hukum formal dan akan memberi amunisi politik bagi Sekretaris Aldric untuk mendakwa mereka.
+  - Memeriksa bilah pusaka kakek Kael di lemari sitaan gerbang dan menyerahkan selembar tanda terima sitaan bertinta hitam kepada Kael; ia dengan tegas menolak mengeluarkan atau mengembalikan pedang tersebut karena melanggar prosedur hukum formal dan akan memberi amunisi politik bagi Patih Aldric untuk mendakwa mereka.
   - Membubarkan penjaga di ruang tunggu sayap samping dan membiarkan pintu halaman tengah tidak terkunci hingga lonceng tengah hari tanpa memberikan izin tertulis ("Aku tidak pernah mengatakan apa pun kepada kalian").
   - Menjamin kamar bagi Garrett dan trio di Penginapan Lentera Besi atas wewenang rumah tangga istana untuk menghindarkan mereka dari sel tahanan garnisun, dengan syarat Garrett bersiap memberikan kesaksian penuh dalam sidang dewan.
 
 ---
 
 ## Referensi Terkait
+- [[neraca_arbita|Neraca Arbita]]
+- [[adipati_muda|Adipati Muda]]
+
 - [[kadipaten_leovard|Kadipaten Leovard]]
 - [[garrett|Kapten Garrett]]
 - [[kael|Kael]]

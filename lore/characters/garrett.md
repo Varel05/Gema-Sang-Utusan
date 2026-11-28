@@ -1,4 +1,4 @@
----
+﻿---
 title: "Profil Karakter: Kapten Garrett"
 type: character
 role: supporting
@@ -68,8 +68,16 @@ aliases:
 
 ---
 
+## 7. Update Bab 8: Sidang di Hadapan Neraca Arbita
+
+- **Target Laporan:** Laporan resmi Garrett ditujukan kepada [[adipati_muda|Sang Adipati Muda]] dan majelis wali kadipaten — bukan kepada Aldric, yang justru ia laporkan.
+- **Sidang Pembuktian:** Sidang di hadapan [[neraca_arbita|Neraca Arbita]] dijadwalkan dua hari setelah Bab 8. Garrett harus bersumpah bernama dan bermeterai — ini yang didorong oleh Tobias dan yang ingin digagalkan oleh Aldric.
+- **Sumpahnya Ditimbang:** Kesaksian Garrett akan dicatat Neraca sebagai laporan militer resmi; bobotnya akan diuji terhadap sanggahan tertulis Patih Aldric di hadapan Sang Adipati.
+
 ## Referensi Terkait
 - [[kadipaten_leovard|Kadipaten Leovard]]
+- [[neraca_arbita|Neraca Arbita]]
+- [[adipati_muda|Adipati Muda]]
 - [[bran|Bran]]
 - [[the_husks|The Husks]]
 - [[desa_lembah_perbatasan|Desa Lembah Perbatasan]]

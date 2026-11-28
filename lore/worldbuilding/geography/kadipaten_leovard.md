@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geografi: Kadipaten Leovard"
 type: lore/geography
 status: kanon
@@ -28,10 +28,11 @@ aliases:
 - **Hubungan Perdagangan:** Terhubung melalui pos-pos dagang perbatasan tempat juragan [[vane|Vane]] mendistribusikan anggur fermentasi lokal dan menukar desas-desus informal dengan para pejabat cukai kota benteng Leovard.
 
 ### Struktur Kekuasaan & Lembaga Pemerintahan Kota Benteng
-- **Sang Adipati Leovard (*The Duke*):** Penguasa feodal tertinggi kadipaten; bertahta di istana utama dan menerima laporan resmi militer di balai istana.
-- **Perbendaharaan (*The Treasury*):** Dipimpin oleh Sekretaris/Kanselir [[aldric|Aldric]]. Mengendalikan regulasi dagang, surat jalan, karantina perbatasan, penyitaan senjata gerbang, dan cap meterai lilin. Memiliki ambisi kekuasaan ekonomi mutlak dan bersekutu secara transaksional dengan [[vane|Vane]] yang menjanjikan konsorsium ekonomi jika Aldric membantunya menggulingkan [[tetua_desa|Tetua Desa]].
+- **Sang Adipati Leovard (*The Duke*):** [[adipati_muda|Adipati Muda]], sekitar 14 tahun; usia dewasa hukum 16 tahun belum tercapai. Ayahnya gugur melawan The Husks di perbatasan. Bertahta secara nominal di istana utama; keputusan resmi memerlukan meterai Wali Takhta.
+- **Patih & Wali Takhta (*High Steward / Regent Guardian*):** [[aldric|Patih Aldric]], sepupu jauh ayah Adipati, ditetapkan oleh Dewan sebagai Wali Takhta. Mengendalikan regulasi dagang, surat jalan, karantina perbatasan, penyitaan senjata gerbang, dan cap meterai lilin atas nama Adipati. Bersekutu transaksional dengan [[vane|Vane]].
 - **Dewan Kadipaten (*The Council*):** Badan permusyawaratan perwakilan rakyat dan distrik kota yang bersidang di ruang dewan. Dua kursi perwakilan Distrik Pengrajin (*Artisans' District*) saat ini sengaja disabotase/dikosongkan oleh Aldric agar Perbendaharaan mendominasi keputusan. *(Catatan Penulis: Menjadi ruang terbuka untuk memunculkan tokoh dewan yang jujur di Bab 9–10)*.
 - **Rumah Tangga Istana (*Ducal Household*):** Dipimpin oleh Kepala Pelayan Istana [[tobias|Tobias]]; faksi loyalis lama yang memegang kunci-kunci fisik istana dan berseberangan secara diam-diam dengan manuver birokrasi Aldric.
+- **Balai Arbita (*Hall of Arbita*):** Bangunan publik di alun-alun tengah kota yang menampung [[neraca_arbita|Neraca Arbita]]. Terbuka untuk rakyat; menjadi arena hukum formal di luar kontrol langsung Perbendaharaan. `[USULAN: nama jalan/letak persis menunggu keputusan Penulis]`
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Profil Karakter: Aldric"
 type: character
 role: antagonist
@@ -10,9 +10,12 @@ tags:
 aliases:
   - Aldric
   - Tuan Aldric
+  - Patih Aldric
   - Sekretaris Aldric
   - Kanselir Aldric
   - Chancellor Aldric
+  - High Steward Aldric
+  - Lord Steward Aldric
 ---
 
 # Profil Karakter: Sekretaris Aldric
@@ -24,8 +27,10 @@ aliases:
 ---
 
 ## 1. Identitas & Ciri Fisik
-- **Nama Lengkap:** Aldric (sering disapa sebagai *Tuan Aldric* atau *Sekretaris Aldric*).
-- **Jabatan:** Sekretaris Perbendaharaan (*Chancellor of the Treasury*) Kadipaten Leovard.
+- **Nama Lengkap:** Aldric (disapa sebagai *Patih Aldric* atau *Tuan Aldric*; jabatan lamanya *Sekretaris Perbendaharaan* kini dipakai hanya di konteks lama).
+- **Jabatan:** Patih (*High Steward / Lord Steward*) Kadipaten Leovard, merangkap Wali Takhta (*Regent Guardian*) selama Adipati belum mencapai usia hukum 16 tahun.
+- **Hubungan Darah:** Sepupu jauh dari pihak ayah Sang Adipati; kerabat yang cukup dekat untuk ditetapkan sebagai wali oleh Dewan, cukup jauh untuk tidak memiliki klaim takhta langsung.
+- **Legitimasi Kewalian:** Putusan formal Neraca Arbita atas permohonan Dewan pasca-gugurnya ayah Adipati menetapkan Aldric sebagai Wali Takhta — sebuah preseden yang kini digunakannya sebagai tameng hukum untuk setiap tindakannya.
 - **Usia:** Paruh baya (~48–52 tahun).
 - **Ciri Fisik Utama:** Bertubuh ramping dengan pembawaan kaku dan berwibawa khas birokrat tinggi. Wajah licin terawat, sorot mata dingin kalkulatif yang terbiasa menimbang segala sesuatu dari timbangan laba-rugi, serta ujung jemari yang kerap diwarnai noda tinta perkamen.
 - **Busana & Atribut:** Mengenakan jubah beludru wol halus berpotongan rapi dengan kerah bulu musang dan korset sutra bersulam benang tembaga. Selalu membawa stempel meterai lilin pribadi serta tabung perkamen bertuliskan titah hukum kadipaten.
@@ -49,14 +54,24 @@ aliases:
 
 ---
 
+## 3b. Motif Cermin & Metode Khas
+
+- **Cermin Gelap Azariel:** Aldric mewakili Hukum tanpa Belas — ia memahami tatanan, prosedur, dan legitimasi lebih dari siapa pun, namun menerapkannya tanpa kapasitas empati. Ini membuatnya menjadi kontras langsung dengan apa yang akan dipulihkan oleh Pecahan #2 pada Azariel.
+- **Metode: Kertas, Bukan Darah:** Aldric tidak menggunakan kekerasan fisik. Ia membunuh karier dan kebebasan lawannya dengan cap meterai lilin, daftar sitaan, dan sabotase panggilan sidang.
+- **Celah Neraca:** Aldric mengetahui bahwa Neraca Arbita mengesahkan nama dan meterai, bukan fakta. Ia mengeksploitasi ini dengan mengendalikan juru tulis berjubah kelabu yang membawa dokumen bermeterai resmi — sehingga catatan Neraca dapat diisi dengan kesaksian yang sesuai kepentingannya selama formalitas terpenuhi.
+- **Hubungan dengan Vane:** Persekutuan transaksional — Vane menjanjikan konsorsium ekonomi; Aldric menyediakan maklumat dan sabotase birokrasi.
+
 ## 4. Pengetahuan Terhadap Pusaka Kerajaan (Pecahan #2)
-- **Kebutaan Spiritual:** Aldric tidak mengetahui hakikat kosmis dari Pecahan [[jantung_aethel|Jantung Aethel]] (*Echoes of Order*) yang tersimpan di brankas perbendaharaan timur.
-- **Aset Simbolis:** Baginya, relik bercahaya dingin tersebut semata-mata adalah pusaka kuno tak ternilai peninggalan wangsa pendiri dan simbol kedaulatan tatanan feodal kadipaten yang menjamin legitimasi kekuasaan perbendaharaan.
+- **Kebutaan Spiritual:** Aldric tidak mengetahui hakikat kosmis dari Pecahan [[jantung_aethel|Jantung Aethel]] (*Echoes of Order*) yang tersimpan di dalam [[neraca_arbita|Neraca Arbita]] di Balai Arbita.
+- **Aset Simbolis:** Baginya, Neraca Arbita semata-mata adalah instrumen hukum feodal kuno — simbol kedaulatan tatanan kadipaten yang justru menjadi landasan legitimasi posisinya sebagai Wali Takhta.
+- **Ironi Struktural:** Aldric memanfaatkan Neraca sebagai alat hukum, namun tidak menyadari bahwa ia sedang menjaga Pecahan kosmis yang, jika diserap, akan memulihkan tatanan sejati yang ia korupsi.
 
 ---
 
 ## Referensi Terkait
 - [[kadipaten_leovard|Kadipaten Leovard]]
+- [[neraca_arbita|Neraca Arbita]]
+- [[adipati_muda|Adipati Muda]]
 - [[vane|Vane]]
 - [[tobias|Tobias]]
 - [[garrett|Kapten Garrett]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sistem Kekuatan: Jantung Aethel (Abu Fana)"
 type: lore/magic-system
 status: kanon
@@ -49,7 +49,7 @@ aliases:
 Ketika Jantung Aethel retak saat benturan pemurnian surga di masa purba, esensinya tidak hancur menjadi debu mati, melainkan terpecah menjadi **Tujuh Gema (*The Seven Echoes*)**. Masing-masing pecahan memegang satu prinsip fundamental dari hukum eksistensi fana dan semesta:
 
 1. **Pecahan #1 — *Echoes of Humanity* (Gema Kemanusiaan):** Berada di [[tebing_pinus|Tebing Pinus]]. Memberikan raga biologis fana, detak jantung, empati, serta kemampuan membaca getaran trauma dan cinta fana (*terserap di Bab 1, aktif di Bab 5*).
-2. **Pecahan #2 — *Echoes of Order* (Gema Tatanan):** Berada di [[kadipaten_leovard|Kadipaten Leovard]]. Mewakili struktur hukum, tata kelola kemasyarakatan, dan kehormatan sumpah kesatria.
+2. **Pecahan #2 — *Echoes of Order* (Gema Tatanan):** Berada di [[neraca_arbita|Neraca Arbita]], Balai Arbita, [[kadipaten_leovard|Kadipaten Leovard]]. Mewakili struktur hukum, tata kelola kemasyarakatan, dan kehormatan sumpah kesatria. Tersimpan dalam instrumen hukum feodal yang terbuka untuk rakyat — bukan di brankas tertutup.
 3. **Pecahan #3 — *Echoes of Mortality* (Gema Kerapuhan Fana):** Berada di Pelabuhan Danau. Mewakili siklus hayat alami fana, kesembuhan, dan penerimaan atas kematian.
 4. **Pecahan #4 — *Echoes of Free Will* (Gema Kehendak Bebas):** Berada di [[kadipaten_morvath|Kadipaten Morvath]]. Melambangkan kemerdekaan jiwa manusia yang menolak belenggu tirani dan perbudakan.
 5. **Pecahan #5 — *Echoes of Memory* (Gema Ingatan):** Berada di Reruntuhan Kota Kuno. Menyimpan rekaman sejarah asli kehancuran peradaban masa lalu dan penyesalan Sang Utusan purba.
@@ -57,7 +57,33 @@ Ketika Jantung Aethel retak saat benturan pemurnian surga di masa purba, esensin
 7. **Pecahan #7 — *Echoes of Sanctuary* (Gema Suaka):** Berada di Ambang [[vivarium|Vivarium]]. Kunci pembuka batas dimensi yang mentransformasi Vivarium menjadi suaka transit kepulangan jiwa.
 
 ---
+---
+## 5. Pengaruh Budaya Pecahan (*Cultural Echoes*)
+
+Tiap pecahan tidak tersimpan dalam kekosongan — ia meresap ke dalam tradisi dan institusi masyarakat di sekitarnya, mengukir bentuk budaya yang mencerminkan prinsip kosmisnya:
+
+| Pecahan | Prinsip | Manifestasi Budaya Lokal |
+|:--------|:--------|:------------------------|
+| **#1 Gema Kemanusiaan** | Empati & Raga Fana | Ritual doa syafaat di Tebing Pinus; tradisi lisan Remnant tentang Sang Utusan |
+| **#2 Gema Tatanan** | Hukum & Sumpah | Neraca Arbita sebagai instrumen hukum feodal hidup; tradisi sidang pembobotan |
+| **#3 Gema Kerapuhan Fana** | Siklus Hayat & Kematian | Upacara penyerahan jimat warisan di hembusan napas terakhir (Pelabuhan Danau) |
+| **#4 Gema Kehendak Bebas** | Kemerdekaan Jiwa | Perlawanan bawah tanah terhadap tirani Morvath; rantai runik yang ditolak |
+| **#5 Gema Ingatan** | Sejarah & Penyesalan | Arsip reruntuhan kota kuno; koloni Husk sebagai penjaga memori yang terdistorsi |
+| **#6 Gema Ketaatan** | Doa Tanpa Pamrih | Liturgi biara Remnant; arsip doa tertua yang belum pernah dijawab |
+| **#7 Gema Suaka** | Ambang & Kepulangan | Mitos celah retakan dimensi; kisah jiwa-jiwa yang tak pernah kembali |
+
+---
+## 6. Aturan Penyerahan Diri Pecahan
+
+> **Pecahan menyerahkan diri ketika nilainya dipulihkan.**
+
+Pecahan tidak dapat diambil dengan paksa, dijarah, atau diekstraksi oleh entitas yang tidak kompatibel secara ontologis. Prinsip penyerapan:
+- **Kompatibilitas Ontologis:** Hanya raga Azariel yang dapat menyerap pecahan.
+- **Pemulihan Nilai:** Masing-masing pecahan baru menyerahkan diri ketika prinsip kosmis yang diwakilinya dipulihkan atau ditegakkan dalam konteks lokal — bukan sekadar kedekatan fisik.
+- **Implikasi Narasi Pecahan #2:** Pecahan Gema Tatanan mungkin baru akan menyerahkan diri kepada Azariel ketika tatanan sejati ditegakkan di Leovard — bukan cukup dengan menyentuh Neraca saja.
+
 ## Referensi Terkait
+- [[neraca_arbita|Neraca Arbita]]
 - [[kontras_api_kosmis|Kontras Api Kosmis]]
 - [[azariel|Azariel]]
 - [[the_envoy|Sang Utusan]]

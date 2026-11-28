@@ -1,3 +1,37 @@
+## [2026-11-28] Revisi Bab 8 Tahap 4 ID/EN + Kanon Neraca Arbita & Lore Update
+
+### Perubahan Naskah — chapters/id/chapter_08.md
+- **[2.1]** Gelar Aldric di kalimat sersan: "Sekretaris Perbendaharaan, Tuan Aldric" → "Patih Aldric atas nama Perbendaharaan"
+- **[2.2a]** Dialog Tobias (L130): tambah Sang Adipati belia + sumpah di atas Neraca Arbita bernama dan bermeterai + "Neraca tidak mendengar suara yang tidak punya nama"
+- **[2.2b]** Dialog Garrett (L200): "Sidang pembuktian" → "Sidang pembuktian di hadapan Neraca Arbita"; "Aldric" → "Patih Aldric"
+- **[2.3]** Adegan sumur (L164, L180, L188): hapus "brankas pusaka" & "fondasi bangunan penyimpanan"; ganti dengan arah tarikan timur → melewati atap → menuruni lereng ke kota; dialog Azariel "Di kedalaman fondasinya" → "Arahnya ke sana… tarikannya tidak berhenti di batu-batu itu"
+- **[2.4]** Tambah kalimat juru tulis berjubah kelabu bermeterai lilin merah setelah deskripsi Gedung Perbendaharaan (L220)
+- **[2.5]** Gambar penutup (L232): ganti "lentera perbendaharaan berkedip" → "titik pucat keperakan berkedip di alun-alun kota bawah"; penutup KAW "lalu menarik tirai" dipertahankan
+
+### Perubahan Naskah — chapters/en/chapter_08.md (Sinkronisasi EN)
+- **[2.1]** "Chancellor of the Treasury, Master Aldric" → "High Steward Aldric on behalf of the Treasury"
+- **[2.2a]** Tobias dialog: "Chancellor Aldric" → "High Steward Aldric" + His Grace too young to refuse + Scales of Arbita + "The Scales do not hear a voice that carries no name"
+- **[2.2b]** Garrett: "Aldric filed" → "High Steward Aldric filed"; + "before the Scales of Arbita"
+- **[2.3]** Vault/foundation timur → "pulsing from the east, past the rooftops"; gaze direction + Azariel dialog "In the depths of its foundation" → "That is the direction… the pull does not stop at those stones"
+- **[2.4]** Tambah clerk in grey mantle + red wax seal
+- **[2.5]** "iron lantern above the treasury doors" → "pale silver point of light among dark rooftops of the square"
+
+### Lore — File Baru
+- **lore/worldbuilding/magic/neraca_arbita.md** — Spesifikasi lengkap Neraca Arbita: fungsi, mekanisme, hubungan dengan Pecahan #2, celah (meterai/juru tulis), sebutan rakyat [USULAN: Mata Timbang]
+- **lore/characters/adipati_muda.md** — Profil sementara Adipati Muda (~14 tahun, belum usia hukum 16); nama [USULAN]; hubungan Aldric sebagai Wali Takhta; peran Tobias sebagai pelindung
+
+### Lore — File Diperbarui
+- **lore/characters/aldric.md** — Jabatan → Patih + Wali Takhta; hubungan darah; legitimasi kewalian dari Neraca; motif cermin gelap; celah Neraca; referensi Neraca Arbita & Adipati Muda
+- **lore/characters/tobias.md** — Tambah seksi Pelindung Adipati + pengetahuan Neraca; ganti semua "Sekretaris Aldric" → "Patih Aldric"
+- **lore/characters/garrett.md** — Tambah seksi sidang di hadapan Neraca Arbita; sumpah Garrett ditimbang; target laporan ke Adipati Muda dan majelis wali
+- **lore/worldbuilding/geography/kadipaten_leovard.md** — Update struktur kekuasaan (Patih + Wali Takhta); tambah Balai Arbita; hapus "brankas timur" sebagai lokasi Pecahan; ganti → Gedung Perbendaharaan (pengecoh) + Neraca di Balai Arbita (sesungguhnya)
+- **lore/worldbuilding/magic/jantung_aethel.md** — Update Pecahan #2 lokasi → Neraca Arbita/Balai Arbita; tambah Bagian 5 Pengaruh Budaya (tabel 7 pecahan) dan Bagian 6 aturan pecahan menyerahkan diri
+- **meta/shards_tracker.md** baris #2 — Lokasi → Neraca Arbita (Balai Arbita); Rintangan → bertindak di hadapan rakyat; Medali dari Dewan/Adipati Muda
+- **lore/worldbuilding/geography/kadipaten_morvath.md** — Tambah seksi Kepentingan Strategis: Balai Arbita sebagai target invasi
+- **lore/glossary/glossary.md** — Tambah: Neraca Arbita, Balai Arbita, Mata Timbang [USULAN], Patih, Wali Takhta, Sidang Pembobotan
+- **meta/outline.md** — Update baris 08 (Patih Aldric, arah tarikan Neraca, Gedung Perbendaharaan sebagai pengecoh, penutup titik keperakan) dan baris 09+ (Adipati Muda, Neraca Arbita di Balai Arbita)
+
+---
 # Catatan Perubahan Vault (Vault Changelog)
 
 Dokumen ini mencatat seluruh pembaruan, penyesuaian berkas, dan refaktor struktur kanon di dalam Obsidian Vault *Gema Sang Utusan* sesuai dengan ketentuan Bagian 6 Panduan.md.

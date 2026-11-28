@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chapter 8: The Winged Lion's Iron Gate"
 chapter: 8
 status: draft
@@ -41,7 +41,7 @@ The sergeant did not yield an inch. "The Border Guard holds right of passage, Ca
 
 Garrett's jaw locked hard. "Pestilence inspection? Two of my troopers lie dead on the cliffs and an entire salt caravan was butchered by horrors, and you dare stall me with paperwork?"
 
-"Not my affair, Captain," the sergeant replied without looking up from his parchment. "This order bears the seal of the Chancellor of the Treasury, Master Aldric. A representative of the frontier vintners had audience earlier this morning. He warned the council that lawless unrest in the outer hamlets risks bringing disease into these walls. If you take issue with the directive, lodge your complaint with the Treasury."
+"Not my affair, Captain," the sergeant replied without looking up from his parchment. "This order was signed by High Steward Aldric on behalf of the Treasury. A representative of the frontier vintners had audience earlier this morning. He warned the council that lawless unrest in the outer hamlets risks bringing disease into these walls. If you take issue with the directive, lodge your complaint with the Treasury."
 
 Garrett's fist clenched the reins until the boiled leather groaned under his grip. Vane. The man moved like poison through water. It took nothing more than a handful of silver coins and sweet promises in a clerk's ear to cage a veteran captain outside his own citadel.
 
@@ -127,7 +127,7 @@ Kael gripped the parchment tightly, feeling the stiff fiber in his palm. "Who ar
 
 Mira stepped forward a pace, her tone measured and wary. "Why are you helping us, Master Tobias?"
 
-"Because the Treasury seeks to muzzle your captain with paper snares," Tobias said quietly. "Chancellor Aldric is extraordinarily adept at using ancient protocols to purge whoever threatens his sway. I need Garrett's testimony before His Grace the Duke before Aldric succeeds in barring the council chamber."
+"Because the Treasury seeks to muzzle your captain with paper snares," Tobias said quietly. "High Steward Aldric is extraordinarily adept at using ancient protocols to purge whoever threatens his sway, and His Grace is yet too young to refuse his regent's seal. I need Garrett's sworn oath before the Scales of Arbita, named and sealed, before Aldric succeeds in barring the council chamber. The Scales do not hear a voice that carries no name."
 
 "So you need Captain Garrett to break Aldric," Kael said. "And you need us to make sure Garrett doesn't come home empty-handed."
 
@@ -161,7 +161,7 @@ The air around him seemed to go dead and hollow.
 
 The pulse surged into his flesh. It was not the white flame or the breathing warmth of Tebing Pinus, but an immense, rigid weight that chilled the blood. The vibration traveled up the bones of his wrist, into his shoulder, and struck the ember in his chest like an iron sledgehammer crashing down upon an anvil.
 
-Deep within the citadel grounds, pulsing from the ancestral treasury vault on the eastern side of the yard, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It emanated from beneath the eastern storehouse, pulling at the ember in his chest with an unyielding certainty.
+Deep within the citadel grounds, pulsing from the east, past the rooftops of the yard and the descending lanes of the city beyond, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It pulled at the ember in his chest with an unyielding certainty.
 
 His breath caught in his throat. The sinews of his jaw locked tight, and a faint sheen of pale blue light flared in his eyes before he forced his lids shut. His right hand, which had remained numb since the night at the waystation when he bolstered the pine shoots, trembled violently. A sudden frost bit into his fingertips, turning them white against the stone.
 
@@ -177,7 +177,7 @@ Kael shifted half a pace beside the well, positioning his back to shield Azariel
 
 Azariel drew a ragged breath, the cold air scraping his lungs. His voice came low and strained.
 
-"It does not sleep, Mira," he murmured, his gaze fixed across the courtyard. "It is imprisoned... bound inside a space too narrow to let it breathe."
+"It does not sleep, Mira," he murmured, his gaze fixed eastward, past the rooftops of the yard. "It is imprisoned... bound inside a space too narrow to let it breathe."
 
 Kael glanced toward the direction of Azariel's gaze. "Which way?"
 
@@ -185,7 +185,7 @@ In the eastern corner of the citadel yard, detached from the palace proper, stoo
 
 Kael narrowed his eyes, studying the fortification. "That building has no windows. Four halberdiers at the iron door... the vault where the house stores its greatest wealth."
 
-"It lies behind those stones," Azariel whispered flatly. "In the depths of its foundation."
+"That is the direction," Azariel whispered flatly. "But the pull does not stop at those stones. It continues down the slope, toward the crowded streets below." Kael frowned, then decided to hold the riddle for later.
 
 ***
 
@@ -197,7 +197,7 @@ The chamber door creaked open as Garrett stepped through. The captain looked utt
 
 "What news from the council, Captain?" Kael asked, standing near the narrow embrasure window.
 
-Garrett rubbed his rough face with both palms. "The hearing is stayed. Aldric filed a formal written objection against my report. Two chairs belonging to the Artisans' District delegates sat empty in that chamber. The summons was deliberately never delivered to their hands, allowing the Treasury to dictate the vote at will. Meanwhile, Vane feasts councilors and clerks in the High Quarter, pouring his finest vintage into their cups. Our audience is pushed back two full days."
+Garrett rubbed his rough face with both palms. "The hearing is stayed. High Steward Aldric filed a formal written objection against my report. Two chairs belonging to the Artisans' District delegates sat empty in that chamber. The summons was deliberately never delivered to their hands, allowing the Treasury to dictate the vote at will. Meanwhile, Vane feasts councilors and clerks in the High Quarter, pouring his finest vintage into their cups. Our audience before the Scales of Arbita is pushed back two full days."
 
 Mira set a steaming mug of steeped herbs before him, meeting the captain's gaze with steady resolve. "Two days confined to this room while they twist the truth in the council chamber? Are we merely to wait until the doors are bolted from the inside?"
 
@@ -217,7 +217,7 @@ Mira sat on the straw pallet beside Azariel, wrapping clean linen steeped in soo
 
 Kael walked to the narrow slit in the wall. The cold night air brushed his cheeks, smelling of damp moss and old iron from the distant yard.
 
-Through the narrow embrasure, Kael could see the squat silhouette of the eastern stone vault rising dark against the ramparts. The building stood quiet in the night, yet directly above its iron-plated doors, an iron lantern burned with an unblinking, yellow glow. Two sentries stood motionless beneath its light, their halberd blades glinting pale against the dark stone.
+Through the narrow embrasure, Kael could see the squat silhouette of the eastern stone vault rising dark against the ramparts. The building stood quiet in the night, yet directly above its iron-plated doors, an iron lantern burned with an unblinking, yellow glow. Two sentries stood motionless beneath its light, their halberd blades glinting pale against the dark stone. A clerk in a grey mantle emerged clutching a scroll, a red wax seal dangling from its cord, then the iron door swung shut behind him.
 
 Kael looked down at his right hand.
 
@@ -229,6 +229,6 @@ Kael's left hand slowly drifted down to his empty hip, searching for the hilt th
 
 That night, for the very first time, his fingers stopped mid-motion. He did not grasp at empty air. Slowly, he let his hand fall still at his side.
 
-Outside the window, the night wind surged across the slate roofs. In the silent courtyard below, the iron lantern above the treasury doors flickered once, its flame bowing hard against the gale before righting itself, burning steady, rigid, and cold against the black granite stone.
+Outside the window, the night wind surged across the slate roofs. Far below, among the dark rooftops of the square, a pale silver point of light flickered once, then went still. Kael did not know what it was. He only knew that it was cold, even from this distance.
 
 Kael watched that pale flame for a moment, then drew the curtain.

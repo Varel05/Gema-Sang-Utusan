@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geografi: Kadipaten Morvath"
 type: lore/geography
 status: kanon
@@ -50,8 +50,15 @@ aliases:
 
 ---
 
+## Kepentingan Strategis: Balai Arbita
+
+Morvath mengetahui keberadaan [[neraca_arbita|Neraca Arbita]] di Balai Arbita [[kadipaten_leovard|Kadipaten Leovard]] dari catatan sejarah dan intelijen perbatasan mereka. Dalam kalangan penguasa Morvath, Neraca dipandang sebagai peninggalan legendaris bertenaga kosmis yang belum sepenuhnya dipahami — cukup untuk memotivasi ekspedisi militer. Merebut Balai Arbita berarti menguasai instrumen legitimasi hukum feodal Leovard sekaligus (secara tidak sadar) menyita Pecahan Jantung Aethel yang ada di dalamnya.
+
+> `[USULAN]` Penguasa Morvath mungkin memiliki agen intelijen yang telah mengamati anomali cahaya keperakan dari Neraca, dan mengirimkan laporan ke ibu kota Morvath. Detail ini menunggu keputusan Penulis.
+
 ## Referensi Terkait
 - [[kadipaten_leovard|Kadipaten Leovard]]
+- [[neraca_arbita|Neraca Arbita]]
 - [[desa_lembah_perbatasan|Desa Lembah Perbatasan]]
 - [[jantung_aethel|Jantung Aethel]]
 - [[the_husks|The Husks]]
