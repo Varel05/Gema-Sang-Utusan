@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geografi: Kadipaten Leovard"
 type: lore/geography
 status: kanon
@@ -32,7 +32,7 @@ aliases:
 - **Patih & Wali Takhta (*High Steward / Regent Guardian*):** [[aldric|Patih Aldric]], sepupu jauh ayah Adipati, ditetapkan oleh Dewan sebagai Wali Takhta. Mengendalikan regulasi dagang, surat jalan, karantina perbatasan, penyitaan senjata gerbang, dan cap meterai lilin atas nama Adipati. Bersekutu transaksional dengan [[vane|Vane]].
 - **Dewan Kadipaten (*The Council*):** Badan permusyawaratan perwakilan rakyat dan distrik kota yang bersidang di ruang dewan. Dua kursi perwakilan Distrik Pengrajin (*Artisans' District*) saat ini sengaja disabotase/dikosongkan oleh Aldric agar Perbendaharaan mendominasi keputusan. *(Catatan Penulis: Menjadi ruang terbuka untuk memunculkan tokoh dewan yang jujur di Bab 9–10)*.
 - **Rumah Tangga Istana (*Ducal Household*):** Dipimpin oleh Kepala Pelayan Istana [[tobias|Tobias]]; faksi loyalis lama yang memegang kunci-kunci fisik istana dan berseberangan secara diam-diam dengan manuver birokrasi Aldric.
-- **Balai Arbita (*Hall of Arbita*):** Bangunan publik di alun-alun tengah kota yang menampung [[neraca_arbita|Neraca Arbita]]. Terbuka untuk rakyat; menjadi arena hukum formal di luar kontrol langsung Perbendaharaan. `[USULAN: nama jalan/letak persis menunggu keputusan Penulis]`
+- **Balai Arbita (*Hall of Arbita*):** Terletak di **tengah kompleks istana**, satu-satunya bangunan istana yang dapat diakses oleh kalangan selain bangsawan. Alun-alun berada tepat di depan pintu masuk balai. Menampung [[neraca_arbita|Neraca Arbita]] (disebut **Mata Timbang** oleh rakyat) dan menjadi arena sidang dewan serta hukum formal.
 
 ---
 
@@ -43,9 +43,10 @@ aliases:
 ---
 
 ## 3. Peran dalam Pengembaraan Trio
-- **Pecahan Jantung Aethel #2 (Gema Tatanan):** 
-  - **Pusaka Kerajaan di Brankas Timur:** Tersimpan di brankas penyimpanan bangunan benteng batu timur pelataran istana (dekat sumur tua segi delapan) sebagai pusaka kerajaan dan simbol tatanan kedaulatan kadipaten. Rahasia hakikat relik ini samar-samar hanya diketahui oleh kalangan Rumah Tangga Istana kuno ([[tobias|Tobias]]), sedangkan pihak Perbendaharaan menganggapnya murni sebagai pusaka bernilai tinggi pelindung legitimasi hukum.
-  - **Catatan Naratif Bab 9+:** Lokasi fisik pecahan telah terkunci secara fisik oleh Azariel di Bab 8 (di brankas pusaka sisi timur); pada Bab 9 dan seterusnya trio tidak perlu lagi mencari atau menebak keberadaan pecahan, melainkan berfokus pada strategi menembus penjagaan, audiensi Adipati, dan dinamika sidang dewan.
+- **Pecahan Jantung Aethel #2 (Gema Tatanan):**
+  - **Lokasi Sesungguhnya — [[neraca_arbita|Neraca Arbita]] di Balai Arbita:** Pecahan tersimpan langsung di dalam Neraca Arbita (*Mata Timbang*), di Balai Arbita di tengah kompleks istana (satu-satunya bangunan istana yang terbuka bagi rakyat selain bangsawan, menghadap langsung ke alun-alun). Rahasia keberadaannya sebagai "Jantung Aethel" tidak diketahui siapa pun di Leovard; [[tobias|Tobias]] dan [[adipati_muda|Sang Adipati]] hanya mengetahui sejarah serta fungsi hukumnya.
+  - **Pengecoh — Gedung Perbendaharaan di Pelataran Timur:** Bangunan benteng batu persegi tanpa jendela di sudut timur pelataran sayap samping adalah Gedung Perbendaharaan — kantor meterai, arsip, dan pusat kekuasaan kertas [[aldric|Patih Aldric]], bukan lokasi Pecahan. Tarikan yang dirasakan [[azariel|Azariel]] di Bab 8 menembus melewati bangunan ini menuju jantung kompleks istana.
+  - **Catatan Naratif Bab 9+:** Lokasi pecahan **belum** disadari trio di Bab 8; Bab 9 menyingkap identitas Neraca Arbita saat trio melihat kasus kecil yang adil di Balai Arbita. Fokus arc bergeser ke tindakan di hadapan rakyat, audiensi Adipati Muda, sumpah Garrett, dan krisis kepercayaan terhadap Mata Timbang.
 - **Rapuhnya Gencatan Senjata:** Kadipaten Leovard berada dalam situasi gencatan senjata yang sangat rapuh dengan [[kadipaten_morvath|Kadipaten Morvath]] (*Kerajaan Tetangga*). Penguasa Morvath sangat haus akan sumber daya energi dan menaruh dendam serta ambisi untuk merebut Pecahan Jantung Aethel yang dikuasai Leovard, menjadikan perang saudara antar-kadipaten berada di ambang letusan.
 
 ---

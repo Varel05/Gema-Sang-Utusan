@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sistem Kekuatan: Jantung Aethel (Abu Fana)"
 type: lore/magic-system
 status: kanon
@@ -49,7 +49,7 @@ aliases:
 Ketika Jantung Aethel retak saat benturan pemurnian surga di masa purba, esensinya tidak hancur menjadi debu mati, melainkan terpecah menjadi **Tujuh Gema (*The Seven Echoes*)**. Masing-masing pecahan memegang satu prinsip fundamental dari hukum eksistensi fana dan semesta:
 
 1. **Pecahan #1 — *Echoes of Humanity* (Gema Kemanusiaan):** Berada di [[tebing_pinus|Tebing Pinus]]. Memberikan raga biologis fana, detak jantung, empati, serta kemampuan membaca getaran trauma dan cinta fana (*terserap di Bab 1, aktif di Bab 5*).
-2. **Pecahan #2 — *Echoes of Order* (Gema Tatanan):** Berada di [[neraca_arbita|Neraca Arbita]], Balai Arbita, [[kadipaten_leovard|Kadipaten Leovard]]. Mewakili struktur hukum, tata kelola kemasyarakatan, dan kehormatan sumpah kesatria. Tersimpan dalam instrumen hukum feodal yang terbuka untuk rakyat — bukan di brankas tertutup.
+2. **Pecahan #2 — *Echoes of Order* (Gema Tatanan):** Berada di [[neraca_arbita|Neraca Arbita]] (*Mata Timbang*), di Balai Arbita yang terletak di tengah kompleks istana [[kadipaten_leovard|Kadipaten Leovard]] (menghadap langsung ke alun-alun). Mewakili struktur hukum, tata kelola kemasyarakatan, dan kehormatan sumpah kesatria. Tersimpan dalam instrumen hukum feodal yang terbuka untuk rakyat selain bangsawan.
 3. **Pecahan #3 — *Echoes of Mortality* (Gema Kerapuhan Fana):** Berada di Pelabuhan Danau. Mewakili siklus hayat alami fana, kesembuhan, dan penerimaan atas kematian.
 4. **Pecahan #4 — *Echoes of Free Will* (Gema Kehendak Bebas):** Berada di [[kadipaten_morvath|Kadipaten Morvath]]. Melambangkan kemerdekaan jiwa manusia yang menolak belenggu tirani dan perbudakan.
 5. **Pecahan #5 — *Echoes of Memory* (Gema Ingatan):** Berada di Reruntuhan Kota Kuno. Menyimpan rekaman sejarah asli kehancuran peradaban masa lalu dan penyesalan Sang Utusan purba.

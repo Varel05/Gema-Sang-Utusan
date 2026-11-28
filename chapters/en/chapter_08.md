@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 8: The Winged Lion's Iron Gate"
 chapter: 8
 status: draft
@@ -161,7 +161,7 @@ The air around him seemed to go dead and hollow.
 
 The pulse surged into his flesh. It was not the white flame or the breathing warmth of Tebing Pinus, but an immense, rigid weight that chilled the blood. The vibration traveled up the bones of his wrist, into his shoulder, and struck the ember in his chest like an iron sledgehammer crashing down upon an anvil.
 
-Deep within the citadel grounds, pulsing from the east, past the rooftops of the yard and the descending lanes of the city beyond, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It pulled at the ember in his chest with an unyielding certainty.
+Deep within the citadel grounds, pulsing from the east, past the rooftops of the yard toward the heart of the palace complex beyond, a rigid pulse beat with absolute regularity, cold, immovable, and rejecting mortal imperfection. It pulled at the ember in his chest with an unyielding certainty.
 
 His breath caught in his throat. The sinews of his jaw locked tight, and a faint sheen of pale blue light flared in his eyes before he forced his lids shut. His right hand, which had remained numb since the night at the waystation when he bolstered the pine shoots, trembled violently. A sudden frost bit into his fingertips, turning them white against the stone.
 
@@ -185,7 +185,7 @@ In the eastern corner of the citadel yard, detached from the palace proper, stoo
 
 Kael narrowed his eyes, studying the fortification. "That building has no windows. Four halberdiers at the iron door... the vault where the house stores its greatest wealth."
 
-"That is the direction," Azariel whispered flatly. "But the pull does not stop at those stones. It continues down the slope, toward the crowded streets below." Kael frowned, then decided to hold the riddle for later.
+"That is the direction," Azariel whispered flatly. "But the pull does not stop at those stones. It continues deeper beyond those walls, toward a crowded place." Kael frowned, then decided to hold the riddle for later.
 
 ***
 
@@ -229,6 +229,6 @@ Kael's left hand slowly drifted down to his empty hip, searching for the hilt th
 
 That night, for the very first time, his fingers stopped mid-motion. He did not grasp at empty air. Slowly, he let his hand fall still at his side.
 
-Outside the window, the night wind surged across the slate roofs. Far below, among the dark rooftops of the square, a pale silver point of light flickered once, then went still. Kael did not know what it was. He only knew that it was cold, even from this distance.
+Outside the window, the night wind surged across the slate roofs. Far across the grounds, at the edge of the dark square in the heart of the palace complex, a pale silver point of light flickered once, then went still. Kael did not know what it was. He only knew that it was cold, even from this distance.
 
-Kael watched that pale flame for a moment, then drew the curtain.
+Kael watched that pale glow for a moment, then drew the curtain.

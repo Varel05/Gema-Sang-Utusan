@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Glosarium & Indeks Nomenklatur Semesta"
 type: lore/glossary
 status: kanon
@@ -118,8 +118,8 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **Jejak Beku di Jalur Garam**             | Frozen Tracks upon the Salt Road             | Judul Bab 7                                      |
 | **Pintu Besi Singa Bersayap**             | Iron Gates of the Winged Lion                | Judul Bab 8                                      |
 | **Neraca Arbita**                         | Scales of Arbita / The Scales                | [[neraca_arbita\|Relik Kosmis / Instrumen Hukum]] |
-| **Balai Arbita**                          | Hall of Arbita                               | [[neraca_arbita\|Geografi / Institusi Hukum]]     |
-| **Mata Timbang** `[USULAN]`               | Weighing Eye `[USULAN]`                      | Sebutan rakyat informal untuk Neraca Arbita       |
+| **Balai Arbita**                          | Hall of Arbita                               | [[neraca_arbita\|Geografi]] — tengah kompleks istana, terbuka selain bangsawan; menghadap alun-alun |
+| **Mata Timbang**                          | Weighing Eye                                 | [[neraca_arbita\|Sebutan rakyat kadipaten]] untuk Neraca Arbita / cahayanya |
 | **Patih**                                 | High Steward / Lord Steward                  | [[aldric\|Jabatan]] — kepala pemerintahan kadipaten |
 | **Wali Takhta**                           | Regent Guardian                              | [[aldric\|Jabatan]] — wali adipati di bawah umur   |
 | **Sidang Pembobotan**                     | Weighing Session                             | [[neraca_arbita\|Proses hukum]] di hadapan Neraca  |

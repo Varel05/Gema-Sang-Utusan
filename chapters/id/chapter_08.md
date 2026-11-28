@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bab 8: Pintu Besi Singa Bersayap"
 bab: 8
 status: draft
@@ -161,7 +161,7 @@ Dunia di sekitarnya seakan meredup seketika.
 
 Getaran itu meledak melalui kulit tangannya. Bukan kilatan api putih atau kehangatan hidup seperti di Tebing Pinus, melainkan sebuah bobot yang luar biasa berat, kaku, dan membekukan. Denyutan itu merambat naik melalui pergelangan tangannya, menjalar ke bahu, lalu menghantam bara di rongga dadanya laksana hantaman palu pandai besi di atas batangan baja.
 
-Jauh di dalam kompleks benteng, dari arah timur, melewati atap pelataran dan lereng jalan-jalan kota yang menurun di baliknya, ada sebuah denyut yang bergerak dengan keteraturan mutlak. Sebuah kehadiran yang diam dan kaku, menolak setiap ketidaksempurnaan fana. Getaran itu menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
+Jauh di dalam kompleks benteng, dari arah timur, melewati atap pelataran menuju jantung kompleks istana di baliknya, ada sebuah denyut yang bergerak dengan keteraturan mutlak. Sebuah kehadiran yang diam dan kaku, menolak setiap ketidaksempurnaan fana. Getaran itu menarik bara di dadanya dengan kepastian yang tak tergoyahkan.
 
 Napas Azariel tertahan di tenggorokan. Otot rahangnya menegang, dan pupil matanya memancarkan pendar putih kebiruan yang tajam selama satu detik sebelum ia berhasil memejamkan mata rapat-rapat. Tangan kanannya, yang sejak malam di pos singgah terasa kebas akibat menopang tunas pinus, mendadak bergetar hebat. Rasa beku yang menusuk memutihkan ujung jemarinya.
 
@@ -185,7 +185,7 @@ Di sudut timur pelataran kastel, terpisah dari bangunan istana utama, berdiri se
 
 Kael menyipitkan mata mengamati penjagaan itu. "Bangunan itu tidak punya jendela. Empat penjaga kapak di depan pintu besi... tempat penyimpanan barang berharga istana."
 
-"Arahnya ke sana," bisik Azariel datar. "Tetapi tarikannya tidak berhenti di batu-batu itu. Ia terus menuruni lereng, ke tempat yang ramai." Kael mengerutkan kening, lalu memutuskan menyimpan teka-teki itu untuk nanti.
+"Arahnya ke sana," bisik Azariel datar. "Tetapi tarikannya tidak berhenti di batu-batu itu. Ia terus menembus ke balik tembok sana, ke tempat yang ramai." Kael mengerutkan kening, lalu memutuskan menyimpan teka-teki itu untuk nanti.
 
 ***
 
@@ -229,6 +229,6 @@ Tangan kiri Kael perlahan turun ke pinggangnya yang kosong, mencari hulu pedang 
 
 Malam itu, untuk pertama kalinya, jemarinya berhenti di tengah gerakan. Ia tidak lagi meremas udara kosong. Perlahan, Kael membiarkan tangannya tergantung diam di sisi tubuh.
 
-Di luar jendela, angin malam berembus kencang melintasi atap sirap. Jauh di bawah sana, di antara atap-atap alun-alun yang gelap, sebuah titik pucat keperakan berkedip satu kali, lalu tenang kembali. Kael tidak tahu apa itu. Ia hanya tahu bahwa titik itu dingin, bahkan dari sejauh ini.
+Di luar jendela, angin malam berembus kencang melintasi atap sirap. Jauh di seberang sana, di tepi alun-alun gelap di tengah kompleks istana, sebuah titik pucat keperakan berkedip satu kali, lalu tenang kembali. Kael tidak tahu apa itu. Ia hanya tahu bahwa titik itu dingin, bahkan dari sejauh ini.
 
-Kael menatap nyala api itu sejenak, lalu menarik tirai.
+Kael menatap nyala pucat itu sejenak, lalu menarik tirai.

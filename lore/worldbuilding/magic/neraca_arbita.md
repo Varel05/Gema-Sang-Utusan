@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Artefak: Neraca Arbita"
 type: lore/artifact
 status: kanon
@@ -17,15 +17,15 @@ aliases:
 
 > **Status:** Kanon Mutlak  
 > **Tipe:** Relik Kosmis / Instrumen Hukum Hidup  
-> **Lokasi:** [[balai_arbita|Balai Arbita]], alun-alun tengah kota [[kadipaten_leovard|Kadipaten Leovard]] — terbuka untuk umum
+> **Lokasi:** [[balai_arbita|Balai Arbita]], di tengah kompleks istana [[kadipaten_leovard|Kadipaten Leovard]] (satu-satunya bangunan istana yang dapat diakses selain bangsawan), dengan alun-alun berada tepat di depan pintu masuk balai
 
 ---
 
 ## 1. Wujud Fisik & Keberadaan
 
-Neraca Arbita adalah sepasang timbangan besar berlengan perunggu tua yang berdiri di atas altar batu di dalam Balai Arbita. Cahayanya pucat keperakan, berbeda dari kehangatan lentera atau bara api biasa. Dari ketinggian kota, titik cahaya itu terlihat sebagai nyala dingin di jantung alun-alun.
+Neraca Arbita adalah sepasang timbangan besar berlengan perunggu tua yang berdiri di atas altar batu di dalam Balai Arbita. Cahayanya pucat keperakan, berbeda dari kehangatan lentera atau bara api biasa. Dari titik pandang tinggi di lingkar benteng, titik cahaya itu terlihat sebagai nyala dingin di tepi alun-alun tengah kompleks istana.
 
-> [!NOTE] Lokasi fisik persis Balai Arbita di tata kota Leovard masih menjadi keputusan Penulis; sementara ini diletakkan di alun-alun tengah, terbuka, dapat diakses oleh rakyat.
+> [!NOTE] Balai Arbita merupakan satu-satunya bangunan di dalam kompleks istana yang terbuka bagi kalangan selain bangsawan. Pintu masuknya menghadap langsung ke alun-alun.
 
 ---
 
@@ -42,7 +42,7 @@ Neraca Arbita adalah sepasang timbangan besar berlengan perunggu tua yang berdir
 
 Neraca Arbita adalah wadah fisik Pecahan #2 — *Echoes of Order* (Gema Tatanan) dari [[jantung_aethel|Jantung Aethel]]. Hal ini **tidak diketahui oleh siapa pun** di dalam Kadipaten Leovard saat ini, termasuk [[tobias|Tobias]] (yang mengetahui fungsi dan sejarahnya, tetapi bukan hakikat kosmisnya) dan [[aldric|Patih Aldric]] (yang menganggapnya relik hukum feodal).
 
-Denyutan yang dirasakan [[azariel|Azariel]] di Bab 8 menunjuk ke arah timur, melewati atap pelataran dan menuruni lereng ke kota — ke arah Neraca di Balai Arbita — bukan ke Gedung Perbendaharaan di pelataran istana.
+Denyutan yang dirasakan [[azariel|Azariel]] di Bab 8 menunjuk ke arah timur, melewati atap pelataran sayap barat menembus ke jantung kompleks istana — ke arah Neraca di Balai Arbita — bukan ke Gedung Perbendaharaan di sudut timur pelataran.
 
 > [!IMPORTANT] Pembaca Bab 8 dapat merasakan ironi ini sebelum tokoh-tokohnya menyadarinya. Bab 9 mengungkap identitas Neraca kepada trio secara eksplisit.
 
@@ -50,7 +50,7 @@ Denyutan yang dirasakan [[azariel|Azariel]] di Bab 8 menunjuk ke arah timur, mel
 
 ## 4. Sebutan Rakyat
 
-> `[USULAN PENULIS]` Rakyat Leovard menyebut Neraca Arbita sebagai **"Mata Timbang"** (*Weighing Eye*) dalam percakapan sehari-hari. Ini adalah sebutan informal, bukan nama resmi. Keputusan kanon mengenai sebutan ini menunggu konfirmasi Penulis.
+Rakyat Kadipaten Leovard menyebut Neraca Arbita (serta pendar cahaya pucat keperakan pada porosnya) sebagai **"Mata Timbang"** (*Weighing Eye*) dalam percakapan sehari-hari.
 
 ---
 

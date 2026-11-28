@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geografi: Kadipaten Morvath"
 type: lore/geography
 status: kanon
@@ -32,7 +32,7 @@ aliases:
 
 ## 2. Krisis Gencatan Senjata & Perburuan Jantung Aethel
 - **Gencatan Senjata yang Rapuh:** Kadipaten Morvath dan Kadipaten Leovard terikat dalam perjanjian gencatan senjata yang sangat rapuh. Hubungan diplomatik kedua belah pihak dipenuhi ketegangan akibat gesekan patroli pengintai di jalur lintasan rimba.
-- **Ambisi Sumber Daya Jantung Aethel:** Alasan utama goyahnya gencatan senjata adalah kehausan Morvath akan sumber daya energi superior. Pihak penguasa Morvath mengetahui bahwa Kadipaten Leovard menguasai salah satu peninggalan legendaris berdaya tinggi, yaitu **Pecahan [[jantung_aethel|Jantung Aethel]] #2** yang tersimpan di brankas perbendaharaan Leovard.
+- **Ambisi Sumber Daya Jantung Aethel:** Alasan utama goyahnya gencatan senjata adalah kehausan Morvath akan sumber daya energi superior. Pihak penguasa Morvath mengetahui bahwa Kadipaten Leovard menguasai salah satu peninggalan legendaris berdaya tinggi, yaitu **Pecahan [[jantung_aethel|Jantung Aethel]] #2** yang bersemayam di dalam [[neraca_arbita|Neraca Arbita]] di Balai Arbita, tengah kompleks istana Leovard.
 - **Nafsu Dominasi Adipati Morvath:** Sang Adipati tiran di Morvath memandang energi Jantung Aethel sebagai kunci mutlak untuk mendominasi benua dan memperkuat mesin perangnya. Ancaman invasi Morvath ke Leovard untuk merebut pecahan tersebut tinggal menunggu waktu, dengan desa Mira sebagai wilayah pertama yang akan tergilas roda perang.
 
 ---
@@ -52,7 +52,7 @@ aliases:
 
 ## Kepentingan Strategis: Balai Arbita
 
-Morvath mengetahui keberadaan [[neraca_arbita|Neraca Arbita]] di Balai Arbita [[kadipaten_leovard|Kadipaten Leovard]] dari catatan sejarah dan intelijen perbatasan mereka. Dalam kalangan penguasa Morvath, Neraca dipandang sebagai peninggalan legendaris bertenaga kosmis yang belum sepenuhnya dipahami — cukup untuk memotivasi ekspedisi militer. Merebut Balai Arbita berarti menguasai instrumen legitimasi hukum feodal Leovard sekaligus (secara tidak sadar) menyita Pecahan Jantung Aethel yang ada di dalamnya.
+Morvath mengetahui keberadaan [[neraca_arbita|Neraca Arbita]] (*Mata Timbang*) di Balai Arbita — bangunan di tengah kompleks istana [[kadipaten_leovard|Kadipaten Leovard]] yang menghadap alun-alun — dari catatan sejarah dan intelijen perbatasan mereka. Dalam kalangan penguasa Morvath, Neraca dipandang sebagai peninggalan legendaris bertenaga kosmis yang belum sepenuhnya dipahami — cukup untuk memotivasi ekspedisi militer. Merebut Balai Arbita berarti menguasai instrumen legitimasi hukum feodal Leovard sekaligus (secara tidak sadar) menyita Pecahan Jantung Aethel yang ada di dalamnya.
 
 > `[USULAN]` Penguasa Morvath mungkin memiliki agen intelijen yang telah mengamati anomali cahaya keperakan dari Neraca, dan mengirimkan laporan ke ibu kota Morvath. Detail ini menunggu keputusan Penulis.
 

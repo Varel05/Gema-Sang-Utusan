@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Profil Karakter: Aldric"
 type: character
 role: antagonist
@@ -11,23 +11,20 @@ aliases:
   - Aldric
   - Tuan Aldric
   - Patih Aldric
-  - Sekretaris Aldric
-  - Kanselir Aldric
-  - Chancellor Aldric
   - High Steward Aldric
   - Lord Steward Aldric
 ---
 
-# Profil Karakter: Sekretaris Aldric
+# Profil Karakter: Patih Aldric
 
 > **Status:** Kanon Mutlak  
-> **Peran:** Tokoh Antagonis Regional / Sekretaris Perbendaharaan Kadipaten Leovard  
+> **Peran:** Tokoh Antagonis Regional / Patih & Wali Takhta Kadipaten Leovard  
 > **Faksi / Afiliasi:** [[kadipaten_leovard|Kadipaten Leovard]] — Perbendaharaan (*The Treasury*)
 
 ---
 
 ## 1. Identitas & Ciri Fisik
-- **Nama Lengkap:** Aldric (disapa sebagai *Patih Aldric* atau *Tuan Aldric*; jabatan lamanya *Sekretaris Perbendaharaan* kini dipakai hanya di konteks lama).
+- **Nama Lengkap:** Aldric (disapa sebagai *Patih Aldric* atau *Tuan Aldric*).
 - **Jabatan:** Patih (*High Steward / Lord Steward*) Kadipaten Leovard, merangkap Wali Takhta (*Regent Guardian*) selama Adipati belum mencapai usia hukum 16 tahun.
 - **Hubungan Darah:** Sepupu jauh dari pihak ayah Sang Adipati; kerabat yang cukup dekat untuk ditetapkan sebagai wali oleh Dewan, cukup jauh untuk tidak memiliki klaim takhta langsung.
 - **Legitimasi Kewalian:** Putusan formal Neraca Arbita atas permohonan Dewan pasca-gugurnya ayah Adipati menetapkan Aldric sebagai Wali Takhta — sebuah preseden yang kini digunakannya sebagai tameng hukum untuk setiap tindakannya.
