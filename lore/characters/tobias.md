@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Profil Karakter: Tobias"
 type: character
 role: supporting
@@ -42,7 +42,7 @@ aliases:
 
 ## 2b. Hubungan dengan Adipati Muda & Neraca Arbita
 
-- **Pelindung Adipati Muda:** Tobias menjabat sebagai pelindung [[adipati_muda|Sang Adipati]] dari sisi Rumah Tangga Istana. Sejak ayah Adipati gugur melawan The Husks, Tobias berupaya membatasi pengaruh [[aldric|Patih Aldric]] — tanpa secara terbuka melawan Aldric karena ketimpangan kekuasaan formal.
+- **Pelindung Adipati Muda:** Tobias menjabat sebagai pelindung [[adipati_muda|Adipati Edric Arundel]] dari sisi Rumah Tangga Istana. Sejak ayah Adipati gugur melawan The Husks, Tobias berupaya membatasi pengaruh [[aldric|Patih Aldric]] — tanpa secara terbuka melawan Aldric karena ketimpangan kekuasaan formal.
 - **Pengetahuan tentang Neraca Arbita:** Tobias mengetahui sejarah dan fungsi hukum [[neraca_arbita|Neraca Arbita]] — aturan sumpah bernama dan bermeterai, kekuatan kesaksian di hadapannya, dan celah yang ada. Namun ia **tidak** mengetahui hakikat kosmis Neraca sebagai wadah Pecahan Jantung Aethel.
 - **Strategi Tobias di Bab 8:** Tobias mendorong Garrett untuk bersumpah di atas Neraca Arbita — bukan karena ia curiga tentang hakikat relik itu, melainkan karena ia tahu bahwa sumpah bernama di hadapan Neraca merupakan satu-satunya instrumen hukum yang dapat memotong kekuasaan Wali Takhta Aldric jika disaksikan langsung oleh Sang Adipati.
 
@@ -57,7 +57,7 @@ aliases:
 
 ## Referensi Terkait
 - [[neraca_arbita|Neraca Arbita]]
-- [[adipati_muda|Adipati Muda]]
+- [[adipati_muda|Edric Arundel (Adipati Muda)]]
 
 - [[kadipaten_leovard|Kadipaten Leovard]]
 - [[garrett|Kapten Garrett]]

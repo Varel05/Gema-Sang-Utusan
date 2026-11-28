@@ -68,7 +68,7 @@ aliases:
 ## Referensi Terkait
 - [[kadipaten_leovard|Kadipaten Leovard]]
 - [[neraca_arbita|Neraca Arbita]]
-- [[adipati_muda|Adipati Muda]]
+- [[adipati_muda|Edric Arundel (Adipati Muda)]]
 - [[vane|Vane]]
 - [[tobias|Tobias]]
 - [[garrett|Kapten Garrett]]

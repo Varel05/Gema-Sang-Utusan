@@ -1,5 +1,5 @@
-﻿---
-title: "Profil Karakter: Adipati Muda (Sang Adipati Leovard)"
+---
+title: "Profil Karakter: Edric Arundel (Adipati Muda Leovard)"
 type: character
 role: supporting
 status: kanon-sementara
@@ -8,15 +8,20 @@ tags:
   - lore/karakter/pendukung
   - faksi/kadipaten
 aliases:
+  - Edric Arundel
+  - Edric
+  - Adipati Edric
+  - Duke Edric
+  - Duke Edric Arundel
   - Adipati Muda
   - Sang Adipati
   - His Grace
   - The Young Duke
 ---
 
-# Profil Karakter: Adipati Muda (Sang Adipati Leovard)
+# Profil Karakter: Edric Arundel (Adipati Muda Leovard)
 
-> **Status:** Kanon Sementara — detail bernama dan latar belakang menunggu keputusan Penulis  
+> **Status:** Kanon (Identitas & Kedudukan Resmi; detail nasib pasca-Arc Leovard masih menunggu konfirmasi Penulis)  
 > **Peran:** Tokoh Pendukung / Figur Sah Pemegang Takhta Kadipaten Leovard  
 > **Faksi / Afiliasi:** [[kadipaten_leovard|Kadipaten Leovard]] — Takhta Adipati
 
@@ -24,8 +29,8 @@ aliases:
 
 ## 1. Identitas & Ciri Fisik
 
-- **Nama:** `[USULAN PENULIS]` Nama resmi belum ditetapkan. Penulis memegang keputusan ini sepenuhnya.
-- **Jabatan:** Adipati Leovard (*Duke of Leovard*) — penguasa feodal tertinggi kadipaten secara hukum.
+- **Nama Lengkap:** Edric Arundel (dari **Wangsa Arundel**).
+- **Gelar & Jabatan:** Adipati Leovard (*Duke of Leovard*) — penguasa feodal tertinggi kadipaten secara hukum.
 - **Usia:** Sekitar 14 tahun. Usia dewasa hukum di Kadipaten Leovard adalah 16 tahun; ia belum melewati ambang itu, sehingga secara hukum masih memerlukan persetujuan Wali Takhta untuk keputusan resmi.
 - **Status Keluarga:** Ayahnya gugur melawan serangan [[the_husks|The Husks]] di perbatasan — bukan dibunuh oleh Aldric. Hal ini meninggalkan takhta kepada anak yang belum cukup umur.
 

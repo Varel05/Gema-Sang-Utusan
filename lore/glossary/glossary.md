@@ -29,6 +29,9 @@ Dokumen ini memuat daftar istilah resmi, etimologi, dan rujukan cepat in-univers
 | **Tetua Desa**                            | Kakek Mira; figur spiritual The Remnant dan pelindung rahasia Azariel di lembah.                            | [[tetua_desa\|Tetua Desa]]                   |
 | **Vane**                                  | Juragan kebun anggur kaya yang angkuh; rival politik lokal keluarga Tetua.                                  | [[vane\|Vane]]                               |
 | **Garrett** (*Kapten Garrett*)            | Kepala prajurit Kadipaten Leovard; rekan seperjuangan Bran pembawa kabar teror The Husks.                   | [[garrett\|Garrett]]                         |
+| **Edric Arundel** (*Adipati Muda*)        | Adipati sah Kadipaten Leovard (~14 tahun) dari Wangsa Arundel; masih berada di bawah perwalian Patih Aldric. | [[adipati_muda\|Edric Arundel]]               |
+| **Tobias**                                | Kepala Pelayan Istana Leovard (*High Steward*) sekaligus pelindung Adipati Edric Arundel dari Rumah Tangga. | [[tobias\|Tobias]]                           |
+| **Aldric** (*Patih Aldric*)               | Patih & Wali Takhta Kadipaten Leovard; sepupu jauh ayah Edric sekaligus kepala Perbendaharaan.             | [[aldric\|Patih Aldric]]                     |
 | **Sang Utusan** (*The Envoy*)             | Entitas kosmis ciptaan dari Hukum Aethelgard; penjaga segel suaka di Vivarium.                              | [[the_envoy\|Sang Utusan]]                   |
 | **Sang Malaikat Agung** (*The Archangel*) | Satu sosok spiritual murni tertinggi dari Cahaya; eksekutor Pemurnian Pertama.                              | [[sang_malaikat_agung\|Sang Malaikat Agung]] |
 | **Sang Pencipta** (*The Creator*)         | Tuhan Yang Maha Esa; sumber dari segala eksistensi dan hukum semesta.                                       | [[sang_pencipta\|Sang Pencipta]]             |
@@ -123,6 +126,7 @@ Tabel berikut menjadi rujukan kanon tunggal (*Single Source of Truth*) untuk pen
 | **Patih**                                 | High Steward / Lord Steward                  | [[aldric\|Jabatan]] — kepala pemerintahan kadipaten |
 | **Wali Takhta**                           | Regent Guardian                              | [[aldric\|Jabatan]] — wali adipati di bawah umur   |
 | **Sidang Pembobotan**                     | Weighing Session                             | [[neraca_arbita\|Proses hukum]] di hadapan Neraca  |
+| **Edric Arundel (Wangsa Arundel)**        | Edric Arundel (House of Arundel)             | [[adipati_muda\|Adipati Muda Leovard]]            |
 
 ---
 
